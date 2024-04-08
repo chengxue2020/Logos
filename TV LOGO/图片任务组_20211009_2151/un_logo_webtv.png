@@ -1,0 +1,2309 @@
+
+
+
+
+
+  
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/en/webtv" />
+<link rel="shortlink" href="/en/node/20103" />
+<link rel="shortcut icon" href="https://media.un.org/sites/all/themes/custom/glimps_un_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="title" content="UN Web TV" />
+<meta name="og:title" content="UN Web TV" />
+<meta name="author" content="United Nations" />
+<meta name="og:type" content="movie" />
+<meta name="og:url" content="https://media.un.org/webtv" />
+<meta name="og:updated_time" content="2021-09-13T08:09:18" />
+<meta name="og:site_name" content="Media" />
+<meta name="publisher" content="United Nations" />
+<meta name="rights" content="COPYRIGHTS &amp;copy; UNITED NATIONS" />
+<meta name="og:site_name" content="UN Web TV" />
+<meta name="twitter:creator" content="@UNWebTV" />
+<meta name="twitter:card" content="summary_large_image" />
+  <title>UN Web TV</title>
+  <style>
+@import url("https://media.un.org/modules/system/system.base.css?qzef2k");
+</style>
+<style>
+@import url("https://media.un.org/modules/field/theme/field.css?qzef2k");
+@import url("https://media.un.org/modules/node/node.css?qzef2k");
+@import url("https://media.un.org/sites/all/modules/views/css/views.css?qzef2k");
+</style>
+<style>
+@import url("https://media.un.org/sites/all/modules/ctools/css/ctools.css?qzef2k");
+@import url("https://media.un.org/sites/all/modules/formtips/formtips.css?qzef2k");
+@import url("https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/css/slick.css?qzef2k");
+</style>
+<style>
+@import url("https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/css/custom.css?qzef2k");
+@import url("https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/fontawesome/css/all.min.css?qzef2k");
+</style>
+<style>
+@import url("https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/css/album.css?qzef2k");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="//code.jquery.com/jquery-2.1.4.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.js'>\x3C/script>")</script>
+<script>jQuery.migrateMute=false;jQuery.migrateTrace=true;</script>
+<script src="//code.jquery.com/jquery-migrate-1.4.1.js"></script>
+<script>window.jQuery && window.jQuery.migrateWarnings || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery-migrate/1/jquery-migrate.js'>\x3C/script>")</script>
+<script src="https://media.un.org/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://media.un.org/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://media.un.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://media.un.org/misc/drupal.js?qzef2k"></script>
+<script src="https://media.un.org/sites/all/modules/formtips/hoverintent.minified.js?qzef2k"></script>
+<script src="https://media.un.org/sites/all/modules/formtips/formtips.js?qzef2k"></script>
+<script src="https://media.un.org/sites/all/themes/custom/glimps_un_theme/bootstrap/js/bootstrap.bundle.min.js?qzef2k"></script>
+<script src="https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/js/menu.js?qzef2k"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"glimps_un_theme","theme_token":"lx6G7cS1OpIyi6MdnvytmlryEta-nxmjza9ju1CgNBw","js":{"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-4S8P38V3DB":1,"0":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/js\/slick.min.js":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/js\/moment.min.js":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/js\/moment-timezone-with-data.min.js":1,"1":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/js\/webtv.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/code.jquery.com\/jquery-2.1.4.js":1,"2":1,"3":1,"\/\/code.jquery.com\/jquery-migrate-1.4.1.js":1,"4":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/formtips\/hoverintent.minified.js":1,"sites\/all\/modules\/formtips\/formtips.js":1,"sites\/all\/themes\/custom\/glimps_un_theme\/bootstrap\/js\/bootstrap.bundle.min.js":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/js\/menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/formtips\/formtips.css":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/css\/slick.css":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/css\/custom.css":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/fontawesome\/css\/all.min.css":1,"sites\/all\/themes\/custom\/glimps_un_theme\/assets\/css\/album.css":1}},"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"hover"},"glimps_un_theme":{"kaltura_id":"1_gb6tjmle","timezone":"America\/New_York"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-20103 node-type-landing-page i18n-en has-video-top">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header data-pgc="un3-glimps-header">
+  <div class="page-loader"></div>
+  <div class="container-fluid brandbar-header fixed-top d-none d-sm-block">
+    <div class="container p-0 pl-sm-3 pr-sm-3">
+      <div class="row">
+        <div class="col-8 col-sm-4">
+          <a class="navbar-brand" href="https://www.un.org/en"><i class="fa fa-home"></i> Welcome to the United Nations</a>
+        </div>
+        <div class="col-4 col-sm-8 d-flex justify-content-end">
+          <ul class="nav">
+            <li class="nav-item dropdown d-block d-sm-none">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Languages&nbsp;</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/en/webtv">English</a>
+              </div>
+            </li>
+            <li class="nav-item d-none d-sm-block  active">
+              <a class="nav-link" href="/en/webtv">English</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="navbar navbar-dark">
+    <div class="container">
+      <div class="navbar-header row align-items-center w-100x">
+        <div class="col-sm-6 col-sm-6 col-md-8 col-lg-9 d-flex align-items-center">
+                      <a class="logo navbar-btn pull-left flip" href="/en" title="Media - Live Video and On-Demand">
+            </a>
+                    <a class="navbar-brand pull-left flip" href="/en" title="Media - Live Video and On-Demand">UN Web TV</a>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3 col-xs-12 mt-2 d-sm-flex justify-content-end align-items-center">
+          <form action="/en/search/">
+            <div class="input-group">
+              <span class="input-group-prepend">
+                <button class="input-group-text" type="submit">
+                  <i class="bi-search"></i>
+                </button>
+              </span>
+              <input type="search" name="q" class="form-control" placeholder="Search UN Media" aria-label="search" aria-describedby="basic-addon1">
+            </div>
+          </form>
+        </div>
+      </div>
+                        <div class="menu-container"><div class="menu"><ul class="nav bg-dark w-100"><li class="first expanded active nav-item"><a href="/en" title="" data-target="#" target="_blank" class="nav-link active">Categories</a><ul class="unm-dropdown-menu d-none"><li><a href="/en/search/categories/media" title="Media" data-target="#" class="nav-link">Media</a><ul class=""><li class="first leaf nav-item"><a href="/en/search/categories/media/media-stakeouts" title="Media Stakeouts" class="nav-link">Media Stakeouts</a></li>
+<li class="last leaf nav-item"><a href="/en/search/categories/media/press-conferences" title="Press Conferences" class="nav-link">Press Conferences</a></li>
+</ul></li>
+<li><a href="/en/search/categories/meetings-events" title="Meetings &amp; Events" data-target="#" class="nav-link">Meetings &amp; Events</a><ul class=""><li class="first leaf nav-item"><a href="/en/search/categories/meetings-events/concerts" title="Concerts" class="nav-link">Concerts</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/meetings-events/conferences" title="Conferences" class="nav-link">Conferences</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/meetings-events/economic-and-social-council" title="Economic and Social Council" class="nav-link">Economic and Social Council</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/meetings-events/general-assembly" title="General Assembly" class="nav-link">General Assembly</a></li>
+<li class="leaf nav-item"><a href="/en/search/categories/meetings-events/high-level-events" title="High Level Events" class="nav-link">High Level Events</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/meetings-events/human-rights-council" title="Human Rights Council" class="nav-link">Human Rights Council</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/meetings-events/human-rights-treaty-bodies" title="Human Rights Treaty Bodies" class="nav-link">Human Rights Treaty Bodies</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/meetings-events/international-court-justice" title="International Court of Justice" class="nav-link">International Court of Justice</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/meetings-events/security-council" title="Security Council" class="nav-link">Security Council</a></li>
+<li class="leaf nav-item"><a href="/en/search/categories/meetings-events/side-events" title="Side Events" class="nav-link">Side Events</a></li>
+<li class="last leaf nav-item"><a href="/en/search/categories/meetings-events/trusteeship-council" title="Trusteeship Council" class="nav-link">Trusteeship Council</a></li>
+</ul></li>
+<li><a href="/en/search/categories/news-features" title="News &amp; Features" data-target="#" class="nav-link">News &amp; Features</a><ul class=""><li class="first collapsed nav-item"><a href="/en/search/categories/news-features/audiovisual-library-international-law-avl" title="Audiovisual Library of International Law (AVL)" class="nav-link">Audiovisual Library of International Law</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/news-features/features" title="Features" class="nav-link">Features</a></li>
+<li class="leaf nav-item"><a href="/en/search/categories/news-features/hungry-planet-series-ifad" title="Hungry Planet Series (IFAD)" class="nav-link">Hungry Planet Series (IFAD)</a></li>
+<li class="leaf nav-item"><a href="/en/search/categories/news-features/interviews" title="Interviews" class="nav-link">Interviews</a></li>
+<li class="leaf nav-item"><a href="/en/search/categories/news-features/messages" title="Messages" class="nav-link">Messages</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/news-features/news-stories" title="News Stories" class="nav-link">News Stories</a></li>
+<li class="last collapsed nav-item"><a href="/en/search/categories/news-features/un-dag-hammarskj%C3%B6ld-library" title="UN Dag Hammarskjöld Library" class="nav-link">UN Dag Hammarskjöld Library</a></li>
+</ul></li>
+<li><a href="/en/search/categories/un-officials" title="UN Officials" data-target="#" class="nav-link">UN Officials</a><ul class=""><li class="first leaf nav-item"><a href="/en/search/categories/un-officials/deputy-secretary-general" title="Deputy Secretary-General" class="nav-link">Deputy Secretary-General</a></li>
+<li class="collapsed nav-item"><a href="/en/search/categories/un-officials/secretary-general" title="Secretary-General" class="nav-link">Secretary-General</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf active-trail active nav-item"><a href="/en/webtv" title="" class="active-trail nav-link active">UN Web TV</a></li>
+<li class="leaf nav-item"><a href="/en/webtv/schedule" title="" class="nav-link">Live Schedule</a></li>
+<li class="leaf nav-item"><a href="https://www.unmultimedia.org/avlibrary" title="" target="_blank" class="nav-link">UN Audiovisual Library</a></li>
+<li class="leaf nav-item"><a href="https://dam.media.un.org" title="" target="_blank" class="nav-link">UN Photo</a></li>
+<li class="last leaf nav-item"><a href="/en/about-us#webtv" title="" class="nav-link">About Us</a></li>
+</ul></div></div>              
+                <div class="region region-mobile-menu">
+    <section id="block-block-17" class="block block-block clearfix">
+
+      
+  <!-- UN Mobile Bottom Navigation Tab Bar --><ul class="nav navbar-mobile w-100 d-flex d-md-none flex-row justify-content-around align-content-center fixed-bottom"><li class="nav-item active"><a class="nav-link" href="/en/search/categories"><img src="/sites/all/themes/custom/glimps_un_theme/assets/images/icon-categories.svg" />Categories</a></li>
+<li class="nav-item"><a class="nav-link" href="/en/webtv"><img src="/sites/all/themes/custom/glimps_un_theme/assets/images/icon-home-unwebtv.svg" />UN Web TV</a></li>
+<li class="nav-item"><a class="nav-link" href="/en/webtv/schedule"><img src="/sites/all/themes/custom/glimps_un_theme/assets/images/icon-liveschedule.svg" />Live Schedule</a></li>
+<li class="nav-item"><a id="openmobile" class="nav-link" href="#"><img src="/sites/all/themes/custom/glimps_un_theme/assets/images/icon-more.svg" />More</a></li>
+</ul><div id="mySidenav" class="sidenav"><a id="closemobile" class="closebtn" href="#">×</a>
+<h2>More</h2>
+<p><a class="link-external" href="https://www.unmultimedia.org/avlibrary/">UN Audiovisual Library</a><a class="link-external" href="https://dam.media.un.org">UN Photo</a> <a href="/en/about-us">About Us</a></p></div>
+
+</section>
+  </div>
+          </div>
+  </div>
+</header>
+  
+<main role="main" id="un3-webtv-index">
+  <a id="main-content"></a>
+        <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <section class="video w-100 bg-primary">
+    <div id="un3-video-player" class="un3-video-player"></div>
+</section>
+
+<section id="un3-video-overlay" class="un3-video-overlay un3-video-play-button un3-video-overlay-index-fresh w-100 align-items-center">
+    <div class="un3-video-overlay-text w-100 d-md-flex align-items-center">
+        <div class="un3-video-overlay-content container" style="opacity: 0; transition: opacity 1s;">
+            <div class="row">
+                <div class="col-12">
+                    <h3 class="border-0 mb-2"><span class="badge badge-danger">LIVE</span></h3>
+                </div>
+                <div class="col-12">
+                    <h1 class="jumbotron-heading display long-texts" data-toggle="tooltip" data-placement="top" title="24 Hour Live and pre-recorded Programming">
+                        <i class="bi bi-play-fill"></i>
+                        24 Hour Live and pre-recorded Programming                    </h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- <div class="un3-video-cover"></div> -->
+</section>
+<section class="video-spacer"></section>
+<section class="un3-cards-liveschedule mt-3">
+    <div class="container">
+        <div class="row">
+          <div class="col-sm-6"></div>
+          <div class="col-sm-6 d-sm-block text-right pt-1">
+              <div class="dropdown d-inline">
+                  <button class="btn btn-small dropdown-toggle mb-3" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <span class="text-muted">Time Zone</span>&nbsp; 
+                      <strong id="selected-timezone-print">America/New York</strong>
+                      <input type="hidden" id="selected-timezone" value="America/New_York" />
+                  </button>
+                                    <div class="dropdown-menu" style="height: 250px; overflow-y: scroll;" aria-labelledby="dropdownMenuButton">
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Abidjan" href="#">Africa/Abidjan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Accra" href="#">Africa/Accra</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Addis_Ababa" href="#">Africa/Addis Ababa</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Algiers" href="#">Africa/Algiers</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Asmara" href="#">Africa/Asmara</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Bamako" href="#">Africa/Bamako</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Bangui" href="#">Africa/Bangui</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Banjul" href="#">Africa/Banjul</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Bissau" href="#">Africa/Bissau</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Blantyre" href="#">Africa/Blantyre</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Brazzaville" href="#">Africa/Brazzaville</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Bujumbura" href="#">Africa/Bujumbura</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Cairo" href="#">Africa/Cairo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Casablanca" href="#">Africa/Casablanca</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Ceuta" href="#">Africa/Ceuta</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Conakry" href="#">Africa/Conakry</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Dakar" href="#">Africa/Dakar</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Dar_es_Salaam" href="#">Africa/Dar es Salaam</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Djibouti" href="#">Africa/Djibouti</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Douala" href="#">Africa/Douala</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/El_Aaiun" href="#">Africa/El Aaiun</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Freetown" href="#">Africa/Freetown</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Gaborone" href="#">Africa/Gaborone</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Harare" href="#">Africa/Harare</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Johannesburg" href="#">Africa/Johannesburg</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Juba" href="#">Africa/Juba</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Kampala" href="#">Africa/Kampala</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Khartoum" href="#">Africa/Khartoum</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Kigali" href="#">Africa/Kigali</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Kinshasa" href="#">Africa/Kinshasa</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Lagos" href="#">Africa/Lagos</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Libreville" href="#">Africa/Libreville</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Lome" href="#">Africa/Lome</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Luanda" href="#">Africa/Luanda</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Lubumbashi" href="#">Africa/Lubumbashi</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Lusaka" href="#">Africa/Lusaka</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Malabo" href="#">Africa/Malabo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Maputo" href="#">Africa/Maputo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Maseru" href="#">Africa/Maseru</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Mbabane" href="#">Africa/Mbabane</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Mogadishu" href="#">Africa/Mogadishu</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Monrovia" href="#">Africa/Monrovia</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Nairobi" href="#">Africa/Nairobi</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Ndjamena" href="#">Africa/Ndjamena</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Niamey" href="#">Africa/Niamey</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Nouakchott" href="#">Africa/Nouakchott</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Ouagadougou" href="#">Africa/Ouagadougou</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Porto-Novo" href="#">Africa/Porto-Novo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Sao_Tome" href="#">Africa/Sao Tome</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Tripoli" href="#">Africa/Tripoli</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Tunis" href="#">Africa/Tunis</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Africa/Windhoek" href="#">Africa/Windhoek</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Adak" href="#">America/Adak</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Anchorage" href="#">America/Anchorage</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Anguilla" href="#">America/Anguilla</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Antigua" href="#">America/Antigua</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Araguaina" href="#">America/Araguaina</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Buenos_Aires" href="#">America/Argentina/Buenos Aires</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Catamarca" href="#">America/Argentina/Catamarca</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Cordoba" href="#">America/Argentina/Cordoba</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Jujuy" href="#">America/Argentina/Jujuy</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/La_Rioja" href="#">America/Argentina/La Rioja</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Mendoza" href="#">America/Argentina/Mendoza</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Rio_Gallegos" href="#">America/Argentina/Rio Gallegos</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Salta" href="#">America/Argentina/Salta</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/San_Juan" href="#">America/Argentina/San Juan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/San_Luis" href="#">America/Argentina/San Luis</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Tucuman" href="#">America/Argentina/Tucuman</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Argentina/Ushuaia" href="#">America/Argentina/Ushuaia</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Aruba" href="#">America/Aruba</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Asuncion" href="#">America/Asuncion</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Atikokan" href="#">America/Atikokan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Bahia" href="#">America/Bahia</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Bahia_Banderas" href="#">America/Bahia Banderas</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Barbados" href="#">America/Barbados</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Belem" href="#">America/Belem</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Belize" href="#">America/Belize</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Blanc-Sablon" href="#">America/Blanc-Sablon</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Boa_Vista" href="#">America/Boa Vista</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Bogota" href="#">America/Bogota</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Boise" href="#">America/Boise</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Cambridge_Bay" href="#">America/Cambridge Bay</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Campo_Grande" href="#">America/Campo Grande</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Cancun" href="#">America/Cancun</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Caracas" href="#">America/Caracas</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Cayenne" href="#">America/Cayenne</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Cayman" href="#">America/Cayman</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Chicago" href="#">America/Chicago</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Chihuahua" href="#">America/Chihuahua</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Costa_Rica" href="#">America/Costa Rica</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Creston" href="#">America/Creston</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Cuiaba" href="#">America/Cuiaba</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Curacao" href="#">America/Curacao</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Danmarkshavn" href="#">America/Danmarkshavn</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Dawson" href="#">America/Dawson</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Dawson_Creek" href="#">America/Dawson Creek</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Denver" href="#">America/Denver</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Detroit" href="#">America/Detroit</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Dominica" href="#">America/Dominica</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Edmonton" href="#">America/Edmonton</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Eirunepe" href="#">America/Eirunepe</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/El_Salvador" href="#">America/El Salvador</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Fort_Nelson" href="#">America/Fort Nelson</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Fortaleza" href="#">America/Fortaleza</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Glace_Bay" href="#">America/Glace Bay</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Goose_Bay" href="#">America/Goose Bay</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Grand_Turk" href="#">America/Grand Turk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Grenada" href="#">America/Grenada</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Guadeloupe" href="#">America/Guadeloupe</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Guatemala" href="#">America/Guatemala</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Guayaquil" href="#">America/Guayaquil</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Guyana" href="#">America/Guyana</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Halifax" href="#">America/Halifax</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Havana" href="#">America/Havana</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Hermosillo" href="#">America/Hermosillo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Indiana/Indianapolis" href="#">America/Indiana/Indianapolis</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Indiana/Knox" href="#">America/Indiana/Knox</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Indiana/Marengo" href="#">America/Indiana/Marengo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Indiana/Petersburg" href="#">America/Indiana/Petersburg</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Indiana/Tell_City" href="#">America/Indiana/Tell City</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Indiana/Vevay" href="#">America/Indiana/Vevay</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Indiana/Vincennes" href="#">America/Indiana/Vincennes</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Indiana/Winamac" href="#">America/Indiana/Winamac</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Inuvik" href="#">America/Inuvik</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Iqaluit" href="#">America/Iqaluit</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Jamaica" href="#">America/Jamaica</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Juneau" href="#">America/Juneau</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Kentucky/Louisville" href="#">America/Kentucky/Louisville</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Kentucky/Monticello" href="#">America/Kentucky/Monticello</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Kralendijk" href="#">America/Kralendijk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/La_Paz" href="#">America/La Paz</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Lima" href="#">America/Lima</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Los_Angeles" href="#">America/Los Angeles</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Lower_Princes" href="#">America/Lower Princes</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Maceio" href="#">America/Maceio</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Managua" href="#">America/Managua</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Manaus" href="#">America/Manaus</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Marigot" href="#">America/Marigot</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Martinique" href="#">America/Martinique</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Matamoros" href="#">America/Matamoros</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Mazatlan" href="#">America/Mazatlan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Menominee" href="#">America/Menominee</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Merida" href="#">America/Merida</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Metlakatla" href="#">America/Metlakatla</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Mexico_City" href="#">America/Mexico City</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Miquelon" href="#">America/Miquelon</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Moncton" href="#">America/Moncton</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Monterrey" href="#">America/Monterrey</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Montevideo" href="#">America/Montevideo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Montserrat" href="#">America/Montserrat</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Nassau" href="#">America/Nassau</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/New_York" href="#">America/New York</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Nipigon" href="#">America/Nipigon</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Nome" href="#">America/Nome</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Noronha" href="#">America/Noronha</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/North_Dakota/Beulah" href="#">America/North Dakota/Beulah</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/North_Dakota/Center" href="#">America/North Dakota/Center</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/North_Dakota/New_Salem" href="#">America/North Dakota/New Salem</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Nuuk" href="#">America/Nuuk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Ojinaga" href="#">America/Ojinaga</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Panama" href="#">America/Panama</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Pangnirtung" href="#">America/Pangnirtung</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Paramaribo" href="#">America/Paramaribo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Phoenix" href="#">America/Phoenix</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Port-au-Prince" href="#">America/Port-au-Prince</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Port_of_Spain" href="#">America/Port of Spain</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Porto_Velho" href="#">America/Porto Velho</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Puerto_Rico" href="#">America/Puerto Rico</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Punta_Arenas" href="#">America/Punta Arenas</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Rainy_River" href="#">America/Rainy River</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Rankin_Inlet" href="#">America/Rankin Inlet</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Recife" href="#">America/Recife</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Regina" href="#">America/Regina</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Resolute" href="#">America/Resolute</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Rio_Branco" href="#">America/Rio Branco</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Santarem" href="#">America/Santarem</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Santiago" href="#">America/Santiago</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Santo_Domingo" href="#">America/Santo Domingo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Sao_Paulo" href="#">America/Sao Paulo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Scoresbysund" href="#">America/Scoresbysund</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Sitka" href="#">America/Sitka</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/St_Barthelemy" href="#">America/St Barthelemy</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/St_Johns" href="#">America/St Johns</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/St_Kitts" href="#">America/St Kitts</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/St_Lucia" href="#">America/St Lucia</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/St_Thomas" href="#">America/St Thomas</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/St_Vincent" href="#">America/St Vincent</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Swift_Current" href="#">America/Swift Current</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Tegucigalpa" href="#">America/Tegucigalpa</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Thule" href="#">America/Thule</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Thunder_Bay" href="#">America/Thunder Bay</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Tijuana" href="#">America/Tijuana</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Toronto" href="#">America/Toronto</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Tortola" href="#">America/Tortola</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Vancouver" href="#">America/Vancouver</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Whitehorse" href="#">America/Whitehorse</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Winnipeg" href="#">America/Winnipeg</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Yakutat" href="#">America/Yakutat</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="America/Yellowknife" href="#">America/Yellowknife</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Casey" href="#">Antarctica/Casey</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Davis" href="#">Antarctica/Davis</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/DumontDUrville" href="#">Antarctica/DumontDUrville</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Macquarie" href="#">Antarctica/Macquarie</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Mawson" href="#">Antarctica/Mawson</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/McMurdo" href="#">Antarctica/McMurdo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Palmer" href="#">Antarctica/Palmer</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Rothera" href="#">Antarctica/Rothera</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Syowa" href="#">Antarctica/Syowa</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Troll" href="#">Antarctica/Troll</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Antarctica/Vostok" href="#">Antarctica/Vostok</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Arctic/Longyearbyen" href="#">Arctic/Longyearbyen</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Aden" href="#">Asia/Aden</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Almaty" href="#">Asia/Almaty</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Amman" href="#">Asia/Amman</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Anadyr" href="#">Asia/Anadyr</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Aqtau" href="#">Asia/Aqtau</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Aqtobe" href="#">Asia/Aqtobe</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Ashgabat" href="#">Asia/Ashgabat</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Atyrau" href="#">Asia/Atyrau</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Baghdad" href="#">Asia/Baghdad</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Bahrain" href="#">Asia/Bahrain</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Baku" href="#">Asia/Baku</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Bangkok" href="#">Asia/Bangkok</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Barnaul" href="#">Asia/Barnaul</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Beirut" href="#">Asia/Beirut</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Bishkek" href="#">Asia/Bishkek</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Brunei" href="#">Asia/Brunei</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Chita" href="#">Asia/Chita</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Choibalsan" href="#">Asia/Choibalsan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Colombo" href="#">Asia/Colombo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Damascus" href="#">Asia/Damascus</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Dhaka" href="#">Asia/Dhaka</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Dili" href="#">Asia/Dili</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Dubai" href="#">Asia/Dubai</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Dushanbe" href="#">Asia/Dushanbe</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Famagusta" href="#">Asia/Famagusta</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Gaza" href="#">Asia/Gaza</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Hebron" href="#">Asia/Hebron</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Ho_Chi_Minh" href="#">Asia/Ho Chi Minh</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Hong_Kong" href="#">Asia/Hong Kong</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Hovd" href="#">Asia/Hovd</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Irkutsk" href="#">Asia/Irkutsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Jakarta" href="#">Asia/Jakarta</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Jayapura" href="#">Asia/Jayapura</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Jerusalem" href="#">Asia/Jerusalem</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Kabul" href="#">Asia/Kabul</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Kamchatka" href="#">Asia/Kamchatka</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Karachi" href="#">Asia/Karachi</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Kathmandu" href="#">Asia/Kathmandu</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Khandyga" href="#">Asia/Khandyga</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Kolkata" href="#">Asia/Kolkata</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Krasnoyarsk" href="#">Asia/Krasnoyarsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Kuala_Lumpur" href="#">Asia/Kuala Lumpur</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Kuching" href="#">Asia/Kuching</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Kuwait" href="#">Asia/Kuwait</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Macau" href="#">Asia/Macau</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Magadan" href="#">Asia/Magadan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Makassar" href="#">Asia/Makassar</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Manila" href="#">Asia/Manila</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Muscat" href="#">Asia/Muscat</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Nicosia" href="#">Asia/Nicosia</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Novokuznetsk" href="#">Asia/Novokuznetsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Novosibirsk" href="#">Asia/Novosibirsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Omsk" href="#">Asia/Omsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Oral" href="#">Asia/Oral</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Phnom_Penh" href="#">Asia/Phnom Penh</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Pontianak" href="#">Asia/Pontianak</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Pyongyang" href="#">Asia/Pyongyang</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Qatar" href="#">Asia/Qatar</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Qostanay" href="#">Asia/Qostanay</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Qyzylorda" href="#">Asia/Qyzylorda</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Riyadh" href="#">Asia/Riyadh</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Sakhalin" href="#">Asia/Sakhalin</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Samarkand" href="#">Asia/Samarkand</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Seoul" href="#">Asia/Seoul</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Shanghai" href="#">Asia/Shanghai</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Singapore" href="#">Asia/Singapore</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Srednekolymsk" href="#">Asia/Srednekolymsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Taipei" href="#">Asia/Taipei</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Tashkent" href="#">Asia/Tashkent</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Tbilisi" href="#">Asia/Tbilisi</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Tehran" href="#">Asia/Tehran</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Thimphu" href="#">Asia/Thimphu</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Tokyo" href="#">Asia/Tokyo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Tomsk" href="#">Asia/Tomsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Ulaanbaatar" href="#">Asia/Ulaanbaatar</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Urumqi" href="#">Asia/Urumqi</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Ust-Nera" href="#">Asia/Ust-Nera</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Vientiane" href="#">Asia/Vientiane</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Vladivostok" href="#">Asia/Vladivostok</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Yakutsk" href="#">Asia/Yakutsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Yangon" href="#">Asia/Yangon</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Yekaterinburg" href="#">Asia/Yekaterinburg</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Asia/Yerevan" href="#">Asia/Yerevan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/Azores" href="#">Atlantic/Azores</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/Bermuda" href="#">Atlantic/Bermuda</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/Canary" href="#">Atlantic/Canary</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/Cape_Verde" href="#">Atlantic/Cape Verde</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/Faroe" href="#">Atlantic/Faroe</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/Madeira" href="#">Atlantic/Madeira</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/Reykjavik" href="#">Atlantic/Reykjavik</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/South_Georgia" href="#">Atlantic/South Georgia</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/St_Helena" href="#">Atlantic/St Helena</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Atlantic/Stanley" href="#">Atlantic/Stanley</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Adelaide" href="#">Australia/Adelaide</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Brisbane" href="#">Australia/Brisbane</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Broken_Hill" href="#">Australia/Broken Hill</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Darwin" href="#">Australia/Darwin</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Eucla" href="#">Australia/Eucla</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Hobart" href="#">Australia/Hobart</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Lindeman" href="#">Australia/Lindeman</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Lord_Howe" href="#">Australia/Lord Howe</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Melbourne" href="#">Australia/Melbourne</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Perth" href="#">Australia/Perth</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Australia/Sydney" href="#">Australia/Sydney</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Amsterdam" href="#">Europe/Amsterdam</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Andorra" href="#">Europe/Andorra</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Astrakhan" href="#">Europe/Astrakhan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Athens" href="#">Europe/Athens</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Belgrade" href="#">Europe/Belgrade</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Berlin" href="#">Europe/Berlin</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Bratislava" href="#">Europe/Bratislava</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Brussels" href="#">Europe/Brussels</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Bucharest" href="#">Europe/Bucharest</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Budapest" href="#">Europe/Budapest</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Busingen" href="#">Europe/Busingen</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Chisinau" href="#">Europe/Chisinau</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Copenhagen" href="#">Europe/Copenhagen</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Dublin" href="#">Europe/Dublin</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Gibraltar" href="#">Europe/Gibraltar</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Guernsey" href="#">Europe/Guernsey</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Helsinki" href="#">Europe/Helsinki</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Isle_of_Man" href="#">Europe/Isle of Man</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Istanbul" href="#">Europe/Istanbul</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Jersey" href="#">Europe/Jersey</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Kaliningrad" href="#">Europe/Kaliningrad</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Kiev" href="#">Europe/Kiev</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Kirov" href="#">Europe/Kirov</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Lisbon" href="#">Europe/Lisbon</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Ljubljana" href="#">Europe/Ljubljana</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/London" href="#">Europe/London</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Luxembourg" href="#">Europe/Luxembourg</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Madrid" href="#">Europe/Madrid</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Malta" href="#">Europe/Malta</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Mariehamn" href="#">Europe/Mariehamn</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Minsk" href="#">Europe/Minsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Monaco" href="#">Europe/Monaco</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Moscow" href="#">Europe/Moscow</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Oslo" href="#">Europe/Oslo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Paris" href="#">Europe/Paris</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Podgorica" href="#">Europe/Podgorica</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Prague" href="#">Europe/Prague</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Riga" href="#">Europe/Riga</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Rome" href="#">Europe/Rome</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Samara" href="#">Europe/Samara</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/San_Marino" href="#">Europe/San Marino</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Sarajevo" href="#">Europe/Sarajevo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Saratov" href="#">Europe/Saratov</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Simferopol" href="#">Europe/Simferopol</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Skopje" href="#">Europe/Skopje</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Sofia" href="#">Europe/Sofia</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Stockholm" href="#">Europe/Stockholm</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Tallinn" href="#">Europe/Tallinn</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Tirane" href="#">Europe/Tirane</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Ulyanovsk" href="#">Europe/Ulyanovsk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Uzhgorod" href="#">Europe/Uzhgorod</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Vaduz" href="#">Europe/Vaduz</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Vatican" href="#">Europe/Vatican</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Vienna" href="#">Europe/Vienna</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Vilnius" href="#">Europe/Vilnius</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Volgograd" href="#">Europe/Volgograd</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Warsaw" href="#">Europe/Warsaw</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Zagreb" href="#">Europe/Zagreb</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Zaporozhye" href="#">Europe/Zaporozhye</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Europe/Zurich" href="#">Europe/Zurich</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Antananarivo" href="#">Indian/Antananarivo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Chagos" href="#">Indian/Chagos</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Christmas" href="#">Indian/Christmas</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Cocos" href="#">Indian/Cocos</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Comoro" href="#">Indian/Comoro</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Kerguelen" href="#">Indian/Kerguelen</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Mahe" href="#">Indian/Mahe</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Maldives" href="#">Indian/Maldives</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Mauritius" href="#">Indian/Mauritius</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Mayotte" href="#">Indian/Mayotte</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Indian/Reunion" href="#">Indian/Reunion</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Apia" href="#">Pacific/Apia</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Auckland" href="#">Pacific/Auckland</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Bougainville" href="#">Pacific/Bougainville</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Chatham" href="#">Pacific/Chatham</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Chuuk" href="#">Pacific/Chuuk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Easter" href="#">Pacific/Easter</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Efate" href="#">Pacific/Efate</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Enderbury" href="#">Pacific/Enderbury</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Fakaofo" href="#">Pacific/Fakaofo</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Fiji" href="#">Pacific/Fiji</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Funafuti" href="#">Pacific/Funafuti</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Galapagos" href="#">Pacific/Galapagos</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Gambier" href="#">Pacific/Gambier</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Guadalcanal" href="#">Pacific/Guadalcanal</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Guam" href="#">Pacific/Guam</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Honolulu" href="#">Pacific/Honolulu</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Kiritimati" href="#">Pacific/Kiritimati</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Kosrae" href="#">Pacific/Kosrae</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Kwajalein" href="#">Pacific/Kwajalein</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Majuro" href="#">Pacific/Majuro</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Marquesas" href="#">Pacific/Marquesas</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Midway" href="#">Pacific/Midway</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Nauru" href="#">Pacific/Nauru</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Niue" href="#">Pacific/Niue</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Norfolk" href="#">Pacific/Norfolk</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Noumea" href="#">Pacific/Noumea</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Pago_Pago" href="#">Pacific/Pago Pago</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Palau" href="#">Pacific/Palau</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Pitcairn" href="#">Pacific/Pitcairn</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Pohnpei" href="#">Pacific/Pohnpei</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Port_Moresby" href="#">Pacific/Port Moresby</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Rarotonga" href="#">Pacific/Rarotonga</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Saipan" href="#">Pacific/Saipan</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Tahiti" href="#">Pacific/Tahiti</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Tarawa" href="#">Pacific/Tarawa</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Tongatapu" href="#">Pacific/Tongatapu</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Wake" href="#">Pacific/Wake</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="Pacific/Wallis" href="#">Pacific/Wallis</a>
+                                            <a class="dropdown-item select-timezone" data-timezone="UTC" href="#">UTC</a>
+                                      </div>
+              </div>
+              <a href="/en/webtv/schedule" class="btn btn-secondary mb-3">Live Schedule</a>
+          </div>
+        </div>
+    </div>
+</section>
+<section class="un3-cards-liveschedule mt-n5 mt-sm-0">
+  <div class="container">
+    <div class="row mt-4 all_live_now_top">
+      <div class="un3-card-video-slider">
+                  <div class="col-md-3 col-6 un3-card-video">
+            <a class="card-link" href="https://media.un.org/en/asset/k1g/k1g9secn5a">
+              <div class="card mb-4">
+                <div class="card-header">
+                  <h6 class='mb-0'>PREVIOUSLY</h6><h6 class='mb-0 invisible'><span class='text-muted'>08 Oct<small>02:00 pm</small></h6>                </div>
+                <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_kzzxaedn/width/564/height/317/type/4" alt="Second Committee, 8th meeting (4th plenary meeting) - General Assembly, 76th session" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+                <div class="card-img-overlay">
+                                  </div>
+                <div class="card-time">
+                                  </div>
+                <div class="card-icon">
+                  <i class="bi bi-play-fill"></i>
+                </div>
+                <div class="card-body pt-3">
+                  <h6 class="text-primary">2nd Committee</h6>
+                  <h5 class="card-title">Second Committee, 8th meeting (4th plenary meeting…</h5>
+                  <p class="card-text"></p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <small class="text-muted">Arabic, Chinese, English, French, Russian, Spanish, Original</small>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+                  <div class="col-md-3 col-6 un3-card-video">
+            <a class="card-link" href="https://media.un.org/en/asset/k1g/k1gb6tjmle">
+              <div class="card mb-4">
+                <div class="card-header">
+                  <h6 class='mb-0'>LIVE NOW</h6><h6 class='mb-0 invisible'><span class='text-muted'>01 Jan<small>01:43 pm</small></h6>                </div>
+                <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_gb6tjmle/width/564/height/317/type/4" alt="24 Hour Live and pre-recorded Programming" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+                <div class="card-img-overlay">
+                  <span class="badge badge-danger text-uppercase">LIVE</span>                </div>
+                <div class="card-time">
+                                  </div>
+                <div class="card-icon">
+                  <i class="bi bi-play-fill"></i>
+                </div>
+                <div class="card-body pt-3">
+                  <h6 class="text-primary">Meetings & Events</h6>
+                  <h5 class="card-title">24 Hour Live and pre-recorded Programming</h5>
+                  <p class="card-text"></p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <small class="text-muted">Original</small>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+                  <div class="col-md-3 col-6 un3-card-video">
+            <a class="card-link" href="https://media.un.org/en/asset/k13/k134sdswh1">
+              <div class="card mb-4">
+                <div class="card-header">
+                  <div class='d-none mediaun-top-timezone' data-nid='349438'>2021-10-11 08:00:00</div><h6 class='mb-0'>COMING UP</h6><h6 class='mb-0'><span class='text-muted'>11 Oct<small class='coming-time-349438'>04:00 am</small></h6>                </div>
+                <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_34sdswh1/width/564/height/317/type/4" alt="3798th Meeting, 133rd Session Human Rights Committee" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+                <div class="card-img-overlay">
+                                  </div>
+                <div class="card-time">
+                                  </div>
+                <div class="card-icon">
+                  <i class="bi bi-play-fill"></i>
+                </div>
+                <div class="card-body pt-3">
+                  <h6 class="text-primary">Human Rights Committee</h6>
+                  <h5 class="card-title">3798th Meeting, 133rd Session Human Rights Committee…</h5>
+                  <p class="card-text"></p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <small class="text-muted">Original, English, French, Spanish</small>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+                  <div class="col-md-3 col-6 un3-card-video">
+            <a class="card-link" href="https://media.un.org/en/asset/k1i/k1i92tobna">
+              <div class="card mb-4">
+                <div class="card-header">
+                  <div class='d-none mediaun-top-timezone' data-nid='349440'>2021-10-11 13:00:00</div><h6 class='mb-0 invisible'>COMING UP</h6><h6 class='mb-0'><span class='text-muted'>11 Oct<small class='coming-time-349440'>09:00 am</small></h6>                </div>
+                <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_i92tobna/width/564/height/317/type/4" alt="3799th Meeting, 133rd Session Human Rights Committee" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+                <div class="card-img-overlay">
+                                  </div>
+                <div class="card-time">
+                                  </div>
+                <div class="card-icon">
+                  <i class="bi bi-play-fill"></i>
+                </div>
+                <div class="card-body pt-3">
+                  <h6 class="text-primary">Human Rights Committee</h6>
+                  <h5 class="card-title">3799th Meeting, 133rd Session Human Rights Committee…</h5>
+                  <p class="card-text"></p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <small class="text-muted">Original, English, French</small>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+              </div>
+    </div>
+  </div>
+</section>
+
+<section class="un3-cards-liveschedule-with-time webtv_all_live_now">
+  <div class="container">
+    <div class="row mt-5">
+      <div class="col-12">
+        <h6 class="all_live_now_comming_up">COMING UP</h6>
+      </div>
+    </div>
+                    <div class="row">
+          <div id="media-un-all_live_now-block-2" class="un3-card-video-slider">
+            
+
+
+  
+  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1d/k1diq6cqqp">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349534">2021-10-11 14:00:00</div>
+        <h3 class="time time-349534 mb-0"><span class="date-display-single">10</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">am</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_diq6cqqp/width/564/height/317/type/4" alt="Second Committee, 10th meeting - General Assembly, 76th session" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          2nd Committee        </h6>
+        <h5 class="card-title">Second Committee, 10th meeting - General Assembly,…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Arabic, Chinese, English, French, Russian, Spanish, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1b/k1bbhs2glv">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349286">2021-10-11 14:00:00</div>
+        <h3 class="time time-349286 mb-0"><span class="date-display-single">10</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">am</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_bbhs2glv/width/564/height/317/type/4" alt="General Assembly: 18th plenary meeting, 76th session" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Plenary        </h6>
+        <h5 class="card-title">General Assembly: 18th plenary meeting, 76th session…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Arabic, Chinese, English, French, Russian, Spanish, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1s/k1sg09o296">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349540">2021-10-11 14:00:00</div>
+        <h3 class="time time-349540 mb-0"><span class="date-display-single">10</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">am</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_sg09o296/width/564/height/317/type/4" alt="9th Annual International Day of the Girl celebration" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Side Events        </h6>
+        <h5 class="card-title">9th Annual International Day of the Girl celebration…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Arabic, Chinese, English, French, Russian, Spanish, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1d/k1dsq3e45v">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349526">2021-10-11 14:00:00</div>
+        <h3 class="time time-349526 mb-0"><span class="date-display-single">10</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">am</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_dsq3e45v/width/564/height/317/type/4" alt="First Committee, 7th meeting (6th plenary meeting) - General Assembly, 76th session" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          1st Committee        </h6>
+        <h5 class="card-title">First Committee, 7th meeting (6th plenary meeting)…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Arabic, Chinese, English, French, Russian, Spanish, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1p/k1p8a1ip3j">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349554">2021-10-11 16:00:00</div>
+        <h3 class="time time-349554 mb-0"><span class="date-display-single">12</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">pm</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_p8a1ip3j/width/564/height/317/type/4" alt="Daily Press Briefing by the Spokesperson of the Secretary-General and the Spokesperson for the President of the General Assembly" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Press Conferences        </h6>
+        <h5 class="card-title">Daily Press Briefing by the Spokesperson of the Secretary…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">English, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1o/k1of51tldo">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349564">2021-10-11 19:00:00</div>
+        <h3 class="time time-349564 mb-0"><span class="date-display-single">03</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">pm</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_of51tldo/width/564/height/317/type/4" alt="Fourth Committee, 5th meeting - General Assembly, 76th session" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          4th Committee        </h6>
+        <h5 class="card-title">Fourth Committee, 5th meeting - General Assembly, …</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Arabic, Chinese, English, French, Russian, Spanish, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1r/k1rybaqd12">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349566">2021-10-11 19:00:00</div>
+        <h3 class="time time-349566 mb-0"><span class="date-display-single">03</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">pm</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_rybaqd12/width/564/height/317/type/4" alt="Third Committee, 11th meeting - General Assembly, 76th session" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          3rd Committee        </h6>
+        <h5 class="card-title">Third Committee, 11th meeting - General Assembly, …</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Arabic, Chinese, English, French, Russian, Spanish, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1u/k1utpniz79">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349568">2021-10-11 19:00:00</div>
+        <h3 class="time time-349568 mb-0"><span class="date-display-single">03</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">pm</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_utpniz79/width/564/height/317/type/4" alt="Second Committee, 11th meeting - General Assembly, 76th session" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          2nd Committee        </h6>
+        <h5 class="card-title">Second Committee, 11th meeting - General Assembly,…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Arabic, Chinese, English, French, Russian, Spanish, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1a/k1avoz4uay">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="11-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349570">2021-10-11 20:00:00</div>
+        <h3 class="time time-349570 mb-0"><span class="date-display-single">04</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">pm</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_avoz4uay/width/564/height/317/type/4" alt="COVID-19 and Fragile States: Promoting Resilient Recovery for the Most Vulnerable Communities" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Side Events        </h6>
+        <h5 class="card-title">COVID-19 and Fragile States: Promoting Resilient Recovery…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">English, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1i/k1irjfxetg">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="12-Oct"><span class="date-display-single">11 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349520">2021-10-12 01:00:00</div>
+        <h3 class="time time-349520 mb-0"><span class="date-display-single">09</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">pm</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_irjfxetg/width/564/height/317/type/4" alt="2nd UN Global Sustainable Transport Conference  (14-16 October 2021, Beijing, China) - Curtain raiser press conference." onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Global Sustainable Transport Conference        </h6>
+        <h5 class="card-title">2nd UN Global Sustainable Transport Conference  (1…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">English</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1y/k1ytpbjd08">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="12-Oct"><span class="date-display-single">12 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349442">2021-10-12 08:00:00</div>
+        <h3 class="time time-349442 mb-0"><span class="date-display-single">04</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">am</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_ytpbjd08/width/564/height/317/type/4" alt="3800th Meeting, 133rd Session Human Rights Committee" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Human Rights Committee        </h6>
+        <h5 class="card-title">3800th Meeting, 133rd Session Human Rights Committee…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Original, English, French</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k14/k14hau7a72">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="12-Oct"><span class="date-display-single">12 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349448">2021-10-12 12:50:00</div>
+        <h3 class="time time-349448 mb-0"><span class="date-display-single">08</span><sup><span class="date-display-single">50</span></sup><sub><span class="date-display-single">am</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_4hau7a72/width/564/height/317/type/4" alt="THE HAGUE – The International Court of Justice (ICJ) delivers its Judgment on the merits of the case Somalia v. Kenya " onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          161 - Somalia v. Kenya        </h6>
+        <h5 class="card-title">THE HAGUE – The International Court of Justice (ICJ…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">English, French</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k18/k18h1mae9z">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="12-Oct"><span class="date-display-single">12 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349254">2021-10-12 16:00:00</div>
+        <h3 class="time time-349254 mb-0"><span class="date-display-single">12</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">pm</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_8h1mae9z/width/564/height/317/type/4" alt="Daily Press Briefing by the Spokesperson of the Secretary-General and the Spokesperson for the President of the General Assembly" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Press Conferences        </h6>
+        <h5 class="card-title">Daily Press Briefing by the Spokesperson of the Secretary…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">English, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1y/k1yf1beqfq">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="14-Oct"><span class="date-display-single">14 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349522">2021-10-14 12:00:00</div>
+        <h3 class="time time-349522 mb-0"><span class="date-display-single">08</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">am</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_yf1beqfq/width/564/height/317/type/4" alt="2nd UN Global Sustainable Transport Conference  (14-16 October 2021, Beijing, China) - Opening ceremony, Plenary session 1." onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Global Sustainable Transport Conference        </h6>
+        <h5 class="card-title">2nd UN Global Sustainable Transport Conference  (1…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">English, Arabic, Chinese, French, Russian, Spanish, Original</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>  <div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1q/k1qe7js0ow">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h6><span class="text-muted all-comming-up-date" data-date="14-Oct"><span class="date-display-single">14 Oct</span></span></h6>
+        <div class="d-none mediaun-timezone" data-nid="349468">2021-10-14 13:00:00</div>
+        <h3 class="time time-349468 mb-0"><span class="date-display-single">09</span><sup><span class="date-display-single">00</span></sup><sub><span class="date-display-single">am</span></sub></h3>
+      </div>
+      <img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_qe7js0ow/width/564/height/317/type/4" alt="3805th Meeting, 133rd Session Human Rights Committee" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Human Rights Committee        </h6>
+        <h5 class="card-title">3805th Meeting, 133rd Session Human Rights Committee…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">Original, English, French, Russian, Spanish</small>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+
+
+
+          </div>
+        </div>
+          </div>
+  </div>
+</section>
+
+<section class="videos-featured">
+  <div class="container">
+    <div class="row mb-3">
+      <div class="col-sm-9">
+        <h3>Featured Videos</h3>
+      </div>
+      <div class="col-sm-3 d-none d-sm-block text-right pt-1">
+      </div>
+    </div>
+    <div class="row pb-5">
+      <div class="un3-card-featured-slider w-100">
+        
+        
+  
+  
+      
+  <div class="col-md-5 col-12 un3-card-video-feature">
+  <a class="card-link" href="https://media.un.org/en/asset/k1z/k1zixjqxgm">
+    <div class="card">
+      <img class="card-img img-fluid" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_hm9g5tq3/width/495/height/278/type/4" alt="2021 Nobel Peace Prize - Statement by United Nations Secretary-General António Guterres" height="278" width="495" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+              <div class="card-time">
+          <span class="badge badge-dark">
+            00:10:41          </span>
+        </div>
+            <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-img-overlay">
+        <h6>
+          Media Stakeouts        </h6>
+        <h4 class="card-title">2021 Nobel Peace Prize - Statement by United Nations…</h4>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">
+                      </small>
+        </div>
+      </div>
+    </div>
+	</a>
+</div>
+  <div class="col-md-5 col-12 un3-card-video-feature">
+  <a class="card-link" href="https://media.un.org/en/asset/k11/k11hgxopkf">
+    <div class="card">
+      <img class="card-img img-fluid" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_1hgxopkf/width/495/height/278/type/4" alt="UN launches Strategy to Achieve Vaccine Equity Globally" height="278" width="495" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+              <div class="card-time">
+          <span class="badge badge-dark">
+            00:01:51          </span>
+        </div>
+            <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-img-overlay">
+        <h6>
+          Features        </h6>
+        <h4 class="card-title">UN launches Strategy to Achieve Vaccine Equity Globally…</h4>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">
+                      </small>
+        </div>
+      </div>
+    </div>
+	</a>
+</div>
+  <div class="col-md-5 col-12 un3-card-video-feature">
+  <a class="card-link" href="https://media.un.org/en/asset/k1q/k1qzyaxpp3">
+    <div class="card">
+      <img class="card-img img-fluid" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_qzyaxpp3/width/495/height/278/type/4" alt="António Guterres (Secretary-General) at the Opening Plenary and Ceremony of  UNCTAD 15" height="278" width="495" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+              <div class="card-time">
+          <span class="badge badge-dark">
+            00:14:51          </span>
+        </div>
+            <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-img-overlay">
+        <h6>
+          UNCTAD        </h6>
+        <h4 class="card-title">António Guterres (Secretary-General) at the Opening…</h4>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">
+                      </small>
+        </div>
+      </div>
+    </div>
+	</a>
+</div>
+  <div class="col-md-5 col-12 un3-card-video-feature">
+  <a class="card-link" href="https://media.un.org/en/asset/k1o/k1opokgkix">
+    <div class="card">
+      <img class="card-img img-fluid" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_opokgkix/width/495/height/278/type/4" alt="International Day of Non-Violence" height="278" width="495" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+              <div class="card-time">
+          <span class="badge badge-dark">
+            00:26:04          </span>
+        </div>
+            <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-img-overlay">
+        <h6>
+          Meetings & Events        </h6>
+        <h4 class="card-title">International Day of Non-Violence</h4>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">
+                      </small>
+        </div>
+      </div>
+    </div>
+	</a>
+</div>
+  <div class="col-md-5 col-12 un3-card-video-feature">
+  <a class="card-link" href="https://media.un.org/en/asset/k1t/k1tko2sf7a">
+    <div class="card">
+      <img class="card-img img-fluid" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_tko2sf7a/width/495/height/278/type/4" alt="Turning it around through the power of music with Raini Charuka - Global Week to #Act4SDGs Turning Point Dialogues series 2021" height="278" width="495" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+              <div class="card-time">
+          <span class="badge badge-dark">
+            00:19:08          </span>
+        </div>
+            <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-img-overlay">
+        <h6>
+          Features        </h6>
+        <h4 class="card-title">Turning it around through the power of music with Raini…</h4>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">
+                      </small>
+        </div>
+      </div>
+    </div>
+	</a>
+</div>
+  <div class="col-md-5 col-12 un3-card-video-feature">
+  <a class="card-link" href="https://media.un.org/en/asset/k16/k16qf81ow3">
+    <div class="card">
+      <img class="card-img img-fluid" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_6qf81ow3/width/495/height/278/type/4" alt="Global Citizen Live concert: UN Deputy Secretary-General Amina  Mohammed urges action on Global Goals" height="278" width="495" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+              <div class="card-time">
+          <span class="badge badge-dark">
+            00:02:13          </span>
+        </div>
+            <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-img-overlay">
+        <h6>
+          Features        </h6>
+        <h4 class="card-title">Global Citizen Live concert: UN Deputy Secretary-General…</h4>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">
+                      </small>
+        </div>
+      </div>
+    </div>
+	</a>
+</div>
+  
+  
+  
+  
+  
+        </div>
+    </div>
+  </div>
+</section>
+<section class="videos-normal">
+  <div class="container">
+    <div class="row mb-3">
+      <div class="col-sm-9">
+        <h3>Recently Added Videos</h3>
+      </div>
+      <div class="col-sm-3 text-right">
+          <a href="https://media.un.org/en/search/?&q=&filter-status=On+Demand&sort-by=date_desc" class="btn btn-secondary my-2">More Recent Videos</a>
+      </div>
+    </div>
+    <div class="row">
+        <div class="col-12 un3-card-video-slider">
+                  
+  
+  
+      
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1g/k1g3bcypmr">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_5rh692o6/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            03:25:39        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          2nd Committee        </h6>
+        <h5 class="card-title">Second Committee, 9th meeting (5th plenary meeting…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k10/k10386lde4">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_yqi493hi/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            03:18:01        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          6th Committee        </h6>
+        <h5 class="card-title">Sixth Committee, 5th meeting - General Assembly, 7…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1t/k1t9capigw">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_t9capigw/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            00:05:45        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Press Conferences        </h6>
+        <h5 class="card-title">PGA to speak at the Non-Aligned Movement meeting in…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k12/k126rcr6wn">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_fcddmbbf/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            01:03:15        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Press Conferences        </h6>
+        <h5 class="card-title">The forthcoming UN Biological Diversity Conference…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1m/k1mc0c39cj">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_mc0c39cj/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            00:17:22        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          Press Conferences        </h6>
+        <h5 class="card-title">Afghanistan, Nobel Peace Prize  & other topics - Daily…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1r/k1r13sc1li">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_r13sc1li/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            01:05:45        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          48th Session        </h6>
+        <h5 class="card-title">A/HRC/48/L.21/Rev.1 Vote Item:5 - 44th Meeting, 48th…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1g/k1g9secn5a">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_kzzxaedn/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            03:38:42        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          2nd Committee        </h6>
+        <h5 class="card-title">Second Committee, 8th meeting (4th plenary meeting…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1g/k1gf1hs2xt">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_3bd38vt6/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            03:21:21        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          6th Committee        </h6>
+        <h5 class="card-title">Sixth Committee, 4th meeting - General Assembly, 7…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k1l/k1lmzb8ik0">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_lmzb8ik0/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            00:17:52        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          48th Session        </h6>
+        <h5 class="card-title">A/HRC/48/L.19/Rev.1 Vote Item:4 - 44th Meeting, 48th…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+<div class="col-md-3 col-6 un3-card-video">
+  <a class="card-link" href="https://media.un.org/en/asset/k11/k11v170gd7">
+		<div class="card mb-4">
+			<img class="card-img" src="//cfvod.kaltura.com/p/2503451/sp/250345100/thumbnail/entry_id/1_1v170gd7/width/564/height/317/type/4" onerror="this.onerror=null; this.src='https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/images/default_bg.jpg'" />
+      <div class="card-time">
+      	        	<span class="badge badge-dark">
+            00:04:26        	</span>
+      	      </div>
+      <div class="card-icon">
+        <i class="bi bi-play-fill"></i>
+      </div>
+      <div class="card-body pt-3">
+        <h6 class="text-primary">
+          48th Session        </h6>
+        <h5 class="card-title">Item:5 Explanation of Votes - 44th Meeting, 48th Regular…</h5>
+        <p class="card-text"></p>
+        <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">
+              08 Oct 2021            </small>
+          	<small class="text-muted"></small>
+                  </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+  
+  
+  
+  
+          </div>
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript" src="https://cdnapisec.kaltura.com/p/2503451/embedPlaykitJs/uiconf_id/47917953"></script>
+<script type="text/javascript">
+
+// Initialize Kaltura Player
+var kalturaPlayer;
+var mediaScheduled = 0;
+
+if (Drupal.settings.glimps_un_theme.media_scheduled == 1) {
+  mediaScheduled = 1;
+}
+
+function getPlayer(playerConfig, mediaInfo) {
+  try {
+    kalturaPlayer = KalturaPlayer.setup(playerConfig);
+    kalturaPlayer.loadMedia(mediaInfo);
+    return kalturaPlayer;
+  } catch (e) {
+    console.error(e.message)
+  }
+}
+
+// Get Kaltura player config ready
+// See https://github.com/kaltura/playkit-js/blob/master/docs/configuration.md
+// 1_j294ho01, 1_zn0lt3x0, 1_fblzvysa (Live), 1_qhuse5bi, 1_sh7yz72p (Multi Audio)
+var mediaInfo = {
+  entryId: Drupal.settings.glimps_un_theme.kaltura_id
+};
+
+var playerConfig = {
+  targetId: "un3-video-player",
+  provider: {
+    uiConfId: 47917953,
+    partnerId: 2503451,
+    env: {
+      cdnUrl: "//cdnapisec.kaltura.com",
+      serviceUrl: "//www.kaltura.com/api_v3"
+    }
+  },
+  player: {
+    playback: {
+      "preload": "auto",
+      "autoplay": false,
+      "muted": false,
+      "pictureInPicture": true,
+      "options": {
+        "html5": {
+          "hls": {},
+          "dash": {}
+        },
+      "infoScreen": {
+        "parent": "controlsContainer",
+        "align": "right",
+        "plugin": true
+      },
+      "liveStatus": {
+        "plugin": true
+      }
+
+      }
+    }
+  }
+  // },
+  // flashvars: {
+  // "chaptersView": {
+  // "thumbnailWidth" : "280",
+  // "horizontalChapterBoxWidth" : "550",
+  // "layout" : "vertical",
+  // "containerPosition" : "right",
+  // "thumbnailRotator" : true,
+  // "overflow" : false
+  // }
+  // },
+  // plugins: {
+  // "topBarContainer": {
+  // "plugin": true
+  // },
+  // "controlBarContainer": {
+  // "plugin": true,
+  // "hover": true
+  // },
+  // "scrubber": {
+  // "plugin": true
+  // },
+  // "largePlayBtn": {
+  // "plugin": true
+  // },
+  // "playHead": {
+  // "plugin": true
+  // },
+  // "playPauseBtn": {
+  // "plugin": true
+  // },
+  // "volumeControl": {
+  // "showSlider": true,
+  // "layout": "horizontal",
+  // "pinVolumeBar": false,
+  // "accessibleControls": true,
+  // "accessibleVolumeChange": 0.1,
+  // "plugin": true
+  // },
+  // "durationLabel": {
+  // "plugin": true
+  // },
+  // "currentTimeLabel": {
+  // "plugin": true
+  // },
+  // "keyboardShortcuts": {
+  // "volumePercentChange": "0.1",
+  // "shortSeekTime": 5,
+  // "longSeekTime": 10,
+  // "volumeUpKey": 38,
+  // "volumeDownKey": 40,
+  // "togglePlaybackKey": 32,
+  // "shortSeekBackKey": 37,
+  // "shortSeekForwardKey": 39,
+  // "openFullscreenKey": 70,
+  // "closeFullscreenkey": 27,
+  // "gotoBeginingKey": 36,
+  // "gotoEndKey": 35,
+  // "longSeekForwardKey": "ctrl+39",
+  // "longSeekBackKey": "ctrl+37",
+  // "percentageSeekKeys": "49,50,51,52,53,54,55,56,57",
+  // "plugin": true
+  // },
+  // "liveCore": {
+  // "plugin": true
+  // },
+  // "liveStatus": {
+  // "plugin": true
+  // },
+  // "liveBackBtn": {
+  // "plugin": true
+  // },
+  // "fullScreenBtn": {
+  // "plugin": true
+  // },
+  // "watermark": {
+  // "cssClass": "topRight",
+  // "img": "https://www.un.org/zh/inc/un-logo-watermark.png",
+  // "href": "//webtv.un.org",
+  // "hideTimeout": 0,
+  // "padding": 0,
+  // "plugin": true
+  // },
+  // "googleAnalytics": {
+  // "plugin": true
+  // },
+  // "audioSelector": {
+  // "defaultLang": "en",
+  // "plugin": true
+  // },
+  // "closedCaptions": {
+  // "layout": "ontop",
+  // "displayCaptions": true,
+  // "enableOptionsMenu": true,
+  // "fontFamily": "Arial",
+  // "fontsize": 12,
+  // "fontColor": "#000000",
+  // "bg": "#ffffff",
+  // "useGlow": false,
+  // "glowBlur": 0,
+  // "glowColor": "#ffffff",
+  // "showEmbeddedCaptions": true,
+  // "plugin": true,
+  // "useCookie": false,
+  // "hideWhenEmpty": true
+  // },
+  // "loadingSpinner": {
+  // "imageUrl": "",
+  // "lines": 10,
+  // "lineLength": 10,
+  // "width": 6,
+  // "radius": 12,
+  // "corners": 1,
+  // "rotate": 0,
+  // "direction": 1,
+  // "color": "rgb(0,154,218)|rgb(255,221,79)|rgb(0,168,134)|rgb(233,44,46)|rgb(181,211,52)|rgb(252,237,0)|rgb(0,180,209)|rgb(117,192,68)|rgb(232,44,46)|rgb(250,166,26)|rgb(0,154,218)|rgb(232,44,46)|rgb(255,221,79)|rgb(117,192,68)|rgb(232,44,46)",
+  // "speed": 1.6,
+  // "trail": 100,
+  // "shadow": false,
+  // "className": "spinner",
+  // "zIndex": 2000000000,
+  // "top": "auto",
+  // "left": "auto",
+  // "plugin": true
+  // },
+  // "infoScreen": {
+  // "parent": "controlsContainer",
+  // "align": "right",
+  // "plugin": true
+  // },
+  // "logo": {
+  // "img": "https://www.un.org/webcast/images/html5/UNWEBTV-logo.png",
+  // "href": "http://webtv.un.org",
+  // "title": "United Nations Web TV",
+  // "plugin": true
+  // },
+
+  // "plugin": true
+  // },
+  // "uiVars": [
+  // {
+  // "key": "chapters.plugin",
+  // "value": true,
+  // "overrideFlashvar": false
+  // }
+  // ]
+};
+
+
+// Screen Aspect ratio changes what needs to be hidden or not
+var screenRatio = jQuery(window).width() / jQuery(window).height();
+var screenWidth = jQuery(window).width()
+jQuery(window).resize(function () {
+  screenRatio = jQuery(window).width() / jQuery(window).height();
+  screenWidth = jQuery(window).width()
+  checkNav()
+});
+
+function checkNav() {
+  if (screenWidth < 992) {
+    if (screenRatio < 1) {
+      if (screenWidth > 720) {
+        jQuery('.brandbar-header').show()
+      } else {
+        jQuery('.brandbar-header').hide()
+      }
+      jQuery('.navbar').show()
+    } else {
+      jQuery('.brandbar-header').hide()
+      jQuery('.navbar').hide()
+    }
+  }
+}
+
+function showNav() {
+  if ((screenRatio >= 1) || (screenWidth >= 992)) {
+    jQuery('.brandbar-header').fadeIn()
+    jQuery('.navbar').fadeIn()
+  }
+}
+
+function hideNav() {
+  if ((screenRatio >= 1) || (screenWidth >= 992)) {
+    jQuery('.brandbar-header').fadeOut()
+    jQuery('.navbar').fadeOut()
+  }
+}
+
+
+jQuery(document).ready(function() {
+  if (mediaScheduled) {
+    showNav();
+    jQuery('#un3-video-overlay .un3-video-overlay-content').removeAttr("style");
+  }
+})
+if (!mediaScheduled) {
+// Menu appears on mouse move
+var timeout = null;
+
+jQuery(document).on('mousemove', function () {
+  clearTimeout(timeout);
+  if (!((screenRatio >= 1) && (screenWidth < 992))) {
+    showNav()
+  }
+
+  timeout = setTimeout(function () {
+    var scroll = jQuery(window).scrollTop();
+    if ((scroll == 0) && (!player.paused)) {
+      hideNav()
+    }
+  }, 2000);
+});
+
+// Menu appears on scroll
+jQuery(window).scroll(function (event) {
+  var scroll = jQuery(window).scrollTop();
+  if (scroll == 0) {
+    if (!player.paused) {
+      hideNav()
+    }
+  } else {
+    showNav()
+  }
+});
+
+
+// Hide and show page elements on load
+var isWebTVHome
+if (Drupal.settings.glimps_un_theme.media_scheduled == 1) {
+  isWebTVHome = true;
+}
+
+//var isMobile = Math.min(window.screen.width, window.screen.height) < 768 || //navigator.userAgent.indexOf('Mobi') > -1;
+//if (isMobile) {
+  //isWebTVHome = true;
+//}
+
+jQuery(() => {
+  if (!isWebTVHome) {
+    checkNav()
+  }
+  jQuery('.un3-video-cover').css('opacity', '0')
+  // jQuery('.un3-video-overlay-content').slideDown(500)
+  jQuery('.un3-video-overlay-content').css('opacity', '1')
+
+  player = getPlayer(playerConfig, mediaInfo);
+
+  player.ready().then(() => {
+    console.log('loaded')
+
+    // Make player bar same width as the rest of the UI.
+    jQuery('.playkit-bottom-bar').addClass("container")
+    jQuery('.playkit-bottom-bar').after("<div class='playkit-bottom-bar playkit-bottom-bar-background'></div>");
+    jQuery('.playkit-player').after("<div class='un-video-player-watermark'></div>")
+    jQuery('.playkit-time-display').before("<div class='playkit-webtv-logo'><span>UN Web TV</span></div>")
+    // jQuery('.playkit-time-display').after("<div class='playkit-chapters'><span>Chapters</span></div>")
+
+    // Replace text in language menu to the correct text.
+ // jQuery('.playkit-control-button-container').on('DOMNodeInserted', 'div', function () {
+ // console.log('cc')
+ // jQuery("#audioActive:contains('Arabic')").text("عربي");
+  // jQuery(".playkit-dropdown-menu-item span:contains('Arabic')").text("عربي");
+      
+  // jQuery("#audioActive:contains('Chinese')").text("中文");
+    // jQuery(".playkit-dropdown-menu-item span:contains('Chinese')").text("中文");
+      
+      // A temporary fix that avoids going into infinite loop.
+    // jQuery("#audioActive:contains('English')").html("E&#8205;nglish");
+      
+    // jQuery("#audioActive:contains('French')").text("Français");
+   // jQuery(".playkit-dropdown-menu-item span:contains('French')").text("Français");
+      
+    // jQuery("#audioActive:contains('Russian')").text("Pусский");
+// jQuery(".playkit-dropdown-menu-item span:contains('Russian')").text("Pусский");
+      
+ // jQuery("#audioActive:contains('Spanish')").text("Español");
+ // jQuery(".playkit-dropdown-menu-item span:contains('Spanish')").text("Español");
+      
+  // jQuery("#audioActive:contains('Interlingua')").text("Original");
+  // jQuery(".playkit-dropdown-menu-item span:contains('Interlingua')").text("Original");
+      
+ // jQuery("#audioActive:contains('Portuguese')").text("Português");
+ // jQuery(".playkit-dropdown-menu-item span:contains('Portuguese')").text("Português");
+      
+// jQuery("#audioActive:contains('Hindi')").text("हिन");
+  // jQuery(".playkit-dropdown-menu-item span:contains('Hindi')").text("हिन");
+
+  // jQuery("#audioActive:contains('French')").text("Français");
+   // jQuery(".playkit-dropdown-menu-item span:contains('French')").text("Français");
+// });
+
+    // Fade out menus and overlays if it's an asset page.
+// GS testing ... uncomment the whole if block
+//   if (!isWebTVHome) {
+//     timeout2 = setTimeout(function () {
+//       jQuery('.un3-video-cover').css('opacity', '0')
+//       jQuery('#un3-video-overlay').fadeOut(2000)
+//       hideNav()
+//       player.play()
+ //    }, 2000)
+ //  }
+// Onclick function for the overlay
+jQuery('#un3-video-overlay').click(() => {
+player.play()
+})
+    player.addEventListener(player.Event.Core.PAUSE, event => {
+      console.log('Video paused')
+      jQuery('#un3-video-overlay').fadeIn()
+      showNav()
+
+      if (isWebTVHome) {
+        // jQuery('.un3-cards-liveschedule').addClass('mt-sm-n7')
+        // jQuery('.un3-cards-liveschedule').removeClass('mt-n5 mt-sm-0')
+        // jQuery('.video-spacer').addClass('mb-5')
+      }
+      // if (isWebTVHome) { jQuery('.un3-cards-liveschedule').css('margin', '-12.5rem') }
+    });
+
+    player.addEventListener(player.Event.Core.PLAY, event => {
+      console.log('Video resumes')
+      hideNav()
+      jQuery('#un3-video-overlay').fadeOut("normal", () => {
+        if (isWebTVHome) {
+          jQuery('.un3-video-overlay').removeClass('un-video-overlay-index-fresh')
+        }
+      })
+      if (isWebTVHome) {
+        // jQuery('.un3-cards-liveschedule').removeClass('mt-sm-n7')
+        // jQuery('.video-spacer').removeClass('mb-5')
+        // jQuery('.un3-cards-liveschedule').addClass('mt-n5 mt-sm-0')
+      }
+    });
+
+    jQuery('.playkit-chapters').click( () => {
+      if (player.paused) {
+        player.play()
+        jQuery('.un3-video-overlay-chapters').hide()
+        jQuery('.un3-video-overlay-chapters').css('opacity', '0')
+        jQuery('.un3-video-overlay-content').delay(3000).show()
+      } else {
+        player.pause()
+        jQuery('.un3-video-overlay-content').hide()
+        jQuery('.un3-video-overlay-chapters').show()
+        jQuery('#un3-video-overlay').fadeIn()
+        jQuery('.un3-video-overlay-chapters').css('opacity', '1')
+      }
+    })
+
+  });
+})
+
+
+// Video play button
+jQuery('.un3-video-play-button').click(() => {
+  player.play()
+})
+}
+
+// A simple load video function
+function loadMedia(entryID) {
+  mediaInfo = {
+    entryId: entryID
+  };
+  player.loadMedia(mediaInfo)
+  player.ready().then(() => {
+    console.log('loaded')
+    jQuery('.playkit-bottom-bar').addClass("container")
+    jQuery('.playkit-bottom-bar').after("<div class='playkit-bottom-bar playkit-bottom-bar-background'></div>");
+    player.play()
+  })
+}
+
+
+// For UN Web TV Home, clicking on videos on live schedule replaces top video.
+jQuery(document).ready(function () {
+  jQuery('.un3-cards-liveschedule a.card-link').click(function () {
+    jQuery('.un3-cards-liveschedule a.card-link').removeClass('active')
+
+    if (mediaInfo.entryId != jQuery(this).attr('data-entryid')) {
+      jQuery(this).addClass('active')
+      var entryID = jQuery(this).attr('data-entryid')
+      //loadMedia(entryID)
+      //window.scroll({
+        //top: 0, behavior: 'smooth'
+      //});
+    } else {
+      if (player.paused) {
+        player.play()
+      } else {
+        player.pause()
+      }
+    }
+  })
+})
+</script> 
+</section>
+<section id="block-block-15" class="block block-block clearfix">
+
+      
+  <p><section class="un3-signup pb-5"></section></p>
+<div class="container bg-primary" style="height: 600px; background: url('/sites/all/themes/custom/glimps_un_theme/assets/images/un-signup-backdrop2.png'); background-size: cover;">
+<div class="row d-flex align-items-center h-100">
+<div class="col-8 offset-2 text-center">
+<h2>Be the first to know of important upcoming events.</h2>
+<p>Sign up to receive our daily live coverage schedule and selected video clips.</p>
+<p><a class="btn btn-lg btn-primary mt-3" href="/en/webtv/register" type="button">Sign Up</a></p></div>
+</div>
+</div>
+<p></p>
+
+</section>
+  </div>
+</main>
+
+<footer class="text-white-75">
+  <div class="container-fluid bg-dark footer-sitemap d-none d-sm-block">
+    <div class="container">
+      <div class="row pt-4">
+        <div class="col-6 col-md-4 col-lg-3 mb-4">
+            <div class="region region-footer-tab1">
+    <section id="block-block-2" class="block block-block clearfix">
+
+      
+  <h4>UN Media Sites</h4>
+<ul class="list-unstyled"><!--<li><a href="#">Media Home</a></li>--><li><a href="/en/about-us">About UN Media Sites</a></li>
+<li><a href="/en/about-us">Information for Broadcasters</a></li>
+<!--<li><a href="#">Contact Us</a></li>--></ul>
+</section>
+  </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3 mb-4">
+            <div class="region region-footer-tab2">
+    <section id="block-block-3" class="block block-block clearfix">
+
+      
+  <h4>UN Web TV</h4>
+<ul class="list-unstyled"><li><a href="/en/webtv">UN Web TV Home</a></li>
+<li><a href="/en/webtv/schedule">Live Schedule</a></li>
+<li><a href="/en/webtv/register">Sign Up to Receive Live Schedule</a></li>
+</ul>
+</section>
+  </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3 mb-4">
+            <div class="region region-footer-tab3">
+    <section id="block-block-4" class="block block-block clearfix">
+
+      
+  <h4>UN Audiovisual Library</h4>
+<ul class="list-unstyled"><li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/" target="_blank" rel="noopener">UN Audiovisual Library Home</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/content/licensing/" target="_blank" rel="noopener">Copyright &amp; Licensing</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/content/FAQs/" target="_blank" rel="noopener">FAQ</a></li>
+<li><a class="link-external" href="http://www.unmultimedia.org/accounts/request.html?app=30&amp;lang=en" target="_blank" rel="noopener">Request for Media</a></li>
+</ul>
+</section>
+  </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3 mb-4">
+            <div class="region region-footer-tab4">
+    <section id="block-block-5" class="block block-block clearfix">
+
+      
+  <h4>UN Photo</h4>
+<ul class="list-unstyled"><li><a class="link-external" href="https://dam.media.un.org/" target="_blank" rel="noopener">UN Photos Home</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/CS.aspx?VP3=DamView&amp;VBID=2AM94SCXBEN" target="_blank" rel="noopener">Latest Photos</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/CMS4/Brand/Root/UN-Photo-Usage-Guidelines" target="_blank" rel="noopener">Photo Usage Guidelines</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/CMS4/Brand/Root/UN-Phographers-Guidelines" target="_blank" rel="noopener">Photographers Guidelines</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/CMS4/Brand/Root/FAQ" target="_blank" rel="noopener">FAQ</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/CMS4/Brand/Root/Visual-Aids" target="_blank" rel="noopener">Learning Tools</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/C.aspx?VP3=CMS3&amp;VF=COROLX_28" target="_blank" rel="noopener">Research Request</a></li>
+</ul>
+</section>
+  </div>
+        </div>
+      </div>
+      <div class="row d-flex align-items-stretch">
+        <div class="col-6 col-md-4 col-lg-3 mb-4">
+            <div class="region region-footer-tab11">
+    <section id="block-block-6" class="block block-block clearfix">
+
+      
+  <h5 class="text-primary">Categories</h5>
+<h6 class="text-white">Media</h6>
+<ul class="list-unstyled"><li><a href="/en/search/categories/media/media-stakeouts">Media Stakeouts</a></li>
+<li><a href="/en/search/categories/media/press-conferences">Press Conferences</a></li>
+</ul><h6 class="text-white">Meetings &amp; Events</h6>
+<ul class="list-unstyled"><li><a href="/en/search/categories/meetings-events/concerts">Concerts</a></li>
+<li><a href="/en/search/categories/meetings-events/conferences">Conferences</a></li>
+<li><a href="/en/search/categories/meetings-events/economic-and-social-council">Economic and Social Council</a></li>
+<li><a href="/en/search/categories/meetings-events/general-assembly">General Assembly</a></li>
+<li><a href="/en/search/categories/meetings-events/high-level-events">High Level Events</a></li>
+<li><a href="/en/search/categories/meetings-events/human-rights-council">Human Rights Council</a></li>
+<li><a href="/en/search/categories/meetings-events/human-rights-treaty-bodies">Human Rights Treaty Bodies</a></li>
+<li><a href="/en/search/categories/meetings-events/international-court-justice">International Court of Justice</a></li>
+<li><a href="/en/search/categories/meetings-events/security-council">Security Council</a></li>
+<li><a href="/en/search/categories/meetings-events/side-events">Side Events</a></li>
+<li><a href="/en/search/categories/meetings-events/trusteeship-council">Trusteeship Council</a></li>
+</ul>
+</section>
+  </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3 mb-4">
+            <div class="region region-footer-tab21">
+    <section id="block-block-7" class="block block-block clearfix">
+
+      
+  <h5 class="text-primary"> </h5>
+<h6 class="text-white">News &amp; Features</h6>
+<ul class="list-unstyled"><li><a href="/en/search/categories/news-features/audiovisual-library-international-law">Audiovisual Library of International Law</a></li>
+<li><a href="/en/search/categories/news-features/features">Features</a></li>
+<li><a href="/en/search/categories/news-features/hungry-planet-series-ifad">Hungry Planet Series (IFAD)</a></li>
+<li><a href="/en/search/categories/news-features/interviews">Interviews</a></li>
+<li><a href="/en/search/categories/news-features/messages">Messages</a></li>
+<li><a href="/en/search/categories/news-features/news-stories">News Stories</a></li>
+<li><a href="/en/search/categories/news-features/un-dag-hammarskj%C3%B6ld-library">UN Dag Hammarskjöld Library</a></li>
+</ul><h6 class="text-white">UN Officials</h6>
+<ul class="list-unstyled"><li><a href="/en/search/categories/un-officials/deputy-secretary-general">Deputy Secretary-General</a></li>
+<li><a href="/en/search/categories/un-officials/secretary-general">Secretary-General</a></li>
+</ul>
+</section>
+  </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3 mb-4">
+            <div class="region region-footer-tab31">
+    <section id="block-block-8" class="block block-block clearfix">
+
+      
+  <h5 class="text-primary">Series</h5>
+<ul class="list-unstyled"><li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/search/search.jsp?fromManualDate=&amp;toManualDate=&amp;series=21st+Century&amp;q=&amp;lang=" target="_blank" rel="noopener">21st Century</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/search/search.jsp?fromManualDate=&amp;toManualDate=&amp;series=International+Zone&amp;q=&amp;lang=" target="_blank" rel="noopener">International Zone</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/search/search.jsp?fromManualDate=&amp;toManualDate=&amp;series=League+of+Nations&amp;q=&amp;lang=" target="_blank" rel="noopener">League of Nations</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/search/search.jsp?fromManualDate=&amp;toManualDate=&amp;series=Man+Builds%2C+Man+Destroys&amp;q=&amp;lang=" target="_blank" rel="noopener">Man Builds, Man Destroys</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/tv/unifeed/" target="_blank" rel="noopener">UNifeed</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/search/search.jsp?fromManualDate=&amp;toManualDate=&amp;series=UN+in+Action&amp;q=&amp;lang=" target="_blank" rel="noopener">UN in Action</a></li>
+<li><a class="link-external" href="#">UN Stories</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/classics/" target="_blank" rel="noopener">UN Radio Classics</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/search/search.jsp?fromManualDate=&amp;toManualDate=&amp;series=Vignette&amp;q=&amp;lang=" target="_blank" rel="noopener">Vignette</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/avlibrary/search/search.jsp?fromManualDate=&amp;toManualDate=&amp;series=World+Chronicle&amp;q=&amp;lang=">World Chronicle</a></li>
+</ul>
+</section>
+  </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3 mb-4">
+            <div class="region region-footer-tab41">
+    <section id="block-block-9" class="block block-block clearfix">
+
+      
+  <h5 class="text-primary">Photo Collections</h5>
+<ul class="list-unstyled mb-4"><li><a class="link-external" href="https://dam.media.un.org/asset-management/2AM9LOGTTCC3" target="_blank" rel="noopener">2020 in Photos</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/asset-management/2AM9LODUUJJ1" target="_blank" rel="noopener">2019 in Photos</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/CS.aspx?VP3=DamView&amp;VBID=2AM94S62H017&amp;PN=1&amp;WS=SearchResults" target="_blank" rel="noopener">Archived Photos</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/asset-management/2AM9LODUDQI7" target="_blank" rel="noopener">Art and Architecture at the UN</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/asset-management/2AM9LODUU997" target="_blank" rel="noopener">Behind the Scenes at the UN</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/asset-management/2AM9LODUUBBX" target="_blank" rel="noopener">Blue Helmets a nd Blue Berets</a></li>
+<li><a class="link-external" href="https://dam.media.un.org/Package/2AM9LOT_4" target="_blank" rel="noopener">All Collections</a></li>
+</ul><h5 class="text-primary">Related Links</h5>
+<ul class="list-unstyled"><li><a class="link-external" href="https://news.un.org/en/">UN News</a></li>
+<li><a class="link-external" href="https://www.un.org/press/en" target="_blank" rel="noopener">Meetings Coverage</a></li>
+<li><a class="link-external" href="https://www.un.org/en/media/accreditation/" target="_blank" rel="noopener">Media Accreditation and Liaison Unit (MALU)</a></li>
+<li><a class="link-external" href="https://www.unmultimedia.org/tv/unifeed/" target="_blank" rel="noopener">UNifeed</a></li>
+</ul>
+</section>
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid bg-secondary footer-links">
+    <div class="container p-0 pl-md-3 pr-md-3">
+        <div class="region region-footer">
+    <section id="block-block-10" class="block block-block clearfix">
+
+      
+  <div class="row align-items-center w-100x">
+                        <div class="align-items-center col-12 col-md-3 d-flex">
+                            <a class="logo navbar-btn pull-left flip" href="/en" title="United Nations">&nbsp;</a>
+                            <a class="navbar-brand pull-left flip" href="/en" title="UN Web TV - Live Video and On-Demand">Media</a>
+                        </div>
+                        <div class="align-items-center col-12 col-md-9 d-flex flex-wrap justify-content-start justify-content-md-end">
+                            <a href="http://www.youtube.com/user/unitednations" target="_blank"><div class="media mr-3 py-1">
+                                    <i class="bi-youtube mr-1" style="font-size: 1rem; color: white;"></i>
+                                    <div class="media-body">
+                                        <p class="my-0"><strong>UnitedNations</strong></p>
+                                    </div>
+                                </div></a>
+                            <a href="http://www.facebook.com/unwebtv" target="_blank"><div class="media mr-3 py-1">
+                                    <i class="bi-facebook mr-1" style="font-size: 1rem; color: white;"></i>
+                                    <div class="media-body">
+                                        <p class="my-0"><strong>UNWebTV</strong></p>
+                                    </div>
+                                </div></a>
+                            <a href="http://twitter.com/unwebtv" target="_blank"><div class="media mr-3 py-1">
+                                    <i class="bi-twitter mr-1" style="font-size: 1rem; color: white;"></i>
+                                    <div class="media-body">
+                                        <p class="my-0"><strong>UNWebTV</strong></p>
+                                    </div>
+                                </div></a>
+                            <a href="https://twitter.com/un_photo" target="_blank"><div class="media mr-3 py-1">
+                                    <i class="bi-twitter mr-1" style="font-size: 1rem; color: white;"></i>
+                                    <div class="media-body">
+                                        <p class="my-0"><strong>UN_Photos</strong></p>
+                                    </div>
+                                </div></a>
+                            <a href="https://www.un.org/en/about-us/how-to-donate-to-the-un-system" target="_blank"><button type="button" class="btn btn-primary text-nowrap my-1">
+                                <i class="bi-heart mr-1"></i>
+                                Donate
+                                <span class="d-none d-lg-inline"> to the UN</span>
+                            </button></a>
+                        </div>
+                    </div>
+</section>
+  </div>
+        <div class="region region-footer-bottom">
+    <section id="block-block-11" class="block block-block clearfix">
+
+      
+  <div class="row">
+<div class="col-md-12 d-flex justify-content-end pb-5 pb-md-0">
+<ul class="nav"><li class="nav-item"><a class="nav-link" href="https://www.un.org/en/site-index" target="_blank" rel="noopener">A-Z Site Index</a></li>
+<li class="nav-item"><a class="nav-link" href="/en/copyright_use">Copyright</a></li>
+<li class="nav-item"><a class="nav-link" href="https://www.un.org/en/about-us/frequently-asked-questions" target="_blank" rel="noopener">FAQ</a></li>
+<li class="nav-item"><a class="nav-link" href="https://www.un.org/en/about-us/fraud-alert" target="_blank" rel="noopener">Fraud Alert</a></li>
+<li class="nav-item"><a class="nav-link" href="https://www.un.org/en/about-us/privacy-notice" target="_blank" rel="noopener">Privacy Notice</a></li>
+<li class="nav-item"><a class="nav-link" href="https://www.un.org/en/about-us/terms-of-use" target="_blank" rel="noopener">Terms of Use</a></li>
+<li class="nav-divider"> </li>
+<li class="nav-item"><a class="nav-link" href="/interpretation_disclaimer">Interpretation Disclaimer</a></li>
+<li class="nav-item"><a class="nav-link" href="http://www.unmultimedia.org/accounts/request.html?app=30&amp;lang=en" target="_blank" rel="noopener">Request for Footage</a></li>
+<!--<li class="nav-item"><a class="nav-link" href="http://www.unmultimedia.org/accounts/contact_us.html?app=30&amp;lang=en" target="_blank" rel="noopener">Contact Us</a></li>--></ul></div>
+</div>
+
+</section>
+  </div>
+    </div>
+  </div>
+</footer>
+  <script src="https://www.googletagmanager.com/gtag/js?id=G-4S8P38V3DB"></script>
+<script>window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-4S8P38V3DB');</script>
+<script src="https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/js/slick.min.js?qzef2k"></script>
+<script src="https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/js/moment.min.js?qzef2k"></script>
+<script src="https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/js/moment-timezone-with-data.min.js?qzef2k"></script>
+<script>var isWebTVHome = true;</script>
+<script src="https://media.un.org/sites/all/themes/custom/glimps_un_theme/assets/js/webtv.js?qzef2k"></script>
+<script src="https://media.un.org/sites/all/themes/bootstrap/js/bootstrap.js?qzef2k"></script>
+</body>
+</html>
