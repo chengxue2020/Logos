@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+<script async src="/sites/default/files/google_analytics/gtag.js?swq3lk"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-01MXEHCYEL", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});gtag("config", "UA-34077439-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});</script>
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://rand.gatech.edu/" : "http://rand.gatech.edu/");_paq.push(["setSiteId", "3"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/contrib/gt_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://chemistry.gatech.edu/home" />
+<link rel="shortlink" href="https://chemistry.gatech.edu/node/4028" />
+
+    <title>Home | School of Chemistry &amp; Biochemistry</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/modules/contrib/hg_reader/css/hg-reader.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/layout_builder/layouts/twocol_section/twocol_section.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/core/modules/layout_discovery/layouts/onecol/onecol.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/modules/contrib/social_media_links/css/social_media_links.theme.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/templates/block/basic_block/css/gt-basic-block.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/gt-webform.css?swq3lk" />
+<link rel="stylesheet" media="all" href="//cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&amp;display=swap" />
+<link rel="stylesheet" media="all" href="//use.typekit.net/ymn0bgw.css" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/gt-root-variables.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/gt-header.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/gt-menu.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/gt-search.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/gt-general.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/gt-footer.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/gt-layout-builder.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/themes/contrib/gt_theme/css/theme-settings.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/homepage-dff959035aad03312e2afb6656337a71.css?swq3lk" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/universal-14eb95c63affc9326da5ee1466451e9f.css?swq3lk" />
+
+    
+          <style>
+        h3, h4, h5, h6 { color: var(--gt-gray); }.views-element-container h2 { border-bottom: 2px solid var(--gt-black); }.mercury img { border-radius: 0.35rem; }.mercury .date-wrapper {background: var(--gt-warm-gray-light);border: none;border-radius: 0.35rem;}.mercury .day, .mercury .day-multi { text-transform: none; }
+      </style>
+          </head>
+  <body class="path-home page-node-4028 role-anonymous frontpage node--type-page">
+<a href="#main-navigation" class="visually-hidden focusable">
+    Skip to main navigation
+</a>
+<a href="#main-content" class="visually-hidden focusable">
+    Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <header id="gt-header" role="banner">
+                              
+<div class="container-fluid bg-gold-grad px-0">
+  <div class="container">
+    <div class="row">
+      <div class="col" id="gt-logo">
+        <a href="https://gatech.edu/" title="Georgia Institute of Technology" rel="home"
+          class="site-branding-logo">
+          <img class="gt-logo" src="/themes/contrib/gt_theme/logo.svg" width="244px" height="42px"
+             alt="Georgia Institute of Technology"/>
+        </a>
+      </div>
+      <div id="mobile-button" class="col d-lg-none">
+        <button class="navbar-toggler float-end" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarGTContent" aria-controls="navbarGTContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon w-100"></span>
+          <span class="navbar-toggler-text w-100">MENU</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col" id="site-name-slogan-wrapper">
+                    <div class="site-title-multiple">
+          <h2 class="site-name">
+            <a href="/" title="School of Chemistry &amp; Biochemistry" aria-label="School of Chemistry &amp; Biochemistry">
+              School of Chemistry &amp; Biochemistry
+            </a>
+          </h2>
+          <h3 class="site-slogan"><a href="https://cos.gatech.edu/" title="College of Sciences"
+                        aria-label="College of Sciences">
+              College of Sciences</a>
+          </h3>
+        </div>
+                  </div>
+  </div>
+</div>
+
+
+                  <div class="container my-2">
+        <nav class="navbar navbar-expand-lg">
+            <div class="page-navigation main-nav collapse navbar-collapse" id="navbarGTContent">
+                                                                            <a id="main-navigation"></a>
+                          <div>
+    <nav role="navigation" aria-labelledby="block-gt-main-menu-menu" id="block-gt-main-menu">
+            
+  <h2 class="visually-hidden" id="block-gt-main-menu-menu">Main navigation</h2>
+  
+
+        
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                    <li class="nav-item menu-item--expanded menu-item--level-1 dropdown">
+                                                    <a href="/about" class="nav-link dropdown-toggle nav-link--about" data-bs-toggle="dropdown">About</a>
+                                <ul class="dropdown-menu menu--level-2">
+                                        <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/chair-letter" class="nav-link--chair-letter" data-drupal-link-system-path="node/2729">Letter from the Chair</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/mission-vision" class="nav-link--mission-vision" data-drupal-link-system-path="node/2730">Mission &amp; Vision</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/school-leadership" class="nav-link--school-leadership" data-drupal-link-system-path="node/2745">School Leadership</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/advisory-council" class="nav-link--advisory-council" data-drupal-link-system-path="node/2755">Advisory Council</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/faculty-awards-0" class="nav-link--faculty-awards-0" data-drupal-link-system-path="node/4067">Awards</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/employment-opportunities" class="nav-link--employment-opportunities" data-drupal-link-system-path="node/2752">Employment Opportunities</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/visit-us" class="nav-link--visit-us" data-drupal-link-system-path="node/2735">Visit Us</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/social-media" class="nav-link--social-media" data-drupal-link-system-path="node/4395">Social Media</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/internal" class="nav-link--internal" data-drupal-link-system-path="node/4309">Internal</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="nav-item menu-item--expanded menu-item--level-1 dropdown">
+                                                    <a href="/undergraduate-programs" class="nav-link dropdown-toggle nav-link--undergraduate-programs" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2732">Undergraduate Programs</a>
+                                <ul class="dropdown-menu menu--level-2">
+                                        <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/undergraduate-programs" class="nav-link--undergraduate-programs" data-drupal-link-system-path="node/2732">Overview</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/academics" class="nav-link--academics" data-drupal-link-system-path="node/2733">Academics</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/chemistry" class="nav-link--chemistry" data-drupal-link-system-path="node/2780">B.S Chemistry Program</a>
+                            </li>
+                                <li class="dropdown-item menu-item--expanded menu-item--level-2 dropdown">
+                                                    <a href="/undergraduate-student-awards" class="dropdown-toggle nav-link--undergraduate-student-awards" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2751">Undergraduate Awards</a>
+                                <ul class="dropdown-menu menu--level-3">
+                                        <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/undergraduate-student-awards" class="nav-link--undergraduate-student-awards" data-drupal-link-system-path="node/2751">Award Winners</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/undergraduate-award-descriptions" class="nav-link--undergraduate-award-descriptions" data-drupal-link-system-path="node/4500">Descriptions</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/biochemistry" class="nav-link--biochemistry" data-drupal-link-system-path="node/2781">B.S. Biochemistry Progam</a>
+                            </li>
+                                <li class="dropdown-item menu-item--expanded menu-item--level-2 dropdown">
+                                                    <a href="/undergraduate-research-overview" class="dropdown-toggle nav-link--undergraduate-research-overview" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2789">Undergraduate Research</a>
+                                <ul class="dropdown-menu menu--level-3">
+                                        <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/undergraduate-research-overview" class="nav-link--undergraduate-research-overview" data-drupal-link-system-path="node/2789">Overview</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/bagwell-undergraduate-research-fellowships" class="nav-link--bagwell-undergraduate-research-fellowships" data-drupal-link-system-path="node/2790">Bagwell Fellowships</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/bagwell-fellows-presentations" class="nav-link--bagwell-fellows-presentations" data-drupal-link-system-path="node/3697">Bagwell Fellows Presentations</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/conference-travel-funds" title="Funds for presenting research at conferences." class="nav-link--conference-travel-funds" data-drupal-link-system-path="node/3783">Conference Travel Funds</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/undergraduate-publications" class="nav-link--undergraduate-publications" data-drupal-link-system-path="node/3690">Undergraduate Publications</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/5-year-bs-ms-option" class="nav-link-__-year-bs-ms-option" data-drupal-link-system-path="node/3382">5-year BS/MS option</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/undergraduate-courses-registration" class="nav-link--undergraduate-courses-registration" data-drupal-link-system-path="node/2782">Courses &amp; Registration</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/prospective-undergraduates" class="nav-link--prospective-undergraduates" data-drupal-link-system-path="node/3636">Prospective Undergraduates</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/minors" class="nav-link--minors" data-drupal-link-system-path="node/2787">Minors</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/advising" class="nav-link--advising" data-drupal-link-system-path="node/2788">Advising</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/study-abroad" class="nav-link--study-abroad" data-drupal-link-system-path="node/2792">Study Abroad</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/careers" class="nav-link--careers" data-drupal-link-system-path="node/2793">Careers</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/teaching-assistant-positions" title="Information for undergraduates or Masters students interested in a TA position." class="nav-link--teaching-assistant-positions" data-drupal-link-system-path="node/3647">Teaching Assistantships</a>
+                            </li>
+                                <li class="dropdown-item menu-item--expanded menu-item--level-2 dropdown">
+                                                    <a href="/first-year-chemistry-program" class="dropdown-toggle nav-link--first-year-chemistry-program" data-bs-toggle="dropdown" data-drupal-link-system-path="node/3329">First-year Chemistry Program</a>
+                                <ul class="dropdown-menu menu--level-3">
+                                        <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/advanced-placement-sat-ii-and-ib-credit" class="nav-link--advanced-placement-sat-ii-and-ib-credit" data-drupal-link-system-path="node/2786">Advanced Placement, SAT II, and IB Credit</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/first-year-chemistry-program" class="nav-link--first-year-chemistry-program" data-drupal-link-system-path="node/3329">About</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/first-year-chemistry-faculty-staff" class="nav-link--first-year-chemistry-faculty-staff" data-drupal-link-system-path="node/2784">Faculty &amp; Staff</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/first-year-chemistry-resources" class="nav-link--first-year-chemistry-resources" data-drupal-link-system-path="node/2785">Resources</a>
+                            </li>
+            </ul>
+        
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="nav-item menu-item--expanded menu-item--level-1 dropdown">
+                                                    <a href="/graduate" class="nav-link dropdown-toggle nav-link--graduate" data-bs-toggle="dropdown">Graduate Programs</a>
+                                <ul class="dropdown-menu menu--level-2">
+                                        <li class="dropdown-item menu-item--expanded menu-item--level-2 dropdown">
+                                                    <a href="/graduate/current-students" class="dropdown-toggle nav-link--graduate-current-students" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2742">Current Students</a>
+                                <ul class="dropdown-menu menu--level-3">
+                                        <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate/current-students" class="nav-link--graduate-current-students" data-drupal-link-system-path="node/2742">Overview</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-program-committee" class="nav-link--graduate-program-committee" data-drupal-link-system-path="node/3403">Graduate Program Committee</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-handbook" class="nav-link--graduate-handbook" data-drupal-link-system-path="node/3380">Graduate Handbook</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-academic-forms" class="nav-link--graduate-academic-forms" data-drupal-link-system-path="node/2743">Graduate Forms</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-courses" class="nav-link--graduate-courses" data-drupal-link-system-path="node/2771">Graduate Courses</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-enrollment-and-registration" class="nav-link--graduate-enrollment-and-registration" data-drupal-link-system-path="node/2772">Enrollment and Registration</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="https://forms2.cos.gatech.edu/form/graduate-student-orientation" class="nav-link-https--forms2cosgatechedu-form-graduate-student-orientation">New Graduate Student Resources</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-student-awards" class="nav-link--graduate-student-awards" data-drupal-link-system-path="node/2753">Graduate Awards</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="https://chemistry.gatech.edu/graduate-student-organizations" class="nav-link-https--chemistrygatechedu-graduate-student-organizations">Graduate Student Organizations</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="dropdown-item menu-item--expanded menu-item--level-2 dropdown">
+                                                    <a href="/prospective-graduate-students" class="dropdown-toggle nav-link--prospective-graduate-students" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2774">Prospective Students</a>
+                                <ul class="dropdown-menu menu--level-3">
+                                        <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-degree-programs" class="nav-link--graduate-degree-programs" data-drupal-link-system-path="node/2775">Degree Programs</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/admission-review-criteria" class="nav-link--admission-review-criteria" data-drupal-link-system-path="node/2776">Admission Criteria</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-admission" class="nav-link--graduate-admission" data-drupal-link-system-path="node/2778">Apply</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-program-contacts" class="nav-link--graduate-program-contacts" data-drupal-link-system-path="node/2779">Contacts</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-program-faq" class="nav-link--graduate-program-faq" data-drupal-link-system-path="node/2777">FAQ</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/graduate/overview" class="nav-link--graduate-overview" data-drupal-link-system-path="node/2739">Program Overview</a>
+                            </li>
+                                <li class="dropdown-item menu-item--expanded menu-item--level-2 dropdown">
+                                                    <a href="/graduate/overview" class="dropdown-toggle nav-link--graduate-overview" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2739">About</a>
+                                <ul class="dropdown-menu menu--level-3">
+                                        <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/graduate-programs" class="nav-link--graduate-programs" data-drupal-link-system-path="node/2741">Graduate Programs</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-3">
+                                                    <a href="/research-themes" class="nav-link--research-themes" data-drupal-link-system-path="node/2740">Research Themes</a>
+                            </li>
+            </ul>
+        
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="nav-item menu-item--expanded menu-item--level-1 dropdown">
+                                                    <a href="/research" class="nav-link dropdown-toggle nav-link--research" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2737">Research</a>
+                                <ul class="dropdown-menu menu--level-2">
+                                        <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/research-themes" class="nav-link--research-themes" data-drupal-link-system-path="node/2740">Research Themes</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/research-centers" class="nav-link--research-centers" data-drupal-link-system-path="node/2769">Research Centers</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="https://chemistry.gatech.edu/traditional-divisions" title="Faculty by division" class="nav-link-https--chemistrygatechedu-traditional-divisions">Traditional Divisions</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/facilities-services" class="nav-link--facilities-services" data-drupal-link-system-path="node/2768">Facilities &amp; Services</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/conferences" class="nav-link--conferences" data-drupal-link-system-path="node/2767">Conferences</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="nav-item menu-item--expanded menu-item--level-1 dropdown">
+                                                    <a href="/safety" class="nav-link dropdown-toggle nav-link--safety" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2744">Safety</a>
+                                <ul class="dropdown-menu menu--level-2">
+                                        <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/safety-links" class="nav-link--safety-links" data-drupal-link-system-path="node/2766">Safety Links</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/important-contact-information" class="nav-link--important-contact-information" data-drupal-link-system-path="node/2758">Important Contact Information</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/emergencies" class="nav-link--emergencies" data-drupal-link-system-path="node/2759">Emergencies</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/training-programs" class="nav-link--training-programs" data-drupal-link-system-path="node/2760">Training &amp; Programs</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/safety-procedures" class="nav-link--safety-procedures" data-drupal-link-system-path="node/2761">Safety Procedures</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/safety-data-sheets" class="nav-link--safety-data-sheets" data-drupal-link-system-path="node/2762">Material Safety Data Sheet</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/safety-resources" class="nav-link--safety-resources" data-drupal-link-system-path="node/2763">Resources</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/forms-signages" class="nav-link--forms-signages" data-drupal-link-system-path="node/2764">Forms &amp; Signages</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/hazardous-gases-program" class="nav-link--hazardous-gases-program" data-drupal-link-system-path="node/2765">Hazardous Gases Program</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="nav-item menu-item--expanded menu-item--level-1 dropdown">
+                                                    <a href="/people" class="nav-link dropdown-toggle nav-link--people" data-bs-toggle="dropdown" data-drupal-link-system-path="people">People</a>
+                                <ul class="dropdown-menu menu--level-2">
+                                        <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/faculty/academic-faculty-PI" class="nav-link--faculty-academic-faculty-pi" data-drupal-link-system-path="faculty/academic-faculty-PI">Academic Faculty - Tenure Track</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/faculty/instructional" class="nav-link--faculty-instructional" data-drupal-link-system-path="faculty/instructional">Academic Faculty - Instructional</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/faculty/research" class="nav-link--faculty-research" data-drupal-link-system-path="faculty/research">Research Faculty</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/faculty/professor-of-practice" class="nav-link--faculty-professor-of-practice" data-drupal-link-system-path="faculty/professor-of-practice">Professors of the Practice</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/faculty/adjunct" class="nav-link--faculty-adjunct" data-drupal-link-system-path="faculty/adjunct">Adjunct Faculty</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/faculty/emeritus" class="nav-link--faculty-emeritus" data-drupal-link-system-path="faculty/emeritus">Emeritus Faculty</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/staff" class="nav-link--staff" data-drupal-link-system-path="node/2871">Staff</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="nav-item menu-item--expanded menu-item--level-1 dropdown">
+                                                    <a href="/alumni-friends" class="nav-link dropdown-toggle nav-link--alumni-friends" data-bs-toggle="dropdown" data-drupal-link-system-path="node/2746">Alumni &amp; Friends</a>
+                                <ul class="dropdown-menu menu--level-2">
+                                        <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/giving" class="nav-link--giving" data-drupal-link-system-path="node/2750">Giving</a>
+                            </li>
+                                <li class="dropdown-item menu-item--level-2">
+                                                    <a href="/alumni-friends" class="nav-link--alumni-friends" data-drupal-link-system-path="node/2746">Alumni &amp; Friends</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="nav-item menu-item--level-1">
+                                                    <a href="https://cos.gatech.edu/giving" class="nav-link nav-link-https--cosgatechedu-giving">Give</a>
+                            </li>
+            </ul>
+        
+
+
+  </nav>
+
+  </div>
+
+                                                                <div id="utility-search-wrapper" class="ml-auto d-sm-block d-md-flex justify-content-end flex-grow-1">
+                                                            <div class="utility-navigation float-start">
+                            
+                        </div>
+                                                                                                                <!-- Trigger Buttons HTML -->
+                        <a href="#search-container" class="gt-search" title="search" data-bs-toggle="collapse"
+                           data-bs-target="#gt-search"><i class="fas fa-search d-none d-md-block"></i></a>
+                        <!-- Collapsible Element HTML -->
+                        <div id="search-container">
+                            <div id="gt-search" class="collapse absolute">
+                                  <div class="mx-auto">
+    <div class="search-block-form block block-search container-inline mt-4" data-drupal-selector="search-block-form" id="block-gt-search" role="search">
+  
+      <h2>Search</h2>
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." placeholder="Search here..." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input alt="Search submit" class="btn btn-default button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="GO" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+                            </div>
+                        </div>
+                                                   </div>
+            </div>
+        </nav>
+    </div>
+</header>
+<div role="main" class="main-container gt-body-page js-quickedit-main-content ">
+                <div class="container">
+                                            <div id="gt-help" role="complementary">
+                    
+                </div>
+                                                                                <div id="gt-breadcrumbs-title" class="breadcrumb-links" role="complementary">
+                      <div>
+    
+
+<div id="block-gt-page-title" class="block block-core page_title_block">
+    
+        
+                <div id="gt-page-title" role="heading" aria-level="1">
+        <h1 class="page-title">
+<span>Home</span>
+</h1>
+    </div>
+
+    </div>
+
+  </div>
+
+                </div>
+                                                                <div id="gt-before-content" class="before-content" role="complementary">
+                      <div>
+    
+
+
+
+
+<div id="block-hpnewshero" class="block block-block-content block-block-contentb217cd51-c3c9-45b4-9208-d22334d64860 gt-basic-block my-3 clearfix">
+    
+        
+              <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item my-3"><div class="section-with-divider" id="gt-news-banner"><div id="gt-news-zone1"><article class="gt-news gt-news-main"><a href="https://chemistry.gatech.edu/news/celebration-research-service-and-alumni-2025-spring-symposium"><img src="/sites/default/files/inline-images/dsc_7069.jpg" data-entity-uuid="78b10c82-b342-4987-9266-a23e13715c10" data-entity-type="file" width="5565" height="3246" loading="lazy"></a><p style="text-align:center;" align="center"><span style="font-family:&quot;Arial&quot;,sans-serif;font-size:11.0pt;">Attendees of the 2025 Spring Research Symposium. (Photo by Angus Wilkinson)</span></p><h2>SoCB Celebrates Research, Teaching, and Service at the 2025 El-Sayed Spring Symposium</h2></article></div><!-- / gt-news-zone1 --><div id="gt-news-zone2"><article class="gt-news"><div class="img-wrapper img-link" style="aspect-ratio:2 / 1;"><a href="/laren-tolbert-1949-2025"><img src="/sites/default/files/inline-images/laren-tolbert-1.jpg" alt="/laren-tolbert-1949-2025" width="217" height="292" loading="lazy"></a></div><h3><a href="/laren-tolbert-1949-2025">Laren Tolbert (1949-2025)</a></h3></article><article class="gt-news"><div class="img-wrapper img-link"><a href="https://research.gatech.edu/feature/atlanta-science-festival"><img src="/sites/default/files/inline-images/screenshot-2025-03-19-at-3.10.29-pm.png" data-entity-uuid="0250885e-e99b-47e4-8180-087a381645b3" data-entity-type="file" alt="Loren Williams holding a ballon with kids and teachers looking on." width="462" height="307" loading="lazy"></a></div><h3><a href="https://research.gatech.edu/feature/atlanta-science-festival">Loren Williams Showcases Chemistry at the Atlanta Science Festival</a></h3></article></div><!-- /gt-news-zone2 --></div><!-- /gt-news-banner --><link href="https://fonts.googleapis.com" rel="preconnect"><link crossorigin href="https://fonts.gstatic.com" rel="preconnect"><link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;display=swap" media="all" rel="stylesheet"><!--link href="https://fonts.googleapis.com/css2?family=Source+Sans+3&family=Source+Serif+4:opsz@8..60&display=swap" rel="stylesheet"--><style type="text/css">/* From news.gatech.edu theme */
+:root {
+  --gt-gold: #b3a369;
+  --gt-tech-light-gold: #bfb37c;
+  --gt-mdlt-gold: #ac9a58;
+  --gt-md-gold: #a4925a;
+  --gt-drk-gold: #857437;
+  --gt-pimile-dark: #a0a49f;
+  --gt-pimile: #D6DBD4;
+  --gt-pimile-med: #E5E7E4;
+  --gt-pimile-light: #f2f3f1;
+  --gt-navy: #003057;
+  --gt-gold-grad: linear-gradient(to right,#BFB37C 0%,#B3A369 100%);
+  --gt-gold-grad-rev: linear-gradient(to right,#B3A369 0%,#BFB37C 100%);
+  --gt-buzzgold: #EEB211;
+  --gt-horizon: #F95E10;
+  --gt-whistle: #740053;
+  --gt-bright-green: #B7C42F;
+  --gt-burger-bowl: #B7C42F;
+  --gt-bobby-jones: #377117;
+  --gt-tech-green: #377117;
+  --gt-gray-matter: #54585A;
+  --gt-bright-blue: #3871bb;
+  --gt-patina: #4B8B9B;
+  --gt-georgia-clay: #ae4833;
+  --gt-diploma: #F9F6E5;
+  --gt-atlanta-fog: #002233;
+  --gt-mud: #8E8B76;
+  --gt-mortar: #8E8B76;
+  --gt-ltgray: #cccccc;
+  --gt-mdgray: #545454;
+  --gt-drkgray: #3b3b3b;
+  --gt-medltgray: #767676;
+  --gt-offwhite: #f1f1f1;
+  
+  --gt-border-radius: 0.15rem;
+}
+/* Reset row grid crap from theme */
+.row { display: initial; }
+@media screen and (min-width: 46rem ) {
+  .row { display: flex; }
+}
+/* Can't, too much is predicated on bad position elements
+.main-container div { position: relative; }
+*/
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Roboto Slab";
+}
+#gt-news-banner {
+  position: relative;
+  width: 100%;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+.layout--threecol-section--33-34-33 {
+  position: relative;
+  margin-bottom: 3rem;
+}
+#gt-news-banner::before,
+.section-with-divider::before,
+.layout--onecol .layout--threecol-section--33-34-33::before {
+  position: absolute;
+  bottom: -1.5rem;
+  width: 100%;
+  height: 1rem;
+  display: block;
+  content: "";
+  background-image: url('https://news.gatech.edu/themes/custom/news/images/stripes-seamless-pimile.svg');
+  background-size: 2.5rem auto;
+}
+#gt-news-banner::after,
+.section-with-divider::after,
+.layout--onecol .layout--threecol-section--33-34-33::after {
+  display: block;
+  position: absolute;
+  bottom: -1.5rem;
+  width: 4.75rem;
+  height: 1rem;
+  content: "";
+  border-right: 0.5625rem solid transparent;
+  border-bottom: 1rem solid var(--gt-bright-blue);
+}
+.layout--onecol .layout--threecol-section--33-34-33::after {
+  border-bottom: 1rem solid var(--gt-atlanta-fog);
+}
+@media screen and (min-width: 48rem) {
+  #gt-news-banner {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  #gt-news-zone1 {
+    flex: 0 0 67%;
+    padding-right: 1rem;
+  }
+  #gt-news-zone2 {
+    flex: 0 0 33%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 1rem;
+    border-left: thin solid var(--gt-warm-gray);
+  }
+}
+.gt-news {
+  position: relative;
+}
+.img-wrapper {
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  overflow: hidden;
+}
+#gt-news-zone2 .img-wrapper {
+  aspect-ratio: 3 / 1;
+}
+.gt-news .img-wrapper {
+  margin-bottom: 0.75rem;
+}
+.gt-news-main h2 {
+  font-size: 2rem;
+}
+.img-wrapper img {
+  max-width: 100%;
+  border-radius: var(--gt-border-radius);
+}
+.img-link a::before {
+  width: 0;
+  height: 0.375rem;
+  background: var(--gt-gold);
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  transition: all 0.5s cubic-bezier(.52,.01,.5,.99);
+  background-color: var(--gt-horizon);
+}
+.img-link.img-link-green a::before {
+  background-color: var(--gt-tech-green);
+}
+.img-link a:hover::before {
+  width: 100%;
+}
+#gt-news-banner h2, #gt-news-banner h2 a,
+#gt-news-banner h3, #gt-news-banner h3 a {
+  color: var(--gt-atlanta-fog);
+  font-weight: 400;
+}
+#gt-news-banner h2 {
+  margin-bottom: 1rem;
+}
+#gt-news-banner h2, #gt-news-banner h2 a {
+  line-height: 1.3;
+}
+#gt-news-banner h3, #gt-news-banner h3 a {
+  font-size: 1.3rem;
+  line-height: 1.4;
+  text-decoration: none;
+}
+.gt-news p {
+  line-height: 1.3;
+  margin-bottom: 1rem;
+}
+#gt-news-zone2 article:first-child {
+  margin-bottom: 1.5rem;
+}
+.views-element-container h2,
+.views-element-container.hg_news-block_1 h2, 
+.views-element-container.hg_events-block_1 h2 {
+  border-bottom: none;
+  background: var(--gt-navy);
+  color: white;
+  padding: 0.35rem 0 0.25rem 0.5rem;
+  border-top-left-radius: 0.35rem;
+  border-top-right-radius: 0.35rem;
+}
+.mercury.news-teaser {
+  border-bottom: thin solid var(--gt-warm-gray);
+  padding-bottom: 1rem;
+  margin-bottom: 1rem !important;
+}
+.row.mercury.event-teaser {
+  margin-bottom: 1rem !important;
+}
+.mercury-event .p, .mercury p {
+  line-height: 1.4;
+}
+.event-teaser .hg-title {
+  padding-top: 3.15rem;
+}
+.mercury .hg-title a, .mercury .hg-title a:link {
+  text-decoration: none;
+  color: var(--gt-black);
+  font-size: 1.3rem;
+  line-height: 1.3;
+  font-weight: 400;
+  font-family: "Roboto Slab";
+}
+.mercury .day p, .mercury .day-multi p {
+  font-family: 'Roboto',sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.05rem;
+}
+.mercury .time, .mercury .time-multi {
+  font-weight: 400;
+  font-size: 1rem;
+  font-variant: all-small-caps;
+  margin-top: 0.5rem !important;
+  padding-bottom: 0.5rem;
+}
+.mercury .month p, .mercury .month-multi p,
+.mercury .year p, .mercury .year-multi p {
+  color: var(--gt-gold);
+  font-family: 'Roboto Slab',sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-top: 0;
+  text-align: center;
+  text-transform: capitalize;
+}
+.mercury .date p, .mercury .date-multi p {
+  color: var(--gt-gold);
+  font-family: 'Roboto Slab',sans-serif;
+}
+.event-teaser .date-wrapper .date p {
+  font-size: 2.5rem;
+  margin: 0;
+  line-height: 1.1;
+}
+.event-teaser .date-wrapper .year p {
+  font-size: 2rem;
+}
+.cutline, .cutline p, figcaption {
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+</style></div>
+
+    </div>
+
+  </div>
+
+                </div>
+                        </div>
+            <div class="gt-container container ">
+        <div class="row">
+                                                            <section class="col-sm-12">
+                                                                            <div class="highlighted">  <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+                                                                                        <a id="main-content"></a>
+                    <div class="gt-main-content">
+                          <div>
+    
+
+<div id="block-gt-content" class="block block-system system_main_block">
+    
+        
+            
+
+<article class="node node--type-page node--view-mode-full">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+
+
+
+
+<div class="block block-block-content block-block-content3b5b4858-9d5e-4ecd-81cb-d003bb7ab772 gt-basic-block my-3 clearfix">
+    
+        
+              <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item my-3"><table style="margin:0 auto;"><tbody><tr><td><a href="https://research.gatech.edu/under-pressure-georgia-tech-researchers-discover-new-way-treat-glaucoma?utm_source=newsletter&amp;utm_medium=email&amp;utm_content=Researchers%20Discover%20New%20Way%20to%20Treat%20Glaucoma&amp;utm_campaign=Daily%20Digest%20-%20March%2010,%202025" hreflang="en"><img src="/sites/default/files/hg_media/Screenshot-2025-02-24-at-5.18.21-PM.png" alt="Prof. Matthew Sfeir headshot" width="445" height="285" loading="lazy"></a></td><td><div class="mercury-item-photo">&nbsp;</div><div class="mercury-item-details"><div class="mercury-item-title"><h4><a href="https://research.gatech.edu/under-pressure-georgia-tech-researchers-discover-new-way-treat-glaucoma?utm_source=newsletter&amp;utm_medium=email&amp;utm_content=Researchers%20Discover%20New%20Way%20to%20Treat%20Glaucoma&amp;utm_campaign=Daily%20Digest%20-%20March%2010,%202025"><span class="field-content">Under Pressure: Georgia Tech Researchers Discover a Potential New Way to Treat Glaucoma</span></a></h4><p><span class="field-content">Newly discovered antibodies break down the protein that causes glaucoma.&nbsp;</span></p></div></div></td></tr></tbody></table></div>
+
+    </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--50-50">
+
+          <div  class="layout__region layout__region--first">
+        
+
+<div class="views-element-container block block-views views_block hg_news-block_1">
+    
+            <h2>News</h2>
+        
+            <div><div class="mb-5 view view-hg-news view-id-hg_news view-display-id-block_1 js-view-dom-id-5bd2b054c2b2f2102a4a2120849d0bf3c085c75ee284edde0c9fe3cee3035023">
+    
+        
+                        <div class="view-content">
+            <div class="view-content-wrap">
+             <div class="hg-news-item item">
+       
+
+
+<div class="mercury news-teaser clearfix mb-5">
+    <div class="row">
+                <div class="hg-title w-100 ml-3 mb-3">
+            <p><a href="/news/georgia-tech-faculty-and-programs-recognized-2025-regents-awards" title="Georgia Tech Faculty and Programs Recognized With 2025 Regents’ Awards">Georgia Tech Faculty and Programs Recognized With 2025 Regents’ Awards</a></p>
+        </div>
+                                <div class="col hg-teaser-image">
+                <a href="/news/georgia-tech-faculty-and-programs-recognized-2025-regents-awards" title="Georgia Tech Faculty and Programs Recognized With 2025 Regents’ Awards">
+                        <img loading="eager" srcset="/sites/default/files/styles/max_width_480/public/hg_media/aerial-campus.jpg?itok=XG0SUwRV 1x" width="480" height="269" src="/sites/default/files/styles/large/public/hg_media/aerial-campus.jpg?itok=vaiQm76v" alt="" />
+
+
+
+                </a>
+            </div>
+            <div class="col description">
+                                                    <div class="dateline w-100">
+                        May 23, 2025  -  
+                    </div>
+                                                The Board of Regents of the University System of Georgia recently honored Georgia Tech with 15 distinctions and awards, reflecting the Institute’s commitment to excellence, innovation, and leadership.
+            </div>
+            </div>
+</div>
+
+     </div>
+             <div class="hg-news-item item">
+       
+
+
+<div class="mercury news-teaser clearfix mb-5">
+    <div class="row">
+                <div class="hg-title w-100 ml-3 mb-3">
+            <p><a href="/news/celebrating-excellence-across-college-sciences" title="Celebrating Excellence Across the College of Sciences">Celebrating Excellence Across the College of Sciences</a></p>
+        </div>
+                                <div class="col hg-teaser-image">
+                <a href="/news/celebrating-excellence-across-college-sciences" title="Celebrating Excellence Across the College of Sciences">
+                        <img loading="eager" srcset="/sites/default/files/styles/max_width_480/public/hg_media/22C10400-P3-045.JPG?itok=K5TgmQXp 1x" width="480" height="360" src="/sites/default/files/styles/large/public/hg_media/22C10400-P3-045.JPG?itok=kCwSogyQ" alt="Tech Tower in Spring. Photo: Brice Zimmerman.
+" title="Tech Tower in Spring. Photo: Brice Zimmerman.
+" />
+
+
+
+                </a>
+            </div>
+            <div class="col description">
+                                                    <div class="dateline w-100">
+                        May 13, 2025  -  
+                    </div>
+                                                Dozens of members of the College of Sciences community were honored during Institute-wide celebrations held in March and April 2025.
+            </div>
+            </div>
+</div>
+
+     </div>
+             <div class="hg-news-item item">
+       
+
+
+<div class="mercury news-teaser clearfix mb-5">
+    <div class="row">
+                <div class="hg-title w-100 ml-3 mb-3">
+            <p><a href="/news/celebration-research-service-and-alumni-2025-el-sayed-spring-symposium" title="A Celebration of Research, Service, and Alumni: The 2025 El-Sayed Spring Symposium">A Celebration of Research, Service, and Alumni: The 2025 El-Sayed Spring Symposium</a></p>
+        </div>
+                                <div class="col hg-teaser-image">
+                <a href="/news/celebration-research-service-and-alumni-2025-el-sayed-spring-symposium" title="A Celebration of Research, Service, and Alumni: The 2025 El-Sayed Spring Symposium">
+                        <img loading="eager" srcset="/sites/default/files/styles/max_width_480/public/2025-05/spring_symposium_02.jpg?itok=j3CYyC4N 1x" width="480" height="268" src="/sites/default/files/styles/large/public/2025-05/spring_symposium_02.jpg?itok=-iDD2zT-" alt="Attendees and speakers at the 2025 Spring Symposium." />
+
+
+
+                </a>
+            </div>
+            <div class="col description">
+                                                    <div class="dateline w-100">
+                        May 12, 2025  -  Atlanta, GA
+                    </div>
+                                                Students, faculty, and alumni gathered for two days of posters and presentations.
+            </div>
+            </div>
+</div>
+
+     </div>
+             <div class="hg-news-item item">
+       
+
+
+<div class="mercury news-teaser clearfix mb-5">
+    <div class="row">
+                <div class="hg-title w-100 ml-3 mb-3">
+            <p><a href="/news/georgia-tech-offers-new-astrobiology-minor" title="Georgia Tech Offers New Astrobiology Minor">Georgia Tech Offers New Astrobiology Minor</a></p>
+        </div>
+                                <div class="col hg-teaser-image">
+                <a href="/news/georgia-tech-offers-new-astrobiology-minor" title="Georgia Tech Offers New Astrobiology Minor">
+                        <img loading="eager" srcset="/sites/default/files/styles/max_width_480/public/hg_media/2025-Astrobio-Minor---Glass-RH-Hud_0.jpg?itok=ZwW80Mfc 1x" width="480" height="320" src="/sites/default/files/styles/large/public/hg_media/2025-Astrobio-Minor---Glass-RH-Hud_0.jpg?itok=yD8lDzCW" alt="" />
+
+
+
+                </a>
+            </div>
+            <div class="col description">
+                                                    <div class="dateline w-100">
+                        May 08, 2025  -  
+                    </div>
+                                                Students from all majors are invited to register for the new Minor in Astrobiology at Georgia Tech. 
+            </div>
+            </div>
+</div>
+
+     </div>
+   </div>
+
+        </div>
+                        <div class="more-link"><a href="/hg/news">More news</a></div>
+
+            </div>
+</div>
+
+    </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+
+<div class="views-element-container block block-views views_block hg_events-block_1">
+    
+            <h2>Events</h2>
+        
+            <div><div class="mb-5 view view-hg-events view-id-hg_events view-display-id-block_1 js-view-dom-id-aeaff2a0786bfeac6670806ba66e7258d7ef9a0c49cafc5fe44e986a93c0f3cb">
+    
+        
+                        <div class="view-empty">
+            <p>There are currently no scheduled events.</p>
+        </div>
+                        </div>
+</div>
+
+    </div>
+
+      </div>
+    
+  </div>
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+
+<div class="views-element-container block block-views views_block experts_in_the_news-block_1">
+    
+            <h2>Experts in the news</h2>
+        
+            <div><div class="view view-experts-in-the-news view-id-experts_in_the_news view-display-id-block_1 js-view-dom-id-81f34defd66197ffca08afd01d71964bca40f0088e21c898a5080600d50f1ed9">
+    
+        
+                        <div class="view-content">
+            <div class="view-content-wrap">
+             <div class="item">
+       <div class="views-field views-field-nothing"><span class="field-content"><div class="mercury-item">
+<div class="mercury-item-details">
+<div class="mercury-item-title"><h4> 
+<a href="/news/perseverance-happened-land-right-beside-composite-volcano" hreflang="en">Perseverance Happened to Land Right Beside a Composite Volcano</a>
+</div></h4>
+<div class="mercury-item-summary">
+<p dir="ltr">According to&nbsp;<a href="https://www.nature.com/articles/s43247-025-02329-7">new research</a> published in the journal&nbsp;<em>Nature</em>, lava flows possibly originating from the Jezero Mons on Mars could have shaped the geology of the Jezero crater’s floor. According to the findings, the analysis of NASA's&nbsp;<em>Perseverance&nbsp;</em>rover<em>&nbsp;</em>samples could also reveal clues about ancient Mars when it was still geologically active.</p><p dir="ltr">The study was led by&nbsp;<a href="https://www.linkedin.com/in/sara-cuevas-qui%C3%B1ones-76875b202/">Sara C. Cuevas-Quiñones</a>, a Ph.D. Planetary Science student from Georgia Tech’s&nbsp;<a href="https://eas.gatech.edu/">School of Earth and Atmospheric Sciences</a> (EAS) and Brown University. The research team also included EAS Professor&nbsp;<a href="https://eas.gatech.edu/people/wray-dr-james">James Wray</a> and EAS Assistant Professor&nbsp;<a href="https://eas.gatech.edu/people/rivera-hernandez-dr-frances">Frances Rivera-Hernández</a>.&nbsp;</p><p dir="ltr">As Cuevas-Quiñones and her colleagues note in their paper, the detection of clay and carbonate minerals on Jezero crater's floor supports the conclusion that the sedimentary deposits on the crater's western edge are the result of aqueous activity that took place roughly 3.8 to 3.5 billion years ago. In addition, satellite observations have revealed a set of non-sedimentary geologic materials that cover most of the Jezero crater's floor.</p>
+ Universe Today  
+</div>
+</div>
+</div></span></div>
+     </div>
+             <div class="item">
+       <div class="views-field views-field-nothing"><span class="field-content"><div class="mercury-item">
+<div class="mercury-item-details">
+<div class="mercury-item-title"><h4> 
+<a href="/news/do-other-planets-have-seasons" hreflang="en">Do other planets have seasons?</a>
+</div></h4>
+<div class="mercury-item-summary">
+<p dir="ltr">Other planets, dwarf planets and moons in our solar system have seasonal cycles — and they can look wildly different from the ones we experience on Earth, experts told Live Science.</p><p dir="ltr">To understand how other planets have seasons, we can look at what drives seasonal changes on our planet. "The Earth has its four seasons because of the spin axis tilt,"&nbsp;<a href="https://physics.gatech.edu/user/gongjie-li">Gongjie Li</a>, associate professor in the&nbsp;<a href="https://physics.gatech.edu/">School of Physics</a>, told Live Science. This means that our planet rotates at a slight angle of around 23.5 degrees.</p><p dir="ltr">"On Earth, we're very lucky, this spin axis is quite stable," Li said. Due to this, we've had relatively stable seasonal cycles that have persisted for millennia, although the broader climate sometimes shifts as the entire orbit of Earth drifts further or closer from the sun.</p><p dir="ltr">Such stability has likely helped life as we know it develop here, Li said. Scientists like her are now studying planetary conditions and seasonal changes on exoplanets to see whether life could exist in faroff worlds. For now, it seems as though the mild seasonal changes and stable spin tilts on Earth are unique.</p>
+ Live Science  
+</div>
+</div>
+</div></span></div>
+     </div>
+             <div class="item">
+       <div class="views-field views-field-nothing"><span class="field-content"><div class="mercury-item">
+<div class="mercury-item-details">
+<div class="mercury-item-title"><h4> 
+<a href="/news/seismologist-explains-science-behind-tennessee-earthquake" hreflang="en">Seismologist explains science behind Tennessee earthquake</a>
+</div></h4>
+<div class="mercury-item-summary">
+<p>Tens of thousands of people in the Southeast were jolted by a magnitude 4.1 earthquake on Saturday, May 10. Seismologist and professor in the <a href="https://eas.gatech.edu/">School of Earth and Atmospheric Sciences</a> <a href="https://eas.gatech.edu/people/peng-dr-zhigang">Zhigang Peng</a> joined <em>FOX Weather</em> to talk about why so many people in the East reported feeling the earthquake and just how common they are in the region.</p><p>A similar story also appeared at <a href="https://www.11alive.com/article/weather/earthquake-metro-atlanta-tennessee-4-1/85-66535226-f865-42d2-8fae-e9686b8075ee"><em>11 Alive News</em></a>.</p>
+ Fox Weather   
+</div>
+</div>
+</div></span></div>
+     </div>
+   </div>
+
+        </div>
+                            <div class="view-footer">
+            <div class="super-block__jump-link clearfix">
+      <a href="/in-the-news">More Experts</a>        
+   </div>
+        </div>
+        </div>
+</div>
+
+    </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+    </div>
+
+  </div>
+
+                    </div>
+                            </section>
+                                </div>
+    </div>
+                                </div>
+<footer id="footer" class="gt-footer footer">
+    <div class="row">
+                <div class="col-12 gt-gold-footer clearfix">
+                        <div class="container-fluid footer-top-bar d-none d-lg-block">
+</div>
+<div id="gt-footer" class="container-fluid footer-bottom-bar">
+    <div class="container pt-3">
+        <div class="row footer-content">
+                                        <div id="address_text" class="col-md-3 col-sm-12 my-2 order-md-1 order-2">
+                      <div class="region--footer_05__inner">
+    
+<div id="gt-contact-information">
+                <h2>School of Chemistry &amp; Biochemistry</h2>
+      <h3>Georgia Institute of Technology</h3>
+      <p>North Avenue<br/>Atlanta, GA 30332
+                    <span itemprop="telephone">
+        <a class="gt-phone" href="tel: +14048942000" aria-label="telephone">+1 404.894.2000</a>
+      </span>
+                    <a class="gt-campus-map mt-3" href="https://goo.gl/maps/N61WfSyUdQyiQZjeA" data-toggle="tooltip"
+           data-placement="top"
+           aria-label="School of Chemistry &amp; Biochemistry map">School of Chemistry &amp; Biochemistry Map
+        </a>
+    </p>
+
+  </div>
+
+  </div>
+
+
+                </div>
+                                                    <div class="col-md-3 col-sm-12 my-2 order-md-2 order-3">
+                      <div class="region--footer_06__inner">
+    <nav id="block-gt-general-menu">
+      
+              <ul>
+              <li>
+        <a href="" class="btn btn-primary btn-sm disabled" title="General Main Menu Category">General</a>
+              </li>
+          <li>
+        <a href="https://directory.gatech.edu/" title="Georgia Institute of Technology Directory">Directory</a>
+              </li>
+          <li>
+        <a href="https://careers.gatech.edu/" title="Georgia Institute of Technology Employment">Employment</a>
+              </li>
+          <li>
+        <a href="https://www.gatech.edu/emergency/" title="Georgia Institute of Technology Emergency Information">Emergency Information</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+
+                </div>
+                                                    <div class="col-md-3 col-sm-12 my-2 order-md-3 order-4">
+                      <div class="region--footer_07__inner">
+    <nav id="block-gt-legal-menu">
+      
+              <ul>
+              <li>
+        <a href="" class="btn btn-primary btn-sm disabled" title="Legal Main Menu Category">Legal</a>
+              </li>
+          <li>
+        <a href="https://www.policylibrary.gatech.edu/employment/equal-opportunity-nondiscrimination-and-anti-harassment-policy" title="Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy">Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy</a>
+              </li>
+          <li>
+        <a href="https://www.gatech.edu/legal/" title="Georgia Institute of Technology Legal &amp; Privacy Information">Legal &amp; Privacy Information</a>
+              </li>
+          <li>
+        <a href="https://gbi.georgia.gov/human-trafficking-notice" title="Georgia Human Trafficking Resources">Human Trafficking Notice</a>
+              </li>
+          <li>
+        <a href="https://titleix.gatech.edu/" title="Georgia Tech Title IX/Sexual Misconduct Resources">Title IX/Sexual Misconduct</a>
+              </li>
+          <li>
+        <a href="https://osi.gatech.edu/hazing-conduct-history" title="Georgia Tech Hazing Conduct History">Hazing Public Disclosures</a>
+              </li>
+          <li>
+        <a href="https://www.gatech.edu/accessibility/" title="Georgia Institute of Technology Accessibility Resources">Accessibility</a>
+              </li>
+          <li>
+        <a href="https://www.gatech.edu/accountability/" title="Georgia Institute of Technology Accountability Resources">Accountability</a>
+              </li>
+          <li>
+        <a href="https://www.gatech.edu/accreditation/" title="Georgia Institute of Technology Accreditation">Accreditation</a>
+              </li>
+          <li>
+        <a href="https://secure.ethicspoint.com/domain/media/en/gui/76612/index.html" title="University System of Georgia Ethics and Compliance Reporting Hotline">Report Free Speech and Censorship Concern</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+
+                </div>
+                                                    <div id="gt-logo-footer" class="col-md-3 col-sm-12 my-2 order-md-4 order-1">
+                      <div class="region--footer_08__inner">
+                  <div id="gt-copyright" aria-label="georgia tech logo and copyright">
+  <div class="gt-footer-logo float-md-right float-sm-left">
+    <a href="https://www.gatech.edu/" title="Georgia Tech">
+      <img src="https://chemistry.gatech.edu/modules/contrib/gt_tools/images/gt-logo.svg" alt="Georgia Tech" role="presentation"
+           aria-label="logo link to main campus site" width="191.08px" height="34px"/>
+    </a>
+  </div>
+  <div class="gt-footer-copy d-none d-sm-block float-md-right float-sm-left">
+    <p class="p-1 mt-2 copyright-hide">© 2025 Georgia Institute of
+      Technology</p>
+  </div>
+  <div class="gt-footer-login mt-5 d-none d-sm-block float-md-right float-sm-left">
+    <p class="gt-login cas-1">
+      <a class="gt-login" href="https://chemistry.gatech.edu/cas" aria-label="admin login">GT LOGIN</a>
+    </p>
+        </p>
+  </div>
+</div>
+
+  
+
+  </div>
+
+
+                </div>
+                    </div>         <div class="row footer-bg-row">
+            <div class="col-12 col-sm-12 col-md-9 footer-bg-col"></div>
+        </div>
+    </div> </div>         </div>
+    </div> </footer> 
+  </div>
+
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/4028","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"G-01MXEHCYEL","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"hg_reader":{"nid":"4028"},"matomo":{"disableCookies":false,"trackMailto":true},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"cce207fb006ee457d403ec8dc372abb95c1cfc3cc42f3e7cbb8ea73e4970aeac"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.4.6"></script>
+<script src="/core/misc/drupal.js?v=10.4.6"></script>
+<script src="/core/misc/drupal.init.js?v=10.4.6"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=10.4.6"></script>
+<script src="//cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="//kit.fontawesome.com/37926dae7e.js"></script>
+<script src="/modules/contrib/hg_reader/js/hg_reader.js?v=1.x"></script>
+<script src="/modules/contrib/matomo/js/matomo.js?v=10.4.6"></script>
+
+
+</body>
+</html>

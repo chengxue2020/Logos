@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />		<title>LAMAC</title>
+    <style>
+        #wpadminbar #wp-admin-bar-p404_free_top_button .ab-icon:before {
+            content: "\f103";
+            color: red;
+            top: 2px;
+        }
+    </style>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Easy Social Share Buttons for WordPress v.9.9 https://socialsharingplugin.com -->
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="LAMAC" />
+<meta property="og:url" content="https://lamac.org" />
+<meta property="og:site_name" content="LAMAC" />
+<!-- / Easy Social Share Buttons for WordPress -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="LAMAC &raquo; Feed" href="https://lamac.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="LAMAC &raquo; Feed de los comentarios" href="https://lamac.org/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lamac.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--inter: "Inter", sans-serif;--wp--preset--font-family--cardo: Cardo;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://lamac.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.1' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='martex-google-fonts-css' href='https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans%3A400%2C300%2C600%2C700%2C800%7CRubik%3A400%2C300%2C600%2C700%2C800%7CInter%3A400%2C300%2C600%2C700%2C800&#038;ver=1.0' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://lamac.org/wp-content/themes/martex/assets/css/bootstrap.min.css?ver=5.3.0' media='all' />
+<link rel='stylesheet' id='flaticon-css' href='https://lamac.org/wp-content/themes/martex/assets/css/flaticon.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='menu-css-css' href='https://lamac.org/wp-content/themes/martex/assets/css/menu.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='dropdown-effects-css' href='https://lamac.org/wp-content/themes/martex/assets/css/dropdown-effects/fade-down.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://lamac.org/wp-content/themes/martex/assets/css/magnific-popup.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='https://lamac.org/wp-content/themes/martex/assets/css/owl.carousel.min.css?ver=2.2.1' media='all' />
+<link rel='stylesheet' id='owl-theme-css' href='https://lamac.org/wp-content/themes/martex/assets/css/owl.theme.default.min.css?ver=2.2.1' media='all' />
+<link rel='stylesheet' id='lunar-css-css' href='https://lamac.org/wp-content/themes/martex/assets/css/lunar.css?ver=%201.0.0' media='all' />
+<link rel='stylesheet' id='animate-css-css' href='https://lamac.org/wp-content/themes/martex/assets/css/animate.css?ver=%203.5.2' media='all' />
+<link rel='stylesheet' id='martex-theme-css-css' href='https://lamac.org/wp-content/themes/martex/assets/css/martex-theme.css?ver=%203.5.2' media='all' />
+<link rel='stylesheet' id='responsive-theme-css-css' href='https://lamac.org/wp-content/themes/martex/assets/css/responsive.css?ver=%201.0.0' media='all' />
+<link rel='stylesheet' id='martex-css' href='https://lamac.org/wp-content/themes/martex/assets/css/martex.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='martex-woocommerce-css' href='https://lamac.org/wp-content/themes/martex/assets/css/woocommerce.css?ver=1.0.4.1' media='all' />
+<link rel='stylesheet' id='martex-style-css' href='https://lamac.org/wp-content/themes/martex/style.css?ver=6.8.1' media='all' />
+<style id='martex-style-inline-css'>
+
+	.entry-footer,
+	.wp-block-group__inner-container,
+	.comments-area,
+	.entry-content{
+		--martex-link-color: initial;
+		--martex-link-hover-color: var(--martex-primary);
+		--martex-link-decoration: underline;
+		--martex-link-hover-decoration: underline;
+		
+	}
+.banner-section{--martex-parallax-opacity: 0.25;--martex-parallax-bg-position: center;}
+.footer-section{--martex-parallax-opacity: 1;--martex-parallax-bg-position: center;}
+:root{--martex-body-font-family:Rubik;--martex-headings-font-family:Plus Jakarta Sans;}
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='https://lamac.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.25.10' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://lamac.org/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.25.10' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://lamac.org/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.25.2' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://lamac.org/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.25.10' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://lamac.org/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.25.10' media='all' />
+<link rel='stylesheet' id='widget-text-editor-css' href='https://lamac.org/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.25.10' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://lamac.org/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://lamac.org/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.10' media='all' />
+<link rel='stylesheet' id='elementor-post-8-css' href='https://lamac.org/wp-content/uploads/elementor/css/post-8.css?ver=1746040633' media='all' />
+<link rel='stylesheet' id='e-popup-style-css' href='https://lamac.org/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.25.2' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://lamac.org/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.25.10' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInUp-css' href='https://lamac.org/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.25.10' media='all' />
+<link rel='stylesheet' id='elementor-post-8474-css' href='https://lamac.org/wp-content/uploads/elementor/css/post-8474.css?ver=1746040634' media='all' />
+<link rel='stylesheet' id='elementor-post-10953-css' href='https://lamac.org/wp-content/uploads/elementor/css/post-10953.css?ver=1746040634' media='all' />
+<link rel='stylesheet' id='elementor-post-10972-css' href='https://lamac.org/wp-content/uploads/elementor/css/post-10972.css?ver=1746040634' media='all' />
+<link rel='stylesheet' id='subscribe-forms-css-css' href='https://lamac.org/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.css?ver=9.9' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-css' href='https://lamac.org/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css?ver=9.9' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.8.1' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script id="jquery-core-js-extra">
+var MARTEX = {"stikyNavbar":"1","backtoTop":"1"};
+</script>
+<script src="https://lamac.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://lamac.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://lamac.org/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.4.3" id="jquery-blockui-js" defer data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/lamac.org","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src="https://lamac.org/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.4.3" id="wc-add-to-cart-js" defer data-wp-strategy="defer"></script>
+<script src="https://lamac.org/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.4.3" id="js-cookie-js" defer data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="https://lamac.org/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.4.3" id="woocommerce-js" defer data-wp-strategy="defer"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/modernizr.custom.js?ver=2.6.2" id="modernizr-custom-js"></script>
+<link rel="https://api.w.org/" href="https://lamac.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://lamac.org/wp-json/wp/v2/pages/8474" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lamac.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.1" />
+<meta name="generator" content="WooCommerce 9.4.3" />
+<link rel="canonical" href="https://lamac.org/" />
+<link rel='shortlink' href='https://lamac.org/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://lamac.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flamac.org%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://lamac.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flamac.org%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.25.10; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<style class='wp-fonts-local'>
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://lamac.org/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://lamac.org/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://lamac.org/wp-content/uploads/2024/12/cropped-unnamed-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://lamac.org/wp-content/uploads/2024/12/cropped-unnamed-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://lamac.org/wp-content/uploads/2024/12/cropped-unnamed-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://lamac.org/wp-content/uploads/2024/12/cropped-unnamed-270x270.jpg" />
+</head>
+<body class="home wp-singular page-template-default page page-id-8474 wp-custom-logo wp-embed-responsive wp-theme-martex theme-martex woocommerce-no-js no-js singular has-main-navigation has-sticky-navigation no-widgets no-sidebar is-light-theme essb-9.9 elementor-default elementor-kit-8 elementor-page elementor-page-8474">
+		<header data-elementor-type="header" data-elementor-id="10953" class="elementor elementor-10953 elementor-location-header" data-elementor-post-type="elementor_library">
+			<header class="elementor-element elementor-element-e6748a7 e-con-full e-flex e-con e-parent" data-id="e6748a7" data-element_type="container">
+		<div class="elementor-element elementor-element-b7b0fb8 e-con-full e-flex e-con e-child" data-id="b7b0fb8" data-element_type="container">
+				<div class="elementor-element elementor-element-0a99097 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="0a99097" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+									<a href="https://lamac.org">
+			<img fetchpriority="high" width="630" height="129" src="https://lamac.org/wp-content/uploads/2024/12/group-53@3x-1.png" class="attachment-full size-full wp-image-10702 img-fluid" alt="" srcset="https://lamac.org/wp-content/uploads/2024/12/group-53@3x-1.png 630w, https://lamac.org/wp-content/uploads/2024/12/group-53@3x-1-600x123.png 600w, https://lamac.org/wp-content/uploads/2024/12/group-53@3x-1-300x61.png 300w" sizes="(max-width: 630px) 100vw, 630px" style="width:100%;height:20.48%;max-width:630px" />				</a>
+									</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-03b2dc1 e-con-full e-flex e-con e-child" data-id="03b2dc1" data-element_type="container">
+				<div class="elementor-element elementor-element-14c266c elementor-nav-menu__align-end elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="14c266c" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-14c266c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10709"><a href="https://lamac.org/centro-de-conocimiento/" class="elementor-item">Centro de conocimiento</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-14c266c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10709"><a href="https://lamac.org/centro-de-conocimiento/" class="elementor-item" tabindex="-1">Centro de conocimiento</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				</div>
+				</header>
+				</header>
+		<main id="content" class="main container-full py-0">
+     
+		<div class="overflow-hidden post-8474 page type-page status-publish hentry entry">
+    		<div data-elementor-type="wp-page" data-elementor-id="8474" class="elementor elementor-8474" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-2591064 content-section color--white elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default content-1" data-id="2591064" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bb8c6d0" data-id="bb8c6d0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-fe2f8c5 wow fadeInUp elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe2f8c5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a5d98c0" data-id="a5d98c0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6483318 elementor-widget elementor-widget-spacer" data-id="6483318" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="txt-block elementor-element elementor-element-11193fe elementor-widget elementor-widget-content-text" data-id="11193fe" data-element_type="widget" data-widget_type="content-text.default">
+				<div class="elementor-widget-container">
+			<h2 class="title-element s-28">Impulsando la Publicidad en Video Premium</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-22736ce" data-id="22736ce" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6b89ad6d ct-02 content-section division elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6b89ad6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f83c156" data-id="f83c156" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-f3f79a6 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f3f79a6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-255dcc65 wow fadeInRight" data-id="255dcc65" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="img-block elementor-element elementor-element-1d5cf78c elementor-widget elementor-widget-content-image" data-id="1d5cf78c" data-element_type="widget" data-widget_type="content-image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+															<img decoding="async" width="1536" height="959" src="https://lamac.org/wp-content/uploads/2024/12/lamac_premium_video-1-1536x959-1.jpg" class="attachment-full size-full wp-image-10714 img-fluid" alt="" srcset="https://lamac.org/wp-content/uploads/2024/12/lamac_premium_video-1-1536x959-1.jpg 1536w, https://lamac.org/wp-content/uploads/2024/12/lamac_premium_video-1-1536x959-1-300x187.jpg 300w, https://lamac.org/wp-content/uploads/2024/12/lamac_premium_video-1-1536x959-1-1024x639.jpg 1024w, https://lamac.org/wp-content/uploads/2024/12/lamac_premium_video-1-1536x959-1-768x480.jpg 768w, https://lamac.org/wp-content/uploads/2024/12/lamac_premium_video-1-1536x959-1-1400x874.jpg 1400w, https://lamac.org/wp-content/uploads/2024/12/lamac_premium_video-1-1536x959-1-600x375.jpg 600w" sizes="(max-width: 1536px) 100vw, 1536px" style="width:100%;height:62.43%;max-width:1536px" />																			</div>
+					</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-19cfb0d1 wow fadeInLeft" data-id="19cfb0d1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="txt-block elementor-element elementor-element-6798d53f elementor-widget elementor-widget-content-text" data-id="6798d53f" data-element_type="widget" data-widget_type="content-text.default">
+				<div class="elementor-widget-container">
+			<h2 class="title-element s-46 w-700">Video Premium<br><br>
+</h2>Video Premium es la transformación de la TV Paga como medio publicitario. Es mucho más que una plataforma multicanal, es toda la programación de contenidos con calidad Premium que puede disfrutarse a través de todas las pantallas.
+
+Hoy en día, el contenido es el centro de todo. La audiencia demanda mayor calidad de contenido y hoy más que nunca la oferta de series, eventos deportivos, documentales, películas, contenido factual y la gran variedad de programas de los canales miembros de LAMAC, es cada vez mejor y más demandada tanto en plataformas lineales como digitales.
+
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-bf6af9b elementor-widget elementor-widget-buttons" data-id="bf6af9b" data-element_type="widget" data-widget_type="buttons.default">
+				<div class="elementor-widget-container">
+			<div class="button-alignment">
+
+            <div class="btns-group">
+                                                <a href="#" class="tra-link ico-20 color--theme">.  Ver más                                                    <!-- Icon -->
+                                                            <span class="ms-2 flaticon-next"></span>
+                                                        <!-- Icon End -->
+                                            </a>
+                
+                    </div>
+    
+    
+    </div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7802cb2 elementor-section-full_width bg--white-400 ct-10 content-section division elementor-section-height-default elementor-section-height-default" data-id="7802cb2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-482cd17" data-id="482cd17" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8bb0ad3 elementor-widget elementor-widget-posts" data-id="8bb0ad3" data-element_type="widget" data-widget_type="posts.default">
+				<div class="elementor-widget-container">
+			
+            <div class="posts-category ico-20">
+            <h4 class="s-34 w-700">Centro de conocimiento <span class="flaticon-next"></span></h4>
+        </div>
+    
+    <div class="row row-cols-1 row-cols-lg-3" >
+        <div class="col-lg-4">
+    <div class="blog-post mb-40 clearfixs post-10748 post type-post status-publish format-standard has-post-thumbnail hentry category-lamac entry">
+                    <div class="blog-post-img position-relative mb-35">
+                <img decoding="async" width="720" height="630" src="https://lamac.org/wp-content/uploads/2024/12/news-lamac-insights-5-Datos-sobre-counstruir-Valor-de-Marca-con-la-TV-de-hoy.jpg" class="img-fluid r-16 img-fluid wp-post-image" alt="" srcset="https://lamac.org/wp-content/uploads/2024/12/news-lamac-insights-5-Datos-sobre-counstruir-Valor-de-Marca-con-la-TV-de-hoy.jpg 720w, https://lamac.org/wp-content/uploads/2024/12/news-lamac-insights-5-Datos-sobre-counstruir-Valor-de-Marca-con-la-TV-de-hoy-300x263.jpg 300w, https://lamac.org/wp-content/uploads/2024/12/news-lamac-insights-5-Datos-sobre-counstruir-Valor-de-Marca-con-la-TV-de-hoy-600x525.jpg 600w" sizes="(max-width: 720px) 100vw, 720px" style="width:100%;height:87.5%;max-width:720px;" />
+                            </div>
+                <div class="blog-post-txt">
+            <div class="d-flex flex-wrap gap-2 post-tag">
+                <div class="post-categories"><a href="https://lamac.org/category/lamac/">Lamac</a></div>            </div>
+
+
+            <h6 class="s-20 w-700"><a href="https://lamac.org/5-datos-sobre-counstruir-valor-de-marca-con-la-tv-de-hoy/">5 Datos sobre counstruir Valor de Marca con la TV de hoy</a></h6>
+            <p>Actualmente, las mejores compañías están utilizando una comprensión profunda de las motivaciones de compra de los consumidores modernos para aumentar significativamente el valor de la marca de sus productos y&hellip;</p>
+
+            <div class="blog-post-meta mt-20">
+                <ul class="post-meta-list ico-10"><li><p class="byline]"><a class="p-sm w-500" href="https://lamac.org/author/admin/" rel="author">admin</a></p></li><li class="meta-list-divider"><p><span class="flaticon-minus"></span></p></li><li><p class="posted-on p-sm"><time class="entry-date published updated" datetime="2024-10-01T10:15:32+00:00">octubre 1, 2024</time></p></li></ul>            </div>
+        </div>
+    </div>
+</div><div class="col-lg-4">
+    <div class="blog-post mb-40 clearfixs post-10742 post type-post status-publish format-standard has-post-thumbnail hentry category-lamac entry">
+                    <div class="blog-post-img position-relative mb-35">
+                <img loading="lazy" decoding="async" width="718" height="620" src="https://lamac.org/wp-content/uploads/2024/12/news-lamac-insights-5-conferencias-imperdibles.jpg" class="img-fluid r-16 img-fluid wp-post-image" alt="" srcset="https://lamac.org/wp-content/uploads/2024/12/news-lamac-insights-5-conferencias-imperdibles.jpg 718w, https://lamac.org/wp-content/uploads/2024/12/news-lamac-insights-5-conferencias-imperdibles-300x259.jpg 300w, https://lamac.org/wp-content/uploads/2024/12/news-lamac-insights-5-conferencias-imperdibles-600x518.jpg 600w" sizes="(max-width: 718px) 100vw, 718px" style="width:100%;height:86.35%;max-width:718px;" />
+                            </div>
+                <div class="blog-post-txt">
+            <div class="d-flex flex-wrap gap-2 post-tag">
+                <div class="post-categories"><a href="https://lamac.org/category/lamac/">Lamac</a></div>            </div>
+
+
+            <h6 class="s-20 w-700"><a href="https://lamac.org/5-conferencias-imperdibles-sobre-publicidad-tecnologia-y-video-premium/">5 Conferencias Imperdibles sobre Publicidad, Tecnología y Video Premium</a></h6>
+            <p>Te invitamos a revivir la Cumbre Publicitaria de Video Premium realizada en Miami, con estas 5 interesantes Conferencias y Paneles que contaron con la participación de reconocidos líderes de opinión&hellip;</p>
+
+            <div class="blog-post-meta mt-20">
+                <ul class="post-meta-list ico-10"><li><p class="byline]"><a class="p-sm w-500" href="https://lamac.org/author/admin/" rel="author">admin</a></p></li><li class="meta-list-divider"><p><span class="flaticon-minus"></span></p></li><li><p class="posted-on p-sm"><time class="entry-date published updated" datetime="2024-11-06T09:38:55+00:00">noviembre 6, 2024</time></p></li></ul>            </div>
+        </div>
+    </div>
+</div><div class="col-lg-4">
+    <div class="blog-post mb-40 clearfixs post-10745 post type-post status-publish format-standard has-post-thumbnail hentry category-lamac entry">
+                    <div class="blog-post-img position-relative mb-35">
+                <img loading="lazy" decoding="async" width="718" height="620" src="https://lamac.org/wp-content/uploads/2024/12/news-lamac-5-insights-sobre-escala-y-alcance-con-video-premium.jpg" class="img-fluid r-16 img-fluid wp-post-image" alt="" srcset="https://lamac.org/wp-content/uploads/2024/12/news-lamac-5-insights-sobre-escala-y-alcance-con-video-premium.jpg 718w, https://lamac.org/wp-content/uploads/2024/12/news-lamac-5-insights-sobre-escala-y-alcance-con-video-premium-300x259.jpg 300w, https://lamac.org/wp-content/uploads/2024/12/news-lamac-5-insights-sobre-escala-y-alcance-con-video-premium-600x518.jpg 600w" sizes="(max-width: 718px) 100vw, 718px" style="width:100%;height:86.35%;max-width:718px;" />
+                            </div>
+                <div class="blog-post-txt">
+            <div class="d-flex flex-wrap gap-2 post-tag">
+                <div class="post-categories"><a href="https://lamac.org/category/lamac/">Lamac</a></div>            </div>
+
+
+            <h6 class="s-20 w-700"><a href="https://lamac.org/5-insights-sobre-escala-y-alcance-con-video-premium/">5 Insights sobre Escala y Alcance con Video Premium</a></h6>
+            <p>El Video Premium alcanza y retiene más audiencia en menos tiempo Un punto de alcance tiene diferente valor dependiendo de la plataforma, no es sólo una cuestión de escala, sino&hellip;</p>
+
+            <div class="blog-post-meta mt-20">
+                <ul class="post-meta-list ico-10"><li><p class="byline]"><a class="p-sm w-500" href="https://lamac.org/author/admin/" rel="author">admin</a></p></li><li class="meta-list-divider"><p><span class="flaticon-minus"></span></p></li><li><p class="posted-on p-sm"><time class="entry-date published updated" datetime="2024-12-07T10:15:16+00:00">diciembre 7, 2024</time></p></li></ul>            </div>
+        </div>
+    </div>
+</div>    </div>
+    		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-503ad29 elementor-section-content-middle ct-02 content-section division elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="503ad29" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-58ccc4ae" data-id="58ccc4ae" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-7ece6ff1 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ece6ff1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-77ee3c50 wow fadeInLeft" data-id="77ee3c50" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="txt-block elementor-element elementor-element-3ea85ff elementor-widget elementor-widget-content-text" data-id="3ea85ff" data-element_type="widget" data-widget_type="content-text.default">
+				<div class="elementor-widget-container">
+			<h2 class="title-element s-46 w-700">Sobre LAMAC</h2><p> </p>
+<p><span style="color: #333333">LAMAC, Consejo Latinoamericano de Publicidad en Medios (Latin American Media Advertising Council) es un grupo sin fines de lucro, financiado por 48 canales internacionales de Video Premium (y la bolsa argentina de <a style="color: #333333" href="https://quotexbroker.com.ar/">Quotex</a>), pertenecientes a las siete compañías que lideran los medios multinacionales en Latinoamérica: A+E Networks Latin America, AMC Networks International Latin America, NBCUniversal International Networks, Sony Pictures Television Latin America y Warner Bros Discovery.</span></p>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2315d1df wow fadeInRight" data-id="2315d1df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="img-block elementor-element elementor-element-6ecabd45 elementor-widget elementor-widget-content-image" data-id="6ecabd45" data-element_type="widget" data-widget_type="content-image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+															<img loading="lazy" decoding="async" width="768" height="480" src="https://lamac.org/wp-content/uploads/2024/12/home-sobre-lamac-768x480-1.jpg" class="attachment-full size-full wp-image-10718 img-fluid" alt="" srcset="https://lamac.org/wp-content/uploads/2024/12/home-sobre-lamac-768x480-1.jpg 768w, https://lamac.org/wp-content/uploads/2024/12/home-sobre-lamac-768x480-1-300x188.jpg 300w, https://lamac.org/wp-content/uploads/2024/12/home-sobre-lamac-768x480-1-600x375.jpg 600w" sizes="(max-width: 768px) 100vw, 768px" style="width:100%;height:62.5%;max-width:768px" />																			</div>
+					</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-483c216 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="483c216" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-813e6ee" data-id="813e6ee" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="section-title mb-70 elementor-element elementor-element-ba26a0b elementor-widget elementor-widget-section_title" data-id="ba26a0b" data-element_type="widget" data-widget_type="section_title.default">
+				<div class="elementor-widget-container">
+			<h2 class="title-element s-46">Grupos miembros de LAMAC</h2>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-2ffffd3 e-flex e-con-boxed e-con e-parent" data-id="2ffffd3" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-92f981a e-con-full e-flex e-con e-child" data-id="92f981a" data-element_type="container">
+				<div class="elementor-element elementor-element-caac160 elementor-invisible elementor-widget elementor-widget-image" data-id="caac160" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="#">
+							<img loading="lazy" decoding="async" width="189" height="117" src="https://lamac.org/wp-content/uploads/2024/12/group-45@3x.png" class="attachment-full size-full wp-image-10723 img-fluid" alt="" style="width:100%;height:61.9%;max-width:189px" />								</a>
+													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ee72bca e-con-full e-flex e-con e-child" data-id="ee72bca" data-element_type="container">
+				<div class="elementor-element elementor-element-0ec9b82 elementor-invisible elementor-widget elementor-widget-image" data-id="0ec9b82" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="#">
+							<img loading="lazy" decoding="async" width="2450" height="500" src="https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002.png" class="attachment-full size-full wp-image-10724 img-fluid" alt="" srcset="https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002.png 2450w, https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002-300x61.png 300w, https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002-1024x209.png 1024w, https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002-768x157.png 768w, https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002-1536x313.png 1536w, https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002-2048x418.png 2048w, https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002-1400x286.png 1400w, https://lamac.org/wp-content/uploads/2024/12/WBD_HorizontalLogo_Blue-1-002-600x122.png 600w" sizes="(max-width: 2450px) 100vw, 2450px" style="width:100%;height:20.41%;max-width:2450px" />								</a>
+													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a964f7a e-con-full e-flex e-con e-child" data-id="a964f7a" data-element_type="container">
+				<div class="elementor-element elementor-element-5931f47 elementor-invisible elementor-widget elementor-widget-image" data-id="5931f47" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="#">
+							<img loading="lazy" decoding="async" width="411" height="99" src="https://lamac.org/wp-content/uploads/2024/12/group-42@3x.png" class="attachment-full size-full wp-image-10722 img-fluid" alt="" srcset="https://lamac.org/wp-content/uploads/2024/12/group-42@3x.png 411w, https://lamac.org/wp-content/uploads/2024/12/group-42@3x-300x72.png 300w" sizes="(max-width: 411px) 100vw, 411px" style="width:100%;height:24.09%;max-width:411px" />								</a>
+													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a59e85b e-con-full e-flex e-con e-child" data-id="a59e85b" data-element_type="container">
+				<div class="elementor-element elementor-element-bc80805 elementor-invisible elementor-widget elementor-widget-image" data-id="bc80805" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="#">
+							<img loading="lazy" decoding="async" width="50" height="85" src="https://lamac.org/wp-content/uploads/2024/12/bitmap@2x-e1733569317126.png" class="attachment-full size-full wp-image-10720 img-fluid" alt="" style="width:100%;height:170%;max-width:50px" />								</a>
+													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2ac0a6c e-con-full e-flex e-con e-child" data-id="2ac0a6c" data-element_type="container">
+				<div class="elementor-element elementor-element-19fab35 elementor-invisible elementor-widget elementor-widget-image" data-id="19fab35" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="#">
+							<img loading="lazy" decoding="async" width="300" height="109" src="https://lamac.org/wp-content/uploads/2024/12/group-32@3x-300x109-1.png" class="attachment-full size-full wp-image-10721 img-fluid" alt="" style="width:100%;height:36.33%;max-width:300px" />								</a>
+													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2bdaf0e6 features-section division elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bdaf0e6" data-element_type="section" id="features-2">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-146e4330" data-id="146e4330" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-2b874028 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b874028" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-af87783" data-id="af87783" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-599685d4" data-id="599685d4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="section-title mb-70 elementor-element elementor-element-5ae2b4c elementor-widget elementor-widget-section_title" data-id="5ae2b4c" data-element_type="widget" data-widget_type="section_title.default">
+				<div class="elementor-widget-container">
+			<p class="description-element s-21">Proporcionamos a los anunciantes locales e internacionales, así como a sus agencias, la información de Business Intelligence más completa y actualizada sobre el creciente mundo de las plataformas multi-media y su contenido de Video Premium.
+
+</p>		</div>
+				</div>
+				<div class="section-title mb-70 elementor-element elementor-element-6598f25 elementor-widget elementor-widget-section_title" data-id="6598f25" data-element_type="widget" data-widget_type="section_title.default">
+				<div class="elementor-widget-container">
+			<span class="name-element section-id">¿Necesitas más información?</span>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5d182690" data-id="5d182690" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</div>		
+ 
+                </main><!-- .container -->		<div data-elementor-type="footer" data-elementor-id="10972" class="elementor elementor-10972 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-a7c5251 e-flex e-con-boxed e-con e-child" data-id="a7c5251" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-2941f67 e-con-full e-flex e-con e-child" data-id="2941f67" data-element_type="container">
+				<div class="txt-block elementor-element elementor-element-d2251ed elementor-widget elementor-widget-content-text" data-id="d2251ed" data-element_type="widget" data-widget_type="content-text.default">
+				<div class="elementor-widget-container">
+			<span class="name-element section-id default">Síguenos:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4e45ee2 e-grid-align-left e-grid-align-mobile-center elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4e45ee2" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-f12d03d" href="https://www.youtube.com/lamac" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-db1ad0e" href="https://www.linkedin.com/company/lamac" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<svg class="e-font-icon-svg e-fab-linkedin-in" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ec5b0bb e-con-full e-flex e-con e-child" data-id="ec5b0bb" data-element_type="container">
+				<div class="txt-block elementor-element elementor-element-8a483bf elementor-widget elementor-widget-content-text" data-id="8a483bf" data-element_type="widget" data-widget_type="content-text.default">
+				<div class="elementor-widget-container">
+			<span class="name-element section-id default">Contáctanos:</span><p>Tel. (+1) 786-228-7227<br /><a href="/cdn-cgi/l/email-protection#8ee7e0e8e1cee2efe3efeda0e1fce9" target="_blank" rel="noreferrer noopener"><span class="__cf_email__" data-cfemail="335a5d555c735f525e52501d5c4154">[email&#160;protected]</span></a></p>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7de4b3f e-flex e-con-boxed e-con e-parent" data-id="7de4b3f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-556df05 elementor-widget elementor-widget-text-editor" data-id="556df05" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Copyright © 2024 Lamac. All right reserved</p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/martex\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Button trigger modal -->
+<a id="citikidLoginModalLink" class="visually-hidden" data-bs-toggle="modal" href="#citikidLoginModal">
+  Launch login modal</a>
+
+<!-- Modal -->
+<div class="modal fade" id="citikidLoginModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="citikidLoginModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="citikidLoginModalLabel">User login</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+              </div>
+      <div class="modal-footer">
+        <a class="btn btn-sm btn-link text-dark" data-bs-toggle="modal" href="#citikidRegisterModal">Create an Account</a>
+        <a class="btn btn-sm btn-secondary" data-bs-dismiss="modal" href="#">Close</a>
+      </div>
+    </div>
+  </div>
+</div><!-- Button trigger modal -->
+<a type="button" id="citikidRegisterModalLink" class="visually-hidden" data-bs-toggle="modal" href="#citikidRegisterModal">
+  Launch register modal</a>
+
+<!-- Modal -->
+<div class="modal fade" id="citikidRegisterModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="citikidRegisterModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="citikidRegisterModalLabel">Create an Account</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+              </div>
+      <div class="modal-footer">
+        <a class="btn btn-sm btn-link text-dark" data-bs-toggle="modal" href="#citikidLoginModal">Back to login</a>
+        <a class="btn btn-sm btn-secondary" data-bs-dismiss="modal" href="#">Close</a>
+      </div>
+    </div>
+  </div>
+</div><script>document.body.classList.remove("no-js");</script>	<script>
+		if (-1 !== navigator.userAgent.indexOf('MSIE') || -1 !== navigator.appVersion.indexOf('Trident/')) {
+			document.body.classList.add('is-IE');
+		}
+	</script>
+			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+				<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wc-blocks-style-css' href='https://lamac.org/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.4.3' media='all' />
+<script src="https://lamac.org/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://lamac.org/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://lamac.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.1" id="swv-js"></script>
+<script id="contact-form-7-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2024-11-03 12:43:42+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"This contact form is placed in the wrong place.":["Este formulario de contacto est\u00e1 situado en el lugar incorrecto."],"Error:":["Error:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+</script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/lamac.org\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+</script>
+<script src="https://lamac.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.1" id="contact-form-7-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/bootstrap.bundle.min.js?ver=5.3.0" id="bootstrap-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/jquery.easing.js?ver=1.3.0" id="jquery-easing-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/jquery.appear.js?ver=1.0.0" id="jquery-appear-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/jquery.progressScroll.min.js?ver=1.0.0" id="progress-scroll-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/menu.js?ver=1.0.0" id="martex-menu-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/owl.carousel.min.js?ver=2.3.4" id="jquery-owl-carousel-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/jquery.magnific-popup.min.js?ver=1.1.0" id="jquery-magnific-popup-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/jquery.ajaxchimp.min.js?ver=1.0.0" id="jquery-ajaxchimp-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/wow.js?ver=1.0.0" id="wow-js"></script>
+<script src="https://lamac.org/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://lamac.org/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script src="https://lamac.org/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script src="https://lamac.org/wp-content/themes/martex/assets/js/custom.js?ver=1.0.0" id="martex-custom-js"></script>
+<script src="https://lamac.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
+<script src="https://lamac.org/wp-content/plugins/easy-social-share-buttons3/assets/modules/pinterest-pro.min.js?ver=9.9" id="pinterest-pro-js-js"></script>
+<script src="https://lamac.org/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js?ver=9.9" id="subscribe-forms-js-js"></script>
+<script src="https://lamac.org/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js?ver=9.9" id="easy-social-share-buttons-core-js"></script>
+<script id="easy-social-share-buttons-core-js-after">
+var essb_settings = {"ajax_url":"https:\/\/lamac.org\/wp-admin\/admin-ajax.php","essb3_nonce":"cd2d6bd81c","essb3_plugin_url":"https:\/\/lamac.org\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"essb3_ga_ntg":false,"blog_url":"https:\/\/lamac.org\/","post_id":"8474"};
+</script>
+<script src="https://lamac.org/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.4.3" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/lamac.org\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+</script>
+<script src="https://lamac.org/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.4.3" id="wc-order-attribution-js"></script>
+<script src="https://lamac.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.25.2" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://lamac.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.25.10" id="elementor-webpack-runtime-js"></script>
+<script src="https://lamac.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.10" id="elementor-frontend-modules-js"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/lamac.org\/wp-admin\/admin-ajax.php","nonce":"e29bdbb7fa","urls":{"assets":"https:\/\/lamac.org\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/lamac.org\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/lamac.org","checkout_page_url":"https:\/\/lamac.org","fragments_nonce":"225b130b55"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/lamac.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://lamac.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.25.2" id="elementor-pro-frontend-js"></script>
+<script src="https://lamac.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.25.10","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"theme_builder_v2":true,"home_screen":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true,"launchpad-checklist":true},"urls":{"assets":"https:\/\/lamac.org\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/lamac.org\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/lamac.org\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"50944c061c"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":10745,"title":"LAMAC","excerpt":"","featuredImage":"https:\/\/lamac.org\/wp-content\/uploads\/2024\/12\/news-lamac-5-insights-sobre-escala-y-alcance-con-video-premium.jpg"}};
+</script>
+<script src="https://lamac.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.10" id="elementor-frontend-js"></script>
+<script src="https://lamac.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.25.2" id="pro-elements-handlers-js"></script>
+<script type="text/javascript"></script>
+</body>
+</html>

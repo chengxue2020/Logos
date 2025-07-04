@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title data-react-helmet="true"></title>
+
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+	<meta property="og:locale" content="en_US">
+
+	<style type="text/css">
+		body { background: #470F4C; color: white; }
+		.network-logo-wrapper { width: 100%; }
+
+		@media only screen and (min-width: 768px) {
+			.network-logo { height: 55px; object-fit: contain; margin: auto; display: inherit; padding-bottom: 77px; }
+			.error-message-wrapper {  display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0px; position: absolute; width: 610px; height: 472px; left: calc(50% - 610px/2); top: calc(50% - 472px/2); }
+			.error-header { font-family: Avenir; font-style: normal; font-weight: 900; font-size: 24px; line-height: 32.78px; text-align: center; color: #ffffff; }
+			.error-body { font-family: Avenir; font-style: normal; font-weight: 300; font-size: 24px; line-height: 32.78px; text-align: center; color: #ffffff; padding-bottom: 77px; }
+		}
+
+		@media only screen and (max-width: 765px) {
+			.network-logo { height: 43px; object-fit: contain; margin: auto; display: inherit; padding-bottom: 62px; }
+			.error-message-wrapper {  display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0px; position: absolute; width: 252px; height: 386.66px; left: calc(50% - 252px/2); top: calc(50% - 386.66px/2 + 0.33px); }
+			.error-header { font-family: Avenir; font-style: normal; font-weight: 900; font-size: 14px; line-height: 19.12px; text-align: center; color: #ffffff; }
+			.error-body { font-family: Avenir; font-style: normal; font-weight: 300; font-size: 14px; line-height: 19.12px; text-align: center; color: #ffffff; padding-bottom: 62px; }
+		}
+	</style>
+
+</head>
+<body>
+	<div class="error-message-wrapper">
+		<div class="network-logo-wrapper">
+			<img class="network-logo" src="https://assets.cdn.watchdisneyfe.com/ErrorPages/FoxPlay/DSNY_STAR_LOGO_LIGHT_RGB.png"/>
+		</div>
+
+		<div class="error-header">Lo sentimos.</div>
+    <div class="error-body">Star ya no se encuentra disponible.</div>
+
+    <div class="error-header">Lamentamos.</div>
+    <div class="error-body">O Star não está mais disponível.</div>
+
+    <div class="error-header">We are sorry.</div>
+    <div class="error-body">Star is no longer available.</div>
+
+  </div>
+</body>
+</html>
