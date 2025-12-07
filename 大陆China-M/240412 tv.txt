@@ -1,3 +1,7 @@
+测试,#genre#
+中国国际少儿电视台,http://110.42.62.252:8080/live/sews.m3u8
+
+
 央视,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://111.20.35.108:6610/000000001000/1000000001000018602/index.m3u8?channelid=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3#https://itv.lat/tv/live.php?&line=1&id=cctv1#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://111.20.35.108:6610/000000001000/1000000001000023315/index.m3u8?channelid=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3#https://itv.lat/tv/live.php?&line=1&id=cctv2#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
