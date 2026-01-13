@@ -18,4 +18,4 @@
 |CCTV怀旧剧场|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png">|CCTV女性时尚|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png">|
 |CCTV世界地理|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png">|CCTV卫生健康|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png">|
 |CCTV央视台球|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png">|CCTV高尔夫网球|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png">|
-|CCTV央视文化精品|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png">|
+|CCTV央视文化精品|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png">|||
