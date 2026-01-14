@@ -1,32 +1,32 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="" tvg-logo="",河北综合广播
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北综合广播.png",河北综合广播
 https://radio.pull.hebtv.com/live/hebzh.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北新闻广播
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北新闻广播.jpg",河北新闻广播
 https://radio.pull.hebtv.com/live/hebxw.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北音乐广播FM102.4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北音乐广播FM102.4.png",河北音乐广播FM102.4
 https://radio.pull.hebtv.com/live/hebyy.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北交通广播
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北交通广播 FM992.png",河北交通广播
 https://radio.pull.hebtv.com/live/hebjt.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北汽车音乐广播
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北少儿科教广播汽车音乐.png",河北汽车音乐广播
 https://radio.pull.hebtv.com/live/hebqcyy.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北文艺广播FM90.7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北文艺广播FM90.7.png",河北文艺广播FM90.7
 https://radio.pull.hebtv.com/live/hebwy.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北经济广播
+#EXTINF:-1 tvg-logo="",河北经济广播
 https://radio.pull.hebtv.com/live/hebjj.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北生活广播FM89
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北生活广播FM89.jpg",河北生活广播FM89
 https://radio.pull.hebtv.com/live/hebshzx.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北农民广播FM98.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北农民广播FM98.1.png",河北农民广播FM98.1
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北旅游文化广播
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北旅游文化广播.png",河北旅游文化广播
 https://radio.pull.hebtv.com/live/hebly.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北旅游文化广播
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北旅游文化广播.png",河北旅游文化广播
 http://ls.qingting.fm/live/1651/24k.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",河北故事广播FM107.9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/河北故事广播FM107.9.png",河北故事广播FM107.9
 http://ls.qingting.fm/live/1645/24k.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",石家庄新闻广播
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/石家庄新闻广播.jpg",石家庄新闻广播
 http://ls.qingting.fm/live/1652/24k.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",石家庄音乐广播
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/石家庄音乐广播-.png",石家庄音乐广播
 http://ls.qingting.fm/live/1654/24k.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",石家庄交通广播
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chengxue2020/Logos/refs/heads/main/大陆China-M/河北/广播/石家庄交通广播.png",石家庄交通广播
 http://ls.qingting.fm/live/1655/24k.m3u8
