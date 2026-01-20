@@ -1,0 +1,3 @@
+https://chinaiptv.pages.dev/logo/{name}.png
+
+https://chengxue2020.github.io/Logos/logos/{name}.png
