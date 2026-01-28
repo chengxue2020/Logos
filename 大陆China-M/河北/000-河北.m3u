@@ -48,11 +48,13 @@ https://live-jlr.jlntv.cn/live/fm927/fm927.aac
 
 
 
-#EXTINF:-1 group-title="记录" tvg-logo="",LOVE THE PLANET
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="",LOVE THE PLANET
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="记录" tvg-logo="",WORLD FASHION
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="",WORLD FASHION
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 group-title="记录" tvg-logo="",OUTSIDE TV
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="",OUTSIDE TV
 https://outsidetv-outside-localnow.amagi.tv/playlistR404p.m3u8
-#EXTINF:-1 group-title="记录" tvg-logo="",INSIDE CRIME
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="",INSIDE CRIME
 https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
