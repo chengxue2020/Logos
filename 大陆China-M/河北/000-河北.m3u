@@ -1,5 +1,21 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="河北电视" tvg-logo="",河北卫视
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="",河北经济生活
+https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="",河北文旅公共
+https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="",河北少儿科教
+https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="",河北影视剧
+https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="",河北都市
+https://tv.pull.hebtv.com/jishi/dushipindao.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="",河北三农
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="",河北三佳购物
+https://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/大陆China-M/河北/广播/河北综合广播FM104.3.png",河北综合广播FM104.3
 https://radio.pull.hebtv.com/live/hebzh.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/大陆China-M/河北/广播/河北新闻广播FM104.3.jpg",河北新闻广播FM104.3
