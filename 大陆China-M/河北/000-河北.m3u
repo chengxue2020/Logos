@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/大陆China-M/河北/河北卫视.png",河北卫视
 https://tv.pull.hebtv.com/jishi/weishipindao.m3u8
-#EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/大陆China-M/河北/河北经济生活频道",河北经济生活
+#EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/大陆China-M/河北/河北经济生活频道.png",河北经济生活
 https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8
 #EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/大陆China-M/河北/河北文旅公共频道.png",河北文旅公共
 https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8
