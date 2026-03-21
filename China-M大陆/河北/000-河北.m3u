@@ -56,7 +56,7 @@ http://ls.qingting.fm/live/1655/24k.m3u8
 #EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏经典流行音乐广播FM97.5.jpg",江苏经典流行音乐广播FM97.5
 https://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?audio
 
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/湖北/湖北楚天音乐广播FM105.8.jpg",湖北楚天音乐广播FM105.8
+#EXTINF:-1 group-title="湖北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/湖北/楚天音乐广播FM105.8.png",湖北楚天音乐广播FM105.8
 https://lhttp.qingting.fm/live/1289/64k.mp3
 
 #EXTINF:-1 group-title="吉林广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/吉林/吉林音乐广播FM92.7.jpeg",吉林音乐广播FM92.7
@@ -64,13 +64,11 @@ https://live-jlr.jlntv.cn/live/fm927/fm927.aac
 
 
 
-#EXTINF:-1 group-title="记录娱乐" tvg-logo="",LOVE THE PLANET
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="https://chengxue2020.github.io/Logos/国外/UK英国/Love The Planet.png",LOVE THE PLANET
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="记录娱乐" tvg-logo="",WORLD FASHION
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="https://chengxue2020.github.io/Logos/国外/Euro欧洲/French法国/WF (World Fashion Channel).png",WORLD FASHION
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 group-title="记录娱乐" tvg-logo="",OUTSIDE TV
-https://outsidetv-outside-localnow.amagi.tv/playlistR404p.m3u8
-#EXTINF:-1 group-title="记录娱乐" tvg-logo="",INSIDE CRIME
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="https://chengxue2020.github.io/Logos/国外/Inside Crime.png",INSIDE CRIME
 https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="记录娱乐" tvg-logo="",DELUXE MUSIC
+#EXTINF:-1 group-title="记录娱乐" tvg-logo="https://chengxue2020.github.io/Logos/国外/Euro欧洲/Germany德国/Deluxe Musicᴴᴰ.png",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
