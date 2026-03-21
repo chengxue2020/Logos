@@ -36,19 +36,19 @@ https://radio.pull.hebtv.com/live/hebshzx.m3u8
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北旅游文化广播FM100.3.png",河北旅游文化广播FM100.3
 https://radio.pull.hebtv.com/live/hebly.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北旅游文化广播.png",河北旅游文化广播
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北旅游文化广播FM100.3.png",河北旅游文化广播FM100.3
 http://ls.qingting.fm/live/1651/24k.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北故事广播FM107.9.png",河北故事广播FM107.9
 http://ls.qingting.fm/live/1645/24k.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄新闻广播FM88.2.jpg",石家庄新闻广播FM88.2
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄新闻广播FM88.2.png",石家庄新闻广播FM88.2
 http://ls.qingting.fm/live/1652/24k.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄新闻广播FM88.2.jpg",石家庄新闻广播FM88.2
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄新闻广播FM88.2.png",石家庄新闻广播FM88.2
 https://lhttp.qingting.fm/live/1652/64k.mp3
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄音乐广播.png",石家庄音乐广播
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄音乐广播FM106.7.PNG",石家庄音乐广播FM106.7
 http://ls.qingting.fm/live/1654/24k.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄音乐广播.png",石家庄音乐广播
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄音乐广播FM106.7.PNG",石家庄音乐广播FM106.7
 https://lhttp.qingting.fm/live/1654/64k.mp3
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄交通广播.png",石家庄交通广播
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄交通广播FM94.6.png",石家庄交通广播FM94.6
 http://ls.qingting.fm/live/1655/24k.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄经济广播FM100.9.png",石家庄经济广播FM100.9
 
