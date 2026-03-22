@@ -72,3 +72,13 @@ https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="记录娱乐" tvg-logo="https://chengxue2020.github.io/Logos/国外/Euro欧洲/Germany德国/Deluxe Musicᴴᴰ.png",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 group-title="两岸三地" tvg-logo="",ET
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/9934
+
+#EXTINF:-1 group-title="国外" tvg-logo="",Space City
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28743.rtmp
+#EXTINF:-1 group-title="国外-新闻" tvg-logo="",Sky News
+https://jmp2.uk/stvp-USBD3000145P
+#EXTINF:-1 group-title="国外-新闻" tvg-logo="",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
