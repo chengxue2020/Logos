@@ -53,8 +53,28 @@ http://ls.qingting.fm/live/1655/24k.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄经济广播FM100.9.png",石家庄经济广播FM100.9
 
 
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏经典流行音乐广播FM97.5.jpg",江苏经典流行音乐广播FM97.5
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻广播FM93.7.jpg",江苏新闻广播FM93.7
+https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻综合广播AM702.png",江苏新闻综合广播AM702
+https://lzlive.vojs.cn/rTyLc36/92/live.m3u8
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏交通广播网FM101.1.png",江苏交通广播网FM101.1
+https://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏金陵之声FM99.7",江苏金陵之声FM99.7
+https://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏经典流行音乐台FM97.5.jpg",江苏经典流行音乐广播FM97.5
 https://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?audio
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏音乐广播FM89.7.png",江苏音乐广播FM89.7
+https://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏文艺广播FM91.4 AM1053.jpg",江苏文艺广播FM91.4/AM1053
+https://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏故事广播FM104.9 AM1206.png",江苏故事广播AM1206
+https://lzlive.vojs.cn/rWjyus9/92/live.m3u8
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏健康广播FM100.5 AM846.jpg",江苏健康广播FM100.5/AM846
+https://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏财经广播FM95.2 AM585",江苏财经广播FM95.2/AM585
+https://lzlive.vojs.cn/caijing/92/live.m3u8
+
+
 
 #EXTINF:-1 group-title="湖北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/湖北/楚天音乐广播FM105.8.png",湖北楚天音乐广播FM105.8
 https://lhttp.qingting.fm/live/1289/64k.mp3
