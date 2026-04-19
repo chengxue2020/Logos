@@ -52,7 +52,8 @@ https://lhttp.qingting.fm/live/1654/64k.mp3
 http://ls.qingting.fm/live/1655/24k.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/石家庄经济广播FM100.9.png",石家庄经济广播FM100.9
 #EXTINF:-1 group-title="河北广播" tvg-logo="http://pic.qtfm.cn/2019/0313/20190313115555.png",衡水故城经典音乐广播HD ClassicsFM90.5
-http://ls.qingting.fm/live/20212269/24k.m3u8
+#EXTVLCOPT:http-referrer=http://ls.qingting.fm/
+http://ls.qingting.fm/live/20212269/24k.m3u8m
 
 
 #EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻广播FM93.7.jpg",江苏新闻广播FM93.7
