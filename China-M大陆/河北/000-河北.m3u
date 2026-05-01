@@ -109,7 +109,7 @@ https://jmp2.uk/stvp-USBD3000145P
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
 #EXTM3U
-#EXTINF:-1 group-title="CNR广播"  tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo ,CNR中国之声
+#EXTINF:-1 group-title="CNR广播"  tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo",CNR中国之声
 https://radio.0472.org/?id=639
 #EXTINF:-1 group-title="CNR广播" tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo",CNR经济之声
 https://radio.0472.org/?id=640
