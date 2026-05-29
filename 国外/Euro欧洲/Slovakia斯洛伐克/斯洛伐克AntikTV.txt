@@ -1,0 +1,141 @@
+#
+user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+AMC,https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Animal Planet,https://dash2.antik.sk/stream/hisi_animal_planet/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+ATV,https://dash2.antik.sk/stream/hisi_atv/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+ATV Spirit,https://dash2.antik.sk/stream/hisi_atv_spirit/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+AXN,https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+AXN Black,https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+AXN White,https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Barrandov,https://dash2.antik.sk/stream/hisi_barrandov/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+BBC Earth,https://dash2.antik.sk/stream/hisi_bbc_earth/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Cinemax,https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Cinemax 2,https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+CNN Prima News,https://dash2.antik.sk/stream/hisi_cnn_prima_news/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Cool TV,https://dash2.antik.sk/stream/hisi_cool_tv/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+CT Sport,https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+ČT1,https://dash2.antik.sk/stream/nvidia_ct1/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+ČT2,https://dash2.antik.sk/stream/hisi_ct_2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+DajTo,https://dash2.antik.sk/stream/nvidia_dajto/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Discovery,https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Doktor TV,https://dash2.antik.sk/stream/hisi_doktor_tv/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Doma,https://dash2.antik.sk/stream/nvidia_doma/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Duna TV,https://dash2.antik.sk/stream/hisi_duna/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Duna World,https://dash2.antik.sk/stream/hisi_duna_world/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Dvojka,https://dash2.antik.sk/stream/nvidia_dvojka/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Euro Sports 1,https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Euro Sports 2,https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Eurosport 4K,https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8$license-type=clearkey$license-key=
+Eurosport 4K Olympics,https://dash2.antik.sk/live/esp_oh/index.m3u8$license-type=clearkey$license-key=
+Fashion Box,https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8$license-type=clearkey$license-key=
+Film +,https://dash2.antik.sk/stream/nvidia_film_plus/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Film+,https://dash2.antik.sk/stream/hisi_film_plus_hun/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+FilmBox,https://dash2.antik.sk/stream/nvidia_filmbox/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+FilmBox Extra,https://dash2.antik.sk/stream/hisi_fb_extra/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+FilmBox Extra (HU),https://dash2.antik.sk/stream/hisi_fb_extra_hu/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+FilmBox Family,https://dash2.antik.sk/stream/hisi_fb_family/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+FilmBox Family (HU),https://dash2.antik.sk/stream/hisi_filmbox_family_hu/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+FilmBox Premium,https://dash2.antik.sk/stream/hisi_fb_premium/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+FilmBox Stars,https://dash2.antik.sk/stream/hisi_fb_stars/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+FilmBox Stars (HU),https://dash2.antik.sk/stream/hisi_filmbox_plus_hu/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Folklorika,https://dash2.antik.sk/stream/hisi_folklorika/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Food Network,https://dash2.antik.sk/stream/hisi_food_network/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Galaxy 4,https://dash2.antik.sk/stream/hisi_galaxy4/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+HaHa TV,https://dash2.antik.sk/stream/hisi_haha/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+HBO 2,https://dash2.antik.sk/stream/hisi_hbo_2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+HBO 3,https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+HGTV,https://dash2.antik.sk/stream/hisi_hgtv/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+History 2,https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+History Channel,https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Jednotka,https://dash2.antik.sk/stream/nvidia_jednotka/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+JOJ,https://dash2.antik.sk/stream/nvidia_joj/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+JOJ +1,https://dash2.antik.sk/stream/hisi_joj_plus_jedna/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+JOJ 24,https://dash2.antik.sk/stream/hisi_joj_24/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+JOJ Plus,https://dash2.antik.sk/stream/nvidia_joj_plus/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+JOJ Šport,https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+JOJ Svet,https://dash2.antik.sk/stream/hisi_joj_svet/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Jojko,https://dash2.antik.sk/stream/hisi_jojko/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Kino Barrandov,https://dash2.antik.sk/stream/hisi_kino_barrandov/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Kitchen TV,https://dash2.antik.sk/stream/hisi_kitchen/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Kölyökklub,https://dash2.antik.sk/stream/hisi_kolyokklub/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+LALA TV,https://dash2.antik.sk/stream/hisi_lala/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Love Nature,https://dash2.antik.sk/stream/hisi_love_nature/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+M1,https://dash2.antik.sk/stream/hisi_m1/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+M2,https://dash2.antik.sk/stream/hisi_m2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Markíza,https://dash2.antik.sk/stream/nvidia_markiza/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Markíza +1,https://dash2.antik.sk/stream/hisi_markiza_plus_jedna/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Markíza Klasik,https://dash2.antik.sk/stream/hisi_markiza_klasik/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Markíza Krimi,https://dash2.antik.sk/stream/nvidia_markiza_krimi/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Markiza Sport,https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Minimax,https://dash2.antik.sk/stream/hisi_minimax/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Moziklub,https://dash2.antik.sk/stream/hisi_moziklub/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+MTV 00s,https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+MTV 90s,https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+MTV Hits,https://dash2.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Muzsika,https://dash2.antik.sk/stream/hisi_muzsika/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nat Geo,https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nat Geo Wild,https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+NOE,https://dash2.antik.sk/stream/hisi_noe/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova International,https://dash2.antik.sk/stream/hisi_nova_int/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Óčko,https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Prima Cool SK,https://dash2.antik.sk/stream/nvidia_prima_cool/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Prima SK,https://dash2.antik.sk/stream/hisi_prima_plus/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Rai,https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8$license-type=clearkey$license-key=
+Retro Music Television,https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+RiK TV,https://dash2.antik.sk/live/rik_atk/index.m3u8$license-type=clearkey$license-key=
+RTL Gold,https://dash2.antik.sk/stream/hisi_rtl_gold/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+RTL OTTHON,https://dash2.antik.sk/stream/hisi_rtl_otthon/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+RTVS Šport,https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Senzi,https://dash2.antik.sk/stream/hisi_senzi/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Seznam.cz TV,https://dash2.antik.sk/stream/nvidia_seznam/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Arena Sport 1,https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Arena Sport 2,https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Disney Channel,https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Disney Junior,https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK JimJam,https://dash2.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK JOJ Cinema,https://dash2.antik.sk/stream/nvidia_joj_cinema/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK JOJ Cinema+,https://dash2.antik.sk/stream/hisi_joj_cine_plus_jedna/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK JOJ Sport,https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Nick Jr,https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Nickelodeon,https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Nova Sport 1,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Nova Sport 2,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK RTVS Sport,https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Sport 1,https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SK Sport 2,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Šláger Originál,https://dash2.antik.sk/stream/hisi_slager_original/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sorozatklub,https://dash2.antik.sk/stream/hisi_sorozatklub/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Spark TV,https://dash2.antik.sk/stream/hisi_spark/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Spektrum,https://dash2.antik.sk/stream/hisi_spektrum/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Spektrum Home,https://dash2.antik.sk/stream/hisi_spektrum_home/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 1,https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 2,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Story 4,https://dash2.antik.sk/stream/hisi_story_4/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Story4,https://dash2.antik.sk/stream/hisi_story4/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Super TV2,https://dash2.antik.sk/stream/hisi_super_tv2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+TA3,https://dash2.antik.sk/stream/nvidia_ta3/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Tanecnesutaze,https://dash2.antik.sk/live/tanecnesutaze/index.m3u8$license-type=clearkey$license-key=
+TLC,https://dash2.antik.sk/stream/hisi_tlc/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Travel Channel,https://dash2.antik.sk/stream/hisi_travel_channel/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Turbo TV,https://dash2.antik.sk/stream/hisi_turbo/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+TV 2,https://dash2.antik.sk/stream/hisi_tv2/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+TV 4,https://dash2.antik.sk/stream/hisi_tv4/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+TV LUX,https://dash2.antik.sk/stream/hisi_lux/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+TV2 Séf,https://dash2.antik.sk/stream/hisi_tv2_sef/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+TV2Klub,https://dash2.antik.sk/stream/hisi_fem3/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+WAU,https://dash2.antik.sk/stream/nvidia_wau/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Erox,https://dash2.antik.sk/stream/hisi_erox/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Eroxxx,https://dash2.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Desire,https://dash2.antik.sk/stream/hisi_desire/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Babes TV,https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Pure Babes,https://dash2.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Bang U,https://dash2.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+True Amateurs,https://dash2.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Brazzers TV Europe,https://dash2.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Dorcel TV,https://dash2.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Dorcel XXX,https://dash2.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Leo TV,https://dash2.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Extasy HD,https://dash2.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Leo TV Gold,https://dash2.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Passion XXX,https://dash2.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Dusk!TV,https://dash2.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd$license-type=clearkey$license-key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d

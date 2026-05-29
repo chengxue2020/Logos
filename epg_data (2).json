@@ -1,0 +1,4585 @@
+{
+  "epgs":[
+{"name":"中国3D电视试验频道,3D电视试验频道,3D试验,CCTV3d,中國3D電視試驗頻道,3D電視試驗頻道,3D試驗,CCTV3d",
+  "logo":"3D试验"
+},
+{"name":"4K超高清电影,4K超高清電影",
+  "logo":"4K超高清电影"
+},
+{"name":"ABCAustralia,ABCAustralia",
+  "logo":"ABCAustralia"
+},
+{"name":"AFC,AFC",
+  "logo":"AFC"
+},
+{"name":"AMC,AMC最爱电影,AMC电影,AMC电影台,AMC,AMC最愛電影,AMC電影,AMC電影台",
+  "logo":"AMC"
+},
+{"name":"Animax,Animax(第2声道),Animax HK,Animax,Animax(第2聲道),Animax HK",
+  "logo":"Animax"
+},
+{"name":"Animax HD,AnimaxHD,Animax HD,AnimaxHD",
+  "logo":"AnimaxHD"
+},
+{"name":"ARIRANG,韩国阿里郎,ARIRANG,韓國阿里郎",
+  "logo":"ARIRANG"
+},
+{"name":"ASIANFOOD,ASIANFOOD",
+  "logo":"ASIANFOOD"
+},
+{"name":"ASIATRAVEL,ASIATRAVEL",
+  "logo":"ASIATRAVEL"
+},
+{"name":"ASIAZONGHE,ASIAZONGHE",
+  "logo":"ASIAZONGHE"
+},
+{"name":"ATV,亚视ATV,亚视ATV台,ATV,亞視ATV,亞視ATV台",
+  "logo":"ATV"
+},
+{"name":"AXN,Axn HK,AXN亚洲,AXN台湾,AXN,Axn HK,AXN亞洲,AXN台灣",
+  "logo":"AXN"
+},
+{"name":"BabyFirst,Baby First宝宝世界,Babyfirst,BabyFirst,Baby First寶寶世界,Babyfirst",
+  "logo":"BabyFirst"
+},
+{"name":"Baby TV(台湾),BabyTV,Baby TV,Baby TV(台灣),BabyTV,Baby TV",
+  "logo":"BabyTV"
+},
+{"name":"BBC earth,BBC Earth,BBC earth,BBC Earth",
+  "logo":"BBC earth"
+},
+{"name":"BBC Lifestyle,BBC Lifestyle",
+  "logo":"BBC Lifestyle"
+},
+{"name":"BBC World News,BBC-WorldNews,BBC世界新闻,BBC World News,BBC-WorldNews,BBC世界新聞",
+  "logo":"BBC World News"
+},
+{"name":"BBCCBEEBIES,BBCCBEEBIES",
+  "logo":"BBCCBEEBIES"
+},
+{"name":"BBC Earth,BBC Earth",
+  "logo":"BBCEarth"
+},
+{"name":"BBC Lifestyle,BBC Lifestyle",
+  "logo":"BBCLifestyle"
+},
+{"name":"BBC World News,BBC World News",
+  "logo":"BBCWorldNews"
+},
+{"name":"BEAUTIFULLIFE,人间卫视,SEGSEG,[TW]人间卫视,BEAUTIFULLIFE,人間衛視,SEGSEG,[TW]人間衛視",
+  "logo":"BEAUTIFULLIFE"
+},
+{"name":"BenchMark.txt,BenchMark.txt",
+  "logo":"BenchMark.txt"
+},
+{"name":"BESTV,BESTV",
+  "logo":"BESTV"
+},
+{"name":"bestv电竞天堂,bestv电竞,bestv電競天堂,bestv電競",
+  "logo":"bestv电竞天堂"
+},
+{"name":"BesTV4K,BesTV-4K,百视通4K,best,百视通电视剧,BesTV电视剧,百视通电影轮播,BesTV电影轮播,百视通谍战剧场,BesTV谍战剧场,百视通港剧经典,BesTV港剧经典,百视通华语,BesTV华语电影,百视通精品电影,BesTV精品电影,百视独播1,百视独播2,百视独播3,百视独播4,百视独播5,百视4k,BesTV4K,BesTV-4K,百視通4K,best,百視通電視劇,BesTV電視劇,百視通電影輪播,BesTV電影輪播,百視通諜戰劇場,BesTV諜戰劇場,百視通港劇經典,BesTV港劇經典,百視通華語,BesTV華語電影,百視通精品電影,BesTV精品電影,百視獨播1,百視獨播2,百視獨播3,百視獨播4,百視獨播5,百視4k",
+  "logo":"BesTV4K"
+},
+{"name":"BesTV超级体育,BesTV-超级体育,BesTV1,BesTV2,BesTV3,BesTV4,BesTV5,BesTV6,BesTV7,BesTV8,BesTV9,BesTV10,BesTV11,BesTV12,BesTV13,BesTV14,BesTV15,BesTV16,BesTV17,BesTV18,BesTV19,百视TV1,百视TV2,百视TV3,百视TV4,百视TV5,百视TV6,百视TV7,百视TV8,百视TV9,百视TV10,百视TV11,百视TV12,百视TV13,百视TV14,百视TV15,百视TV16,百视TV17,百视TV18,百视TV19,BesTV赛事1,BesTV赛事2,BesTV赛事3,BesTV赛事4,BesTV赛事5,BesTV赛事6,BesTV赛事7,BesTV赛事8,BesTV赛事9,BesTV超級體育,BesTV-超級體育,BesTV1,BesTV2,BesTV3,BesTV4,BesTV5,BesTV6,BesTV7,BesTV8,BesTV9,BesTV10,BesTV11,BesTV12,BesTV13,BesTV14,BesTV15,BesTV16,BesTV17,BesTV18,BesTV19,百視TV1,百視TV2,百視TV3,百視TV4,百視TV5,百視TV6,百視TV7,百視TV8,百視TV9,百視TV10,百視TV11,百視TV12,百視TV13,百視TV14,百視TV15,百視TV16,百視TV17,百視TV18,百視TV19,BesTV賽事1,BesTV賽事2,BesTV賽事3,BesTV賽事4,BesTV賽事5,BesTV賽事6,BesTV賽事7,BesTV賽事8,BesTV賽事9",
+  "logo":"BesTV超级体育"
+},
+{"name":"BloombergTV,彭博财经台,彭博财经,BloombergTV,彭博財經台,彭博財經",
+  "logo":"BloombergTV"
+},
+{"name":"BlueAntEntertainment,BlueAnt综艺娱乐,BlueAntEntertainment,BlueAnt綜藝娛樂",
+  "logo":"BlueAntEntertainment"
+},
+{"name":"BLUEAntExtreme,BlueAnt超极娱乐,BLUEAntExtreme,BlueAnt超極娛樂",
+  "logo":"BLUEAntExtreme"
+},
+{"name":"BOO,BOO",
+  "logo":"BOO"
+},
+{"name":"Boomerang,Boo恐怖台,Boomerang,Boo恐怖台",
+  "logo":"Boomerang"
+},
+{"name":"BRTVInternational,北京国际,北京国际频道,BTV国际频道,BRTVInternational[高清],BRTVInternationalHD,BRTV北京国际频道[超清],北京国际频道[超清],北京国际频道[高清],BRTV国际频道[超清],BRTV国际频道,BRTV国际频道[高清],BRTVInternational,北京國際,北京國際頻道,BTV國際頻道,BRTVInternational[高清],BRTVInternationalHD,BRTV北京國際頻道[超清],北京國際頻道[超清],北京國際頻道[高清],BRTV國際頻道[超清],BRTV國際頻道,BRTV國際頻道[高清]",
+  "logo":"BRTVInternational"
+},
+{"name":"BRTV北京纪实科教8K,BRTV北京紀實科教8K",
+  "logo":"BRTV北京纪实科教8K"
+},
+{"name":"BRTV北京卫视,北京卫视,北京卫视HD,北京卫视高清,BRTV北京卫视[高清],北京卫视[高清],BRTV北京卫视HD,北京卫视高清,北京卫视超清,BRTV北京衛視,北京衛視,北京衛視HD,北京衛視高清,BRTV北京衛視[高清],北京衛視[高清],BRTV北京衛視HD,北京衛視高清,北京衛視超清",
+  "logo":"BRTV北京卫视"
+},
+{"name":"BRTV财经,BRTV财经hd,北京财经,北京财经HD,BTV财经,BRTV财经[高清],BRTV财经HD,BRTV財經,BRTV財經hd,北京財經,北京財經HD,BTV財經,BRTV財經[高清],BRTV財經HD",
+  "logo":"BRTV财经"
+},
+{"name":"BRTV纪实科教,BRTV纪实hd,BRTV北京纪实,BTV北京纪实,BTV纪实,北京科教,北京纪实,BTV科教,北京纪实科教,北京纪实科教HD,BRTV纪实科教[高清],BRTV纪实科教HD,纪实科教,北京纪实科教4K,北京纪实科教高清,北京纪实科教[高清],北京冬奥纪实,北京纪实科教8k,BRTV紀實科教,BRTV紀實hd,BRTV北京紀實,BTV北京紀實,BTV紀實,北京科教,北京紀實,BTV科教,北京紀實科教,北京紀實科教HD,BRTV紀實科教[高清],BRTV紀實科教HD,紀實科教,北京紀實科教4K,北京紀實科教高清,北京紀實科教[高清],北京冬奧紀實,北京紀實科教8k",
+  "logo":"BRTV纪实科教"
+},
+{"name":"BRTV卡酷少儿,BRTV少儿,BRTV少儿hd,BRTV卡酷少儿hd,北京kaku少儿,卡酷少儿,卡酷动画,北京卡酷,BTV卡酷少儿,BTV少儿,BRTV卡酷少儿[高清],BRTV卡酷少儿HD,北京动画片,北京卡酷少儿,北京少儿,BRTV卡酷少兒,BRTV少兒,BRTV少兒hd,BRTV卡酷少兒hd,北京kaku少兒,卡酷少兒,卡酷動畫,北京卡酷,BTV卡酷少兒,BTV少兒,BRTV卡酷少兒[高清],BRTV卡酷少兒HD,北京動畫片,北京卡酷少兒,北京少兒",
+  "logo":"BRTV卡酷少儿"
+},
+{"name":"BRTV生活,BRTV生活hd,北京生活,北京生活HD,BTV生活,BRTV生活[高清],BRTV生活HD,BRTV生活,BRTV生活hd,北京生活,北京生活HD,BTV生活,BRTV生活[高清],BRTV生活HD",
+  "logo":"BRTV生活"
+},
+{"name":"BRTV体育休闲,BRTV体育hd,北京体育休闲,北京体育休闲HD,北京体育,北京休闲,BTV体育,BRTV体育,BRTV体育休闲[高清],BRTV体育休闲HD,BRTV体育休闲[超清],BRTV體育休閑,BRTV體育hd,北京體育休閑,北京體育休閑HD,北京體育,北京休閑,BTV體育,BRTV體育,BRTV體育休閑[高清],BRTV體育休閑HD,BRTV體育休閑[超清]",
+  "logo":"BRTV体育休闲"
+},
+{"name":"BRTV文艺,BRTV文艺hd,北京文艺,北京文艺HD,BTV文艺,BRTV文艺[高清],BRTV文艺HD,BRTV文藝,BRTV文藝hd,北京文藝,北京文藝HD,BTV文藝,BRTV文藝[高清],BRTV文藝HD",
+  "logo":"BRTV文艺"
+},
+{"name":"BRTV新闻,BRTV新闻hd,北京新闻,北京新闻HD,BTV新闻,BRTV新闻[高清],BRTV新闻HD,BRTV新聞,BRTV新聞hd,北京新聞,北京新聞HD,BTV新聞,BRTV新聞[高清],BRTV新聞HD",
+  "logo":"BRTV新闻"
+},
+{"name":"BRTV影视,BRTV影视hd,北京影视,北京影视HD,BTV影视,BRTV影视[高清],BRTV影视HD,BRTV影視,BRTV影視hd,北京影視,北京影視HD,BTV影視,BRTV影視[高清],BRTV影視HD",
+  "logo":"BRTV影视"
+},
+{"name":"Cartoonito,Cartoonito",
+  "logo":"Cartoonito"
+},
+{"name":"CATCHPLAYBEYOND,CATCHPLAYBEYOND",
+  "logo":"CATCHPLAYBEYOND"
+},
+{"name":"CatchPlay电影,CatchPlay电影台,CatchPlay電影台,Catch电影,CatchPlay電影,CatchPlay電影台,CatchPlay電影台,Catch電影",
+  "logo":"CatchPlay电影"
+},
+{"name":"CATCHPLAY电影台,CATCHPLAY電影台",
+  "logo":"CATCHPLAY电影台"
+},
+{"name":"CBeebies,BBC CBeebies,BBCCBeebies,CBeebies,BBC CBeebies,BBCCBeebies",
+  "logo":"CBeebies"
+},
+{"name":"CBN风尚生活,CBN-风尚生活,CBN風尚生活,CBN-風尚生活",
+  "logo":"CBN风尚生活"
+},
+{"name":"CBN每日影院,CBN-每日影院,CBN每日影院,CBN-每日影院",
+  "logo":"CBN每日影院"
+},
+{"name":"CBN幸福剧场,CBN-幸福剧场,CBN幸福劇場,CBN-幸福劇場",
+  "logo":"CBN幸福剧场"
+},
+{"name":"CBN幸福娱乐,CBN-幸福娱乐,CBN幸福娛樂,CBN-幸福娛樂",
+  "logo":"CBN幸福娱乐"
+},
+{"name":"CCTV1-高清,CCTV1,CCTV-1,CCTV-01,CCTV-1hd,CCTV-1高清,CCTV-1综合,CCTV1综合,CCTV1综合HD,CCTV-1 综合,CCTV1 综合,CCTV-1综合[高清],CCTV1 综合[高清],CCTV-1 综合[高清],CCTV-1超清,CCTV1-综合,CCTV1高清,CCTV1hd,CCTV1-高清,CCTV1,CCTV-1,CCTV-01,CCTV-1hd,CCTV-1高清,CCTV-1綜合,CCTV1綜合,CCTV1綜合HD,CCTV-1 綜合,CCTV1 綜合,CCTV-1綜合[高清],CCTV1 綜合[高清],CCTV-1 綜合[高清],CCTV-1超清,CCTV1-綜合,CCTV1高清,CCTV1hd",
+  "logo":"CCTV1"
+},
+{"name":"CCTV10-高清,CCTV10,CCTV-10,CCTV-10hd,CCTV-10高清,CCTV-10科教,CCTV10科教,CCTV10科教hd,CCTV-10 科教,CCTV10 科教,CCTV-10科教[高清],CCTV10 科教[高清],CCTV-10 科教[高清],CCTV-10超清,CCTV10-科教,CCTV10高清,CCTV10hd,CCTV10-高清,CCTV10,CCTV-10,CCTV-10hd,CCTV-10高清,CCTV-10科教,CCTV10科教,CCTV10科教hd,CCTV-10 科教,CCTV10 科教,CCTV-10科教[高清],CCTV10 科教[高清],CCTV-10 科教[高清],CCTV-10超清,CCTV10-科教,CCTV10高清,CCTV10hd",
+  "logo":"CCTV10"
+},
+{"name":"CCTV11-高清,CCTV11,CCTV-11,CCTV-11hd,CCTV-11高清,CCTV-11戏曲,CCTV11戏曲,CCTV11戏曲hd,CCTV-11 戏曲,CCTV11 戏曲,CCTV-11戏曲[高清],CCTV11 戏曲[高清],CCTV-11 戏曲[高清],CCTV-11超清,CCTV11-戏曲,CCTV11高清,CCTV11hd,CCTV11-高清,CCTV11,CCTV-11,CCTV-11hd,CCTV-11高清,CCTV-11戲曲,CCTV11戲曲,CCTV11戲曲hd,CCTV-11 戲曲,CCTV11 戲曲,CCTV-11戲曲[高清],CCTV11 戲曲[高清],CCTV-11 戲曲[高清],CCTV-11超清,CCTV11-戲曲,CCTV11高清,CCTV11hd",
+  "logo":"CCTV11"
+},
+{"name":"CCTV12-高清,CCTV12,CCTV-12,CCTV-12hd,CCTV-12高清,CCTV-12社会,CCTV-12社会与法,CCTV12社会与法,CCTV12社会与法hd,CCTV-12 社会与法,CCTV12 社会与法,CCTV-12社会与法[高清],CCTV12 社会与法[高清],CCTV-12 社会与法[高清],CCTV-12超清,CCTV12-社会与法,CCTV12高清,CCTV12hd,CCTV12-高清,CCTV12,CCTV-12,CCTV-12hd,CCTV-12高清,CCTV-12社會,CCTV-12社會與法,CCTV12社會與法,CCTV12社會與法hd,CCTV-12 社會與法,CCTV12 社會與法,CCTV-12社會與法[高清],CCTV12 社會與法[高清],CCTV-12 社會與法[高清],CCTV-12超清,CCTV12-社會與法,CCTV12高清,CCTV12hd",
+  "logo":"CCTV12"
+},
+{"name":"CCTV13-高清,CCTV13,CCTV-13,CCTV-13hd,CCTV-13高清,CCTV13新闻,CCTV13新闻hd,CCTV-13新闻,CCTV-13 新闻,CCTV13 新闻,CCTV-13新闻[高清],CCTV13 新闻[高清],CCTV-13 新闻[高清],CCTV-13超清,CCTV13-新闻,CCTV13高清,CCTV13hd,CCTV13-高清,CCTV13,CCTV-13,CCTV-13hd,CCTV-13高清,CCTV13新聞,CCTV13新聞hd,CCTV-13新聞,CCTV-13 新聞,CCTV13 新聞,CCTV-13新聞[高清],CCTV13 新聞[高清],CCTV-13 新聞[高清],CCTV-13超清,CCTV13-新聞,CCTV13高清,CCTV13hd",
+  "logo":"CCTV13"
+},
+{"name":"CCTV14-高清,CCTV14,CCTV 14,CCTV-14,CCTV-14hd,CCTV-14高清,CCTV-14少儿,CCTV14少儿,CCTV14少儿hd,CCTV-14 少儿,CCTV14 少儿,CCTV-14少儿[高清],CCTV14 少儿[高清],CCTV-14 少儿[高清],CCTV-14超清,CCTV14-少儿,CCTV14高清,CCTV14hd,CCTV14-高清,CCTV14,CCTV 14,CCTV-14,CCTV-14hd,CCTV-14高清,CCTV-14少兒,CCTV14少兒,CCTV14少兒hd,CCTV-14 少兒,CCTV14 少兒,CCTV-14少兒[高清],CCTV14 少兒[高清],CCTV-14 少兒[高清],CCTV-14超清,CCTV14-少兒,CCTV14高清,CCTV14hd",
+  "logo":"CCTV14"
+},
+{"name":"CCTV15-高清,CCTV15,CCTV-15,CCTV-15hd,CCTV-15高清,CCTV-15音乐,CCTV15音乐,CCTV15音乐hd,CCTV-15 音乐,CCTV15 音乐,CCTV-15音乐[高清],CCTV15 音乐[高清],CCTV-15 音乐[高清],CCTV-15超清,CCTV15-音乐,CCTV15高清,CCTV15hd,CCTV15-高清,CCTV15,CCTV-15,CCTV-15hd,CCTV-15高清,CCTV-15音樂,CCTV15音樂,CCTV15音樂hd,CCTV-15 音樂,CCTV15 音樂,CCTV-15音樂[高清],CCTV15 音樂[高清],CCTV-15 音樂[高清],CCTV-15超清,CCTV15-音樂,CCTV15高清,CCTV15hd",
+  "logo":"CCTV15"
+},
+{"name":"CCTV16-高清,CCTV16,CCTV16 4K,CCTV-16,CCTV-16hd,CCTV-16高清,CCTV-16高清4M,CCTV-16高清8M,CCTV-16奥运,CCTV-16奥运4K,CCTV16 奥林匹克,CCTV16奥林匹克,CCTV16奥林匹克hd,CCTV-16,CCTV-16奥林匹克超清,CCTV-16奥林匹克,CCTV-16 奥林匹克,CCTV-16 奥林匹克 4K,CCTV16 奥林匹克[高清],CCTV-16 奥林匹克[高清],CCTV-16奥林匹克[高清],CCTV16 奥林匹克[超清],CCTV-16奥林匹克[超清],CCTV-16 奥林匹克[超清HDR],CCTV16-4K,CCTV16-奥林匹克,CCTV-16_4K,CCTV16高清,CCTV16hd,CCTV16-高清,CCTV16,CCTV16 4K,CCTV-16,CCTV-16hd,CCTV-16高清,CCTV-16高清4M,CCTV-16高清8M,CCTV-16奧運,CCTV-16奧運4K,CCTV16 奧林匹克,CCTV16奧林匹克,CCTV16奧林匹克hd,CCTV-16,CCTV-16奧林匹克超清,CCTV-16奧林匹克,CCTV-16 奧林匹克,CCTV-16 奧林匹克 4K,CCTV16 奧林匹克[高清],CCTV-16 奧林匹克[高清],CCTV-16奧林匹克[高清],CCTV16 奧林匹克[超清],CCTV-16奧林匹克[超清],CCTV-16 奧林匹克[超清HDR],CCTV16-4K,CCTV16-奧林匹克,CCTV-16_4K,CCTV16高清,CCTV16hd",
+  "logo":"CCTV16"
+},
+{"name":"CCTV17-高清,CCTV17,CCTV-17,CCTV-17hd,CCTV-17高清,CCTV-17超清,CCTV-17农业,CCTV17农业,CCTV-17农业农村,CCTV17农业农村,CCTV17农业农村hd,CCTV-17 农业农村,CCTV17 农业农村,CCTV-17农村农业,CCTV17农业农村,CCTV17农村农业,CCTV-17农业农村[高清],CCTV17 农业农村[高清],CCTV-17 农业农村[高清],CCTV17-农业农村,CCTV17高清,CCTV17hd,CCTV17-高清,CCTV17,CCTV-17,CCTV-17hd,CCTV-17高清,CCTV-17超清,CCTV-17農業,CCTV17農業,CCTV-17農業農村,CCTV17農業農村,CCTV17農業農村hd,CCTV-17 農業農村,CCTV17 農業農村,CCTV-17農村農業,CCTV17農業農村,CCTV17農村農業,CCTV-17農業農村[高清],CCTV17 農業農村[高清],CCTV-17 農業農村[高清],CCTV17-農業農村,CCTV17高清,CCTV17hd",
+  "logo":"CCTV17"
+},
+{"name":"CCTV2-高清,CCTV2,CCTV-2,CCTV-02,CCTV-2hd,CCTV-2高清,CCTV-2财经,CCTV2财经,CCTV2财经hd,CCTV-2 财经,CCTV2 财经,CCTV-2财经[高清],CCTV2 财经[高清],CCTV-2 财经[高清],CCTV-2超清,CCTV2-财经,CCTV2高清,CCTV2hd,CCTV2-高清,CCTV2,CCTV-2,CCTV-02,CCTV-2hd,CCTV-2高清,CCTV-2財經,CCTV2財經,CCTV2財經hd,CCTV-2 財經,CCTV2 財經,CCTV-2財經[高清],CCTV2 財經[高清],CCTV-2 財經[高清],CCTV-2超清,CCTV2-財經,CCTV2高清,CCTV2hd",
+  "logo":"CCTV2"
+},
+{"name":"CCTV3-高清,CCTV3,CCTV-3,CCTV-03,CCTV-3hd,CCTV-3高清,CCTV-3综艺,CCTV3综艺,CCTV3综艺hd,CCTV-3 综艺,CCTV3 综艺,CCTV-3综艺[高清],CCTV3 综艺[高清],CCTV-3 综艺[高清],CCTV-3超清,CCTV3-综艺,CCTV3高清,CCTV3hd,CCTV3-高清,CCTV3,CCTV-3,CCTV-03,CCTV-3hd,CCTV-3高清,CCTV-3綜藝,CCTV3綜藝,CCTV3綜藝hd,CCTV-3 綜藝,CCTV3 綜藝,CCTV-3綜藝[高清],CCTV3 綜藝[高清],CCTV-3 綜藝[高清],CCTV-3超清,CCTV3-綜藝,CCTV3高清,CCTV3hd",
+  "logo":"CCTV3"
+},
+{"name":"CCTV4-高清,CCTV4,CCTV-4,CCTV-04,CCTV-04,CCTV-4hd,CCTV-4高清,CCTV-4国际,CCTV-4中文国际,CCTV4中文国际,CCTV4中文国际hd,CCTV-4 中文国际,CCTV4 中文国际,CCTV-4中文国际[高清],CCTV4 中文国际[高清],CCTV-4 中文国际[高清],CCTV-4超清,CCTV4-国际,CCTV4高清,CCTV4hd,CCTV4-高清,CCTV4,CCTV-4,CCTV-04,CCTV-04,CCTV-4hd,CCTV-4高清,CCTV-4國際,CCTV-4中文國際,CCTV4中文國際,CCTV4中文國際hd,CCTV-4 中文國際,CCTV4 中文國際,CCTV-4中文國際[高清],CCTV4 中文國際[高清],CCTV-4 中文國際[高清],CCTV-4超清,CCTV4-國際,CCTV4高清,CCTV4hd",
+  "logo":"CCTV4"
+},
+{"name":"CCTV4K,CCTV 4K,CCTV-4k,CCTV4K高清,CCTV 4K高清,CCTV-4k高清,CCTV4K 高清,CCTV4K超高清,CCTV 4K超高清,CCTV-4k超高清,CCTV-4k 超高清,CCTV4K 超高清,CCTV4K超清,CCTV 4K超清,CCTV-4k超清,CCTV4K 超清,CCTV-高清,CCTV高清,CCTV 高清,CCTV4K高清,CCTV4Khd,CCTV4K,CCTV 4K,CCTV-4k,CCTV4K高清,CCTV 4K高清,CCTV-4k高清,CCTV4K 高清,CCTV4K超高清,CCTV 4K超高清,CCTV-4k超高清,CCTV-4k 超高清,CCTV4K 超高清,CCTV4K超清,CCTV 4K超清,CCTV-4k超清,CCTV4K 超清,CCTV-高清,CCTV高清,CCTV 高清,CCTV4K高清,CCTV4Khd",
+  "logo":"CCTV4K"
+},
+{"name":"CCTV4-美洲,CCTV4美洲,CCTV4-美洲,CCTV-4美洲,CCTV4 美洲,CCTV-4美洲[高清],CCTV4 美洲[高清],CCTV-4 美洲[高清],CCTV-4 中文国际 美洲[高清],CCTV-4 中文国际 美洲超清,CCTV4-美洲,中文国际美洲,CCTV-4中文国际美洲,CCTV-4美洲,CCTV4美洲,CCTV4中文国际美洲,CCTV-4中文国际 美洲,CCTV4-美洲高清,CCTV4-美洲hd,CCTV4-美洲,CCTV4美洲,CCTV4-美洲,CCTV-4美洲,CCTV4 美洲,CCTV-4美洲[高清],CCTV4 美洲[高清],CCTV-4 美洲[高清],CCTV-4 中文國際 美洲[高清],CCTV-4 中文國際 美洲超清,CCTV4-美洲,中文國際美洲,CCTV-4中文國際美洲,CCTV-4美洲,CCTV4美洲,CCTV4中文國際美洲,CCTV-4中文國際 美洲,CCTV4-美洲高清,CCTV4-美洲hd",
+  "logo":"CCTV4-美洲"
+},
+{"name":"CCTV4-欧洲,CCTV4欧洲,CCTV4-欧洲,CCTV-4欧洲,CCTV4 欧洲,CCTV-4欧洲[高清],CCTV4 欧洲[高清],CCTV-4 欧洲[高清],CCTV-4 中文国际 欧洲[高清],CCTV-4 中文国际 欧洲超清,CCTV4-欧洲,中文国际欧洲,CCTV-4中文国际欧洲,CCTV-4欧洲,CCTV4欧洲,CCTV4中文国际欧洲,CCTV-4中文国际 欧洲,CCTV4-欧洲高清,CCTV4-欧洲hd,CCTV4-歐洲,CCTV4歐洲,CCTV4-歐洲,CCTV-4歐洲,CCTV4 歐洲,CCTV-4歐洲[高清],CCTV4 歐洲[高清],CCTV-4 歐洲[高清],CCTV-4 中文國際 歐洲[高清],CCTV-4 中文國際 歐洲超清,CCTV4-歐洲,中文國際歐洲,CCTV-4中文國際歐洲,CCTV-4歐洲,CCTV4歐洲,CCTV4中文國際歐洲,CCTV-4中文國際 歐洲,CCTV4-歐洲高清,CCTV4-歐洲hd",
+  "logo":"CCTV4-欧洲"
+},
+{"name":"CCTV5-高清,CCTV5,CCTV-5,CCTV-05,CCTV-5hd,CCTV-5高清,CCTV-5体育,CCTV5体育,CCTV5体育hd,CCTV-5 体育,CCTV5 体育,CCTV-5体育[高清],CCTV5 体育[高清],CCTV-5 体育[高清],CCTV-5超清,CCTV5-体育,CCTV-5体育高清,CCTV5 体育高清,CCTV-5 体育高清,CCTV5体育高清,CCTV5高清,CCTV5hd,CCTV5-高清,CCTV5,CCTV-5,CCTV-05,CCTV-5hd,CCTV-5高清,CCTV-5體育,CCTV5體育,CCTV5體育hd,CCTV-5 體育,CCTV5 體育,CCTV-5體育[高清],CCTV5 體育[高清],CCTV-5 體育[高清],CCTV-5超清,CCTV5-體育,CCTV-5體育高清,CCTV5 體育高清,CCTV-5 體育高清,CCTV5體育高清,CCTV5高清,CCTV5hd",
+  "logo":"CCTV5"
+},
+{"name":"CCTV5+-高清,CCTV5+,CCTV5 +,CCTV5＋,CCTV-5+,CCTV-5+hd,CCTV-5+高清,CCTV5⁺体育赛事,CCTV5⁺,CCTV-5⁺,CCTV-5⁺体育赛事,CCTV-体育赛事,CCTV-5+体育赛事,CCTV5+体育赛事,CCTV5+体育赛事hd,CCTV-5+ 体育赛事,CCTV-5+赛事,CCTV5+ 体育赛事,CCTV5+体育赛事,体育赛事,CCTV-5+赛事[高清],CCTV5+ 体育赛事[高清],CCTV-5+ 体育赛事[高清],CCTV-5+超清,CCTV5+-体育赛事,CCTV5+高清,CCTV5+hd,超级赛事,超级赛事体育,CCTV5+-高清,CCTV5+,CCTV5 +,CCTV5＋,CCTV-5+,CCTV-5+hd,CCTV-5+高清,CCTV5?體育賽事,CCTV5?,CCTV-5?,CCTV-5?體育賽事,CCTV-體育賽事,CCTV-5+體育賽事,CCTV5+體育賽事,CCTV5+體育賽事hd,CCTV-5+ 體育賽事,CCTV-5+賽事,CCTV5+ 體育賽事,CCTV5+體育賽事,體育賽事,CCTV-5+賽事[高清],CCTV5+ 體育賽事[高清],CCTV-5+ 體育賽事[高清],CCTV-5+超清,CCTV5+-體育賽事,CCTV5+高清,CCTV5+hd,超級賽事,超級賽事體育",
+  "logo":"CCTV5P"
+},
+{"name":"CCTV6-高清,CCTV6,CCTV-6,CCTV-06,CCTV-6hd,CCTV6电影,CCTV-6高清,CCTV-6电影,CCTV6电影,CCTV6电影hd,CCTV-6 电影,CCTV6 电影,CCTV-6电影[高清],CCTV6 电影[高清],CCTV-6 电影[高清],CCTV-6超清,CCTV6影视,CCTV6-电影,CCTV6高清,CCTV6hd,CCTV6-高清,CCTV6,CCTV-6,CCTV-06,CCTV-6hd,CCTV6電影,CCTV-6高清,CCTV-6電影,CCTV6電影,CCTV6電影hd,CCTV-6 電影,CCTV6 電影,CCTV-6電影[高清],CCTV6 電影[高清],CCTV-6 電影[高清],CCTV-6超清,CCTV6影視,CCTV6-電影,CCTV6高清,CCTV6hd",
+  "logo":"CCTV6"
+},
+{"name":"CCTV7-高清,CCTV7,CCTV-7,CCTV-07,CCTV-7hd,CCTV-7高清,CCTV-7国防军事,CCTV-7 国防军事,CCTV7国防军事,CCTV7国防军事hd,CCTV-7国防,CCTV7国防,CCTV7-国防军事,CCTV7-军事,CCTV7 国防军事,CCTV7-军事[高清],CCTV7 国防军事[高清],CCTV-7国防军事[高清],CCTV-7 国防军事[高清],CCTV-7超清,CCTV7-军农,CCTV7高清,CCTV7hd,CCTV7-高清,CCTV7,CCTV-7,CCTV-07,CCTV-7hd,CCTV-7高清,CCTV-7國防軍事,CCTV-7 國防軍事,CCTV7國防軍事,CCTV7國防軍事hd,CCTV-7國防,CCTV7國防,CCTV7-國防軍事,CCTV7-軍事,CCTV7 國防軍事,CCTV7-軍事[高清],CCTV7 國防軍事[高清],CCTV-7國防軍事[高清],CCTV-7 國防軍事[高清],CCTV-7超清,CCTV7-軍農,CCTV7高清,CCTV7hd",
+  "logo":"CCTV7"
+},
+{"name":"CCTV8-高清,CCTV8,CCTV-8,CCTV-08,CCTV-8hd,CCTV-8高清,CCTV8电视剧,CCTV8电视剧hd,CCTV-8电视,CCTV8电视,CCTV-8电视剧,CCTV-8 电视剧,CCTV8 电视剧,CCTV8-电视剧[高清],CCTV8 电视剧[高清],CCTV-8 电视剧[高清],CCTV-8电视剧[高清],CCTV-8超清,CCTV8-电视剧,CCTV8高清,CCTV8hd,CCTV8-高清,CCTV8,CCTV-8,CCTV-08,CCTV-8hd,CCTV-8高清,CCTV8電視劇,CCTV8電視劇hd,CCTV-8電視,CCTV8電視,CCTV-8電視劇,CCTV-8 電視劇,CCTV8 電視劇,CCTV8-電視劇[高清],CCTV8 電視劇[高清],CCTV-8 電視劇[高清],CCTV-8電視劇[高清],CCTV-8超清,CCTV8-電視劇,CCTV8高清,CCTV8hd",
+  "logo":"CCTV8"
+},
+{"name":"CCTV8K,CCTV 8K,CCTV-8k,CCTV8K高清,CCTV 8K高清,CCTV-8k高清,CCTV8K 高清,CCTV8K超高清,CCTV 8K超高清,CCTV-8k超高清,CCTV-8k 超高清,CCTV8K 超高清,CCTV-超高清,CCTV超高清,CCTV8K超清,CCTV 8K超清,CCTV-8k超清,CCTV8K 超清,CCTV-超清,CCTV超清,CCTV 超清,CCTV超高清,CCTV8K频道,CCTV8K高清,CCTV8Khd,CCTV8K,CCTV 8K,CCTV-8k,CCTV8K高清,CCTV 8K高清,CCTV-8k高清,CCTV8K 高清,CCTV8K超高清,CCTV 8K超高清,CCTV-8k超高清,CCTV-8k 超高清,CCTV8K 超高清,CCTV-超高清,CCTV超高清,CCTV8K超清,CCTV 8K超清,CCTV-8k超清,CCTV8K 超清,CCTV-超清,CCTV超清,CCTV 超清,CCTV超高清,CCTV8K頻道,CCTV8K高清,CCTV8Khd",
+  "logo":"CCTV8K"
+},
+{"name":"CCTV9-高清,CCTV9,CCTV-9,CCTV-09,CCTV-9hd,CCTV-9高清,CCTV-9记录,CCTV-9记录hd,CCTV-9纪录,CCTV-9 纪录,CCTV9纪录,CCTV9 纪录,CCTV9 纪录hd,CCTV9纪录[高清],CCTV9 纪录[高清],CCTV-9纪录[高清],CCTV-9 纪录[高清],CCTV-9超清,CCTV9-纪录,CCTV9高清,CCTV9hd,CCTV9-高清,CCTV9,CCTV-9,CCTV-09,CCTV-9hd,CCTV-9高清,CCTV-9記錄,CCTV-9記錄hd,CCTV-9紀錄,CCTV-9 紀錄,CCTV9紀錄,CCTV9 紀錄,CCTV9 紀錄hd,CCTV9紀錄[高清],CCTV9 紀錄[高清],CCTV-9紀錄[高清],CCTV-9 紀錄[高清],CCTV-9超清,CCTV9-紀錄,CCTV9高清,CCTV9hd",
+  "logo":"CCTV9"
+},
+{"name":"CCTV兵器科技,CCTV兵器科技高清,兵器科技,兵器科技高清,CCTV-兵器科技,CCTV 兵器科技,CCTV兵器科技,CCTV兵器科技高清,兵器科技,兵器科技高清,CCTV-兵器科技,CCTV 兵器科技",
+  "logo":"CCTV兵器科技"
+},
+{"name":"CCTV第一剧场,CCTV第一剧场高清,第一剧场,第一剧场高清,CCTV-第一剧场,CCTV 第一剧场,CCTV第一劇場,CCTV第一劇場高清,第一劇場,第一劇場高清,CCTV-第一劇場,CCTV 第一劇場",
+  "logo":"CCTV第一剧场"
+},
+{"name":"CCTV电视指南,CCTV电视指南高清,电视指南,电视指南高清,CCTV-电视指南,CCTV 电视指南,CCTV電視指南,CCTV電視指南高清,電視指南,電視指南高清,CCTV-電視指南,CCTV 電視指南",
+  "logo":"CCTV电视指南"
+},
+{"name":"CCTV发现之旅,CCTV发现之旅高清,发现之旅,发现之旅,高清CCTV-发现之旅,CCTV 发现之旅,CCTV發現之旅,CCTV發現之旅高清,發現之旅,發現之旅,高清CCTV-發現之旅,CCTV 發現之旅",
+  "logo":"CCTV发现之旅"
+},
+{"name":"CCTV风云剧场,CCTV风云剧场高清,风云剧场,风云剧场高清,CCTV-风云剧场,CCTV 风云剧场,CCTV風云劇場,CCTV風云劇場高清,風云劇場,風云劇場高清,CCTV-風云劇場,CCTV 風云劇場",
+  "logo":"CCTV风云剧场"
+},
+{"name":"CCTV风云音乐,CCTV风云音乐高清,风云音乐,风云音乐高清,CCTV-风云音乐,CCTV 风云音乐,CCTV風云音樂,CCTV風云音樂高清,風云音樂,風云音樂高清,CCTV-風云音樂,CCTV 風云音樂",
+  "logo":"CCTV风云音乐"
+},
+{"name":"CCTV风云足球,CCTV风云足球高清,风云足球,风云足球高清,CCTV-风云足球,CCTV 风云足球,CCTV風云足球,CCTV風云足球高清,風云足球,風云足球高清,CCTV-風云足球,CCTV 風云足球",
+  "logo":"CCTV风云足球"
+},
+{"name":"CCTV高尔夫网球,CCTV高尔夫网球高清,高尔夫网球高清,CCTV-高尔夫网球,央视高网,CCTV 高尔夫网球,CCTV高尔夫,网球高尔夫,CCTV高爾夫網球,CCTV高爾夫網球高清,高爾夫網球高清,CCTV-高爾夫網球,央視高網,CCTV 高爾夫網球,CCTV高爾夫,網球高爾夫",
+  "logo":"CCTV高尔夫网球"
+},
+{"name":"CCTV怀旧剧场,CCTV怀旧剧场高清,怀旧剧场,怀旧剧场高清,CCTV-怀旧剧场,CCTV 怀旧剧场,CCTV懷舊劇場,CCTV懷舊劇場高清,懷舊劇場,懷舊劇場高清,CCTV-懷舊劇場,CCTV 懷舊劇場",
+  "logo":"CCTV怀旧剧场"
+},
+{"name":"CCTV老故事,CCTV老故事,老故事,老故事高清,CCTV-老故事,CCTV 老故事,CCTV老故事,CCTV老故事,老故事,老故事高清,CCTV-老故事,CCTV 老故事",
+  "logo":"CCTV老故事"
+},
+{"name":"CCTV女性时尚,CCTV女性时尚高清,女性时尚,女性时尚高清,CCTV-女性时尚,CCTV 女性时尚,CCTV女性時尚,CCTV女性時尚高清,女性時尚,女性時尚高清,CCTV-女性時尚,CCTV 女性時尚",
+  "logo":"CCTV女性时尚"
+},
+{"name":"CCTV世界地理,CCTV世界地理高清,世界地理,世界地理高清,CCTV-世界地理,CCTV 世界地理,CCTV世界地理,CCTV世界地理高清,世界地理,世界地理高清,CCTV-世界地理,CCTV 世界地理",
+  "logo":"CCTV世界地理"
+},
+{"name":"CCTV卫生健康,CCTV卫生健康高清,卫生健康,卫生健康,高清CCTV-卫生健康,CCTV 卫生健康,CCTV衛生健康,CCTV衛生健康高清,衛生健康,衛生健康,高清CCTV-衛生健康,CCTV 衛生健康",
+  "logo":"CCTV卫生健康"
+},
+{"name":"CCTV戏曲,CCTV戏曲高清,戏曲,CCTV-戏曲,CCTV 戏曲,央视戏曲,央视戏曲高清,CCTV戲曲,CCTV戲曲高清,戲曲,CCTV-戲曲,CCTV 戲曲,央視戲曲,央視戲曲高清",
+  "logo":"CCTV戏曲"
+},
+{"name":"CCTV新科动漫,CCTV新科动漫高清,新科动漫,CCTV-新科动漫,CCTV 新科动漫,央视新科动漫,新科动漫高清,CCTV新科動漫,CCTV新科動漫高清,新科動漫,CCTV-新科動漫,CCTV 新科動漫,央視新科動漫,新科動漫高清",
+  "logo":"CCTV新科动漫"
+},
+{"name":"CCTV央视台球,CCTV央视台球高清,央视台球,CCTV-央视台球,CCTV 央视台球,央视台球,央视台球高清,CCTV央視台球,CCTV央視台球高清,央視台球,CCTV-央視台球,CCTV 央視台球,央視台球,央視台球高清",
+  "logo":"CCTV央视台球"
+},
+{"name":"CCTV央视文化精品,CCTV央视文化精品高清,央视文化精品,央视文化精品高清,CCTV-央视文化精品,CCTV 央视文化精品,CCTV文化精品,CCTV文化精品高清,文化精品,CCTV-文化精品,CCTV 文化精品,CCTV央視文化精品,CCTV央視文化精品高清,央視文化精品,央視文化精品高清,CCTV-央視文化精品,CCTV 央視文化精品,CCTV文化精品,CCTV文化精品高清,文化精品,CCTV-文化精品,CCTV 文化精品",
+  "logo":"CCTV央视文化精品"
+},
+{"name":"CCTV移动,CCTV移动高清,移动,CCTV-移动,CCTV 移动,CCTV移動,CCTV移動高清,移動,CCTV-移動,CCTV 移動",
+  "logo":"CCTV移动"
+},
+{"name":"CCTV娱乐,CCTV娱乐高清,娱乐,CCTV-娱乐,CCTV 娱乐,央视娱乐,央视娱乐高清,CCTV娛樂,CCTV娛樂高清,娛樂,CCTV-娛樂,CCTV 娛樂,央視娛樂,央視娛樂高清",
+  "logo":"CCTV娱乐"
+},
+{"name":"CCTV证券资讯,CCTV证券资讯高清,证券资讯,CCTV-证券资讯,CCTV 证券资讯,央视证券,央视证券高清,CCTV證券資訊,CCTV證券資訊高清,證券資訊,CCTV-證券資訊,CCTV 證券資訊,央視證券,央視證券高清",
+  "logo":"CCTV证券资讯"
+},
+{"name":"CCTV中学生,CCTV中学生高清,中学生,CCTV-中学生,CCTV 中学生,CCTV中學生,CCTV中學生高清,中學生,CCTV-中學生,CCTV 中學生",
+  "logo":"CCTV中学生"
+},
+{"name":"cetv1-高清,CETV1,CETV1台,CETV1中教1台,CETV1高清,CETV1 高清,cetv-1,cetv-1hd,CETV-1,CETV-1高清,教育1台,教育一台,中国教育1台,中国教育-1,中国教育-1高清,中国教育1,CETV-01,教育1台[高清],教育一台[高清],中国教育1台[高清],CETV-01[高清],CETV1[高清],cetv1-高清,CETV1,CETV1台,CETV1中教1台,CETV1高清,CETV1 高清,cetv-1,cetv-1hd,CETV-1,CETV-1高清,教育1台,教育一台,中國教育1台,中國教育-1,中國教育-1高清,中國教育1,CETV-01,教育1台[高清],教育一台[高清],中國教育1台[高清],CETV-01[高清],CETV1[高清]",
+  "logo":"CETV1"
+},
+{"name":"cetv2-高清,CETV2,CETV2台,CETV2中教2台,CETV2高清,CETV2 高清,cetv-2,cetv-2hd,CETV-2,CETV-2高清,教育2台,教育二台,中国教育2台,中国教育2,中国教育-2,中国教育-2高清,CETV-02,教育2台[高清],教育二台[高清],中国教育2台[高清],CETV-02[高清],CETV2[高清],cetv2-高清,CETV2,CETV2台,CETV2中教2台,CETV2高清,CETV2 高清,cetv-2,cetv-2hd,CETV-2,CETV-2高清,教育2台,教育二台,中國教育2台,中國教育2,中國教育-2,中國教育-2高清,CETV-02,教育2台[高清],教育二台[高清],中國教育2台[高清],CETV-02[高清],CETV2[高清]",
+  "logo":"CETV2"
+},
+{"name":"cetv3-高清,CETV3,CETV3台,CETV3中教3台,CETV3高清,CETV3 高清,cetv-3,cetv-3hd,CETV-3,CETV-3高清,教育3台,教育三台,中国教育3台,中国教育3,中国教育-3,中国教育-3高清,CETV-03,教育3台[高清],教育三台[高清],中国教育3台[高清],CETV-03[高清],CETV3[高清],cetv3-高清,CETV3,CETV3台,CETV3中教3台,CETV3高清,CETV3 高清,cetv-3,cetv-3hd,CETV-3,CETV-3高清,教育3台,教育三台,中國教育3台,中國教育3,中國教育-3,中國教育-3高清,CETV-03,教育3台[高清],教育三台[高清],中國教育3台[高清],CETV-03[高清],CETV3[高清]",
+  "logo":"CETV3"
+},
+{"name":"cetv4-高清,CETV4,CETV4台,CETV4中教4台,CETV4高清,CETV4 高清,cetv-4,cetv-4hd,CETV-4,CETV-4高清,教育4台,教育四台,中国教育4台,中国教育4,中国教育-4,中国教育-4高清,CETV-04,教育4台[高清],教育四台[高清],中国教育4台[高清],CETV-04[高清],CETV4[高清],cetv4-高清,CETV4,CETV4台,CETV4中教4台,CETV4高清,CETV4 高清,cetv-4,cetv-4hd,CETV-4,CETV-4高清,教育4台,教育四台,中國教育4台,中國教育4,中國教育-4,中國教育-4高清,CETV-04,教育4台[高清],教育四台[高清],中國教育4台[高清],CETV-04[高清],CETV4[高清]",
+  "logo":"CETV4"
+},
+{"name":"CETV早期教育,早期教育,CETV 早期教育,早期教育,早期教育高清,CETV早期教育,早期教育,CETV 早期教育,早期教育,早期教育高清",
+  "logo":"CETV早期教育"
+},
+{"name":"CGTN,CGTN高清,CGTN[高清],CGTN英语,CGTN_英语,CGTN英语高清,CGTN 英语,CGTN 新闻[高清],CGTN-新闻,CGTN新闻[高清],CGTN,CGTN高清,CGTN[高清],CGTN英語,CGTN_英語,CGTN英語高清,CGTN 英語,CGTN 新聞[高清],CGTN-新聞,CGTN新聞[高清]",
+  "logo":"CGTN"
+},
+{"name":"CGTNArabic,CGTN阿拉伯语,CGTN阿语,CGTN阿拉伯语[高清],CGTN阿语[高清],CGTN阿拉伯语高清,CGTN 阿拉伯语,CGTN 阿语,CGTN-阿语,CGTN 阿拉伯语[高清],CGTN 阿语[高清],CGTN 阿拉伯语高清,CGTNArabic,CGTN阿拉伯語,CGTN阿語,CGTN阿拉伯語[高清],CGTN阿語[高清],CGTN阿拉伯語高清,CGTN 阿拉伯語,CGTN 阿語,CGTN-阿語,CGTN 阿拉伯語[高清],CGTN 阿語[高清],CGTN 阿拉伯語高清",
+  "logo":"CGTN阿语"
+},
+{"name":"CGTNRussian,CGTN俄语,CGTN_俄语,CGTN俄语[高清],CGTN俄语高清,CGTN 俄语,CGTN-俄语,CGTN 俄语[高清],CGTN 俄语高清,CGTNRussian,CGTN俄語,CGTN_俄語,CGTN俄語[高清],CGTN俄語高清,CGTN 俄語,CGTN-俄語,CGTN 俄語[高清],CGTN 俄語高清,CCTV俄语",
+  "logo":"CGTN俄语"
+},
+{"name":"CGTNFrench,CGTN法语,CGTN_法语,CGTN法语[高清],CGTN法语高清,CGTN 法语,CGTN-法语,CGTN 法语[高清],CGTN 法语高清,CGTNFrench,CGTN法語,CGTN_法語,CGTN法語[高清],CGTN法語高清,CGTN 法語,CGTN-法語,CGTN 法語[高清],CGTN 法語高清",
+  "logo":"CGTN法语"
+},
+{"name":"CGTNDocumentary,CGTN纪录,CGTN_纪录,CGTN记录,CGTN-记录,CGTN纪录[高清],CGTN纪录高清,CGTN-纪录,CGTN 纪录[高清],CGTN 纪录高清,CGTN 纪录,CGTN 英文记录,CGTN 记录[高清],CGTNDocumentary,CGTN紀錄,CGTN_紀錄,CGTN記錄,CGTN-記錄,CGTN紀錄[高清],CGTN紀錄高清,CGTN-紀錄,CGTN 紀錄[高清],CGTN 紀錄高清,CGTN 紀錄,CGTN 英文記錄,CGTN 記錄[高清]",
+  "logo":"CGTN纪录"
+},
+{"name":"CGTNSpanish,CGTN西语,CGTN_西语,CGTN西班牙语,CGTN espsnol,CGTN-西语,CGTN西班牙语[高清],CGTN espsnol[高清],CGTN西班牙语高清,CGTN 西班牙语,CGTN 西班牙语高清,CGTN 西班牙语[高清],CGTNSpanish,CGTN西語,CGTN_西語,CGTN西班牙語,CGTN espsnol,CGTN-西語,CGTN西班牙語[高清],CGTN espsnol[高清],CGTN西班牙語高清,CGTN 西班牙語,CGTN 西班牙語高清,CGTN 西班牙語[高清]",
+  "logo":"CGTN西语"
+},
+{"name":"CHANNELv,CHANNELv音乐台,Channel V,CHANNELv[高清],CHANNELv音乐台[高清],Channel V[高清],Channel V高清,Channel[V],Channel [V],CHANNELv,CHANNELv音樂台,Channel V,CHANNELv[高清],CHANNELv音樂台[高清],Channel V[高清],Channel V高清,Channel[V],Channel [V]",
+  "logo":"CHANNELv"
+},
+{"name":"CHC动作电影,CHC动作电影[高清],CHC動作電影,CHC动作高清,CHC動作電影,CHC動作電影[高清],CHC動作電影,CHC動作高清",
+  "logo":"CHC动作电影"
+},
+{"name":"CHC高清电影,高清电影,CHC高清电影[高清],高清电影[高清],CHC高清電影,CHC高清高清,CHC高清電影,高清電影,CHC高清電影[高清],高清電影[高清],CHC高清電影,CHC高清高清",
+  "logo":"CHC高清电影"
+},
+{"name":"CHC家庭影院,家庭影院,CHC家庭影院[高清],家庭影院[高清],CHC家庭高清,CHC家庭影院,家庭影院,CHC家庭影院[高清],家庭影院[高清],CHC家庭高清",
+  "logo":"CHC家庭影院"
+},
+{"name":"CHC影迷电影,CHC影迷电影[高清],CHC影迷高清,CHC影迷電影,CHC影迷電影[高清],CHC影迷高清",
+  "logo":"CHC影迷电影"
+},
+{"name":"CIBN,CIBN",
+  "logo":"CIBN"
+},
+{"name":"CIBN电影,CIBN-电影,电影,CIBN電影,CIBN-電影,電影",
+  "logo":"CIBN电影"
+},
+{"name":"CIBN动画乐园,CIBN動畫樂園",
+  "logo":"CIBN动画乐园"
+},
+{"name":"CIBN动作影院,CIBN-动作影院,动作影院,CIBN動作影院,CIBN-動作影院,動作影院",
+  "logo":"CIBN动作影院"
+},
+{"name":"CIBN风尚运动,CIBN風尚運動",
+  "logo":"CIBN风尚运动"
+},
+{"name":"CIBN古装剧场,CIBN-古装剧场,古装剧场,CIBN古裝劇場,CIBN-古裝劇場,古裝劇場",
+  "logo":"CIBN古装剧场"
+},
+{"name":"CIBN好莱坞,CIBN-好莱坞,好莱坞,CIBN好萊塢,CIBN-好萊塢,好萊塢",
+  "logo":"CIBN好莱坞"
+},
+{"name":"CIBN纪录片,CIBN-纪录片,纪录片,CIBN紀錄片,CIBN-紀錄片,紀錄片",
+  "logo":"CIBN纪录片"
+},
+{"name":"CIBN骄阳剧场,CIBN-骄阳剧场,骄阳剧场,CIBN驕陽劇場,CIBN-驕陽劇場,驕陽劇場",
+  "logo":"CIBN骄阳剧场"
+},
+{"name":"CIBN经典剧场,CIBN-经典剧场,经典剧场,CIBN經典劇場,CIBN-經典劇場,經典劇場",
+  "logo":"CIBN经典剧场"
+},
+{"name":"CIBN精品影院,CIBN-精品影院,精品影院,CIBN精品影院,CIBN-精品影院,精品影院",
+  "logo":"CIBN精品影院"
+},
+{"name":"CIBN军事,CIBN-军事,军事,CIBN軍事,CIBN-軍事,軍事",
+  "logo":"CIBN军事"
+},
+{"name":"CIBN留学世界,CIBN-留学世界,留学世界,CIBN留學世界,CIBN-留學世界,留學世界",
+  "logo":"CIBN留学世界"
+},
+{"name":"CIBN流金岁月,CIBN-流金岁月,流金岁月,CIBN流金歲月,CIBN-流金歲月,流金歲月",
+  "logo":"CIBN流金岁月"
+},
+{"name":"CIBN轮播,CIBN-轮播,轮播,CIBN輪播,CIBN-輪播,輪播",
+  "logo":"CIBN轮播"
+},
+{"name":"CIBN汽车,CIBN-汽车,汽车,CIBN汽車,CIBN-汽車,汽車",
+  "logo":"CIBN汽车"
+},
+{"name":"CIBN情感影院,CIBN-情感影院,情感影院,CIBN情感影院,CIBN-情感影院,情感影院",
+  "logo":"CIBN情感影院"
+},
+{"name":"CIBN通用,CIBN-通用,通用,CIBN通用,CIBN-通用,通用",
+  "logo":"CIBN通用"
+},
+{"name":"CIBN微电影,CIBN微電影",
+  "logo":"CIBN微电影"
+},
+{"name":"CIBN喜剧影院,CIBN-喜剧影院,喜剧影院,CIBN喜劇影院,CIBN-喜劇影院,喜劇影院",
+  "logo":"CIBN喜剧影院"
+},
+{"name":"CIBN艺术院线,CIBN-艺术院线,艺术院线,CIBN藝術院線,CIBN-藝術院線,藝術院線",
+  "logo":"CIBN艺术院线"
+},
+{"name":"CIBN院线大片,CIBN-院线大片,院线大片,CIBN院線大片,CIBN-院線大片,院線大片",
+  "logo":"CIBN院线大片"
+},
+{"name":"CIBN真人秀,CIBN真人秀",
+  "logo":"CIBN真人秀"
+},
+{"name":"CIBN综合,CIBN-综合,综合,CIBN綜合,CIBN-綜合,綜合",
+  "logo":"CIBN综合"
+},
+{"name":"cinemaworld,CinemaWorld,Cinema World,cinemaworld,CinemaWorld,Cinema World",
+  "logo":"cinemaworld"
+},
+{"name":"CINEMAX,CINEMAX电影台,CINEMAX,CINEMAX電影台",
+  "logo":"CINEMAX"
+},
+{"name":"city都市剧场,city都市剧场,CITY都市剧场,都市剧场,city都市劇場,city都市劇場,CITY都市劇場,都市劇場",
+  "logo":"city都市剧场"
+},
+{"name":"CMusic,CMusic",
+  "logo":"CMusic"
+},
+{"name":"CNA,CNA",
+  "logo":"CNA"
+},
+{"name":"CNBCASIA财经台,CNBC亚太财经,CNBCHongKong,CNBCASIA,CNBC,CNBCASIA財經台,CNBC亞太財經,CNBCHongKong,CNBCASIA,CNBC",
+  "logo":"CNBCASIA财经台"
+},
+{"name":"CNC,CNC",
+  "logo":"CNC"
+},
+{"name":"CNEX,视纳华仁纪实频道,CNEX,視納華仁紀實頻道",
+  "logo":"cnex"
+},
+{"name":"CNNNEWS,CNN头条新闻台,CNN,CNN国际新闻频道,CNNNEWS,CNN頭條新聞台,CNN,CNN國際新聞頻道",
+  "logo":"CNNNEWS"
+},
+{"name":"CN卡通频道,CN卡通,CN卡通(粤),CN卡通頻道,CN卡通頻道,CN卡通,CN卡通(粵),CN卡通頻道",
+  "logo":"CN卡通频道"
+},
+{"name":"COMEDYCENTRAL,COMEDYCENTRAL",
+  "logo":"COMEDYCENTRAL"
+},
+{"name":"CRIME,CI 罪案侦查频道,ci,crime+,crime+investigation,罪案侦查频道,罪案侦缉频道,CRIME,CI 罪案偵查頻道,ci,crime+,crime+investigation,罪案偵查頻道,罪案偵緝頻道",
+  "logo":"CRIME"
+},
+{"name":"DAAI2,DAAI2",
+  "logo":"DAAI2"
+},
+{"name":"DAVINCI,DAVINCI",
+  "logo":"DAVINCI"
+},
+{"name":"Discovery,探索,探索频道,探索頻道,探索发现频道,探索发现,Discovery,探索,探索頻道,探索頻道,探索發現頻道,探索發現",
+  "logo":"Discovery"
+},
+{"name":"Discovery Asia,Discovery-Asia,探索亚洲,探索 亚洲,探索-亚洲,探索亚洲频道,Discovery Asia,Discovery-Asia,探索亞洲,探索 亞洲,探索-亞洲,探索亞洲頻道",
+  "logo":"Discovery-Asia"
+},
+{"name":"Discovery,Discovery科学,Discovery科学频道,Discovery 科学,Discovery 科学频道,探索科学,探索 科学频道,探索科学频道,探索-科学,Discovery科學頻道,Discovery,Discovery科學,Discovery科學頻道,Discovery 科學,Discovery 科學頻道,探索科學,探索 科學頻道,探索科學頻道,探索-科學,Discovery科學頻道",
+  "logo":"Discovery科学"
+},
+{"name":"DISCOVERY亚洲,DISCOVERY亞洲",
+  "logo":"DISCOVERY亚洲"
+},
+{"name":"迪士尼频道,迪士尼頻道",
+  "logo":"Disney"
+},
+{"name":"Disney Junior,Disney Junior",
+  "logo":"DisneyJunior"
+},
+{"name":"DISNEYXD,DISNEYXD",
+  "logo":"DISNEYXD"
+},
+{"name":"DIVA,DIVA",
+  "logo":"DIVA"
+},
+{"name":"DIYICAIJING,DIYICAIJING",
+  "logo":"DIYICAIJING"
+},
+{"name":"DMAX,DMAX",
+  "logo":"DMAX"
+},
+{"name":"Dog狗频道,狗频道,Dog狗頻道,狗頻道",
+  "logo":"Dog狗频道"
+},
+{"name":"Dox4K,Dox-4K,Dox4K,Dox-4K",
+  "logo":"Dox4K"
+},
+{"name":"Dox红色经典,Dox-红色经典,Dox紅色經典,Dox-紅色經典",
+  "logo":"Dox红色经典"
+},
+{"name":"Dox环映,Dox-环映,Dox環映,Dox-環映",
+  "logo":"Dox环映"
+},
+{"name":"Dox剧场,Dox-剧场,Dox劇場,Dox-劇場",
+  "logo":"DOX剧场"
+},
+{"name":"Dox美剧,Dox-美剧,Dox美劇,Dox-美劇",
+  "logo":"Dox美剧"
+},
+{"name":"Dox新艺,Dox-新艺,Dox新藝,Dox-新藝",
+  "logo":"DOX新艺"
+},
+{"name":"Dox新知,Dox-新知,Dox新知,Dox-新知",
+  "logo":"DOX新知"
+},
+{"name":"Dox雅趣,Dox-雅趣,Dox雅趣,Dox-雅趣",
+  "logo":"DOX雅趣"
+},
+{"name":"Dox怡家,Dox-怡家,Dox怡家,Dox-怡家",
+  "logo":"DOX怡家"
+},
+{"name":"Dox英伦,Dox-英伦,Dox英倫,Dox-英倫",
+  "logo":"DOX英伦"
+},
+{"name":"Dox映画,Dox-映画,Dox映畫,Dox-映畫",
+  "logo":"DOX映画"
+},
+{"name":"Dox院线,Dox-院线,Dox院線,Dox-院線",
+  "logo":"DOX院线"
+},
+{"name":"DW,DW德国之声,DW,DW德國之聲",
+  "logo":"DW"
+},
+{"name":"E!Entertainment,E!Entertainment",
+  "logo":"E!Entertainment"
+},
+{"name":"Eleven Sports1,ELEVEN1台,ELEVEN1,ELEVEN體育1台,eleven体育1台,eleven体育1,eleven体育,ELEVEN体育-1,ELEVEN体育一台,Eleven Sports1,ELEVEN1台,ELEVEN1,ELEVEN體育1台,eleven體育1台,eleven體育1,eleven體育,ELEVEN體育-1,ELEVEN體育一台",
+  "logo":"Eleven Sports1"
+},
+{"name":"Eleven Sports2,ELEVEN2台,ELEVEN2,ELEVEN體育2台,eleven体育2台,eleven体育2,eleven体育二台,ELEVEN体育-2,ELEVEN体育二台,Eleven Sports2,ELEVEN2台,ELEVEN2,ELEVEN體育2台,eleven體育2台,eleven體育2,eleven體育二台,ELEVEN體育-2,ELEVEN體育二台",
+  "logo":"Eleven Sports2"
+},
+{"name":"ELTV,ELTV",
+  "logo":"ELTV"
+},
+{"name":"ELTV生活英语,ELTV生活英语台,ELTV生活英語台,ELTV,ELTV生活英語,ELTV生活英語台,ELTV生活英語台,ELTV",
+  "logo":"ELTV生活英语"
+},
+{"name":"ETtoday综合,ETtoday综合台,ETtoday綜合台,ETtoday綜合,ETtoday綜合台,ETtoday綜合台",
+  "logo":"ETtoday综合"
+},
+{"name":"EVE,EVE",
+  "logo":"EVE"
+},
+{"name":"EYETV戏剧,EYETV戏剧台,EYE TV戲劇台,EYE TV戏剧台,EYE戏剧台,EYETV戲劇,EYETV戲劇台,EYE TV戲劇台,EYE TV戲劇台,EYE戲劇台",
+  "logo":"EYETV戏剧"
+},
+{"name":"EYE旅游,EYE旅游台,EYE TV旅遊台,EYE TV旅游台,EYE旅游,EYE旅游台,EYE TV旅遊台,EYE TV旅游台",
+  "logo":"EYE旅游"
+},
+{"name":"FashionBox,FashionBox",
+  "logo":"FashionBox"
+},
+{"name":"Fashion One,Fashion One",
+  "logo":"FashionOne"
+},
+{"name":"FashionTV,法国时尚,法国时装,法国时尚台,时尚台FTV,FashionTV,法國時尚,法國時裝,法國時尚台,時尚台FTV",
+  "logo":"FashionTV"
+},
+{"name":"First Moives,First-Moives,First Moives,First-Moives",
+  "logo":"First Moives"
+},
+{"name":"FOODNETWORK,Food Network美食台,Food Network美食,FOODNETWORK,Food Network美食台,Food Network美食",
+  "logo":"FOODNETWORK"
+},
+{"name":"FOOLDPLANET,FOOLDPLANET",
+  "logo":"FOOLDPLANET"
+},
+{"name":"FOX,FOX",
+  "logo":"FOX"
+},
+{"name":"FOXCRIME,FOXCRIME",
+  "logo":"FOXCRIME"
+},
+{"name":"FOX MOVIES,FOX MOVIES",
+  "logo":"FOXMOVIES"
+},
+{"name":"Fox News Channel,FoxNews,FOX新闻,FOX新聞,Fox News Channel,FoxNews,FOX新聞,FOX新聞",
+  "logo":"FoxNews"
+},
+{"name":"FOXSports,FOX体育,FOX Sports,FOXSports,FOX體育,FOX Sports",
+  "logo":"FOXSports"
+},
+{"name":"FOXSports2,FOX体育2,FOX Sports 2,FOXSports2,FOX體育2,FOX Sports 2",
+  "logo":"FOXSports2"
+},
+{"name":"FOXSports3,FOX体育3,Fox Sports 3,FOXSports3,FOX體育3,Fox Sports 3",
+  "logo":"FoxSports3"
+},
+{"name":"FOX财经新闻台,FOX財經新聞台",
+  "logo":"FOX财经新闻台"
+},
+{"name":"FOX电影,FOX電影",
+  "logo":"FOX电影"
+},
+{"name":"FOX家庭电影,FOX家庭电影台,Fox Family Movies,FOX家庭電影,FOX家庭電影台,Fox Family Movies",
+  "logo":"FOX家庭电影"
+},
+{"name":"FOX罪案调查,FOX罪案調查",
+  "logo":"FOX罪案调查"
+},
+{"name":"FX,FX HD,FX,FX HD",
+  "logo":"FX"
+},
+{"name":"GEM,GEM HK,GEM,GEM HK",
+  "logo":"GEM"
+},
+{"name":"Global Trekker,GlobalTrekker,Global Trekker,GlobalTrekker",
+  "logo":"Global Trekker"
+},
+{"name":"Good TV,GoodTV,好消息1,好消息1台,好消息,Good TV,GoodTV,好消息1,好消息1台,好消息",
+  "logo":"Good TV"
+},
+{"name":"Good TV2,GoodTV2,好消息2,好消息2台,好消息 2,Good TV2,GoodTV2,好消息2,好消息2台,好消息 2",
+  "logo":"Good TV2"
+},
+{"name":"HBO,HBO(粤),HBO(国),HBO,HBO(粵),HBO(國)",
+  "logo":"HBO"
+},
+{"name":"HBO 温馨家庭,HBOFamily,HBO Family,HBO家庭,HBO家庭台,HBO 家庭台,HBOFam,HBO Fam,HBO 溫馨家庭,HBOFamily,HBO Family,HBO家庭,HBO家庭台,HBO 家庭台,HBOFam,HBO Fam",
+  "logo":"HBOFamily"
+},
+{"name":"HBOHD,HBO HD,HBO高清,HBOHD,HBO HD,HBO高清",
+  "logo":"HBOHD"
+},
+{"name":"HBOMAX,HBOMAX",
+  "logo":"HBOMAX"
+},
+{"name":"HBOPLUS,HBOPLUS",
+  "logo":"HBOPLUS"
+},
+{"name":"HBOZONE,HBOZONE",
+  "logo":"HBOZONE"
+},
+{"name":"HBO强档巨献,HBO强档钜献,HBO Hits,HBO強檔巨獻,HBO强档,HBO強檔巨獻,HBO強檔鉅獻,HBO Hits,HBO強檔巨獻,HBO強檔",
+  "logo":"HBO强档巨献"
+},
+{"name":"HBO原创巨献,HBO原创钜献,HBO Signature,HBO原創巨獻,HBOSignature,HBO原創巨獻,HBO原創鉅獻,HBO Signature,HBO原創巨獻,HBOSignature",
+  "logo":"HBO原创巨献"
+},
+{"name":"HGTV,HGTV居家乐活频道,HGTV,HGTV居家樂活頻道",
+  "logo":"HGTV"
+},
+{"name":"History 历史频道,History,历史频道,History频道,History 频道,History 歷史頻道,History,歷史頻道,History頻道,History 頻道",
+  "logo":"History"
+},
+{"name":"HISTORY2,HISTORY 2,历史频道2,History2频道,History2 频道,History-2 频道,HISTORY2,HISTORY 2,歷史頻道2,History2頻道,History2 頻道,History-2 頻道",
+  "logo":"HISTORY2"
+},
+{"name":"HITS,HITS Movies,HITS,HITS Movies",
+  "logo":"HITS"
+},
+{"name":"HKC18台,有线18台,HK18台,HKC 18,HKC18台,有線18台,HK18台,HKC 18",
+  "logo":"HKC18台"
+},
+{"name":"HKC603,HKCHD603,HKC-HD603,HKC603,HKCHD603,HKC-HD603",
+  "logo":"HKC603"
+},
+{"name":"HKC-Sportplus,HKC-Sportplus,HKC-Sportplus,HKC-Sportplus",
+  "logo":"HKCSportplus"
+},
+{"name":"HKC财经资讯,HKC财经资讯台,HKC-财经资讯,HKC-财经资讯台,有线财经,有線財經資訊台,HKC財經資訊,HKC財經資訊台,HKC-財經資訊,HKC-財經資訊台,有線財經,有線財經資訊台",
+  "logo":"HKC财经资讯"
+},
+{"name":"HKC经典电影,HKC经典电影台,HKC-经典电影,HKC-经典电影台,HKC經典電影,HKC經典電影台,HKC-經典電影,HKC-經典電影台",
+  "logo":"HKC经典电影"
+},
+{"name":"HKC剧集,HKC剧集台,HKC-剧集,HKC-剧集台,HKC劇集,HKC劇集台,HKC-劇集,HKC-劇集台",
+  "logo":"HKC剧集"
+},
+{"name":"HKC赔率,HKC赔率台,HKC-赔率,HKC-赔率台,HKC賠率,HKC賠率台,HKC-賠率,HKC-賠率台",
+  "logo":"HKC赔率"
+},
+{"name":"HKC球彩,HKC球彩台,HKC-球彩,HKC-球彩台,HKC球彩,HKC球彩台,HKC-球彩,HKC-球彩台",
+  "logo":"HKC球彩"
+},
+{"name":"HKC体育,HKC体育台,HKC-体育,HKC-体育台,HKC體育,HKC體育台,HKC-體育,HKC-體育台",
+  "logo":"HKC体育"
+},
+{"name":"HKC体育2,HKC体育2台,HKC-体育2,HKC-体育2台,HKC體育2,HKC體育2台,HKC-體育2,HKC-體育2台",
+  "logo":"HKC体育2"
+},
+{"name":"HKC新闻,HKC新闻台,HKC-新闻,HKC-新闻台,有线新闻,HKC新聞,HKC新聞台,HKC-新聞,HKC-新聞台,有線新聞",
+  "logo":"HKC新闻"
+},
+{"name":"HKC娱乐,HKC娱乐台,HKC-娱乐,HKC-娱乐台,有线娱乐,HKC娛樂,HKC娛樂台,HKC-娛樂,HKC-娛樂台,有線娛樂",
+  "logo":"HKC娱乐"
+},
+{"name":"HKC直播新闻,HKC直播新闻台,HKC-直播新闻,HKC-直播新闻台,有线直播,有線新聞台,HKC直播新聞,HKC直播新聞台,HKC-直播新聞,HKC-直播新聞台,有線直播,有線新聞台",
+  "logo":"HKC直播新闻"
+},
+{"name":"HOY76,HOY76",
+  "logo":"HOY76"
+},
+{"name":"HOY77,HOY77",
+  "logo":"HOY77"
+},
+{"name":"HOY78,HOY78",
+  "logo":"HOY78"
+},
+{"name":"HOYTV,香港开电视,开视,HOY TV,香港开电视,香港开视,HOY77,HOY77台,HOY 国际财经台,HOY 國際財經台,香港開電視,国际财经,,国际财经台,HOYTV,香港開電視,開視,HOY TV,香港開電視,香港開視,HOY77,HOY77台,HOY 國際財經台,HOY 國際財經台,香港開電視,國際財經,,國際財經台",
+  "logo":"HOYTV"
+},
+{"name":"HOY资讯台,HOY78,HOY78台,HOY资讯,HOY 资讯,HOY 资讯台,HOY 資訊台,HOY資訊台,HOY78,HOY78台,HOY資訊,HOY 資訊,HOY 資訊台,HOY 資訊台",
+  "logo":"HOY资讯台"
+},
+{"name":"IFUN动漫台,IFUN動漫台",
+  "logo":"IFUN动漫台"
+},
+{"name":"I-FUN动漫,IFUN动漫台,I-FUN动漫,I-FUN动漫台,i-Fun动漫台,i-Fun動漫台,I-FUN2,I-FUN動漫,IFUN動漫台,I-FUN動漫,I-FUN動漫台,i-Fun動漫台,i-Fun動漫台,I-FUN2",
+  "logo":"I-FUN动漫台"
+},
+{"name":"IFUN儿童台,IFUN兒童台",
+  "logo":"IFUN儿童台"
+},
+{"name":"IHOT-爱电竞,IHOT爱电竞,爱电竞,IHOT-愛電競,IHOT愛電競,愛電競",
+  "logo":"IHOT-爱电竞"
+},
+{"name":"IHOT-爱谍战,IHOT爱谍战,爱谍战,IHOT-愛諜戰,IHOT愛諜戰,愛諜戰",
+  "logo":"IHOT-爱谍战"
+},
+{"name":"IHOT-爱动漫,IHOT爱动漫,爱动漫,IHOT-愛動漫,IHOT愛動漫,愛動漫",
+  "logo":"IHOT-爱动漫"
+},
+{"name":"IHOT-爱都市,IHOT爱都市,爱都市,IHOT-愛都市,IHOT愛都市,愛都市",
+  "logo":"IHOT-爱都市"
+},
+{"name":"IHOT-爱怀旧,IHOT爱怀旧,爱怀旧,IHOT-愛懷舊,IHOT愛懷舊,愛懷舊",
+  "logo":"IHOT-爱怀旧"
+},
+{"name":"IHOT-爱家庭,IHOT爱家庭,爱家庭,IHOT-愛家庭,IHOT愛家庭,愛家庭",
+  "logo":"IHOT-爱家庭"
+},
+{"name":"IHOT-爱江湖,IHOT爱江湖,爱江湖,IHOT-愛江湖,IHOT愛江湖,愛江湖",
+  "logo":"IHOT-爱江湖"
+},
+{"name":"IHOT-爱解密,IHOT爱解密,爱解密,IHOT-愛解密,IHOT愛解密,愛解密",
+  "logo":"IHOT-爱解密"
+},
+{"name":"IHOT-爱经典,IHOT爱经典,爱经典,IHOT-愛經典,IHOT愛經典,愛經典",
+  "logo":"IHOT-爱经典"
+},
+{"name":"IHOT-爱军武,IHOT爱军武,爱军武,IHOT-愛軍武,IHOT愛軍武,愛軍武",
+  "logo":"IHOT-爱军武"
+},
+{"name":"IHOT-爱科幻,IHOT爱科幻,爱科幻,IHOT-愛科幻,IHOT愛科幻,愛科幻",
+  "logo":"IHOT-爱科幻"
+},
+{"name":"IHOT-爱科学,IHOT爱科学,爱科学,IHOT-愛科學,IHOT愛科學,愛科學",
+  "logo":"IHOT-爱科学"
+},
+{"name":"IHOT-爱浪漫,IHOT爱浪漫,爱浪漫,IHOT-愛浪漫,IHOT愛浪漫,愛浪漫",
+  "logo":"IHOT-爱浪漫"
+},
+{"name":"IHOT-爱历史,IHOT爱历史,爱历史,IHOT-愛歷史,IHOT愛歷史,愛歷史",
+  "logo":"IHOT-爱历史"
+},
+{"name":"IHOT-爱猎奇,IHOT爱猎奇,爱猎奇,IHOT-愛獵奇,IHOT愛獵奇,愛獵奇",
+  "logo":"IHOT-爱猎奇"
+},
+{"name":"IHOT-爱旅行,IHOT爱旅行,爱旅行,IHOT-愛旅行,IHOT愛旅行,愛旅行",
+  "logo":"IHOT-爱旅行"
+},
+{"name":"IHOT-爱美食,IHOT爱美食,爱美食,IHOT-愛美食,IHOT愛美食,愛美食",
+  "logo":"IHOT-爱美食"
+},
+{"name":"IHOT-爱奇谈,IHOT爱奇谈,爱奇谈,IHOT-愛奇談,IHOT愛奇談,愛奇談",
+  "logo":"IHOT-爱奇谈"
+},
+{"name":"IHOT-爱青春,IHOT爱青春,爱青春,IHOT-愛青春,IHOT愛青春,愛青春",
+  "logo":"IHOT-爱青春"
+},
+{"name":"IHOT-爱赛车,IHOT爱赛车,爱赛车,IHOT-愛賽車,IHOT愛賽車,愛賽車",
+  "logo":"IHOT-爱赛车"
+},
+{"name":"IHOT-爱时尚,IHOT爱时尚,爱时尚,IHOT-愛時尚,IHOT愛時尚,愛時尚",
+  "logo":"IHOT-爱时尚"
+},
+{"name":"IHOT-爱世界,IHOT爱世界,爱世界,IHOT-愛世界,IHOT愛世界,愛世界",
+  "logo":"IHOT-爱世界"
+},
+{"name":"IHOT-爱探索,IHOT爱探索,爱探索,IHOT-愛探索,IHOT愛探索,愛探索",
+  "logo":"IHOT-爱探索"
+},
+{"name":"IHOT-爱体育,IHOT爱体育,爱体育,IHOT-愛體育,IHOT愛體育,愛體育",
+  "logo":"IHOT-爱体育"
+},
+{"name":"IHOT-爱玩具,IHOT爱玩具,爱玩具,IHOT-愛玩具,IHOT愛玩具,愛玩具",
+  "logo":"IHOT-爱玩具"
+},
+{"name":"IHOT-爱喜剧,IHOT爱喜剧,爱喜剧,IHOT-愛喜劇,IHOT愛喜劇,愛喜劇",
+  "logo":"IHOT-爱喜剧"
+},
+{"name":"IHOT-爱悬疑,IHOT爱悬疑,爱悬疑,IHOT-愛懸疑,IHOT愛懸疑,愛懸疑",
+  "logo":"IHOT-爱悬疑"
+},
+{"name":"IHOT-爱幼教,IHOT爱幼教,爱幼教,IHOT-愛幼教,IHOT愛幼教,愛幼教",
+  "logo":"IHOT-爱幼教"
+},
+{"name":"IHOT-爱娱乐,IHOT爱娱乐,爱娱乐,IHOT-愛娛樂,IHOT愛娛樂,愛娛樂",
+  "logo":"IHOT-爱娱乐"
+},
+{"name":"IHOT-爱院线,IHOT爱院线,爱院线,IHOT-愛院線,IHOT愛院線,愛院線",
+  "logo":"IHOT-爱院线"
+},
+{"name":"IHOT-咖喱影院,IHOT咖喱影院,咖喱影院,IHOT-咖喱影院,IHOT咖喱影院,咖喱影院",
+  "logo":"IHOT-咖喱影院"
+},
+{"name":"imodeTV时尚频道,imodeTV時尚頻道",
+  "logo":"imodeTV时尚频道"
+},
+{"name":"IPTV@大健康,IPTV@大健康",
+  "logo":"IPTV@大健康"
+},
+{"name":"IPTV5+,IPTV5 +,IPTV5+高清,IPTV5+,IPTV5 +,IPTV5+高清",
+  "logo":"IPTV5+"
+},
+{"name":"IPTV6+,IPTV6 +,IPTV6+高清,IPTV6+,IPTV6 +,IPTV6+高清",
+  "logo":"IPTV6+"
+},
+{"name":"IPTV8+,IPTV8 +,IPTV8+高清,IPTV8+,IPTV8 +,IPTV8+高清",
+  "logo":"IPTV8+"
+},
+{"name":"IPTVinsight,IPTV-insight,IPTV抗战剧场,IPTV经典剧场,IPTV家庭剧场,IPTV古装剧场,IPTV高清院线IPTV综艺,IPTV幼教动画,IPTV戏剧,IPTV甜宠,IPTV芒果热剧,IPTV芒果热播,IPTV芒果乐搜,IPTV芒果乐活,IPTV芒果互娱,IPTV芒果好看,IPTV抗战剧场,IPTV精选热播,IPTV经典剧场,IPTV健康,IPTV家庭剧场,IPTV故事,IPTV古装剧场,IPTV搞笑动画,IPTV高清院线,IPTV电竞,IPTV4K,IPTVinsight,IPTV-insight,IPTV抗戰劇場,IPTV經典劇場,IPTV家庭劇場,IPTV古裝劇場,IPTV高清院線IPTV綜藝,IPTV幼教動畫,IPTV戲劇,IPTV甜寵,IPTV芒果熱劇,IPTV芒果熱播,IPTV芒果樂搜,IPTV芒果樂活,IPTV芒果互娛,IPTV芒果好看,IPTV抗戰劇場,IPTV精選熱播,IPTV經典劇場,IPTV健康,IPTV家庭劇場,IPTV故事,IPTV古裝劇場,IPTV搞笑動畫,IPTV高清院線,IPTV電競,IPTV4K",
+  "logo":"IPTVinsight"
+},
+{"name":"iptvtechno,iptv-techno,iptvtechno,iptv-techno",
+  "logo":"iptvtechno"
+},
+{"name":"IPTV电影,IPTV電影",
+  "logo":"IPTV电影"
+},
+{"name":"IPTV谍战剧场,IPTV諜戰劇場",
+  "logo":"IPTV谍战剧场"
+},
+{"name":"IPTV都市剧场,IPTV都市劇場",
+  "logo":"IPTV都市剧场"
+},
+{"name":"IPTV怀旧剧场,IPTV懷舊劇場",
+  "logo":"IPTV怀旧剧场"
+},
+{"name":"IPTV经典电影,IPTV經典電影",
+  "logo":"IPTV经典电影"
+},
+{"name":"IPTV军旅剧场,IPTV軍旅劇場",
+  "logo":"IPTV军旅剧场"
+},
+{"name":"IPTV魅力时尚,IPTV魅力時尚",
+  "logo":"IPTV魅力时尚"
+},
+{"name":"IPTV热播剧场,IPTV熱播劇場",
+  "logo":"IPTV热播剧场"
+},
+{"name":"IPTV少儿动画,IPTV少兒動畫",
+  "logo":"IPTV少儿动画"
+},
+{"name":"IPTV通用,IPTV-通用,IPTV3+,IPTV3 +,IPTV相声小品,IPTV野外,IPTV,IPTV1,IPTV2,IPTV3,IPTV4,IPTV4+,IPTV4 +,IPTV法治,IPTV经典电影,IPTV收视指南,IPTV通用,IPTV-通用,IPTV3+,IPTV3 +,IPTV相聲小品,IPTV野外,IPTV,IPTV1,IPTV2,IPTV3,IPTV4,IPTV4+,IPTV4 +,IPTV法治,IPTV經典電影,IPTV收視指南",
+  "logo":"IPTV通用"
+},
+{"name":"IPTV足球,IPTV-足球,足球,足球1,足球2,足球3,足球4,足球5,IPTV足球,IPTV-足球,足球,足球1,足球2,足球3,足球4,足球5",
+  "logo":"IPTV足球"
+},
+{"name":"ITV,ITV",
+  "logo":"ITV"
+},
+{"name":"JET综合,JET综合台,JET-综台,JET综合台,JET綜合台,JET綜合,JET綜合台,JET-綜台,JET綜合台,JET綜合台",
+  "logo":"JET综合"
+},
+{"name":"jingcai04,jingcai04",
+  "logo":"jingcai04"
+},
+{"name":"J大众影视,J-大众影视,大众影视,J大眾影視,J-大眾影視,大眾影視",
+  "logo":"J大众影视"
+},
+{"name":"J怀旧电影,J-怀旧电影,怀旧电影,J懷舊電影,J-懷舊電影,懷舊電影",
+  "logo":"J怀旧电影"
+},
+{"name":"J劲爆电影,J-劲爆电影,劲爆电影,J勁爆電影,J-勁爆電影,勁爆電影",
+  "logo":"J劲爆电影"
+},
+{"name":"J喜剧电影,J-喜剧电影,喜剧电影,J喜劇電影,J-喜劇電影,喜劇電影",
+  "logo":"J喜剧电影"
+},
+{"name":"J亚洲电影,J-亚洲电影,亚洲电影,J亞洲電影,J-亞洲電影,亞洲電影",
+  "logo":"J亚洲电影"
+},
+{"name":"kaidianshi,kaidianshi",
+  "logo":"kaidianshi"
+},
+{"name":"KIX,Kix,KIX,Kix",
+  "logo":"KIX"
+},
+{"name":"KMTV,KMTV",
+  "logo":"KMTV"
+},
+{"name":"Lifetime娱乐频道,Lifetime 娱乐频道,Lifetime娛樂頻道,Lifetime 娛樂頻道",
+  "logo":"Lifetime娱乐频道"
+},
+{"name":"LIVEABC互动英语,LIVEABC互動英語",
+  "logo":"LIVEABC互动英语"
+},
+{"name":"LOOK,LOOK",
+  "logo":"LOOK"
+},
+{"name":"LOUPE,LOUPE",
+  "logo":"LOUPE"
+},
+{"name":"Love Nature,LoveNature,Love Nature,LoveNature",
+  "logo":"Love Nature"
+},
+{"name":"LOVENARURE4K,LOVENARURE4K",
+  "logo":"LOVENARURE4K"
+},
+{"name":"LOVENATURE,LOVENATURE",
+  "logo":"LOVENATURE"
+},
+{"name":"LUXE TV,LUXETV,LUXE TV Channel,LUXE TV,LUXETV,LUXE TV Channel",
+  "logo":"LUXE TV"
+},
+{"name":"MBC,MBC",
+  "logo":"MBC"
+},
+{"name":"MEZZO LIVE HD,MEZZO LIVE HD",
+  "logo":"MEZZOLIVEHD"
+},
+{"name":"MOMO亲子,MOMO亲子台,MOMO-亲子,MOMO-亲子台,MOMO,MOMO親子台,MOMOTV,MOMO综合台,MOMO親子,MOMO親子台,MOMO-親子,MOMO-親子台,MOMO,MOMO親子台,MOMOTV,MOMO綜合台",
+  "logo":"MOMO亲子"
+},
+{"name":"MOMO追剧台,MOMO追劇台",
+  "logo":"MOMO追剧台"
+},
+{"name":"MOMO综合台,MOMO綜合台",
+  "logo":"MOMO综合台"
+},
+{"name":"MTV,MTV Live HD 频道,罗刹海市,倩女幽魂,一生所爱,别知己,MTV,MTV Live HD 頻道,羅剎海市,倩女幽魂,一生所愛,別知己",
+  "logo":"MTV"
+},
+{"name":"MTVLIVE,MTVLIVE",
+  "logo":"MTVLIVE"
+},
+{"name":"MTV综合台,MTV綜合台",
+  "logo":"MTV综合台"
+},
+{"name":"MUZZIKZZ4000,MUZZIKZZ4000",
+  "logo":"MUZZIKZZ4000"
+},
+{"name":"MY101,MY101综合台,MY101综合,MY101,MY101綜合台,MY101綜合",
+  "logo":"MY101"
+},
+{"name":"Mykids,MY-KIDS TV,Mykids,MY-KIDS TV",
+  "logo":"Mykids"
+},
+{"name":"MyTV18台,C18跑马,Mytv Super18,18台,MyTV18台,C18跑馬,Mytv Super18,18台",
+  "logo":"MyTV18台"
+},
+{"name":"MyTV黄金翡翠台,MyTV翡翠,黄金翡翠台,MyTV千禧经典台,MyTV亚洲剧台,亚洲剧台,MyTV华语剧台,华语剧台,MyTV亚洲综合娱乐台,MyTVSuperF,MyTV戏曲台,Hands UP,MyTV粤语片台,粤语片台,My Super,MySuperTV,MyTV黃金翡翠台,MyTV翡翠,黃金翡翠台,MyTV千禧經典台,MyTV亞洲劇台,亞洲劇台,MyTV華語劇台,華語劇台,MyTV亞洲綜合娛樂台,MyTVSuperF,MyTV戲曲台,Hands UP,MyTV粵語片台,粵語片台,My Super,MySuperTV",
+  "logo":"MyTV黄金翡翠台"
+},
+{"name":"NewTV,New TV,NewTV,New TV",
+  "logo":"NewTV"
+},
+{"name":"NEWTV爱情喜剧,爱情喜剧,爱情喜剧NEWTV,NEWTV愛情喜劇,愛情喜劇,愛情喜劇NEWTV",
+  "logo":"NEWTV爱情喜剧"
+},
+{"name":"NewTV安徽,NewTV-安徽,安徽,NewTV安徽,NewTV-安徽,安徽",
+  "logo":"NewTV安徽"
+},
+{"name":"NewTV超级电视剧,超级电视剧,超级电视剧NEWTV,NewTV超級電視劇,超級電視劇,超級電視劇NEWTV",
+  "logo":"NewTV超级电视"
+},
+{"name":"NEWTV超级电视剧,NewTV超级电视剧,超级电视剧,NEWTV超級電視劇,NewTV超級電視劇,超級電視劇",
+  "logo":"NEWTV超级电视剧"
+},
+{"name":"NEWTV超级电影,NewTV超级电影,超级电影,超级电影NEWTV,NEWTV超級電影,NewTV超級電影,超級電影,超級電影NEWTV",
+  "logo":"NEWTV超级电影"
+},
+{"name":"NEWTV超级体育,NewTV超级体育,超级体育,超级体育NEWTV,NEWTV超級體育,NewTV超級體育,超級體育,超級體育NEWTV",
+  "logo":"NEWTV超级体育"
+},
+{"name":"NEWTV超级综艺,NewTV超级综艺,超级综艺,超级综艺NEWTV,NEWTV超級綜藝,NewTV超級綜藝,超級綜藝,超級綜藝NEWTV",
+  "logo":"NEWTV超级综艺"
+},
+{"name":"NEWTV潮妈辣婆,NewTV潮妈辣婆,潮妈辣婆,潮妈辣婆NEWTV,NEWTV潮媽辣婆,NewTV潮媽辣婆,潮媽辣婆,潮媽辣婆NEWTV",
+  "logo":"NEWTV潮妈辣婆"
+},
+{"name":"NEWTV东北热剧,NewTV东北热剧,东北热剧,东北热剧NEWTV,NEWTV東北熱劇,NewTV東北熱劇,東北熱劇,東北熱劇NEWTV",
+  "logo":"NEWTV东北热剧"
+},
+{"name":"NEWTV动作电影,NewTV动作电影,动作电影,动作电影NEWTV,动作,NewTV动作,NEWTV動作電影,NewTV動作電影,動作電影,動作電影NEWTV,動作,NewTV動作",
+  "logo":"NEWTV动作电影"
+},
+{"name":"NEWTV古装剧场,NewTV古装剧场,古装剧场,NEWTV古裝劇場,NewTV古裝劇場,古裝劇場",
+  "logo":"NEWTV古装剧场"
+},
+{"name":"NewTV广东,NewTV-广东,广东,NewTV廣東,NewTV-廣東,廣東",
+  "logo":"NewTV广东"
+},
+{"name":"NewTV广西,NewTV-广西,广西,NewTV廣西,NewTV-廣西,廣西",
+  "logo":"NewTV广西"
+},
+{"name":"NEWTV海外剧场,NewTV海外剧场,海外剧场,NEWTV海外劇場,NewTV海外劇場,海外劇場",
+  "logo":"NEWTV海外剧场"
+},
+{"name":"NEWTV欢乐剧场,NewTV欢乐剧场,欢乐剧场,NEWTV歡樂劇場,NewTV歡樂劇場,歡樂劇場",
+  "logo":"NEWTV欢乐剧场"
+},
+{"name":"NewTV吉林,NewTV-吉林,吉林,NewTV吉林,NewTV-吉林,吉林",
+  "logo":"NewTV吉林"
+},
+{"name":"NEWTV家庭剧场,NewTV家庭剧场,家庭剧场,NEWTV家庭劇場,NewTV家庭劇場,家庭劇場",
+  "logo":"NEWTV家庭剧场"
+},
+{"name":"NewTV健康有约,健康有约,健康有约NEWTV,NewTV健康有約,健康有約,健康有約NEWTV",
+  "logo":"NewTV健康有约"
+},
+{"name":"NewTV江西,NewTV-江西,江西,NewTV江西,NewTV-江西,江西",
+  "logo":"NewTV江西"
+},
+{"name":"NEWTV金牌综艺,NewTV金牌综艺,金牌综艺,NEWTV金牌綜藝,NewTV金牌綜藝,金牌綜藝",
+  "logo":"NEWTV金牌综艺"
+},
+{"name":"NEWTV惊悚悬疑,NewTV惊悚悬疑,惊悚悬疑,惊悚,悬疑,NEWTV驚悚懸疑,NewTV驚悚懸疑,驚悚懸疑,驚悚,懸疑",
+  "logo":"NEWTV惊悚悬疑"
+},
+{"name":"NewTV精彩搏击,精彩搏击,精彩搏击NEWTV,NewTV精彩搏擊,精彩搏擊,精彩搏擊NEWTV",
+  "logo":"NewTV精彩搏击"
+},
+{"name":"NEWTV精品大剧,NewTV精品大剧,精品大剧,NEWTV精品大劇,NewTV精品大劇,精品大劇",
+  "logo":"NEWTV精品大剧"
+},
+{"name":"NEWTV精品纪录,NewTV精品纪录,精品纪录,NEWTV精品紀錄,NewTV精品紀錄,精品紀錄",
+  "logo":"NEWTV精品纪录"
+},
+{"name":"NEWTV精品萌宠,精品萌宠,NEWTV精品萌寵,精品萌寵",
+  "logo":"NEWTV精品萌宠"
+},
+{"name":"NEWTV精品体育,NewTV精品体育,精品体育,NEWTV精品體育,NewTV精品體育,精品體育",
+  "logo":"NEWTV精品体育"
+},
+{"name":"NEWTV军旅剧场,NewTV军旅剧场,军旅剧场,NEWTV軍旅劇場,NewTV軍旅劇場,軍旅劇場",
+  "logo":"NEWTV军旅剧场"
+},
+{"name":"NEWTV军事评论,NewTV军事评论,军事评论,NEWTV軍事評論,NewTV軍事評論,軍事評論",
+  "logo":"NEWTV军事评论"
+},
+{"name":"NEWTV魅力广东,NEWTV魅力廣東",
+  "logo":"NEWTV魅力广东"
+},
+{"name":"NEWTV魅力广西,NEWTV魅力廣西",
+  "logo":"NEWTV魅力广西"
+},
+{"name":"NEWTV魅力黑龙江,NEWTV魅力黑龍江",
+  "logo":"NEWTV魅力黑龙江"
+},
+{"name":"NEWTV魅力吉林,NEWTV魅力吉林",
+  "logo":"NEWTV魅力吉林"
+},
+{"name":"NEWTV魅力江西,NEWTV魅力江西",
+  "logo":"NEWTV魅力江西"
+},
+{"name":"NEWTV魅力山东,NEWTV魅力山東",
+  "logo":"NEWTV魅力山东"
+},
+{"name":"NEWTV魅力四川,NEWTV魅力四川",
+  "logo":"NEWTV魅力四川"
+},
+{"name":"NewTV魅力潇湘,魅力潇湘,魅力潇湘NEWTV,NewTV魅力瀟湘,魅力瀟湘,魅力瀟湘NEWTV",
+  "logo":"NewTV魅力潇湘"
+},
+{"name":"NEWTV魅力云南,NEWTV魅力云南",
+  "logo":"NEWTV魅力云南"
+},
+{"name":"NEWTV明星大片,NewTV明星大片,明星大片,NEWTV明星大片,NewTV明星大片,明星大片",
+  "logo":"NEWTV明星大片"
+},
+{"name":"NEWTV农业致富,NewTV农业致富,农业致富,农业,NewTV农业,NEWTV農業致富,NewTV農業致富,農業致富,農業,NewTV農業",
+  "logo":"NEWTV农业致富"
+},
+{"name":"NewTV山东,NewTV-山东,山东,NewTV山東,NewTV-山東,山東",
+  "logo":"NewTV山东"
+},
+{"name":"NewTV四川,NewTV-四川,四川,NewTV四川,NewTV-四川,四川",
+  "logo":"NewTV四川"
+},
+{"name":"NEWTV武搏世界,武搏世界,武搏世界NEWTV,武博世界,NEWTV武搏世界,武搏世界,武搏世界NEWTV,武博世界",
+  "logo":"NEWTV武搏世界"
+},
+{"name":"NEWTV炫舞未来,NewTV炫舞未来,炫舞未来,NEWTV炫舞未來,NewTV炫舞未來,炫舞未來",
+  "logo":"NEWTV炫舞未来"
+},
+{"name":"NEWTV怡伴健康,NewTV怡伴健康,怡伴健康,NEWTV怡伴健康,NewTV怡伴健康,怡伴健康",
+  "logo":"NEWTV怡伴健康"
+},
+{"name":"NewTV云南,NewTV-云南,云南,NewTV云南,NewTV-云南,云南",
+  "logo":"NewTV云南"
+},
+{"name":"NEWTV中国功夫,NewTV中国功夫,中国功夫,功夫,NewTV功夫,NEWTV中國功夫,NewTV中國功夫,中國功夫,功夫,NewTV功夫",
+  "logo":"NEWTV中国功夫"
+},
+{"name":"NHK,NHK新闻资讯,NHK新闻资讯台,,NHK newsline,NHK,NHK新聞資訊,NHK新聞資訊台,,NHK newsline",
+  "logo":"NHK"
+},
+{"name":"NHKWorld,NHK World TV,NHKWorldPremium,NHKWorld,NHK World TV,NHKWorldPremium",
+  "logo":"NHKWorld"
+},
+{"name":"NickJr儿童频道,NickJr.,Nick Jr.,尼克兒童頻道,尼克儿童频道,小尼克频道,NickJr兒童頻道,NickJr.,Nick Jr.,尼克兒童頻道,尼克兒童頻道,小尼克頻道",
+  "logo":"NickJr儿童频道"
+},
+{"name":"NICK卡通,NICK-卡通,Nickelodeon,尼克卡通,尼克卡通频道,NICK卡通,NICK-卡通,Nickelodeon,尼克卡通,尼克卡通頻道",
+  "logo":"NICK卡通"
+},
+{"name":"Now630,Now Sports Prime,NowSports,Now Sports,Now630,Now Sports Prime,NowSports,Now Sports",
+  "logo":"Now630"
+},
+{"name":"NowSports1,Now Sports 1,NowSports1,Now Sports 1",
+  "logo":"NowSports1"
+},
+{"name":"NowSports2,Now Sports 2,NowSports2,Now Sports 2",
+  "logo":"NowSports2"
+},
+{"name":"NowSports3,Now Sports 3,NowSports3,Now Sports 3",
+  "logo":"NowSports3"
+},
+{"name":"NowSports4,Now Sports 4,NowSports4,Now Sports 4",
+  "logo":"NowSports4"
+},
+{"name":"NowSports5,Now Sports 5,NowSports5,Now Sports 5",
+  "logo":"NowSports5"
+},
+{"name":"NowSports6,Now Sports 6,NowSports6,Now Sports 6",
+  "logo":"NowSports6"
+},
+{"name":"NowSports7,Now Sports 7,NowSports7,Now Sports 7",
+  "logo":"NowSports7"
+},
+{"name":"Now爆谷台,Now爆谷,Now 爆谷,now爆穀,Now爆谷台,Now爆谷,Now 爆谷,now爆穀",
+  "logo":"Now爆谷台"
+},
+{"name":"Now爆谷星,Now爆谷星,Now星影,Now星影台,Now 星影,now,Now爆谷星,Now爆谷星,Now星影,Now星影台,Now 星影,now",
+  "logo":"Now爆谷星"
+},
+{"name":"Now财经台,Now财经,Now 财经,now財經台,Now財經台,Now財經,Now 財經,now財經台",
+  "logo":"Now财经台"
+},
+{"name":"Now华剧台,Now华剧,Now 华剧,now華劇,Now華劇台,Now華劇,Now 華劇,now華劇",
+  "logo":"Now华剧台"
+},
+{"name":"Now剧集台,Now剧集,Now 剧集,now劇集,Now劇集台,Now劇集,Now 劇集,now劇集",
+  "logo":"Now剧集台"
+},
+{"name":"Now新闻台,Now新闻,Now 新闻,now新聞台,Now新聞台,Now新聞,Now 新聞,now新聞台",
+  "logo":"Now新闻台"
+},
+{"name":"Now直播台,Now直播,Now 直播,now直播,Now直播台,Now直播,Now 直播,now直播",
+  "logo":"Now直播台"
+},
+{"name":"Outdoor,Outdoor Channel,Outdoor,Outdoor Channel",
+  "logo":"Outdoor"
+},
+{"name":"ParamountNetwork,ParamountNetwork",
+  "logo":"ParamountNetwork"
+},
+{"name":"PETCLUBTV,PETCLUBTV",
+  "logo":"PETCLUBTV"
+},
+{"name":"ROCKENTERTAINMENT,ROCKENTERTAINMENT",
+  "logo":"ROCKENTERTAINMENT"
+},
+{"name":"ROCKEXTREME,ROCKEXTREME",
+  "logo":"ROCKEXTREME"
+},
+{"name":"ROCK超级娱乐,ROCK超級娛樂,rock extreme,ROCK超級娛樂,ROCK超級娛樂,rock extreme",
+  "logo":"ROCK超级娱乐"
+},
+{"name":"ROCK综艺娱乐,ROCK綜藝娛樂,ROCK綜藝娛樂,ROCK綜藝娛樂",
+  "logo":"ROCK综艺娱乐"
+},
+{"name":"ROLLER,ROLLER",
+  "logo":"ROLLER"
+},
+{"name":"RTDOC,RTDOC",
+  "logo":"RTDOC"
+},
+{"name":"RTHK31,RTHK-31,香港31台,港台31,港台电视31,港台電視31,港台電視 31,RTHK 31,RTHK TV 31,RTHK31,RTHK-31,香港31台,港台31,港台電視31,港台電視31,港台電視 31,RTHK 31,RTHK TV 31",
+  "logo":"RTHK31"
+},
+{"name":"RTHK32,RTHK-32,香港32台,港台32,港台电视32,港台電視32,港台電視 32,RTHK 32,RTHK TV 32,RTHK32,RTHK-32,香港32台,港台32,港台電視32,港台電視32,港台電視 32,RTHK 32,RTHK TV 32",
+  "logo":"RTHK32"
+},
+{"name":"RTHK33,RTHK-33,香港32台,港台33,港台电视33,港台電視33,港台電視 33,RTHK 33,RTHK TV 33,RTHK33,RTHK-33,香港32台,港台33,港台電視33,港台電視33,港台電視 33,RTHK 33,RTHK TV 33",
+  "logo":"RTHK33"
+},
+{"name":"RTHK34,RTHK-34,香港34台,港台34,港台电视34,港台電視34,港台電視 34,RTHK 34,RTHK TV 34,RTHK34,RTHK-34,香港34台,港台34,港台電視34,港台電視34,港台電視 34,RTHK 34,RTHK TV 34",
+  "logo":"RTHK34"
+},
+{"name":"RTHK35,RTHK-35,香港35台,港台35,港台电视35,港台電視35,港台電視 35,RTHK 35,RTHK TV 35,RTHK35,RTHK-35,香港35台,港台35,港台電視35,港台電視35,港台電視 35,RTHK 35,RTHK TV 35",
+  "logo":"RTHK35"
+},
+{"name":"SBN全球财经台,SBN全球財經台",
+  "logo":"SBN全球财经台"
+},
+{"name":"SkyNews,Sky News,SkyNews,Sky News",
+  "logo":"SkyNews"
+},
+{"name":"Smart知识,Smart知识台,Smart-知识,Smart知识台,SMART知识频道,SMART 知识频道,Smart知識,Smart知識台,Smart-知識,Smart知識台,SMART知識頻道,SMART 知識頻道",
+  "logo":"Smart知识"
+},
+{"name":"SONY,SONY",
+  "logo":"SONY"
+},
+{"name":"SONY-GEM,SONYGEM,SONY-GEM,SONYGEM",
+  "logo":"SONY-GEM"
+},
+{"name":"SONY-MAX,SONYMAX,SONY-MAX,SONYMAX",
+  "logo":"SONY-MAX"
+},
+{"name":"SONY-MIX,SONYMIX,SONY-MIX,SONYMIX",
+  "logo":"SONY-MIX"
+},
+{"name":"SONY-SAB,SONYSAB,SONY-SAB,SONYSAB",
+  "logo":"SONY-SAB"
+},
+{"name":"SONY-中文,SONY中文,Sony Sports 1 HD,Sony Sports 2 HD,Sony Sports 3 HD,Sony Sports 4 HD,SONY-中文,SONY中文,Sony Sports 1 HD,Sony Sports 2 HD,Sony Sports 3 HD,Sony Sports 4 HD",
+  "logo":"SONY-中文"
+},
+{"name":"StarMovies,Star Movies HD,Star Movies HD(MOD),StarMovies,Star Movies HD,Star Movies HD(MOD)",
+  "logo":"StarMovies"
+},
+{"name":"StarMovies2,StarMovies2",
+  "logo":"StarMovies2"
+},
+{"name":"STTV-1,STTV1,STTV-1,STTV1",
+  "logo":"STTV-1"
+},
+{"name":"TFC(ABS-CBN),TFC(ABS-CBN)",
+  "logo":"TFC"
+},
+{"name":"Thrill,Thrill",
+  "logo":"Thrill"
+},
+{"name":"TLC旅游生活频道,TLC旅游生活,TLC旅游,TLC旅遊生活,TLC 旅游生活頻道,TLC旅游生活頻道,TLC旅游生活,TLC旅游,TLC旅遊生活,TLC 旅游生活頻道",
+  "logo":"TLC旅游生活频道"
+},
+{"name":"TOPTVHD,TOPTVHD",
+  "logo":"TOPTVHD"
+},
+{"name":"TraceSports,TRACE Sport Stars,Trace Sports,TraceSports,TRACE Sport Stars,Trace Sports",
+  "logo":"TraceSports"
+},
+{"name":"TraceUrban,TRACE Urban,TraceUrban,TRACE Urban",
+  "logo":"TRACEUrban"
+},
+{"name":"Travel2,Travel2,Travel2,Travel2",
+  "logo":"Travel2"
+},
+{"name":"TravelChannel,Travel Channel,TravelChannel,Travel Channel",
+  "logo":"TravelChannel"
+},
+{"name":"TV5Monde,TV5 Monde,法国TV5Monde,TV5Monde,TV5 Monde,法國TV5Monde",
+  "logo":"TV5Monde"
+},
+{"name":"TVBJ2,J2频道,J2台,TVBJ2,TVBJ2频道,TVB J2,TVBJ2台,香港J2频道,TVB J2,TVB J2 H.265,TVBJ2,J2頻道,J2台,TVBJ2,TVBJ2頻道,TVB J2,TVBJ2台,香港J2頻道,TVB J2,TVB J2 H.265",
+  "logo":"TVBJ2"
+},
+{"name":"TVBS,TVBS台,TVBS,TVBS台",
+  "logo":"TVBS"
+},
+{"name":"TVBS欢乐,TVBS欢乐台,TVBS-欢乐,TVBS-欢乐台,欢乐台,TVBS歡樂,TVBS歡樂台,TVBS歡樂,TVBS歡樂台,TVBS-歡樂,TVBS-歡樂台,歡樂台,TVBS歡樂,TVBS歡樂台",
+  "logo":"TVBS欢乐"
+},
+{"name":"TVBS欢乐台,TVBS欢乐,TVBS歡樂台,TVBS歡樂",
+  "logo":"TVBS欢乐台"
+},
+{"name":"TVBS精采,TVBS精采台,TVBS-精采,TVBS-精采台,精采台,TVBS精采,TVBS精采台,TVBS-精采,TVBS-精采台,精采台",
+  "logo":"TVBS精采"
+},
+{"name":"TVBS无线卫星亚洲台,无线卫星亚洲台,TVBSAsia,TVBS亚洲,TVBS亚洲台,TVBS無線衛星亞洲台,無線衛星亞洲台,TVBSAsia,TVBS亞洲,TVBS亞洲台",
+  "logo":"TVBS无线卫星亚洲台"
+},
+{"name":"TVBS新闻,TVBS新闻台,TVBS-新闻,TVBS-新闻台,TVBS NEWS,TVBS新聞,TVBS新聞台,TVBS新聞,TVBS新聞台,TVBS-新聞,TVBS-新聞台,TVBS NEWS,TVBS新聞,TVBS新聞台",
+  "logo":"TVBS新闻"
+},
+{"name":"TVBplus,TVB+,TVB plus,TVBplus,TVB+,TVB plus",
+  "logo":"TVBplus"
+},
+{"name":"TVB翡翠,翡翠台,翡翠,TVB-翡翠台,无线翡翠台,TVB-翡翠,TVB翡翠台,翡翠台(第1声道繁体),翡翠台(第2声道简体),翡翠台海外版(粤语繁体),翡翠台海外版(普通话简体),翡翠台(備),翡翠台HD,TVB翡翠,翡翠台,翡翠,TVB-翡翠台,無線翡翠台,TVB-翡翠,TVB翡翠台,翡翠台(第1聲道繁體),翡翠台(第2聲道簡體),翡翠台海外版(粵語繁體),翡翠台海外版(普通話簡體),翡翠台(備),翡翠台HD",
+  "logo":"TVB翡翠"
+},
+{"name":"TVB功夫,TVB功夫台,TVB-功夫,TVB-功夫台,功夫台,TVB功夫,TVB功夫台,TVB-功夫,TVB-功夫台,功夫台",
+  "logo":"TVB功夫"
+},
+{"name":"TVB明珠,TVB明珠台,无线明珠台,TVB-明珠,TVB-明珠台,明珠台,明珠台(第2声道),明珠台HD,明珠频道,TVB明珠,TVB明珠台,無線明珠台,TVB-明珠,TVB-明珠台,明珠台,明珠台(第2聲道),明珠台HD,明珠頻道",
+  "logo":"TVB明珠"
+},
+{"name":"TVB无线财经,TVB无线财经台,TVB-无线财经,TVB-无线财经台,无线财经台,无线财经资讯台,无线财经资讯台(第2声道),无线财经资讯台海外版,无线财经,无线财经体育资讯台,无线财经体育资讯,TVB无线财经体育资讯台,無線財經體育資訊台,TVB無線財經,TVB無線財經台,TVB-無線財經,TVB-無線財經台,無線財經台,無線財經資訊台,無線財經資訊台(第2聲道),無線財經資訊台海外版,無線財經,無線財經體育資訊台,無線財經體育資訊,TVB無線財經體育資訊台,無線財經體育資訊台",
+  "logo":"TVB无线财经"
+},
+{"name":"TVB无线新闻,TVB无线新闻台,TVB-无线新闻,TVB-无线新闻台,无线新闻,无线新闻台,無線新聞台,無線新聞台(備),TVB無線新聞,TVB無線新聞台,TVB-無線新聞,TVB-無線新聞台,無線新聞,無線新聞台,無線新聞台,無線新聞台(備)",
+  "logo":"TVB无线新闻"
+},
+{"name":"TVB星河,TVB星河频道,TVB星河台,TVB-星河,TVB-星河台,TVB星河(国),TVB星河(粤),星河台,TVB 星河,TVB 星河台,星河台HD,TVB星河,TVB星河頻道,TVB星河台,TVB-星河,TVB-星河台,TVB星河(國),TVB星河(粵),星河台,TVB 星河,TVB 星河台,星河台HD",
+  "logo":"TVB星河"
+},
+{"name":"TVB星河剧献,TVB星河剧献台,TVB-星河剧献,TVB-星河剧献台,TVB星河劇獻,TVB星河劇獻台,TVB-星河劇獻,TVB-星河劇獻台",
+  "logo":"TVB星河剧献"
+},
+{"name":"tvb亚洲剧台,亚洲剧台,tvb亞洲劇台,亞洲劇台,tvb亞洲劇台,亞洲劇台,tvb亞洲劇台,亞洲劇台",
+  "logo":"tvb亚洲剧台"
+},
+{"name":"TVB娱乐新闻台,TVB娱乐新闻,娱乐新闻台,TVB 娱乐新闻,TVB娛樂新聞台,TVB娛樂新聞台,TVB娛樂新聞,娛樂新聞台,TVB 娛樂新聞,TVB娛樂新聞台",
+  "logo":"TVB娱乐新闻台"
+},
+{"name":"TVN,TVN HK,tvn movies hd,tvN,TVN,TVN HK,tvn movies hd,tvN",
+  "logo":"tvN"
+},
+{"name":"ViuTV,Viu TV,ViuTV1,Viu TV,ViuTV,Viu TV,ViuTV1,Viu TV",
+  "logo":"ViuTV"
+},
+{"name":"ViuTV6,ViuTV 6,Viu 6,Viusix,Viu six,ViuTVsix,ViuTV6,ViuTV 6,Viu 6,Viusix,Viu six,ViuTVsix",
+  "logo":"ViuTV6"
+},
+{"name":"VOA,VOA",
+  "logo":"VOA"
+},
+{"name":"VTV4,VTV4",
+  "logo":"VTV4"
+},
+{"name":"WakuWaku,WAKUWAKU JAPANE,WakuWaku,WAKUWAKU JAPANE",
+  "logo":"wakuwaku"
+},
+{"name":"WARNER TV,WARNERTV,WARNER TV,WARNERTV",
+  "logo":"WARNER TV"
+},
+{"name":"ZooMoo,NOW ZooMoo,ZooMoo,NOW ZooMoo",
+  "logo":"ZooMoo"
+},
+{"name":"Z频道,Z頻道,Z頻道,Z頻道",
+  "logo":"Z频道"
+},
+{"name":"阿拉善,阿拉善",
+  "logo":"阿拉善"
+},
+{"name":"艾尔达奥运1,艾爾達奧運1",
+  "logo":"艾尔达奥运1"
+},
+{"name":"艾尔达奥运2,艾爾達奧運2",
+  "logo":"艾尔达奥运2"
+},
+{"name":"艾尔达奥运3,艾爾達奧運3",
+  "logo":"艾尔达奥运3"
+},
+{"name":"艾尔达生活英语,艾爾達生活英語",
+  "logo":"艾尔达生活英语"
+},
+{"name":"艾尔达体育1,艾爾達體育1",
+  "logo":"艾尔达体育1"
+},
+{"name":"艾尔达体育2,艾爾達體育2",
+  "logo":"艾尔达体育2"
+},
+{"name":"艾尔达体育3,艾爾達體育3",
+  "logo":"艾尔达体育3"
+},
+{"name":"艾尔达影剧,艾爾達影劇",
+  "logo":"艾尔达影剧"
+},
+{"name":"艾尔达娱乐,艾爾達娛樂",
+  "logo":"艾尔达娱乐"
+},
+{"name":"艾尔达原音1,艾爾達原音1",
+  "logo":"艾尔达原音1"
+},
+{"name":"艾尔达原音2,艾爾達原音2",
+  "logo":"艾尔达原音2"
+},
+{"name":"艾尔达原音3,艾爾達原音3",
+  "logo":"艾尔达原音3"
+},
+{"name":"艾尔达综合,艾爾達綜合",
+  "logo":"艾尔达综合"
+},
+{"name":"爱尔达生活旅游,爱尔达旅游,爱尔达生活,ELTA生活旅游,ELTA生活旅游台,ELTA旅遊台,愛爾達旅遊台,愛爾達生活旅游,愛爾達旅游,愛爾達生活,ELTA生活旅游,ELTA生活旅游台,ELTA旅遊台,愛爾達旅遊台",
+  "logo":"爱尔达生活旅游"
+},
+{"name":"爱尔达体育1,爱尔达体育1台,爱尔达体育1台(备),ELTA体育1,ELTA体育1台,爱尔达体育Ⅰ台,ELTA體育1,愛爾達體育1台,愛爾達體育1台(備),ELTA体育-1,ELTA体育1,愛爾達體育1,愛爾達體育1台,愛爾達體育1台(備),ELTA體育1,ELTA體育1台,愛爾達體育Ⅰ台,ELTA體育1,愛爾達體育1台,愛爾達體育1台(備),ELTA體育-1,ELTA體育1",
+  "logo":"爱尔达体育1"
+},
+{"name":"爱尔达体育2,爱尔达体育2台,ELTA體育2台,ELTA体育2台,爱尔达体育Ⅱ台,ELTA體育2,愛爾達體育2台,ELTA体育-2,ELTA体育2,愛爾達體育2,愛爾達體育2台,ELTA體育2台,ELTA體育2台,愛爾達體育Ⅱ台,ELTA體育2,愛爾達體育2台,ELTA體育-2,ELTA體育2",
+  "logo":"爱尔达体育2"
+},
+{"name":"爱尔达体育3,爱尔达体育3台,ELTA體育3台,ELTA体育3台,爱尔达体育Ⅲ台,ELTA體育3,愛爾達體育3台,ELTA体育-3,ELTA体育3,愛爾達體育3,愛爾達體育3台,ELTA體育3台,ELTA體育3台,愛爾達體育Ⅲ台,ELTA體育3,愛爾達體育3台,ELTA體育-3,ELTA體育3",
+  "logo":"爱尔达体育3"
+},
+{"name":"爱尔达体育4,爱尔达体育4台,ELTA體育4台,ELTA体育4台,爱尔达体育Ⅳ台,ELTA體育4,愛爾達體育4台,ELTA体育4,愛爾達體育4,愛爾達體育4台,ELTA體育4台,ELTA體育4台,愛爾達體育Ⅳ台,ELTA體育4,愛爾達體育4台,ELTA體育4",
+  "logo":"爱尔达体育4"
+},
+{"name":"爱尔达影剧,爱尔达影剧台,爱尔达影视,爱尔达影视台,爱尔达影剧HD,ELTA影劇HD,ELTA影劇台,ELTA影剧台,愛爾達影劇台,愛爾達影劇,愛爾達影劇台,愛爾達影視,愛爾達影視台,愛爾達影劇HD,ELTA影劇HD,ELTA影劇台,ELTA影劇台,愛爾達影劇台",
+  "logo":"爱尔达影剧"
+},
+{"name":"爱尔达娱乐台,爱尔达娱乐,爱尔达娱乐HD,爱尔达娱乐台HD,ELTA娛樂HD,ELTA娱乐台,ELTA娛樂台,愛爾達娛樂台,愛爾達娛樂台,愛爾達娛樂,愛爾達娛樂HD,愛爾達娛樂台HD,ELTA娛樂HD,ELTA娛樂台,ELTA娛樂台,愛爾達娛樂台",
+  "logo":"爱尔达娱乐台"
+},
+{"name":"爱尔达综合台,爱尔达综合,爱尔达综合HD,爱尔达综合台HD,ELTA綜合HD,ELTA綜合台,ELTA综合台,愛爾達綜合台,愛爾達綜合台,愛爾達綜合,愛爾達綜合HD,愛爾達綜合台HD,ELTA綜合HD,ELTA綜合台,ELTA綜合台,愛爾達綜合台",
+  "logo":"爱尔达综合"
+},
+{"name":"爱上4K,爱上4K高清,爱上4K超清,爱上4K[高清],爱上4K[超清],愛上4K,愛上4K高清,愛上4K超清,愛上4K[高清],愛上4K[超清]",
+  "logo":"爱上4K"
+},
+{"name":"爱映画,愛映畫",
+  "logo":"爱映画"
+},
+{"name":"安多卫视,安多卫视高清,安多卫视超清,安多卫视[高清],安多卫视[超清],青海安多卫视,安多衛視,安多衛視高清,安多衛視超清,安多衛視[高清],安多衛視[超清],青海安多衛視",
+  "logo":"安多卫视"
+},
+{"name":"安徽公共频道,安徽公共频道高清,安徽公共高清,安徽公共,安徽公共頻道,安徽公共頻道高清,安徽公共高清,安徽公共",
+  "logo":"安徽公共频道"
+},
+{"name":"安徽国际频道,安徽国际频道高清,安徽国际,安徽国际高清,安徽國際頻道,安徽國際頻道高清,安徽國際,安徽國際高清",
+  "logo":"安徽国际频道"
+},
+{"name":"安徽经济生活,安徽经济生活高清,安徽经济高清,安徽经视,安徽經濟生活,安徽經濟生活高清,安徽經濟高清,安徽經視",
+  "logo":"安徽经济生活"
+},
+{"name":"安徽农业科教,安徽农业科教高清,安徽科教高清,安徽科教,安徽農業科教,安徽農業科教高清,安徽科教高清,安徽科教",
+  "logo":"安徽农业科教"
+},
+{"name":"安徽卫视,安徽卫视hd,安徽卫视高清,安徽卫视超清,安徽卫视[高清],安徽卫视[超清],安徽衛視,安徽衛視hd,安徽衛視高清,安徽衛視超清,安徽衛視[高清],安徽衛視[超清]",
+  "logo":"安徽卫视"
+},
+{"name":"安徽影视频道,安徽影视频道高清,安徽影视,安徽影视高清,安徽影視頻道,安徽影視頻道高清,安徽影視,安徽影視高清",
+  "logo":"安徽影视频道"
+},
+{"name":"安徽综艺体育,安徽综艺体育高清,安徽综艺,安徽综艺高清,安徽体育,安徽綜藝體育,安徽綜藝體育高清,安徽綜藝,安徽綜藝高清,安徽體育",
+  "logo":"安徽综艺体育"
+},
+{"name":"安顺综合,安順綜合",
+  "logo":"安顺综合"
+},
+{"name":"安溪电视台,安溪電視台",
+  "logo":"安溪电视台"
+},
+{"name":"澳门莲花,澳门莲花高清,莲花,莲花高清,澳門蓮花,澳門蓮花衛視,蓮花衛視,莲花卫视,澳門蓮花,澳門蓮花高清,蓮花,蓮花高清,澳門蓮花,澳門蓮花衛視,蓮花衛視,蓮花衛視",
+  "logo":"澳门莲花"
+},
+{"name":"澳门莲花卫视,澳門蓮花衛視",
+  "logo":"澳门莲花卫视"
+},
+{"name":"澳门卫视,澳门卫视高清,澳门卫星,澳視衛視,澳門衛視,澳門衛視高清,澳門衛星,澳視衛視",
+  "logo":"澳门卫视"
+},
+{"name":"澳视Macau,澳门Macau,澳門macau,澳門-MACAU,澳门-MACAU,澳視Macau,澳門Macau,澳門macau,澳門-MACAU,澳門-MACAU",
+  "logo":"澳视Macau"
+},
+{"name":"澳视澳门,澳視澳門",
+  "logo":"澳视澳门"
+},
+{"name":"澳视澳门台,澳視澳門台",
+  "logo":"澳视澳门台"
+},
+{"name":"澳视澳門,澳视澳门,澳门澳视,澳门奥视,澳視澳門,澳視澳門,澳視澳門,澳門澳視,澳門奧視,澳視澳門",
+  "logo":"澳视澳門"
+},
+{"name":"澳视葡文,澳门葡语,澳視葡文,澳視葡文,澳門葡語,澳視葡文",
+  "logo":"澳视葡文"
+},
+{"name":"澳视葡文台,澳視葡文台",
+  "logo":"澳视葡文台"
+},
+{"name":"澳视体育,澳门体育,澳視體育,澳視體育,澳門體育,澳視體育",
+  "logo":"澳视体育"
+},
+{"name":"澳视体育台,澳視體育台",
+  "logo":"澳视体育台"
+},
+{"name":"澳视资讯,澳门资讯,澳視資訊,澳視資訊,澳門資訊,澳視資訊",
+  "logo":"澳视资讯"
+},
+{"name":"澳视资讯台,澳視資訊台",
+  "logo":"澳视资讯台"
+},
+{"name":"澳视综艺,澳门综艺,澳視綜藝,澳視綜藝,澳門綜藝,澳視綜藝",
+  "logo":"澳视综艺"
+},
+{"name":"澳视综艺台,澳視綜藝台",
+  "logo":"澳视综艺台"
+},
+{"name":"澳亚卫视,澳亚卫视高清,澳亚卫视台,澳亞衛視,澳亞衛視,澳亞衛視高清,澳亞衛視台,澳亞衛視",
+  "logo":"澳亚卫视"
+},
+{"name":"八大第一,八大第一台,八大第一,八大第一台",
+  "logo":"八大第一"
+},
+{"name":"八大第一台,八大第一,八大第一台,八大第一",
+  "logo":"八大第一台"
+},
+{"name":"八大精彩台,八大精彩台",
+  "logo":"八大精彩台"
+},
+{"name":"八大戏剧,八大戏剧台,八大戲劇台,八大戲劇,八大戲劇台,八大戲劇台",
+  "logo":"八大戏剧"
+},
+{"name":"八大戏剧台,八大戏剧,八大戲劇台,八大戲劇",
+  "logo":"八大戏剧台"
+},
+{"name":"八大优频道,八大优,八大優頻道,八大優",
+  "logo":"八大优"
+},
+{"name":"八大娱乐,八大娱乐台,八大娛樂台,八大娛樂,八大娛樂台,八大娛樂台",
+  "logo":"八大娱乐"
+},
+{"name":"八大娱乐台,八大娱乐,八大娛樂台,八大娛樂",
+  "logo":"八大娱乐台"
+},
+{"name":"八大综合,八大综合台,八大綜合台,八大綜合,八大綜合台,八大綜合台",
+  "logo":"八大综合"
+},
+{"name":"八大综合台,八大综合,八大綜合台,八大綜合",
+  "logo":"八大综合台"
+},
+{"name":"巴中公共,巴中公共",
+  "logo":"巴中公共"
+},
+{"name":"巴中综合,巴中綜合",
+  "logo":"巴中综合"
+},
+{"name":"巴州电视,巴州電視",
+  "logo":"巴州电视"
+},
+{"name":"白云综合,白云綜合",
+  "logo":"白云综合"
+},
+{"name":"百姓健康,百姓健康",
+  "logo":"百姓健康"
+},
+{"name":"包头经济频道,包頭經濟頻道",
+  "logo":"包头经济频道"
+},
+{"name":"包头生活服务,包頭生活服務",
+  "logo":"包头生活服务"
+},
+{"name":"包头新闻综合,包頭新聞綜合",
+  "logo":"包头新闻综合"
+},
+{"name":"保康文化旅游,保康文化旅游",
+  "logo":"保康文化旅游"
+},
+{"name":"北川-1,北川-1",
+  "logo":"北川-1"
+},
+{"name":"北川-2,北川-2",
+  "logo":"北川-2"
+},
+{"name":"北方,北方",
+  "logo":"北方"
+},
+{"name":"北方商务,北方商務",
+  "logo":"北方商务"
+},
+{"name":"北京IPTV4K,4K超清[超清],北京IPTV4K,4K超清[超清],北京IPTV4K超清",
+  "logo":"北京IPTV4K"
+},
+{"name":"北京IPTV萌宠TV,萌宠TV,北京萌宠TV,萌宠TV[高清],北京IPTV萌宠TV[高清],北京IPTV萌宠TVHD,北京IPTV萌宠,IPTV萌宠,IPTV-萌宠,IPTV萌宠TV,IPTV-萌宠TV,北京IPTV萌寵TV,萌寵TV,北京萌寵TV,萌寵TV[高清],北京IPTV萌寵TV[高清],北京IPTV萌寵TVHD,北京IPTV萌寵,IPTV萌寵,IPTV-萌寵,IPTV萌寵TV,IPTV-萌寵TV",
+  "logo":"北京IPTV萌宠TV"
+},
+{"name":"北京IPTV淘baby,北京IPTV淘Baby,淘BABY,北京淘BABY,淘BABY[高清],北京IPTV淘BABY[高清],北京IPTV淘BABYHD,北京IPTV淘BABY,IPTV淘BABY,IPTV-淘BABY,北京IPTV淘baby,北京IPTV淘Baby,淘BABY,北京淘BABY,淘BABY[高清],北京IPTV淘BABY[高清],北京IPTV淘BABYHD,北京IPTV淘BABY,IPTV淘BABY,IPTV-淘BABY",
+  "logo":"北京IPTV淘baby"
+},
+{"name":"北京IPTV淘电影,淘电影,北京淘电影,淘电影[高清],北京IPTV淘电影[高清],北京IPTV淘电影HD,IPTV淘电影,IPTV-淘电影,北京IPTV淘電影,淘電影,北京淘電影,淘電影[高清],北京IPTV淘電影[高清],北京IPTV淘電影HD,IPTV淘電影,IPTV-淘電影",
+  "logo":"北京IPTV淘电影"
+},
+{"name":"北京IPTV淘精彩,淘精彩,北京淘精彩,淘精彩[高清],北京IPTV淘精彩[高清],北京IPTV淘精彩HD,IPTV淘精彩,IPTV-淘精彩,北京IPTV淘精彩,淘精彩,北京淘精彩,淘精彩[高清],北京IPTV淘精彩[高清],北京IPTV淘精彩HD,IPTV淘精彩,IPTV-淘精彩",
+  "logo":"北京IPTV淘精彩"
+},
+{"name":"北京IPTV淘剧场,淘剧场,北京淘剧场,淘剧场[高清],北京IPTV淘剧场[高清],北京IPTV淘剧场HD,IPTV淘剧场,IPTV-淘剧场,北京IPTV淘劇場,淘劇場,北京淘劇場,淘劇場[高清],北京IPTV淘劇場[高清],北京IPTV淘劇場HD,IPTV淘劇場,IPTV-淘劇場",
+  "logo":"北京IPTV淘剧场"
+},
+{"name":"北京IPTV淘娱乐,淘娱乐,北京淘娱乐,淘娱乐[高清],北京IPTV淘娱乐[高清],北京IPTV淘娱乐HD,IPTV淘娱乐,IPTV-淘娱乐,北京IPTV淘娛樂,淘娛樂,北京淘娛樂,淘娛樂[高清],北京IPTV淘娛樂[高清],北京IPTV淘娛樂HD,IPTV淘娛樂,IPTV-淘娛樂",
+  "logo":"北京IPTV淘娱乐"
+},
+{"name":"北京爱家购物,爱家购物,北京爱家购物[高清],北京爱家购物HD,北京愛家購物,愛家購物,北京愛家購物[高清],北京愛家購物HD",
+  "logo":"北京爱家购物"
+},
+{"name":"北京朝阳,朝阳,朝阳融媒,朝阳融媒[高清],北京朝陽,朝陽,朝陽融媒,朝陽融媒[高清]",
+  "logo":"北京朝阳"
+},
+{"name":"北京车迷频道,车迷频道,北京车迷频道[高清],北京车迷频道HD,车迷,北京車迷頻道,車迷頻道,北京車迷頻道[高清],北京車迷頻道HD,車迷",
+  "logo":"北京车迷频道"
+},
+{"name":"北京大健康,北京大健康",
+  "logo":"北京大健康"
+},
+{"name":"北京动感音乐,动感音乐,北京动感音乐[高清],北京动感音乐HD,北京動感音樂,動感音樂,北京動感音樂[高清],北京動感音樂HD",
+  "logo":"北京动感音乐"
+},
+{"name":"北京房山,房山,房山电视台,房山电视台[高清],北京房山,房山,房山電視台,房山電視台[高清]",
+  "logo":"北京房山"
+},
+{"name":"北京环球旅游,环球旅游,北京环球旅游[高清],北京环球旅游HD,环球频道,北京环球,北京環球旅游,環球旅游,北京環球旅游[高清],北京環球旅游HD,環球頻道,北京環球",
+  "logo":"北京环球旅游"
+},
+{"name":"北京京视剧场,京视剧场,北京京视剧场[高清],北京京视剧场HD,北京京視劇場,京視劇場,北京京視劇場[高清],北京京視劇場HD",
+  "logo":"北京京视剧场"
+},
+{"name":"北京密云,密云,密云电视台,密云电视台[高清],北京密云,密云,密云電視台,密云電視台[高清]",
+  "logo":"北京密云"
+},
+{"name":"北京生态环境,生态环境,北京生态环境[高清],北京生态环境HD,北京生態環境,生態環境,北京生態環境[高清],北京生態環境HD",
+  "logo":"北京生态环境"
+},
+{"name":"北京四海钓鱼,四海钓鱼,北京四海钓鱼[高清],北京四海钓鱼HD,四海钓鱼HD,北京四海釣魚,四海釣魚,北京四海釣魚[高清],北京四海釣魚HD,四海釣魚HD",
+  "logo":"北京四海钓鱼"
+},
+{"name":"北京通州,通州,通州融媒,通州融媒[高清],北京通州,通州,通州融媒,通州融媒[高清]",
+  "logo":"北京通州"
+},
+{"name":"北京延庆,延庆,延庆电视台,延庆电视台[高清],北京延慶,延慶,延慶電視台,延慶電視台[高清]",
+  "logo":"北京延庆"
+},
+{"name":"北京弈坛春秋,弈坛春秋,北京弈坛春秋[高清],北京弈坛春秋HD,北京弈壇春秋,弈壇春秋,北京弈壇春秋[高清],北京弈壇春秋HD",
+  "logo":"北京弈坛春秋"
+},
+{"name":"北京优优宝贝,优优宝贝,北京优优宝贝[高清],北京优优宝贝HD,北京優優寶貝,優優寶貝,北京優優寶貝[高清],北京優優寶貝HD",
+  "logo":"北京优优宝贝"
+},
+{"name":"北京置业频道,置业频道,北京置业频道[高清],北京置业频道HD,北京置業頻道,置業頻道,北京置業頻道[高清],北京置業頻道HD",
+  "logo":"北京置业频道"
+},
+{"name":"北京中华特产频道,中华特产频道,北京中华特产频道[高清],北京中华特产频道HD,中华特产,北京中華特產頻道,中華特產頻道,北京中華特產頻道[高清],北京中華特產頻道HD,中華特產",
+  "logo":"北京中华特产频道"
+},
+{"name":"兵团卫视,兵团卫视hd,兵团卫视高清,兵团卫视高超清,兵团卫视[高清],兵团卫视高[超清],兵團衛視,兵團衛視hd,兵團衛視高清,兵團衛視高超清,兵團衛視[高清],兵團衛視高[超清]",
+  "logo":"兵团卫视"
+},
+{"name":"博斯高球1,博斯高球1台,博斯高球 1,博斯高球Ⅰ,博斯高球Ⅰ台,博斯高球 Ⅰ,博斯高球,博斯高球-1,博斯高球1,博斯高球1台,博斯高球 1,博斯高球Ⅰ,博斯高球Ⅰ台,博斯高球 Ⅰ,博斯高球,博斯高球-1",
+  "logo":"博斯高球1"
+},
+{"name":"博斯高球2,博斯高球2台,博斯高球 2,博斯高球Ⅱ,博斯高球Ⅱ台,博斯高球 Ⅱ,博斯高球二台,博斯高球-2,博斯高球2,博斯高球2台,博斯高球 2,博斯高球Ⅱ,博斯高球Ⅱ台,博斯高球 Ⅱ,博斯高球二台,博斯高球-2",
+  "logo":"博斯高球2"
+},
+{"name":"博斯魅力网,博斯魅力,博斯魅力网台,博斯魅力網,博斯魅力網,博斯魅力,博斯魅力網台,博斯魅力網",
+  "logo":"博斯魅力网"
+},
+{"name":"博斯网球,博斯网球台,博斯網球台,搏斯网球,博斯網球,博斯網球台,博斯網球台,搏斯網球",
+  "logo":"博斯网球"
+},
+{"name":"博斯无限,博斯无限台,博斯無限二台,博斯無限台,博斯无限二台,博斯无限-1,博斯无限-2,博斯无限Ⅱ,博斯無限,博斯無限台,博斯無限二台,博斯無限台,博斯無限二台,博斯無限-1,博斯無限-2,博斯無限Ⅱ",
+  "logo":"博斯无限"
+},
+{"name":"博斯运动1,博斯运动1台,博斯运动 1,博斯运动Ⅰ,博斯运动Ⅰ台,博斯运动 Ⅰ,博斯運動,博斯运动,博斯运动-1,博斯運動1,博斯運動1台,博斯運動 1,博斯運動Ⅰ,博斯運動Ⅰ台,博斯運動 Ⅰ,博斯運動,博斯運動,博斯運動-1",
+  "logo":"博斯运动1"
+},
+{"name":"博斯运动2,博斯运动2台,博斯运动 2,博斯运动Ⅱ,博斯运动Ⅱ台,博斯运动 Ⅱ,博斯運動二台,博斯运动二台,博斯運動2,博斯運動2台,博斯運動 2,博斯運動Ⅱ,博斯運動Ⅱ台,博斯運動 Ⅱ,博斯運動二台,博斯運動二台",
+  "logo":"博斯运动2"
+},
+{"name":"财富,博斯运动-2,財富,博斯運動-2",
+  "logo":"财富"
+},
+{"name":"财富天下,江苏财富天下,財富天下,江蘇財富天下",
+  "logo":"财富天下"
+},
+{"name":"采昌影剧,采昌影劇台,采昌影剧台,采昌影劇,采昌影劇台,采昌影劇台",
+  "logo":"采昌影剧"
+},
+{"name":"彩虹,彩虹台,彩虹,彩虹台",
+  "logo":"彩虹"
+},
+{"name":"彩虹e,彩虹E台,彩虹e,彩虹E台",
+  "logo":"彩虹e"
+},
+{"name":"彩虹k,彩虹K台,彩虹k,彩虹K台",
+  "logo":"彩虹k"
+},
+{"name":"彩虹电影,彩虹电影台,彩虹電影台,彩虹電影,彩虹電影台,彩虹電影台",
+  "logo":"彩虹电影"
+},
+{"name":"彩民在线,彩民在线台,彩民在線,彩民在線台",
+  "logo":"彩民在线"
+},
+{"name":"朝天综合,朝天綜合",
+  "logo":"朝天综合"
+},
+{"name":"潮安综合,潮安综合台潮,安综合频道,潮安綜合,潮安綜合台潮,安綜合頻道",
+  "logo":"潮安综合"
+},
+{"name":"潮州民生,潮州民生台,潮州民生频道,潮州民生,潮州民生台,潮州民生頻道",
+  "logo":"潮州民生"
+},
+{"name":"潮州综合,潮州综合台,潮州综合频道,潮州綜合,潮州綜合台,潮州綜合頻道",
+  "logo":"潮州综合"
+},
+{"name":"成都新闻综合频道,成都新闻综合,CDTV1,CDTV-1,成都新聞綜合頻道,成都新聞綜合,CDTV1,CDTV-1",
+  "logo":"成都CDTV1"
+},
+{"name":"成都经济资讯频道,成都经济资讯,CDTV2,CDTV-2,成都經濟資訊頻道,成都經濟資訊,CDTV2,CDTV-2",
+  "logo":"成都CDTV2"
+},
+{"name":"成都都市生活频道,成都都市生活,CDTV3,CDTV-3,成都都市生活頻道,成都都市生活,CDTV3,CDTV-3",
+  "logo":"成都CDTV3"
+},
+{"name":"成都影视文艺频道,成都影视文艺,CDTV4,CDTV-4,成都影視文藝頻道,成都影視文藝,CDTV4,CDTV-4",
+  "logo":"成都CDTV4"
+},
+{"name":"成都公共频道,成都公共,CDTV5,CDTV-5,成都公共頻道,成都公共,CDTV5,CDTV-5",
+  "logo":"成都CDTV5"
+},
+{"name":"成都少儿频道,成都少儿,CDTV6,CDTV-6,成都少兒頻道,成都少兒,CDTV6,CDTV-6",
+  "logo":"成都CDTV6"
+},
+{"name":"诚心电视,誠心電視",
+  "logo":"诚心电视"
+},
+{"name":"赤峰,赤峰",
+  "logo":"赤峰"
+},
+{"name":"赤峰经济服务,赤峰經濟服務",
+  "logo":"赤峰经济服务"
+},
+{"name":"赤峰新闻综合,赤峰新聞綜合",
+  "logo":"赤峰新闻综合"
+},
+{"name":"赤峰影视娱乐,赤峰影視娛樂",
+  "logo":"赤峰影视娱乐"
+},
+{"name":"船山综合,船山綜合",
+  "logo":"船山综合"
+},
+{"name":"春晚,春晚",
+  "logo":"春晚"
+},
+{"name":"纯享4K超高清,纯享4K,醇享超清,純享4K超高清,純享4K,醇享超清",
+  "logo":"纯享4K"
+},
+{"name":"哒啵电竞,噠啵電競",
+  "logo":"哒啵电竞"
+},
+{"name":"哒啵赛事,噠啵賽事",
+  "logo":"哒啵赛事"
+},
+{"name":"达拉特旗综合,達拉特旗綜合",
+  "logo":"达拉特旗综合"
+},
+{"name":"达文西,達文西",
+  "logo":"达文西"
+},
+{"name":"达文西频道,达文西频道台,達文西頻道,達文西頻道台",
+  "logo":"达文西频道"
+},
+{"name":"大爱,大爱台,大爱频道,大爱频道台,大爱一台,大爱1台,香港大爱,大愛,大愛(備),大愛1台,大愛2,大愛2台,大愛海外,大爱1,大爱2,大爱2台,大爱二台,大愛,大愛台,大愛頻道,大愛頻道台,大愛一台,大愛1台,香港大愛,大愛,大愛(備),大愛1台,大愛2,大愛2台,大愛海外,大愛1,大愛2,大愛2台,大愛二台",
+  "logo":"大爱"
+},
+{"name":"大爱2,大愛2",
+  "logo":"大爱2"
+},
+{"name":"大爱电视,大愛電視",
+  "logo":"大爱电视"
+},
+{"name":"大爱海外,大愛海外",
+  "logo":"大爱海外"
+},
+{"name":"大爱电视台,大愛電視台",
+  "logo":"大爱一台"
+},
+{"name":"大连1-新闻综合,大连新闻,大連1-新聞綜合,大連新聞",
+  "logo":"大连1-新闻综合"
+},
+{"name":"大连2-生活,大连生活,大連2-生活,大連生活",
+  "logo":"大连2-生活"
+},
+{"name":"大连3-公共,大连公共,大連3-公共,大連公共",
+  "logo":"大连3-公共"
+},
+{"name":"大连4-文体,大连文体,大連4-文體,大連文體",
+  "logo":"大连4-文体"
+},
+{"name":"大连5-影视,大连影视,大連5-影視,大連影視",
+  "logo":"大连5-影视"
+},
+{"name":"大连6-少儿,大连少儿,大連6-少兒,大連少兒",
+  "logo":"大连6-少儿"
+},
+{"name":"大连7-财经,大连财经,大連7-財經,大連財經",
+  "logo":"大连7-财经"
+},
+{"name":"大田电视台,大田電視台",
+  "logo":"大田电视台"
+},
+{"name":"丹寨综合,丹寨綜合",
+  "logo":"丹寨综合"
+},
+{"name":"德化电视台,德化電視台",
+  "logo":"德化电视台"
+},
+{"name":"德阳公共频道,德陽公共頻道",
+  "logo":"德阳公共频道"
+},
+{"name":"德阳新闻综合,德陽新聞綜合",
+  "logo":"德阳新闻综合"
+},
+{"name":"迪士尼频道,迪士尼,Disney,DisneyChannel,Disney Channel,迪士尼頻道,迪士尼,Disney,DisneyChannel,Disney Channel",
+  "logo":"迪士尼频道"
+},
+{"name":"第一财经,第一財經",
+  "logo":"第一财经"
+},
+{"name":"第一剧场,CCTV第一剧场,第一劇場,CCTV第一劇場",
+  "logo":"CCTV第一剧场"
+},
+{"name":"电视购物通用,购物,购物频道,东方购物,东方购物1,东方购物2,央广购物,cctv央广购物,优购物,江苏好享购物,好享购物,聚鲨精选,家家购物,家有购物,北京家有购物,快乐购,南方购物,广东南方购物,时尚购物,好易购,三佳购物,河北三佳购物,大连购物,宜佳购物,辽宁宜佳购物,环球购物,河南欢腾购物,风尚购物,欢腾购物,電視購物通用,購物,購物頻道,東方購物,東方購物1,東方購物2,央廣購物,cctv央廣購物,優購物,江蘇好享購物,好享購物,聚鯊精選,家家購物,家有購物,北京家有購物,快樂購,南方購物,廣東南方購物,時尚購物,好易購,三佳購物,河北三佳購物,大連購物,宜佳購物,遼寧宜佳購物,環球購物,河南歡騰購物,風尚購物,歡騰購物",
+  "logo":"电视购物通用"
+},
+{"name":"电视指南,CCTV电视指南,電視指南,CCTV電視指南",
+  "logo":"CCTV电视指南"
+},
+{"name":"电影频道1905,1905电影,电影1905国际,电影1905国内,电影频道,電影頻道1905,1905電影,電影1905國際,電影1905國內,電影頻道",
+  "logo":"电影频道1905"
+},
+{"name":"电子体育,電子體育",
+  "logo":"电子体育"
+},
+{"name":"东方卫视,东方卫视hd,东方卫视高清,东方卫视超清,东方卫视[高清],东方卫视[超清],上海卫视,東方衛視,東方衛視hd,東方衛視高清,東方衛視超清,東方衛視[高清],東方衛視[超清],上海衛視",
+  "logo":"东方卫视"
+},
+{"name":"东风,东风卫视,东风卫视高清,东风卫视[高清],東風,東風衛視,東風衛視高清,東風衛視[高清]",
+  "logo":"东风卫视"
+},
+{"name":"东莞新闻综合,东莞新闻,東莞新聞綜合,東莞新聞",
+  "logo":"东莞新闻综合"
+},
+{"name":"东森财经,东森财经新闻,东森财经新闻台,東森財經,東森財經新聞,東森財經新聞台,东森财经台,東森財經,東森財經新聞,東森財經新聞台,東森財經,東森財經新聞,東森財經新聞台,東森財經台",
+  "logo":"东森财经"
+},
+{"name":"东森超视,东森超视台,超视,東森超視,東森超視,東森超視台,超視,東森超視",
+  "logo":"东森超视"
+},
+{"name":"东森电影,东森电影台,東森電影,東森電影台,東森電影,東森電影台,東森電影,東森電影台",
+  "logo":"东森电影"
+},
+{"name":"东森戏剧,东森戏剧台,東森戲劇,東森戲劇台,東森戲劇,東森戲劇台,東森戲劇,東森戲劇台",
+  "logo":"东森戏剧"
+},
+{"name":"东森新闻,东森新闻台,東森新聞,東森新聞台,東森新聞台(備),東森新聞,東森新聞台,東森新聞,東森新聞台,東森新聞台(備)",
+  "logo":"东森新闻"
+},
+{"name":"东森洋片,东森洋片台,東森洋片,東森洋片台,東森洋片,東森洋片台,東森洋片,東森洋片台",
+  "logo":"东森洋片"
+},
+{"name":"东森幼幼,东森幼幼台,東森幼幼歌曲,東森幼幼台,東森幼幼,東森幼幼台,東森幼幼歌曲,東森幼幼台",
+  "logo":"东森幼幼"
+},
+{"name":"东森综合,东森综合台,東森綜合,東森綜合台,東森綜合,東森綜合台,東森綜合,東森綜合台",
+  "logo":"东森综合"
+},
+{"name":"东山电视台,東山電視台",
+  "logo":"东山电视台"
+},
+{"name":"动漫秀场,动漫秀场台,SITV动漫秀场,動漫秀場,動漫秀場台,SITV動漫秀場",
+  "logo":"动漫秀场"
+},
+{"name":"动物星球,动物星球台,animalplanet,animal planet,動物星球,動物星球,動物星球台,animalplanet,animal planet,動物星球",
+  "logo":"动物星球"
+},
+{"name":"动作影院,動作影院",
+  "logo":"动作影院"
+},
+{"name":"都市剧场,都市剧场台,SITV都市剧场,都市劇場,都市劇場台,SITV都市劇場",
+  "logo":"都市剧场"
+},
+{"name":"峨嵋电影,峨嵋電影",
+  "logo":"峨眉电影"
+},
+{"name":"峨眉山综合,峨眉山綜合",
+  "logo":"峨眉山综合"
+},
+{"name":"鄂尔多斯,鄂爾多斯",
+  "logo":"鄂尔多斯"
+},
+{"name":"鄂尔多斯经济服务,鄂爾多斯經濟服務",
+  "logo":"鄂尔多斯经济服务"
+},
+{"name":"鄂尔多斯蒙语频道,鄂爾多斯蒙語頻道",
+  "logo":"鄂尔多斯蒙语频道"
+},
+{"name":"鄂尔多斯新闻综合,鄂爾多斯新聞綜合",
+  "logo":"鄂尔多斯新闻综合"
+},
+{"name":"恩阳新闻,恩陽新聞",
+  "logo":"恩阳新闻"
+},
+{"name":"法治天地,法治天地台,SITV法治天地,法治天地,法治天地台,SITV法治天地",
+  "logo":"法治天地"
+},
+{"name":"番薯电视,番薯電視",
+  "logo":"番薯电视"
+},
+{"name":"非凡新闻,非凡新闻台,非凡新闻hd,非凡新闻台hd,非凡新聞,非凡新聞台,非凡新聞hd,非凡新聞台hd",
+  "logo":"非凡新闻"
+},
+{"name":"非凡商业,非凡商业台,非凡商业hd,非凡商业台hd,非凡商業,非凡商業台,非凡商業hd,非凡商業台hd",
+  "logo":"非凡商业"
+},
+{"name":"风云剧场,CCTV风云剧场,風云劇場,CCTV風云劇場",
+  "logo":"CCTV风云剧场"
+},
+{"name":"风云音乐,CCTV风云音乐,風云音樂,CCTV風云音樂",
+  "logo":"CCTV风云音乐"
+},
+{"name":"风云足球,CCTV风云足球,風云足球,CCTV風云足球",
+  "logo":"CCTV风云足球"
+},
+{"name":"凤凰电影,凤凰电影台,鳳凰電影,鳳凰電影台",
+  "logo":"凤凰电影"
+},
+{"name":"凤凰香港,凤凰香港台,凤凰卫视香港台,凤凰香港hd,鳳凰香港,鳳凰香港台,鳳凰衛視香港台,鳳凰香港hd",
+  "logo":"凤凰香港"
+},
+{"name":"凤凰中文,凤凰中文台,凤凰卫视,凤凰卫视中文台,凤凰中文高清,凤凰卫视高清,凤凰卫视中文台高清,凤凰中文hd,鳳凰中文,鳳凰中文台,鳳凰衛視,鳳凰衛視中文台,鳳凰中文高清,鳳凰衛視高清,鳳凰衛視中文台高清,鳳凰中文hd",
+  "logo":"凤凰中文"
+},
+{"name":"凤凰资讯,凤凰资讯台,凤凰咨询,凤凰资讯高清,凤凰资讯台高清,凤凰咨询高清,凤凰资讯hd,鳳凰資訊,鳳凰資訊台,鳳凰咨詢,鳳凰資訊高清,鳳凰資訊台高清,鳳凰咨詢高清,鳳凰資訊hd",
+  "logo":"凤凰资讯"
+},
+{"name":"凤梨直击,凤梨直击台,鳳梨直擊,鳳梨直擊台",
+  "logo":"凤梨直击"
+},
+{"name":"佛山公共,佛山公共频道,佛山公共高清,佛山公共,佛山公共頻道,佛山公共高清",
+  "logo":"佛山公共"
+},
+{"name":"佛山影视,佛山影视频道,佛山影视高清,佛山影視,佛山影視頻道,佛山影視高清",
+  "logo":"佛山影视"
+},
+{"name":"佛山综合,佛山综合频道,佛山综合高清,佛山綜合,佛山綜合頻道,佛山綜合高清",
+  "logo":"佛山综合"
+},
+{"name":"佛卫慈悲台,佛卫慈悲,佛衛慈悲台,佛衛慈悲",
+  "logo":"佛卫慈悲台"
+},
+{"name":"福安电视台,福安電視台",
+  "logo":"福安电视台"
+},
+{"name":"福鼎电视台,福鼎電視台",
+  "logo":"福鼎电视台"
+},
+{"name":"福建电视剧频道,福建电视剧,福建电视剧高清,福建电视剧HD,福建電視劇頻道,福建電視劇,福建電視劇高清,福建電視劇HD",
+  "logo":"福建电视剧频道"
+},
+{"name":"福建东南卫视,东南卫视,东南卫视HD,东南卫视高清,福建东南卫视高清,东南卫视超清,东南卫视[高清],东南卫视[超清],福建東南衛視,東南衛視,東南衛視HD,東南衛視高清,福建東南衛視高清,東南衛視超清,東南衛視[高清],東南衛視[超清]",
+  "logo":"福建东南卫视"
+},
+{"name":"福建海峡卫视,海峡卫视,海峡卫视HD,海峽卫视,海峡卫视高清,海峡卫视超清,海峡卫视[高清],海峡卫视[超清],福建海峽衛視,海峽衛視,海峽衛視HD,海峽衛視,海峽衛視高清,海峽衛視超清,海峽衛視[高清],海峽衛視[超清]",
+  "logo":"福建海峡卫视"
+},
+{"name":"福建教育频道,福建教育,福建教育高清,福建教育HD,福建教育頻道,福建教育,福建教育高清,福建教育HD",
+  "logo":"福建教育"
+},
+{"name":"福建经济频道,福建经济,福建经济高清,福建经济HD,福建經濟頻道,福建經濟,福建經濟高清,福建經濟HD",
+  "logo":"福建经济"
+},
+{"name":"福建旅游频道,福建旅游,福建旅游高清,福建旅游HD,福建旅游頻道,福建旅游,福建旅游高清,福建旅游HD",
+  "logo":"福建旅游频道"
+},
+{"name":"福建少儿频道,福建少儿,福建少儿高清,福建少儿HD,福建少兒頻道,福建少兒,福建少兒高清,福建少兒HD",
+  "logo":"福建少儿频道"
+},
+{"name":"福建文体频道,福建文体,福建文体高清,福建文体HD,福建体育,福建文體頻道,福建文體,福建文體高清,福建文體HD,福建體育",
+  "logo":"福建文体频道"
+},
+{"name":"福建乡村振兴公共频道,福建乡村振兴,福建乡村振兴高清,福建乡村振兴HD,福建公共,福建鄉村振興公共頻道,福建鄉村振興,福建鄉村振興高清,福建鄉村振興HD,福建公共",
+  "logo":"福建乡村振兴"
+},
+{"name":"福建新闻频道,福建新闻,福建新闻高清,福建新闻HD,福建新聞頻道,福建新聞,福建新聞高清,福建新聞HD",
+  "logo":"福建新闻频道"
+},
+{"name":"福建综合频道,福建综合,福建综合高清,福建综合HD,福建綜合頻道,福建綜合,福建綜合高清,福建綜合HD",
+  "logo":"福建综合"
+},
+{"name":"福清电视台,福清電視台",
+  "logo":"福清电视台"
+},
+{"name":"福州FZTV-1,福州新闻综合频道,FZTV-1,福州新闻综合,福州新闻综合hd,福州新闻综合高清,福州电视台,福州综合,福州综合台,福州新闻,福州新闻台,福州FZTV-1,福州新聞綜合頻道,FZTV-1,福州新聞綜合,福州新聞綜合hd,福州新聞綜合高清,福州電視台,福州綜合,福州綜合台,福州新聞,福州新聞台",
+  "logo":"福州FZTV-1"
+},
+{"name":"福州FZTV-2,福州影视频道,FZTV-2,福州影视,福州影视hd,福州影视高清,福州影视台,福州FZTV-2,福州影視頻道,FZTV-2,福州影視,福州影視hd,福州影視高清,福州影視台",
+  "logo":"福州FZTV-2"
+},
+{"name":"福州FZTV-3,福州都市生活频道,FZTV-3,福州都市生活,福州都市生活hd,福州都市生活高清,福州生活,福州生活台,福州FZTV-3,福州都市生活頻道,FZTV-3,福州都市生活,福州都市生活hd,福州都市生活高清,福州生活,福州生活台",
+  "logo":"福州FZTV-3"
+},
+{"name":"福州FZTV-少儿,福州少儿频道,FZTV-少儿,福州少儿,福州少儿hd,福州少儿高清,福州少儿台,福州FZTV-少兒,福州少兒頻道,FZTV-少兒,福州少兒,福州少兒hd,福州少兒高清,福州少兒台",
+  "logo":"福州FZTV-少儿"
+},
+{"name":"福州FZTV-移动,福州移动频道,FZTV-移动,福州移动,福州FZTV-移動,福州移動頻道,FZTV-移動,福州移動",
+  "logo":"福州FZTV-移动"
+},
+{"name":"甘肃都市,甘肅都市",
+  "logo":"甘肃都市"
+},
+{"name":"甘肃经济,甘肅經濟",
+  "logo":"甘肃经济"
+},
+{"name":"甘肃少儿,甘肅少兒",
+  "logo":"甘肃少儿"
+},
+{"name":"甘肃卫视,甘肃卫视hd,甘肃卫视高清,甘肃卫视超清,甘肃卫视[高清],甘肃卫视[超清],甘肅衛視,甘肅衛視hd,甘肅衛視高清,甘肅衛視超清,甘肅衛視[高清],甘肅衛視[超清]",
+  "logo":"甘肃卫视"
+},
+{"name":"甘肃文化影视,甘肅文化影視",
+  "logo":"甘肃文化影视"
+},
+{"name":"高点育乐,高點育樂",
+  "logo":"高点育乐"
+},
+{"name":"高点育乐台,高點育樂台",
+  "logo":"高点育乐台"
+},
+{"name":"高点综合,高点综合台,高點綜合,高點綜合台",
+  "logo":"高点综合"
+},
+{"name":"高点电视台,高點電視台",
+  "logo":"高点综合台"
+},
+{"name":"高尔夫,高尔夫台,高爾夫,高爾夫台",
+  "logo":"高尔夫"
+},
+{"name":"高尔夫网球,CCTV高尔夫网球,高尔夫•网球,CCTV高尔夫•网球,高爾夫網球,CCTV高爾夫網球,高爾夫?網球,CCTV高爾夫?網球",
+  "logo":"CCTV高尔夫网球"
+},
+{"name":"高清大众影视,高清大眾影視",
+  "logo":"高清大众影视"
+},
+{"name":"高清家庭剧场,高清家庭劇場",
+  "logo":"高清家庭剧场"
+},
+{"name":"高清家庭影院,高清家庭影院",
+  "logo":"高清家庭影院"
+},
+{"name":"高清剧场,高清劇場",
+  "logo":"高清剧场"
+},
+{"name":"高清卡通剧场,高清卡通劇場",
+  "logo":"高清卡通剧场"
+},
+{"name":"高清探索,高清探索",
+  "logo":"高清探索"
+},
+{"name":"高清影院,高清影院",
+  "logo":"高清影院"
+},
+{"name":"高清综合,高清綜合",
+  "logo":"高清综合"
+},
+{"name":"高县综合,高縣綜合",
+  "logo":"高县综合"
+},
+{"name":"公视,公视台,公视hd,公视台hd,公視,公視台,公視hd,公視台hd",
+  "logo":"公视"
+},
+{"name":"公视2,公视2台,公视台语台,公视台语,公視2,公視2台,公視台語台,公視台語",
+  "logo":"公视2"
+},
+{"name":"公视3,公视3台,公視3,公視3台",
+  "logo":"公视3"
+},
+{"name":"公视3hd,公視3hd",
+  "logo":"公视3hd"
+},
+{"name":"公视hd,公視hd",
+  "logo":"公视hd"
+},
+{"name":"公视台语台,公視台語台",
+  "logo":"公视台语台"
+},
+{"name":"功夫台,功夫台",
+  "logo":"功夫台"
+},
+{"name":"珙县新闻,珙縣新聞",
+  "logo":"珙县新闻"
+},
+{"name":"古典音乐台,古典音樂台",
+  "logo":"古典音乐台"
+},
+{"name":"古田电视台,古田電視台",
+  "logo":"古田电视台"
+},
+{"name":"古装剧场,古裝劇場",
+  "logo":"古装剧场"
+},
+{"name":"冠军NO1,冠軍NO1",
+  "logo":"冠军NO1"
+},
+{"name":"冠军梦想,冠軍夢想",
+  "logo":"冠军梦想"
+},
+{"name":"光影欧洲,光影歐洲",
+  "logo":"光影欧洲"
+},
+{"name":"光泽电视台,光澤電視台",
+  "logo":"光泽电视台"
+},
+{"name":"广电热播剧场,廣電熱播劇場",
+  "logo":"广电热播剧场"
+},
+{"name":"广东大湾区卫视,南方卫视,广东南方卫视,大湾区卫视,大湾区卫视（海外版）,南方卫视hd,南方卫视高清,大湾区卫视hd,大湾区卫视高清,廣東大灣區衛視,南方衛視,廣東南方衛視,大灣區衛視,大灣區衛視（海外版）,南方衛視hd,南方衛視高清,大灣區衛視hd,大灣區衛視高清",
+  "logo":"广东大湾区卫视"
+},
+{"name":"广东房产,广东房产高清,廣東房產,廣東房產高清",
+  "logo":"广东房产"
+},
+{"name":"广东公共,广东公共高清,廣東公共,廣東公共高清",
+  "logo":"广东公共"
+},
+{"name":"广东国际,广东国际高清,廣東國際,廣東國際高清",
+  "logo":"广东国际"
+},
+{"name":"嘉佳卡通,嘉佳卡通hd,嘉佳卡通卫视,嘉佳卡通高清,嘉佳卡通[高清],嘉佳卡通,嘉佳卡通hd,嘉佳卡通衛視,嘉佳卡通高清,嘉佳卡通[高清]",
+  "logo":"广东嘉佳卡通"
+},
+{"name":"广东经济科教,广东经济科教高清,广东经济,经济科教,经济科教高清,经济科教超清,廣東經濟科教,廣東經濟科教高清,廣東經濟,經濟科教,經濟科教高清,經濟科教超清",
+  "logo":"广东经济科教"
+},
+{"name":"广东岭南戏曲,广东岭南戏曲高清,岭南戏曲,岭南戏曲高清,廣東嶺南戲曲,廣東嶺南戲曲高清,嶺南戲曲,嶺南戲曲高清",
+  "logo":"广东岭南戏曲"
+},
+{"name":"广东民生,广东民生高清,廣東民生,廣東民生高清",
+  "logo":"广东民生"
+},
+{"name":"广东少儿,广东少儿高清,广东少儿超清,廣東少兒,廣東少兒高清,廣東少兒超清",
+  "logo":"广东少儿"
+},
+{"name":"广东体育,广东体育高清,廣東體育,廣東體育高清",
+  "logo":"广东体育"
+},
+{"name":"广东卫视,广东卫视hd,广东卫视高清,广东卫视超清,广东卫视[高清],广东卫视[超清],廣東衛視,廣東衛視hd,廣東衛視高清,廣東衛視超清,廣東衛視[高清],廣東衛視[超清]",
+  "logo":"广东卫视"
+},
+{"name":"广东现代教育,广东现代教育高清,现代教育,现代教育高清,廣東現代教育,廣東現代教育高清,現代教育,現代教育高清",
+  "logo":"广东现代教育"
+},
+{"name":"广东新闻,广东新闻高清,广东新闻超清,廣東新聞,廣東新聞高清,廣東新聞超清",
+  "logo":"广东新闻"
+},
+{"name":"广东影视,广东影视高清,广东影视超清,廣東影視,廣東影視高清,廣東影視超清",
+  "logo":"广东影视"
+},
+{"name":"广东珠江,广东珠江高清,广东珠江超清,珠江台,珠江高清,廣東珠江,廣東珠江高清,廣東珠江超清,珠江台,珠江高清",
+  "logo":"广东珠江"
+},
+{"name":"广东综艺,广东综艺高清,廣東綜藝,廣東綜藝高清",
+  "logo":"广东综艺"
+},
+{"name":"广东综艺4K,广东综艺频道,广东综艺,广东综艺宽色域,广东综艺 宽色域AVS,广东4K超高清,广东综艺超清,广东综艺超高清,广东4K超清,广东综艺4K,廣東綜藝4K,廣東綜藝頻道,廣東綜藝,廣東綜藝寬色域,廣東綜藝 寬色域AVS,廣東4K超高清,廣東綜藝超清,廣東綜藝超高清,廣東4K超清,廣東綜藝4K",
+  "logo":"广东综艺4K"
+},
+{"name":"广西都市,廣西都市",
+  "logo":"广西都市"
+},
+{"name":"广西国际,廣西國際",
+  "logo":"广西国际"
+},
+{"name":"广西卫视,广西卫视hd,广西卫视高清,广西卫视超清,广西卫视[高清],广西卫视[超清],廣西衛視,廣西衛視hd,廣西衛視高清,廣西衛視超清,廣西衛視[高清],廣西衛視[超清]",
+  "logo":"广西卫视"
+},
+{"name":"广西新闻,广西都市,广西影视,广西综艺,广西旅游,广西公共,廣西新聞,廣西都市,廣西影視,廣西綜藝,廣西旅游,廣西公共",
+  "logo":"广西新闻"
+},
+{"name":"广西影视,廣西影視",
+  "logo":"广西影视"
+},
+{"name":"广西综艺旅游,廣西綜藝旅游",
+  "logo":"广西综艺旅游"
+},
+{"name":"广州法治,广州法治频道,广州法治高清,廣州法治,廣州法治頻道,廣州法治高清",
+  "logo":"广州法治"
+},
+{"name":"广州竞赛,广州竞赛频道,广州竞赛高清,廣州競賽,廣州競賽頻道,廣州競賽高清",
+  "logo":"广州竞赛"
+},
+{"name":"广州新闻,广州新闻频道,广州新闻高清,廣州新聞,廣州新聞頻道,廣州新聞高清",
+  "logo":"广州新闻"
+},
+{"name":"广州影视,广州影视频道,广州影视高清,廣州影視,廣州影視頻道,廣州影視高清",
+  "logo":"广州影视"
+},
+{"name":"广州综合,广州综合频道,广州综合高清,廣州綜合,廣州綜合頻道,廣州綜合高清",
+  "logo":"广州综合"
+},
+{"name":"广州南国都市,南国都市,南国都市4k,廣州南國都市,南國都市,南國都市4k",
+  "logo":"广州南国都市"
+},
+{"name":"贵州大众生活,贵州大众生活频道,贵州-4,贵州4,贵州大众影视文艺,贵州生活,貴州大眾生活,貴州大眾生活頻道,貴州-4,貴州4,貴州大眾影視文藝,貴州生活",
+  "logo":"贵州大众生活"
+},
+{"name":"贵州公共,贵州公共频道,贵州-2,贵州2,貴州公共,貴州公共頻道,貴州-2,貴州2",
+  "logo":"贵州公共"
+},
+{"name":"贵州经济,贵州经济频道,贵州-7,贵州7,貴州經濟,貴州經濟頻道,貴州-7,貴州7",
+  "logo":"贵州经济"
+},
+{"name":"贵州科教健康,贵州科教健康频道,科教健康频道,贵州-6,贵州6,贵州科教,貴州科教健康,貴州科教健康頻道,科教健康頻道,貴州-6,貴州6,貴州科教",
+  "logo":"贵州科教健康"
+},
+{"name":"贵州旅游,貴州旅游",
+  "logo":"贵州旅游"
+},
+{"name":"贵州文艺,贵州文艺频道,贵州-3,贵州3,贵州影视文艺,贵州影视文艺频道,贵州影视,貴州文藝,貴州文藝頻道,貴州-3,貴州3,貴州影視文藝,貴州影視文藝頻道,貴州影視",
+  "logo":"贵州文艺"
+},
+{"name":"贵州生态乡村,贵州生态乡村频道,生态乡村频道,贵州-5,贵州5,贵州法制,貴州生態鄉村,貴州生態鄉村頻道,生態鄉村頻道,貴州-5,貴州5,貴州法制",
+  "logo":"贵州生态乡村"
+},
+{"name":"贵州卫视,贵州卫视hd,贵州卫视高清,贵州卫视超清,贵州卫视[高清],贵州卫视[超清],贵州,貴州衛視,貴州衛視hd,貴州衛視高清,貴州衛視超清,貴州衛視[高清],貴州衛視[超清],貴州",
+  "logo":"贵州卫视"
+},
+{"name":"国会频道1,国会1台,國會頻道1,國會1台,國會頻道1,國會1台,國會頻道1,國會1台",
+  "logo":"国会频道1"
+},
+{"name":"国会频道2,国会2台,國會頻道2,國會2台,國會頻道2,國會2台,國會頻道2,國會2台",
+  "logo":"国会频道2"
+},
+{"name":"国家地理频道,国家地理,国家地理台,National Geographic,NationalGeographic,國家地理頻道,國家地理頻道,國家地理,國家地理台,National Geographic,NationalGeographic,國家地理頻道",
+  "logo":"国家地理频道"
+},
+{"name":"国家地理野生,国家野生台,Nat Geo Wild,NatGeoWild,國家地理高畫質野生頻道,國家地理野生頻道,国家野生,國家地理野生,國家野生台,Nat Geo Wild,NatGeoWild,國家地理高畫質野生頻道,國家地理野生頻道,國家野生",
+  "logo":"国家地理野生"
+},
+{"name":"国家地理悠人,Nat Geo People,NatGeoPeople,國家地理悠人,Nat Geo People,NatGeoPeople",
+  "logo":"国家地理悠人"
+},
+{"name":"国剧修复,爱奇艺直播,爱奇艺,激情燃烧,五星影院,小说改编,國劇修復,愛奇藝直播,愛奇藝,激情燃燒,五星影院,小說改編",
+  "logo":"国剧修复"
+},
+{"name":"国兴卫视,国兴卫视高清,國興衛視,國興衛視,國興衛視高清,國興衛視",
+  "logo":"国兴卫视"
+},
+{"name":"国学频道,国学,國學頻道,國學",
+  "logo":"国学频道"
+},
+{"name":"哈尔滨-新闻综合,哈爾濱-新聞綜合",
+  "logo":"哈尔滨-新闻综合"
+},
+{"name":"哈语综艺,哈語綜藝",
+  "logo":"哈语综艺"
+},
+{"name":"海沧电视台,海滄電視台",
+  "logo":"海沧电视台"
+},
+{"name":"海看4K,海看4K",
+  "logo":"海看4K"
+},
+{"name":"海看爱宠,海看愛寵",
+  "logo":"海看爱宠"
+},
+{"name":"海看大片,海看大片",
+  "logo":"海看大片"
+},
+{"name":"海看教育,海看教育",
+  "logo":"海看教育"
+},
+{"name":"海看剧场,海看劇場",
+  "logo":"海看剧场"
+},
+{"name":"海看热播,海看熱播",
+  "logo":"海看热播"
+},
+{"name":"海看少儿,海看少兒",
+  "logo":"海看少儿"
+},
+{"name":"海看演艺,海看演藝",
+  "logo":"海看演艺"
+},
+{"name":"海南公共,海南公共频道,海南公共,海南公共頻道",
+  "logo":"海南公共"
+},
+{"name":"海南少儿,海南少儿频道,海南少兒,海南少兒頻道",
+  "logo":"海南少儿"
+},
+{"name":"海南卫视,海南卫视HD,海南卫视高清,海南卫视超清,海南卫视[高清],海南卫视[超清],旅游卫视,海南衛視,海南衛視HD,海南衛視高清,海南衛視超清,海南衛視[高清],海南衛視[超清],旅游衛視",
+  "logo":"海南卫视"
+},
+{"name":"海南文旅,海南文旅频道,海南文旅,海南文旅頻道",
+  "logo":"海南文旅"
+},
+{"name":"海豚综合台,海豚综合,海豚綜合台,海豚綜合",
+  "logo":"海豚综合台"
+},
+{"name":"海峡卫视,海峽衛視",
+  "logo":"海峡卫视"
+},
+{"name":"韩国娱乐台,韩国娱乐,韓國娛樂台,韓國娛樂台,韓國娛樂,韓國娛樂台",
+  "logo":"韩国娱乐台"
+},
+{"name":"杭州明珠,西湖明珠,杭州明珠,西湖明珠",
+  "logo":"杭州明珠"
+},
+{"name":"杭州导视",
+  "logo":"杭州导视"
+},
+{"name":"杭州少儿,杭州少儿体育,杭州体育,杭州青少体育,青少体育,杭州少兒,杭州少兒體育,杭州體育,杭州青少體育,青少體育",
+  "logo":"杭州少儿"
+},
+{"name":"杭州生活,杭州生活",
+  "logo":"杭州生活"
+},
+{"name":"杭州影视,杭州影視",
+  "logo":"杭州影视"
+},
+{"name":"杭州综合,杭州綜合",
+  "logo":"杭州综合"
+},
+{"name":"好莱坞电影,好莱坞,好莱坞电影台,好莱电影,好莱坞電影,好萊塢電影,好萊塢電影台,Hollywood,Hollywood HD,好萊塢電影,好萊塢,好萊塢電影台,好萊電影,好萊塢電影,好萊塢電影,好萊塢電影台,Hollywood,Hollywood HD",
+  "logo":"好莱坞电影"
+},
+{"name":"好享购物,好享購物",
+  "logo":"好享购物"
+},
+{"name":"河北安平,安平,安平综合,安平综合频道,河北安平,安平,安平綜合,安平綜合頻道",
+  "logo":"河北安平"
+},
+{"name":"河北安新,安新,安新综合,安新综合频道,安新新闻综合,安新新闻综合频道,河北安新,安新,安新綜合,安新綜合頻道,安新新聞綜合,安新新聞綜合頻道",
+  "logo":"河北安新"
+},
+{"name":"河北霸州,霸州,霸州新闻,霸州新闻频道,霸州新闻综合,霸州新闻综合频道,河北霸州,霸州,霸州新聞,霸州新聞頻道,霸州新聞綜合,霸州新聞綜合頻道",
+  "logo":"河北霸州"
+},
+{"name":"河北保定,保定,保定新闻,保定公共,保定生活健康,保定新闻综合,保定公共频道,保定生活,河北保定,保定,保定新聞,保定公共,保定生活健康,保定新聞綜合,保定公共頻道,保定生活",
+  "logo":"河北保定"
+},
+{"name":"河北沧州,沧州1,沧州2,沧州3,沧州新闻综合,沧州公共频道,沧州影视娱乐,河北滄州,滄州1,滄州2,滄州3,滄州新聞綜合,滄州公共頻道,滄州影視娛樂",
+  "logo":"河北沧州"
+},
+{"name":"河北承德,承德,承德公共,承德新闻,承德文化,承德公共生活,承德新闻综合,承德文化,河北承德,承德,承德公共,承德新聞,承德文化,承德公共生活,承德新聞綜合,承德文化",
+  "logo":"河北承德"
+},
+{"name":"河北都市,河北都市频道,河北都市[高清],河北都市HD,河北都市高清,河北都市,河北都市頻道,河北都市[高清],河北都市HD,河北都市高清",
+  "logo":"河北都市"
+},
+{"name":"河北公共,河北公共频道,河北公共[高清],河北公共HD,河北公共高清,河北公共,河北公共頻道,河北公共[高清],河北公共HD,河北公共高清",
+  "logo":"河北公共"
+},
+{"name":"河北邯郸,邯郸科技,邯郸公共,邯郸公共频道,邯郸新闻,邯郸科技教育,邯郸新闻综合,河北邯鄲,邯鄲科技,邯鄲公共,邯鄲公共頻道,邯鄲新聞,邯鄲科技教育,邯鄲新聞綜合",
+  "logo":"河北邯郸"
+},
+{"name":"河北衡水,衡水公共,衡水新闻,河北衡水,衡水公共,衡水新聞",
+  "logo":"河北衡水"
+},
+{"name":"河北经济生活,河北经济生活频道,河北经济生活[高清],河北经济生活HD,河北经济生活高清,河北经济,河北经济频道,河北经济[高清],河北经济HD,河北经济高清,河北經濟生活,河北經濟生活頻道,河北經濟生活[高清],河北經濟生活HD,河北經濟生活高清,河北經濟,河北經濟頻道,河北經濟[高清],河北經濟HD,河北經濟高清",
+  "logo":"河北经济生活"
+},
+{"name":"河北农民,河北农民频道,河北农民[高清],河北农民HD,河北农民高清,农民频道,河北農民,河北農民頻道,河北農民[高清],河北農民HD,河北農民高清,農民頻道",
+  "logo":"河北农民"
+},
+{"name":"河北迁安,迁安,迁安综合,迁安综合频道,河北遷安,遷安,遷安綜合,遷安綜合頻道",
+  "logo":"河北迁安"
+},
+{"name":"河北秦皇岛,秦皇岛,秦皇岛1,秦皇岛2,秦皇岛3,秦皇岛-1,秦皇岛-2,秦皇岛-3,河北秦皇島,秦皇島,秦皇島1,秦皇島2,秦皇島3,秦皇島-1,秦皇島-2,秦皇島-3",
+  "logo":"河北秦皇岛"
+},
+{"name":"河北少儿科教,河北少儿科教频道,河北少儿科教[高清],河北少儿科教HD,河北少儿科教高清,河北少儿,河北少儿[高清],河北少儿HD,河北少儿高清,河北少兒科教,河北少兒科教頻道,河北少兒科教[高清],河北少兒科教HD,河北少兒科教高清,河北少兒,河北少兒[高清],河北少兒HD,河北少兒高清",
+  "logo":"河北少儿科教"
+},
+{"name":"河北卫视,河北卫视hd,河北卫视高清,河北卫视超清,河北卫视[高清],河北卫视[超清],河北衛視,河北衛視hd,河北衛視高清,河北衛視超清,河北衛視[高清],河北衛視[超清]",
+  "logo":"河北卫视"
+},
+{"name":"河北影视剧,河北影视剧频道,河北影视剧[高清],河北影视剧HD,河北影视剧高清,河北影视,河北影视频道,河北影视[高清],河北影视HD,河北影视高清,河北影視劇,河北影視劇頻道,河北影視劇[高清],河北影視劇HD,河北影視劇高清,河北影視,河北影視頻道,河北影視[高清],河北影視HD,河北影視高清",
+  "logo":"河北影视剧"
+},
+{"name":"河北张家口,张家口1,张家口2,张家口-1,张家口-2,河北張家口,張家口1,張家口2,張家口-1,張家口-2",
+  "logo":"河北张家口"
+},
+{"name":"河南电视剧,河南电视剧频道,河南电视剧HD,河南电视剧高清,河南电视剧频道高清,河南电视剧频道hd,河南電視劇,河南電視劇頻道,河南電視劇HD,河南電視劇高清,河南電視劇頻道高清,河南電視劇頻道hd",
+  "logo":"河南电视剧"
+},
+{"name":"河南都市,河南都市频道,河南都市HD,河南都市高清,河南都市频道高清,河南都市频道hd,河南都市,河南都市頻道,河南都市HD,河南都市高清,河南都市頻道高清,河南都市頻道hd",
+  "logo":"河南都市"
+},
+{"name":"河南法治,河南法治频道,河南法治HD,河南法治高清,河南法治频道高清,河南法治频道hd,河南法治,河南法治頻道,河南法治HD,河南法治高清,河南法治頻道高清,河南法治頻道hd",
+  "logo":"河南法治"
+},
+{"name":"河南公共,河南公共频道,河南公共HD,河南公共高清,河南公共频道高清,河南公共频道hd,河南公共,河南公共頻道,河南公共HD,河南公共高清,河南公共頻道高清,河南公共頻道hd",
+  "logo":"河南公共"
+},
+{"name":"河南国际,河南国际频道,河南国际HD,河南国际高清,河南国际频道高清,河南国际频道hd,河南國際,河南國際頻道,河南國際HD,河南國際高清,河南國際頻道高清,河南國際頻道hd",
+  "logo":"河南国际"
+},
+{"name":"河南梨园,河南梨园频道,河南梨园HD,河南梨园高清,梨园频道,梨园,梨园高清,梨园频道高清,河南梨园频道高清,河南梨园频道hd,河南梨園,河南梨園頻道,河南梨園HD,河南梨園高清,梨園頻道,梨園,梨園高清,梨園頻道高清,河南梨園頻道高清,河南梨園頻道hd",
+  "logo":"河南梨园"
+},
+{"name":"河南民生,河南民生频道,河南民生HD,河南民生高清,河南民生频道高清,河南民生频道hd,河南民生,河南民生頻道,河南民生HD,河南民生高清,河南民生頻道高清,河南民生頻道hd",
+  "logo":"河南民生"
+},
+{"name":"河南卫视,河南卫视hd,河南卫视高清,河南卫视超清,河南卫视[高清],河南卫视[超清],河南衛視,河南衛視hd,河南衛視高清,河南衛視超清,河南衛視[高清],河南衛視[超清]",
+  "logo":"河南卫视"
+},
+{"name":"河南文物宝库,河南文物宝库高清,河南文物宝库hd,文物宝库,文物宝库hd,文物宝库高清,河南文物寶庫,河南文物寶庫高清,河南文物寶庫hd,文物寶庫,文物寶庫hd,文物寶庫高清",
+  "logo":"河南文物宝库"
+},
+{"name":"河南武术世界,河南武术世界高清,河南武术世界hd,武术世界,武术世界高清,武术世界hd,河南武術世界,河南武術世界高清,河南武術世界hd,武術世界,武術世界高清,武術世界hd",
+  "logo":"河南武术世界"
+},
+{"name":"河南乡村,河南乡村频道,河南乡村HD,河南乡村高清,河南乡村频道高清,河南乡村频道hd,河南鄉村,河南鄉村頻道,河南鄉村HD,河南鄉村高清,河南鄉村頻道高清,河南鄉村頻道hd",
+  "logo":"河南乡村"
+},
+{"name":"河南新闻,河南新闻频道,河南新闻HD,河南新闻高清,河南新闻频道高清,河南新闻频道hd,河南新聞,河南新聞頻道,河南新聞HD,河南新聞高清,河南新聞頻道高清,河南新聞頻道hd",
+  "logo":"河南新闻"
+},
+{"name":"河南移动戏曲,河南移动戏曲频道,移动戏曲,河南移動戲曲,河南移動戲曲頻道,移動戲曲",
+  "logo":"河南移动戏曲"
+},
+{"name":"河南睛彩中原,河南睛彩中原频道,睛彩中原,河南睛彩中原,河南睛彩中原頻道,睛彩中原",
+  "logo":"河南睛彩中原"
+},
+{"name":"河南移动电视,河南移動電視",
+  "logo":"河南移动电视"
+},
+{"name":"黑龙江都市,黑龙江都市频道,黑龍江都市,黑龍江都市頻道",
+  "logo":"黑龙江都市"
+},
+{"name":"黑龙江公共农村,黑龙江公共农村频道,黑龍江公共農村,黑龍江公共農村頻道",
+  "logo":"黑龙江公共农村"
+},
+{"name":"黑龙江少儿,黑龙江少儿频道,黑龍江少兒,黑龍江少兒頻道",
+  "logo":"黑龙江少儿"
+},
+{"name":"黑龙江卫视,黑龙江卫视hd,黑龙江卫视高清,黑龙江卫视超清,黑龙江卫视[高清],黑龙江卫视[超清],龙江卫视,黑龍江衛視,黑龍江衛視hd,黑龍江衛視高清,黑龍江衛視超清,黑龍江衛視[高清],黑龍江衛視[超清],龍江衛視",
+  "logo":"黑龙江卫视"
+},
+{"name":"黑龙江文体,黑龙江文体频道,黑龍江文體,黑龍江文體頻道",
+  "logo":"黑龙江文体"
+},
+{"name":"黑龙江新闻法治,黑龙江新闻法治频道,黑龍江新聞法治,黑龍江新聞法治頻道",
+  "logo":"黑龙江新闻法治"
+},
+{"name":"黑龙江影视,黑龙江影视频道,黑龍江影視,黑龍江影視頻道",
+  "logo":"黑龙江影视"
+},
+{"name":"黑莓电竞,黑莓電竞,黑莓電競,黑莓電競",
+  "logo":"黑莓电竞"
+},
+{"name":"黑莓电影,黑莓電影,黑莓電影,黑莓電影",
+  "logo":"黑莓电影"
+},
+{"name":"黑莓动画,黑莓動畫,黑莓動畫,黑莓動畫",
+  "logo":"黑莓动画"
+},
+{"name":"呼和浩特,呼和浩特",
+  "logo":"呼和浩特"
+},
+{"name":"呼和浩特都市生活,呼和浩特都市生活",
+  "logo":"呼和浩特都市生活"
+},
+{"name":"呼和浩特新闻综合,呼和浩特新聞綜合",
+  "logo":"呼和浩特新闻综合"
+},
+{"name":"呼和浩特影视娱乐,呼和浩特影視娛樂",
+  "logo":"呼和浩特影视娱乐"
+},
+{"name":"呼伦贝尔,呼倫貝爾",
+  "logo":"呼伦贝尔"
+},
+{"name":"呼伦贝尔生活资讯,呼倫貝爾生活資訊",
+  "logo":"呼伦贝尔生活资讯"
+},
+{"name":"呼伦贝尔文化旅游,呼倫貝爾文化旅游",
+  "logo":"呼伦贝尔文化旅游"
+},
+{"name":"呼伦贝尔新闻综合,呼倫貝爾新聞綜合",
+  "logo":"呼伦贝尔新闻综合"
+},
+{"name":"湖北经济,湖北经视,湖北经视高清,湖北经视超清,湖北經濟,湖北經視,湖北經視高清,湖北經視超清",
+  "logo":"湖北经济"
+},
+{"name":"湖北卫视,湖北卫视hd,湖北卫视高清,湖北卫视超清,湖北卫视[高清],湖北卫视[超清],湖北衛視,湖北衛視hd,湖北衛視高清,湖北衛視超清,湖北衛視[高清],湖北衛視[超清]",
+  "logo":"湖北卫视"
+},
+{"name":"湖北影视,湖北影视频道,湖北影视高清,湖北影视超清,湖北影視,湖北影視頻道,湖北影視高清,湖北影視超清",
+  "logo":"湖北影视"
+},
+{"name":"湖南爱晚,湖南爱晚频道,湖南爱晚高清,爱晚,爱晚频道,爱晚高清,爱晚超清,湖南愛晚,湖南愛晚頻道,湖南愛晚高清,愛晚,愛晚頻道,愛晚高清,愛晚超清",
+  "logo":"湖南爱晚"
+},
+{"name":"湖南茶频道,茶频道,茶友频道,茶频道[高清],茶频道高清,茶,茶频道hd,湖南茶頻道,茶頻道,茶友頻道,茶頻道[高清],茶頻道高清,茶,茶頻道hd",
+  "logo":"湖南茶频道"
+},
+{"name":"湖南电视剧,湖南电视剧频道,湖南电视剧高清,湖南电视剧超清,湖南電視劇,湖南電視劇頻道,湖南電視劇高清,湖南電視劇超清",
+  "logo":"湖南电视剧"
+},
+{"name":"湖南电影,湖南电影频道,湖南电影高清,湖南电影超清,湖南電影,湖南電影頻道,湖南電影高清,湖南電影超清",
+  "logo":"湖南电影"
+},
+{"name":"湖南都市,湖南都市频道,湖南都市高清,湖南都市超清,湖南都市,湖南都市頻道,湖南都市高清,湖南都市超清",
+  "logo":"湖南都市"
+},
+{"name":"湖南公共,湖南公共频道,湖南公共高清,湖南公共超清,湖南公共,湖南公共頻道,湖南公共高清,湖南公共超清",
+  "logo":"湖南公共"
+},
+{"name":"湖南国际,湖南国际频道,湖南国际高清,湖南国际超清,湖南國際,湖南國際頻道,湖南國際高清,湖南國際超清",
+  "logo":"湖南国际"
+},
+{"name":"湖南教育,湖南教育频道,湖南教育高清,湖南教育超清,湖南教育,湖南教育頻道,湖南教育高清,湖南教育超清",
+  "logo":"湖南教育"
+},
+{"name":"湖南金鹰纪实,金鹰纪实,金鹰纪实hd,金鹰纪实高清,金鹰纪实[高清],湖南纪实,湖南金鷹紀實,金鷹紀實,金鷹紀實hd,金鷹紀實高清,金鷹紀實[高清],湖南紀實",
+  "logo":"湖南金鹰纪实"
+},
+{"name":"湖南金鹰卡通,金鹰卡通,金鹰卡通hd,金鹰卡通高清,金鹰卡通[高清],湖南金鷹卡通,金鷹卡通,金鷹卡通hd,金鷹卡通高清,金鷹卡通[高清]",
+  "logo":"湖南金鹰卡通"
+},
+{"name":"湖南经视,湖南经视频道,湖南经视高清,湖南经视超清,湖南经济,湖南經視,湖南經視頻道,湖南經視高清,湖南經視超清,湖南經濟",
+  "logo":"湖南经视"
+},
+{"name":"湖南快乐垂钓,快乐垂钓,快乐垂钓高清,快乐垂钓[高清],湖南快樂垂釣,快樂垂釣,快樂垂釣高清,快樂垂釣[高清]",
+  "logo":"湖南快乐垂钓"
+},
+{"name":"湖南卫视,湖南卫视hd,湖南卫视高清,湖南卫视超清,湖南卫视[高清],湖南卫视[超清],湖南衛視,湖南衛視hd,湖南衛視高清,湖南衛視超清,湖南衛視[高清],湖南衛視[超清]",
+  "logo":"湖南卫视"
+},
+{"name":"湖南先锋乒羽,先锋乒羽,先锋乒羽高清,先锋乒羽[高清],湖南先鋒乒羽,先鋒乒羽,先鋒乒羽高清,先鋒乒羽[高清]",
+  "logo":"湖南先锋乒羽"
+},
+{"name":"湖南娱乐,湖南娱乐频道,湖南娱乐高清,湖南娛樂,湖南娛樂頻道,湖南娛樂高清",
+  "logo":"湖南娱乐"
+},
+{"name":"虎牙直播,虎牙直播",
+  "logo":"虎牙直播"
+},
+{"name":"户外旅游,戶外旅游",
+  "logo":"户外旅游"
+},
+{"name":"花儿高清,花儿高清台,花兒高清,花兒高清台",
+  "logo":"花儿高清"
+},
+{"name":"花花公子,花花公子台,花花公子,花花公子台",
+  "logo":"花花公子"
+},
+{"name":"华安电视台,華安電視台",
+  "logo":"华安电视台"
+},
+{"name":"华藏电视,華藏電視",
+  "logo":"华藏电视"
+},
+{"name":"华诚影视,华诚影视台,華誠影視,華誠影視台",
+  "logo":"华诚影视"
+},
+{"name":"华诚影视-gold,華誠影視-gold",
+  "logo":"华诚影视-gold"
+},
+{"name":"华纳电影,华纳电影台,華納電影,華納電影台",
+  "logo":"华纳电影"
+},
+{"name":"华视,华视台,華視,華視(備),華視,華視台,華視,華視(備)",
+  "logo":"华视"
+},
+{"name":"华视新闻,华视新闻台,华視新聞,華視新聞,華視新聞台,華視新聞",
+  "logo":"华视新闻"
+},
+{"name":"华数-4K,华数4K,华数超清,華數-4K,華數4K,華數超清",
+  "logo":"华数-4K"
+},
+{"name":"华数huashu4k,華數huashu4k",
+  "logo":"华数huashu4k"
+},
+{"name":"华数-大国时代,华数大国时代,大国时代,華數-大國時代,華數大國時代,大國時代",
+  "logo":"华数-大国时代"
+},
+{"name":"华数-高清娱乐,华数高清娱乐,高清娱乐,華數-高清娛樂,華數高清娛樂,高清娛樂",
+  "logo":"华数-高清娱乐"
+},
+{"name":"华数-公主城堡,华数公主城堡,公主城堡,華數-公主城堡,華數公主城堡,公主城堡",
+  "logo":"华数-公主城堡"
+},
+{"name":"华数-古装剧1,华数古装剧1,古装剧1,華數-古裝劇1,華數古裝劇1,古裝劇1",
+  "logo":"华数-古装剧1"
+},
+{"name":"华数-古装剧2,华数古装剧2,古装剧2,華數-古裝劇2,華數古裝劇2,古裝劇2",
+  "logo":"华数-古装剧2"
+},
+{"name":"华数-华数游戏,华数华数游戏,华数游戏,華數-華數游戲,華數華數游戲,華數游戲",
+  "logo":"华数-华数游戏"
+},
+{"name":"华数-惊惧悬疑,华数惊惧悬疑,惊惧悬疑,華數-驚懼懸疑,華數驚懼懸疑,驚懼懸疑",
+  "logo":"华数-惊惧悬疑"
+},
+{"name":"华数-剧情,华数剧情,剧情,華數-劇情,華數劇情,劇情",
+  "logo":"华数-剧情"
+},
+{"name":"华数-军事纪实,华数军事纪实,军事纪实,華數-軍事紀實,華數軍事紀實,軍事紀實",
+  "logo":"华数-军事纪实"
+},
+{"name":"华数-科教人文,华数科教人文,科教人文,華數-科教人文,華數科教人文,科教人文",
+  "logo":"华数-科教人文"
+},
+{"name":"华数-历史解密,华数历史解密,历史解密,華數-歷史解密,華數歷史解密,歷史解密",
+  "logo":"华数-历史解密"
+},
+{"name":"华数-漫游世界,华数漫游世界,漫游世界,華數-漫游世界,華數漫游世界,漫游世界",
+  "logo":"华数-漫游世界"
+},
+{"name":"华数-美食,华数美食,美食,華數-美食,華數美食,美食",
+  "logo":"华数-美食"
+},
+{"name":"华数-欧美冒险,华数欧美冒险,欧美冒险,欧美影院,華數-歐美冒險,華數歐美冒險,歐美冒險,歐美影院",
+  "logo":"华数-欧美冒险"
+},
+{"name":"华数-情感生活,华数情感生活,情感生活,華數-情感生活,華數情感生活,情感生活",
+  "logo":"华数-情感生活"
+},
+{"name":"华数-热门网大,华数热门网大,热门网大,華數-熱門網大,華數熱門網大,熱門網大",
+  "logo":"华数-热门网大"
+},
+{"name":"华数-热血抗战,华数热血抗战,热血抗战,華數-熱血抗戰,華數熱血抗戰,熱血抗戰",
+  "logo":"华数-热血抗战"
+},
+{"name":"华数-少儿,华数少儿,少儿,華數-少兒,華數少兒,少兒",
+  "logo":"华数-少儿"
+},
+{"name":"华数-少林问道,华数少林问道,少林问道,華數-少林問道,華數少林問道,少林問道",
+  "logo":"华数-少林问道"
+},
+{"name":"华数-社会真相,华数社会真相,社会真相,華數-社會真相,華數社會真相,社會真相",
+  "logo":"华数-社会真相"
+},
+{"name":"华数-生活杂谈,华数生活杂谈,生活杂谈,華數-生活雜談,華數生活雜談,生活雜談",
+  "logo":"华数-生活杂谈"
+},
+{"name":"华数-时尚1,华数时尚1,时尚1,華數-時尚1,華數時尚1,時尚1",
+  "logo":"华数-时尚1"
+},
+{"name":"华数-时尚2,华数时尚2,时尚2,華數-時尚2,華數時尚2,時尚2",
+  "logo":"华数-时尚2"
+},
+{"name":"华数-时装1,华数时装1,时装1,華數-時裝1,華數時裝1,時裝1",
+  "logo":"华数-时装1"
+},
+{"name":"华数-时装2,华数时装2,时装2,華數-時裝2,華數時裝2,時裝2",
+  "logo":"华数-时装2"
+},
+{"name":"华数-睡前故事,华数睡前故事,睡前故事,華數-睡前故事,華數睡前故事,睡前故事",
+  "logo":"华数-睡前故事"
+},
+{"name":"华数-外国动作,华数外国动作,外国动作,華數-外國動作,華數外國動作,外國動作",
+  "logo":"华数-外国动作"
+},
+{"name":"华数-心动剧场,华数心动剧场,心动剧场,華數-心動劇場,華數心動劇場,心動劇場",
+  "logo":"华数-心动剧场"
+},
+{"name":"华数-学警雄心,华数学警雄心,学警雄心,華數-學警雄心,華數學警雄心,學警雄心",
+  "logo":"华数-学警雄心"
+},
+{"name":"华数-亚洲影院,华数亚洲影院,亚洲影院,華數-亞洲影院,華數亞洲影院,亞洲影院",
+  "logo":"华数-亚洲影院"
+},
+{"name":"华数-直播,华数直播,直播,華數-直播,華數直播,直播",
+  "logo":"华数-直播"
+},
+{"name":"华艺影剧台,华艺影剧,華藝影劇台,華藝影劇",
+  "logo":"华艺影剧"
+},
+{"name":"怀旧剧场,CCTV怀旧剧场,懷舊劇場,CCTV懷舊劇場",
+  "logo":"CCTV怀旧剧场"
+},
+{"name":"欢笑剧场,SITV欢笑剧场,欢笑剧场4K,SITV欢笑剧场4K,4K欢笑剧场,欢笑剧场 4K,歡笑劇場,SITV歡笑劇場,歡笑劇場4K,SITV歡笑劇場4K,4K歡笑劇場,歡笑劇場 4K",
+  "logo":"欢笑剧场"
+},
+{"name":"环球奇观,環球奇觀",
+  "logo":"环球奇观"
+},
+{"name":"寰宇财经,寰宇财经新闻,寰宇财经新闻台,寰宇財經,寰宇財經新聞,寰宇財經新聞台",
+  "logo":"寰宇财经"
+},
+{"name":"寰宇财经台,寰宇財經台",
+  "logo":"寰宇财经台"
+},
+{"name":"寰宇新闻,寰宇新闻台,寰宇國際新聞,寰宇新聞台,寰宇新聞台灣台,寰宇新闻台湾台,寰宇新聞,寰宇新聞台,寰宇國際新聞,寰宇新聞台,寰宇新聞台灣台,寰宇新聞台灣台",
+  "logo":"寰宇新闻"
+},
+{"name":"寰宇新闻二台,寰宇新闻2,寰宇新闻2台,寰宇新聞二台,寰宇新聞2,寰宇新聞2台",
+  "logo":"寰宇新闻2"
+},
+{"name":"寰宇新闻台,寰宇新聞台",
+  "logo":"寰宇新闻台"
+},
+{"name":"寰宇新闻台湾台,寰宇新聞台灣台",
+  "logo":"寰宇新闻台湾台"
+},
+{"name":"寰宇综合台,寰宇综合,寰宇綜合台,寰宇綜合",
+  "logo":"寰宇综合台"
+},
+{"name":"黄河卫视,黃河衛視",
+  "logo":"黄河卫视"
+},
+{"name":"黄金华剧台,黃金華劇台",
+  "logo":"黄金华剧台"
+},
+{"name":"惠安电视台,惠安電視台",
+  "logo":"惠安电视台"
+},
+{"name":"吉林都市,吉林都市",
+  "logo":"吉林都市"
+},
+{"name":"吉林公共新闻,吉林公共新聞",
+  "logo":"吉林公共新闻"
+},
+{"name":"吉林生活,吉林生活",
+  "logo":"吉林生活"
+},
+{"name":"吉林卫视,吉林卫视hd,吉林卫视高清,吉林卫视超清,吉林卫视[高清],吉林卫视[超清],吉林衛視,吉林衛視hd,吉林衛視高清,吉林衛視超清,吉林衛視[高清],吉林衛視[超清]",
+  "logo":"吉林卫视"
+},
+{"name":"吉林乡村,吉林鄉村",
+  "logo":"吉林乡村"
+},
+{"name":"吉林影视,吉林影視",
+  "logo":"吉林影视"
+},
+{"name":"吉林综艺文化,吉林綜藝文化",
+  "logo":"吉林综艺文化"
+},
+{"name":"长影频道,吉林长影频道,吉林长影,長影頻道,吉林長影頻道,吉林長影",
+  "logo":"长影频道"
+},
+{"name":"极速汽车,MAX极速汽车,極速汽車,MAX極速汽車",
+  "logo":"极速汽车"
+},
+{"name":"纪录片,纪录片高清,紀錄片,紀錄片高清",
+  "logo":"纪录片"
+},
+{"name":"济南新闻综合,濟南新聞綜合",
+  "logo":"济南新闻综合"
+},
+{"name":"家庭剧场,家庭劇場",
+  "logo":"家庭剧场"
+},
+{"name":"家庭理财,家庭财富,家庭理財,家庭財富",
+  "logo":"家庭理财"
+},
+{"name":"家庭影院SD,家庭影院,家庭影院SD,家庭影院",
+  "logo":"家庭影院"
+},
+{"name":"家政频道,家政,家政頻道,家政",
+  "logo":"家政频道"
+},
+{"name":"嘉祥新闻,嘉祥新聞",
+  "logo":"嘉祥新闻"
+},
+{"name":"建宁电视台,建寧電視台",
+  "logo":"建宁电视台"
+},
+{"name":"建瓯电视台,建甌電視台",
+  "logo":"建瓯电视台"
+},
+{"name":"建阳电视台,建陽電視台",
+  "logo":"建阳电视台"
+},
+{"name":"江苏,江苏频道,江苏HD,江苏高清,江蘇,江蘇頻道,江蘇HD,江蘇高清",
+  "logo":"江苏"
+},
+{"name":"江苏城市,江苏城市频道,江苏城市HD,江苏城市高清,江蘇城市,江蘇城市頻道,江蘇城市HD,江蘇城市高清",
+  "logo":"江苏城市"
+},
+{"name":"江苏公共新闻,江苏公共新闻频道,江苏公共新闻HD,江苏公共新闻高清,江蘇公共新聞,江蘇公共新聞頻道,江蘇公共新聞HD,江蘇公共新聞高清",
+  "logo":"江苏公共新闻"
+},
+{"name":"江苏国际,江苏国际频道,江苏国际HD,江苏国际高清,江蘇國際,江蘇國際頻道,江蘇國際HD,江蘇國際高清",
+  "logo":"江苏国际"
+},
+{"name":"江苏教育,江苏教育频道,江苏教育HD,江苏教育高清,江蘇教育,江蘇教育頻道,江蘇教育HD,江蘇教育高清",
+  "logo":"江苏教育电视台"
+},
+{"name":"江苏卫视,江苏卫视hd,江苏卫视高清,江苏卫视超清,江苏卫视[高清],江苏卫视[超清],江蘇衛視,江蘇衛視hd,江蘇衛視高清,江蘇衛視超清,江蘇衛視[高清],江蘇衛視[超清]",
+  "logo":"江苏卫视"
+},
+{"name":"江苏休闲体育,江苏休闲体育频道,江苏休闲体育HD,江苏休闲体育高清,江苏体育休闲,江蘇休閑體育,江蘇休閑體育頻道,江蘇休閑體育HD,江蘇休閑體育高清,江蘇體育休閑",
+  "logo":"江苏休闲体育"
+},
+{"name":"江苏影视,江苏影视频道,江苏影视HD,江苏影视高清,江蘇影視,江蘇影視頻道,江蘇影視HD,江蘇影視高清",
+  "logo":"江苏影视"
+},
+{"name":"江苏优漫卡通,江苏优漫卡通频道,优漫卡通HD,优漫卡通高清,优漫卡通,江苏优漫,江蘇優漫卡通,江蘇優漫卡通頻道,優漫卡通HD,優漫卡通高清,優漫卡通,江蘇優漫",
+  "logo":"江苏优漫卡通"
+},
+{"name":"江苏综艺,江苏综艺频道,江苏综艺HD,江苏综艺高清,江蘇綜藝,江蘇綜藝頻道,江蘇綜藝HD,江蘇綜藝高清",
+  "logo":"江苏综艺"
+},
+{"name":"江西教育,江西教育频道,江西教育hd,江西教育高清,江西教育,江西教育頻道,江西教育hd,江西教育高清",
+  "logo":"江西教育"
+},
+{"name":"江西经济生活,江西经济生活频道,江西经济生活hd,江西经济生活高清,江西3,江西經濟生活,江西經濟生活頻道,江西經濟生活hd,江西經濟生活高清,江西3",
+  "logo":"江西经济生活"
+},
+{"name":"江西少儿,江西少儿频道,江西少儿hd,江西少儿高清,江西6,江西少兒,江西少兒頻道,江西少兒hd,江西少兒高清,江西6",
+  "logo":"江西少儿"
+},
+{"name":"江西都市,江西都市频道,江西2,江西都市,江西都市頻道,江西2",
+  "logo":"江西都市"
+},
+{"name":"江西公共农业,江西公共农业,江西5,江西公共農業,江西公共農業,江西5",
+  "logo":"江西公共农业"
+},
+{"name":"江西影视旅游,江西影視旅游",
+  "logo":"江西影视旅游"
+},
+{"name":"江西卫视,江西卫视hd,江西卫视高清,江西卫视超清,江西卫视[高清],江西卫视[超清],江西衛視,江西衛視hd,江西衛視高清,江西衛視超清,江西衛視[高清],江西衛視[超清]",
+  "logo":"江西卫视"
+},
+{"name":"江西新闻,江西新闻频道,江西新闻hd,江西新闻高清,江西7,江西新聞,江西新聞頻道,江西新聞hd,江西新聞高清,江西7",
+  "logo":"江西新闻"
+},
+{"name":"将乐电视台,将乐二套,將樂電視台,將樂二套",
+  "logo":"将乐电视台"
+},
+{"name":"蕉蕉棒,香蕉台,香蕉,蕉蕉棒,香蕉台,香蕉",
+  "logo":"蕉蕉棒"
+},
+{"name":"教育就业,教育就业台,教育就業,教育就業台",
+  "logo":"教育就业"
+},
+{"name":"揭阳生活,揭阳生活台,揭阳生活频道,揭阳生活高清,揭阳公共,揭阳公共高清,揭陽生活,揭陽生活台,揭陽生活頻道,揭陽生活高清,揭陽公共,揭陽公共高清",
+  "logo":"揭阳生活"
+},
+{"name":"揭阳综合,揭阳综合台,揭阳综合频道,揭阳综合高清,揭陽綜合,揭陽綜合台,揭陽綜合頻道,揭陽綜合高清",
+  "logo":"揭阳综合"
+},
+{"name":"金光布袋戏,金光布袋戲",
+  "logo":"金光布袋戏"
+},
+{"name":"金色频道,金色頻道",
+  "logo":"金色频道"
+},
+{"name":"金色学堂,SITV金色学堂,金色學堂,SITV金色學堂",
+  "logo":"金色学堂"
+},
+{"name":"金砖电视,金磚電視",
+  "logo":"金砖电视"
+},
+{"name":"劲爆体育,SITV劲爆体育,勁爆體育,SITV勁爆體育",
+  "logo":"劲爆体育"
+},
+{"name":"晋江电视台,晉江電視台",
+  "logo":"晋江电视台"
+},
+{"name":"经典剧场,經典劇場",
+  "logo":"经典剧场"
+},
+{"name":"惊艳台,驚艷台",
+  "logo":"惊艳台"
+},
+{"name":"睛彩广场舞,睛彩广场舞[高清],睛彩广场舞hd,睛彩廣場舞,睛彩廣場舞[高清],睛彩廣場舞hd",
+  "logo":"睛彩广场舞"
+},
+{"name":"睛彩广篮球,睛彩篮球[高清],睛彩篮球hd,睛彩廣籃球,睛彩籃球[高清],睛彩籃球hd",
+  "logo":"睛彩篮球"
+},
+{"name":"睛彩通用,精彩竞技,睛彩竞技[高清],睛彩竞技hd,睛彩河北,睛彩,睛彩通用,精彩競技,睛彩競技[高清],睛彩競技hd,睛彩河北,睛彩",
+  "logo":"睛彩通用"
+},
+{"name":"睛彩羽毛球,睛彩羽毛球[高清],羽毛球舞hd,睛彩羽毛球,睛彩羽毛球[高清],羽毛球舞hd",
+  "logo":"睛彩羽毛球"
+},
+{"name":"精彩电视剧,精彩電視劇",
+  "logo":"精彩电视剧"
+},
+{"name":"精彩影视,精彩影视剧,精彩影視,精彩影視劇",
+  "logo":"精彩影视"
+},
+{"name":"精品剧场,精品劇場",
+  "logo":"精品剧场"
+},
+{"name":"精选频道,精選頻道",
+  "logo":"精选频道"
+},
+{"name":"靖天电影,靖天电影台,KLT-靖天電影台,靖天電影台,靖天電影,KLT-靖天电影台,靖天電影,靖天電影台,KLT-靖天電影台,靖天電影台,靖天電影,KLT-靖天電影台",
+  "logo":"靖天电影"
+},
+{"name":"靖天国际,靖天国际台,KLT-靖天國際台,靖天國際台,靖天國際,KLT-靖天国际台,KLT靖天国际,靖天國際,靖天國際台,KLT-靖天國際台,靖天國際台,靖天國際,KLT-靖天國際台,KLT靖天國際",
+  "logo":"靖天国际"
+},
+{"name":"靖天欢乐,靖天欢乐台,KLT-靖天歡樂台,靖天歡樂台,靖天歡樂,KLT-靖天欢乐台,Nice TV靖天欢乐,靖天歡樂,靖天歡樂台,KLT-靖天歡樂台,靖天歡樂台,靖天歡樂,KLT-靖天歡樂台,Nice TV靖天歡樂",
+  "logo":"靖天欢乐"
+},
+{"name":"靖天卡通,靖天卡通台,KLT-靖天卡通台,靖天卡通台,靖天卡通,靖天卡通,靖天卡通台,KLT-靖天卡通台,靖天卡通台,靖天卡通",
+  "logo":"靖天卡通"
+},
+{"name":"靖天日本,靖天日本台,KLT-靖天日本台,靖天日本台,靖天日本,靖天日本,靖天日本台,KLT-靖天日本台,靖天日本台,靖天日本",
+  "logo":"靖天日本"
+},
+{"name":"靖天戏剧,靖天戏剧台,KLT-靖天戲劇台,靖天戲劇台,靖天戲劇,KLT-靖天戏剧台,靖天戲劇,靖天戲劇台,KLT-靖天戲劇台,靖天戲劇台,靖天戲劇,KLT-靖天戲劇台",
+  "logo":"靖天戏剧"
+},
+{"name":"靖天映画,靖天映画台,KLT-靖天映畫台,靖天映畫台,靖天映畫,KLT-靖天映画台,靖天映畫,靖天映畫台,KLT-靖天映畫台,靖天映畫台,靖天映畫,KLT-靖天映畫台",
+  "logo":"靖天映画"
+},
+{"name":"靖天育乐,靖天育乐台,KLT-靖天育樂台,靖天育樂台,靖天育樂,KLT-靖天育乐台,靖天育樂,靖天育樂台,KLT-靖天育樂台,靖天育樂台,靖天育樂,KLT-靖天育樂台",
+  "logo":"靖天育乐"
+},
+{"name":"靖天资讯,靖天资讯台,KLT-靖天資訊台,靖天資訊台,靖天資訊,KLT-靖天资讯台,靖天資訊,靖天資訊台,KLT-靖天資訊台,靖天資訊台,靖天資訊,KLT-靖天資訊台",
+  "logo":"靖天资讯"
+},
+{"name":"靖天综合,靖天综合台,KLT-靖天綜合台,靖天綜合台,靖天綜合,KLT-靖天综合台,靖天綜合,靖天綜合台,KLT-靖天綜合台,靖天綜合台,靖天綜合,KLT-靖天綜合台",
+  "logo":"靖天综合"
+},
+{"name":"靖洋卡通,靖洋卡通台,靖洋卡通台,靖洋卡通Nice Bingo,靖洋卡通,靖洋卡通台,靖洋卡通台,靖洋卡通Nice Bingo",
+  "logo":"靖洋卡通"
+},
+{"name":"靖洋戏剧,靖洋戏剧台,靖洋卡通台,靖洋戲劇台,靖洋戲劇,靖洋戲劇台,靖洋卡通台,靖洋戲劇台",
+  "logo":"靖洋戏剧"
+},
+{"name":"军旅剧场,軍旅劇場",
+  "logo":"军旅剧场"
+},
+{"name":"军事SD,军事频道,军事,軍事SD,軍事頻道,軍事",
+  "logo":"军事"
+},
+{"name":"喀秋莎,喀秋莎",
+  "logo":"喀秋莎"
+},
+{"name":"康巴卫视,康巴卫视hd,康巴卫视高清,康巴卫视超清,康巴卫视[高清],康巴卫视[超清],四川康巴卫视,康巴衛視,康巴衛視hd,康巴衛視高清,康巴衛視超清,康巴衛視[高清],康巴衛視[超清],四川康巴衛視",
+  "logo":"康巴卫视"
+},
+{"name":"客家电视,客家电视台,客家電視,客家電視台",
+  "logo":"客家电视"
+},
+{"name":"客家生活,梅州-2,梅州2,梅州客家,梅州二套,客家生活,梅州-2,梅州2,梅州客家,梅州二套",
+  "logo":"客家生活"
+},
+{"name":"空中英语教室,空中英語教室",
+  "logo":"空中英语教室"
+},
+{"name":"快乐购,快樂購",
+  "logo":"快乐购"
+},
+{"name":"澜湄国际卫视,瀾湄國際衛視",
+  "logo":"澜湄国际卫视"
+},
+{"name":"篮球频道,籃球頻道",
+  "logo":"篮球频道"
+},
+{"name":"郎溪新闻,郎溪新聞",
+  "logo":"郎溪新闻"
+},
+{"name":"郎溪影视,郎溪影視",
+  "logo":"郎溪影视"
+},
+{"name":"狼谷育乐台,狼谷育樂台",
+  "logo":"狼谷育乐台"
+},
+{"name":"老故事,中央新影老故事,CCTV老故事,中央新影-老故事,老故事,中央新影老故事,CCTV老故事,中央新影-老故事",
+  "logo":"CCTV老故事"
+},
+{"name":"老年福,老年福",
+  "logo":"老年福"
+},
+{"name":"乐山公共,樂山公共",
+  "logo":"乐山公共"
+},
+{"name":"乐山新闻综合,樂山新聞綜合",
+  "logo":"乐山新闻综合"
+},
+{"name":"乐游,SITV乐游,乐游高清,全纪实,全纪实高清,乐游频道,樂游,SITV樂游,樂游高清,全紀實,全紀實高清,樂游頻道",
+  "logo":"乐游"
+},
+{"name":"黎平综合,黎平綜合",
+  "logo":"黎平综合"
+},
+{"name":"连城电视台,連城電視台",
+  "logo":"连城电视台"
+},
+{"name":"连江电视台,連江電視台",
+  "logo":"连江电视台"
+},
+{"name":"莲花卫视,蓮花衛視",
+  "logo":"莲花卫视"
+},
+{"name":"靓妆频道,靓妆,江苏靓妆频道,靚妝頻道,靚妝,江蘇靚妝頻道",
+  "logo":"靓妆频道"
+},
+{"name":"靓装频道,靓装,靚裝頻道,靚裝",
+  "logo":"靓装频道"
+},
+{"name":"辽宁北方,辽宁北方HD,辽宁北方高清,遼寧北方,遼寧北方HD,遼寧北方高清",
+  "logo":"辽宁北方"
+},
+{"name":"辽宁都市,辽宁都市HD,辽宁都市高清,遼寧都市,遼寧都市HD,遼寧都市高清",
+  "logo":"辽宁都市"
+},
+{"name":"辽宁公共,辽宁公共HD,辽宁公共高清,遼寧公共,遼寧公共HD,遼寧公共高清",
+  "logo":"辽宁公共"
+},
+{"name":"辽宁经济,辽宁经济HD,辽宁经济高清,遼寧經濟,遼寧經濟HD,遼寧經濟高清",
+  "logo":"辽宁经济"
+},
+{"name":"辽宁青少,辽宁青少HD,辽宁青少高清,辽宁教育青少,辽宁教育青少HD,辽宁教育青少高清,辽宁教育,辽宁教育HD,辽宁教育高清,遼寧青少,遼寧青少HD,遼寧青少高清,遼寧教育青少,遼寧教育青少HD,遼寧教育青少高清,遼寧教育,遼寧教育HD,遼寧教育高清",
+  "logo":"辽宁青少"
+},
+{"name":"辽宁生活,辽宁生活HD,辽宁生活高清,遼寧生活,遼寧生活HD,遼寧生活高清",
+  "logo":"辽宁生活"
+},
+{"name":"辽宁体育,辽宁体育HD,辽宁体育高清,辽宁-体育,遼寧體育,遼寧體育HD,遼寧體育高清,遼寧-體育",
+  "logo":"辽宁体育"
+},
+{"name":"辽宁卫视,辽宁卫视HD,辽宁卫视高清,辽宁卫视超清,辽宁卫视[高清],辽宁卫视[超清],遼寧衛視,遼寧衛視HD,遼寧衛視高清,遼寧衛視超清,遼寧衛視[高清],遼寧衛視[超清]",
+  "logo":"辽宁卫视"
+},
+{"name":"辽宁文化工程,遼寧文化工程",
+  "logo":"辽宁文化工程"
+},
+{"name":"辽宁移动电视,辽宁移动电视hd,辽宁移动电视高清,辽宁移动,辽宁移动hd,辽宁移动高清,遼寧移動電視,遼寧移動電視hd,遼寧移動電視高清,遼寧移動,遼寧移動hd,遼寧移動高清",
+  "logo":"辽宁移动电视"
+},
+{"name":"辽宁影视,辽宁影视HD,辽宁影视高清,辽宁影视剧HD,辽宁影视剧,辽宁影视剧高清,遼寧影視,遼寧影視HD,遼寧影視高清,遼寧影視劇HD,遼寧影視劇,遼寧影視劇高清",
+  "logo":"辽宁影视"
+},
+{"name":"临沂综合,臨沂綜合",
+  "logo":"临沂综合"
+},
+{"name":"留学世界,留學世界",
+  "logo":"留学世界"
+},
+{"name":"六合彩J2,六合彩J2",
+  "logo":"六合彩J2"
+},
+{"name":"龙海电视台,龍海電視台",
+  "logo":"龙海电视台"
+},
+{"name":"龙华电影,龙华电影台,龍華電影,龍華電影,龍華電影台,龍華電影",
+  "logo":"龙华电影"
+},
+{"name":"龙华动画,龙华动画台,龍華動畫,龍華動畫台",
+  "logo":"龙华动画"
+},
+{"name":"龙华经典,龙华经典台,龍華經典,龍華經典台",
+  "logo":"龙华经典"
+},
+{"name":"龙华偶像,龙华偶像台,龍華偶像,龍華偶像,龍華偶像台,龍華偶像",
+  "logo":"龙华偶像"
+},
+{"name":"龙华日韩,龍華日韓",
+  "logo":"龙华日韩"
+},
+{"name":"龙华戏剧,龙华戏剧台,龍華戲劇,龍華戲劇,龍華戲劇台,龍華戲劇",
+  "logo":"龙华戏剧"
+},
+{"name":"龙华洋片,龙华洋片台,龍華洋片,龍華洋片台",
+  "logo":"龙华洋片"
+},
+{"name":"龙华影剧,龙华影剧台,龍華影劇,龍華影劇台",
+  "logo":"龙华影剧"
+},
+{"name":"龙祥电影,龙祥电影台,龙祥时代,龍祥電影,LS Time龙祥時代电影台,龍祥電影,龍祥電影台,龍祥時代,龍祥電影,LS Time龍祥時代電影台",
+  "logo":"龙祥电影"
+},
+{"name":"龙岩电视台,龍巖電視台",
+  "logo":"龙岩电视台"
+},
+{"name":"龙岩公共,龍巖公共",
+  "logo":"龙岩公共"
+},
+{"name":"龙岩新闻,龙岩公共,龍巖新聞,龍巖公共",
+  "logo":"龙岩新闻"
+},
+{"name":"罗源电视台,羅源電視台",
+  "logo":"罗源电视台"
+},
+{"name":"曼迪日本台,曼迪日本,曼迪日本台,曼迪日本",
+  "logo":"曼迪日本"
+},
+{"name":"芒果TV独播,芒果华语电影,芒果精彩推荐,芒果欧美电影,芒果TV獨播,芒果華語電影,芒果精彩推薦,芒果歐美電影",
+  "logo":"芒果TV独播"
+},
+{"name":"芒果乐搜,芒果热搜,芒果樂搜,芒果熱搜",
+  "logo":"芒果乐搜"
+},
+{"name":"芒果乐淘,芒果樂淘",
+  "logo":"芒果乐淘"
+},
+{"name":"梅迪奇艺术,梅迪奇藝術",
+  "logo":"梅迪奇艺术"
+},
+{"name":"梅州-1,梅州1,时政综合,梅州综合,梅州时政,梅州一套,梅州-1,梅州1,時政綜合,梅州綜合,梅州時政,梅州一套",
+  "logo":"梅州-1"
+},
+{"name":"每日健身,每日健身",
+  "logo":"每日健身"
+},
+{"name":"每日影院,每日影院",
+  "logo":"每日影院"
+},
+{"name":"美国之音,美國之音",
+  "logo":"美国之音"
+},
+{"name":"美好电视,美好電視",
+  "logo":"美好电视"
+},
+{"name":"美丽人生台,美麗人生台",
+  "logo":"美丽人生台"
+},
+{"name":"美食天府,美食天府",
+  "logo":"美食天府"
+},
+{"name":"美食星球,美食星球,美食星球频道,美食星球,美食星球,美食星球頻道",
+  "logo":"美食星球"
+},
+{"name":"美亚电影台,美亚电影台HD,美亚电影,美亚电影台(粤语),美亚电影台(普通话),美亚电影(粤),美亚电影(国),美亞電影台(粵語),美亞電影台,美亞電影台HD,美亞電影台,美亞電影台HD,美亞電影,美亞電影台(粵語),美亞電影台(普通話),美亞電影(粵),美亞電影(國),美亞電影台(粵語),美亞電影台,美亞電影台HD",
+  "logo":"美亚电影"
+},
+{"name":"魅力音乐,魅力音樂",
+  "logo":"魅力音乐"
+},
+{"name":"魅力足球,魅力足球",
+  "logo":"魅力足球"
+},
+{"name":"梦工厂动画,夢工廠動畫",
+  "logo":"梦工厂动画"
+},
+{"name":"咪咕4K,咪咕4K_30m,咪咕体育4K,咪咕直播,咪咕视频1,咪咕视频2,咪咕视频3,咪咕视频4,咪咕视频5,咪咕视频6,咪咕视频7,咪咕视频8,咪咕视频9,咪咕视频10,咪咕视频11,咪咕视频12,咪咕视频13,咪咕视频14,咪咕视频15,咪咕视频16,咪咕视频17,咪咕视频18,咪咕视频19,咪咕视频20,咪咕4K,咪咕4K_30m,咪咕體育4K,咪咕直播,咪咕視頻1,咪咕視頻2,咪咕視頻3,咪咕視頻4,咪咕視頻5,咪咕視頻6,咪咕視頻7,咪咕視頻8,咪咕視頻9,咪咕視頻10,咪咕視頻11,咪咕視頻12,咪咕視頻13,咪咕視頻14,咪咕視頻15,咪咕視頻16,咪咕視頻17,咪咕視頻18,咪咕視頻19,咪咕視頻20",
+  "logo":"咪咕4K"
+},
+{"name":"咪咕视频,咪咕視頻",
+  "logo":"咪咕视频"
+},
+{"name":"咪咕体育,咪咕體育",
+  "logo":"咪咕体育"
+},
+{"name":"咪咕音乐,咪咕音樂",
+  "logo":"咪咕音乐"
+},
+{"name":"民视,民视台,民视HD,民視,民視(備),民視HD,民视综合台,民視,民視台,民視HD,民視,民視(備),民視HD,民視綜合台",
+  "logo":"民视"
+},
+{"name":"民视第一台,民视第一,民視第一台,民視第一台,民視第一,民視第一台",
+  "logo":"民视第一台"
+},
+{"name":"民视旅游,民视旅游台,民視旅遊,民視旅遊台,民視旅游,民視旅游,民視旅游台,民視旅遊,民視旅遊台,民視旅游",
+  "logo":"民视旅游"
+},
+{"name":"民视台湾台,民視台灣台,民視台灣台,民視台灣台,民視台灣台,民視台灣台",
+  "logo":"民视台湾台"
+},
+{"name":"民视新闻,民视新闻台,民視新聞,民視新聞台,民視新聞,民視新聞台,民視新聞,民視新聞台",
+  "logo":"民视新闻"
+},
+{"name":"民视影剧台,民视影剧,民視影剧,民視影劇台,民視影劇,民視影劇",
+  "logo":"民视影剧台"
+},
+{"name":"民视综艺台,民视综艺,民視綜藝,民視综艺,民視綜藝台,民視綜藝,民視綜藝,民視綜藝",
+  "logo":"民视综艺台"
+},
+{"name":"闽侯电视台,閩侯電視台",
+  "logo":"闽侯电视台"
+},
+{"name":"闽清电视台,閩清電視台",
+  "logo":"闽清电视台"
+},
+{"name":"明溪电视台,明溪電視台",
+  "logo":"明溪电视台"
+},
+{"name":"南安电视台,南安電視台",
+  "logo":"南安电视台"
+},
+{"name":"南方卫视,南方衛視",
+  "logo":"南方卫视"
+},
+{"name":"南靖电视台,南靖電視台",
+  "logo":"南靖电视台"
+},
+{"name":"南平电视台,南平公共,南平新闻,南平電視台,南平公共,南平新聞",
+  "logo":"南平电视台"
+},
+{"name":"内蒙古经济生活,内蒙古经济生活HD,内蒙古经济生活高清,內蒙古經濟生活,內蒙古經濟生活HD,內蒙古經濟生活高清",
+  "logo":"内蒙古经济生活"
+},
+{"name":"内蒙古农牧,内蒙古农牧HD,内蒙古农牧高清,內蒙古農牧,內蒙古農牧HD,內蒙古農牧高清",
+  "logo":"内蒙古农牧"
+},
+{"name":"内蒙古少儿,内蒙古少儿HD,内蒙古少儿高清,內蒙古少兒,內蒙古少兒HD,內蒙古少兒高清",
+  "logo":"内蒙古少儿"
+},
+{"name":"内蒙古卫视,内蒙卫视,内蒙古卫视hd,内蒙古卫视高清,内蒙古卫视超清,内蒙古卫视[高清],内蒙古卫视[超清],內蒙古衛視,內蒙衛視,內蒙古衛視hd,內蒙古衛視高清,內蒙古衛視超清,內蒙古衛視[高清],內蒙古衛視[超清]",
+  "logo":"内蒙古卫视"
+},
+{"name":"内蒙古文体娱乐,内蒙古文体娱乐HD,内蒙古文体娱乐高清,內蒙古文體娛樂,內蒙古文體娛樂HD,內蒙古文體娛樂高清",
+  "logo":"内蒙古文体娱乐"
+},
+{"name":"年代MUCH TV,年代MUCH,年代MUCH台,年代MUCH TV,年代MUCH,年代MUCH台",
+  "logo":"年代MUCH"
+},
+{"name":"年代新闻,年代新闻台,年代新聞,年代新聞台,年代新闻(备),年代新聞,年代新聞台,年代新聞,年代新聞台,年代新聞(備)",
+  "logo":"年代新闻"
+},
+{"name":"宁德电视台,宁德公共,宁德新闻,寧德電視台,寧德公共,寧德新聞",
+  "logo":"宁德电视台"
+},
+{"name":"宁化电视台,寧化電視台",
+  "logo":"宁化电视台"
+},
+{"name":"宁夏公共,宁夏公共频道,寧夏公共,寧夏公共頻道",
+  "logo":"宁夏公共"
+},
+{"name":"宁夏经济,宁夏经济频道,寧夏經濟,寧夏經濟頻道",
+  "logo":"宁夏经济"
+},
+{"name":"宁夏少儿,宁夏少儿频道,寧夏少兒,寧夏少兒頻道",
+  "logo":"宁夏少儿"
+},
+{"name":"宁夏文旅,宁夏文旅频道,寧夏文旅,寧夏文旅頻道",
+  "logo":"宁夏文旅"
+},
+{"name":"宁夏卫视,宁夏卫视hd,宁夏卫视高清,宁夏卫视超清,宁夏卫视[高清],宁夏卫视[超清],宁夏,寧夏衛視,寧夏衛視hd,寧夏衛視高清,寧夏衛視超清,寧夏衛視[高清],寧夏衛視[超清],寧夏",
+  "logo":"宁夏卫视"
+},
+{"name":"宁夏影视,寧夏影視",
+  "logo":"宁夏影视"
+},
+{"name":"农林卫视,农林卫视hd,农林卫视高清,农林卫视超清,农林卫视[高清],农林卫视[超清],農林衛視,農林衛視hd,農林衛視高清,農林衛視超清,農林衛視[高清],農林衛視[超清]",
+  "logo":"农林卫视"
+},
+{"name":"暖-TV,暖-TV",
+  "logo":"暖-TV"
+},
+{"name":"女性时尚,CCTV女性时尚,女性時尚,CCTV女性時尚",
+  "logo":"CCTV女性时尚"
+},
+{"name":"欧洲体育,歐洲體育",
+  "logo":"欧洲体育"
+},
+{"name":"盘州综合,盤州綜合",
+  "logo":"盘州综合"
+},
+{"name":"彭博财经,彭博财经台,彭博財經,彭博財經台",
+  "logo":"彭博财经"
+},
+{"name":"蓬溪新闻综合,蓬溪新聞綜合",
+  "logo":"蓬溪新闻综合"
+},
+{"name":"霹雳台湾,霹雳台湾台,霹靂台灣台,霹靂台灣,霹靂台灣台,霹靂台灣台",
+  "logo":"霹雳台湾"
+},
+{"name":"平昌综合,平昌綜合",
+  "logo":"平昌综合"
+},
+{"name":"平和电视台,平和電視台",
+  "logo":"平和电视台"
+},
+{"name":"平潭电视台,平潭電視台",
+  "logo":"平潭电视台"
+},
+{"name":"屏南电视台,屏南電視台",
+  "logo":"屏南电视台"
+},
+{"name":"莆田电视台,莆田電視台",
+  "logo":"莆田电视台"
+},
+{"name":"莆田公共,莆田2,莆田2台,莆田公共,莆田2,莆田2台",
+  "logo":"莆田公共"
+},
+{"name":"莆田新闻,莆田1,莆田1台,莆田新聞,莆田1,莆田1台",
+  "logo":"莆田新闻"
+},
+{"name":"浦城电视台,浦城電視台",
+  "logo":"浦城电视台"
+},
+{"name":"普宁台,普宁电视台,普宁综合,普寧台,普寧電視台,普寧綜合",
+  "logo":"普宁台"
+},
+{"name":"七彩戏剧,SITV七彩戏剧,七彩戲劇,SITV七彩戲劇",
+  "logo":"七彩戏剧"
+},
+{"name":"奇妙电视,奇妙電視",
+  "logo":"奇妙电视"
+},
+{"name":"千禧经典台,TVB千禧经典台,TVB千禧经典,千禧經典台,TVB经典,千禧經典台,TVB千禧經典台,TVB千禧經典,千禧經典台,TVB經典",
+  "logo":"千禧经典台"
+},
+{"name":"钱江都市,錢江都市",
+  "logo":"钱江都市"
+},
+{"name":"青岛-1,青島-1",
+  "logo":"青岛-1"
+},
+{"name":"青岛-2,青島-2",
+  "logo":"青岛-2"
+},
+{"name":"青岛-3,青島-3",
+  "logo":"青岛-3"
+},
+{"name":"青海都市,青海都市",
+  "logo":"青海都市"
+},
+{"name":"青海经视,青海經視",
+  "logo":"青海经视"
+},
+{"name":"青海卫视,青海卫视hd,青海卫视高清,青海卫视超清,青海卫视[高清],青海卫视[超清],青海衛視,青海衛視hd,青海衛視高清,青海衛視超清,青海衛視[高清],青海衛視[超清]",
+  "logo":"青海卫视"
+},
+{"name":"清华大学,清華大學",
+  "logo":"清华大学"
+},
+{"name":"清流电视台,清流電視台",
+  "logo":"清流电视台"
+},
+{"name":"晴天动画,晴天动画台,晴天動畫,晴天動畫台",
+  "logo":"晴天动画"
+},
+{"name":"求索动物,求索四动物,求索动物8m,求索动物高清,求索動物,求索四動物,求索動物8m,求索動物高清",
+  "logo":"求索动物"
+},
+{"name":"求索记录,求索記錄",
+  "logo":"求索记录"
+},
+{"name":"求索纪录,求索一纪录,求索记录,求索纪录8m,求索纪录高清,求索紀錄,求索一紀錄,求索記錄,求索紀錄8m,求索紀錄高清",
+  "logo":"求索纪录"
+},
+{"name":"求索纪录4K,求索紀錄4K",
+  "logo":"求索纪录4K"
+},
+{"name":"求索科学,求索三科学,求索科学8m,求索科学高清,求索科學,求索三科學,求索科學8m,求索科學高清",
+  "logo":"求索科学"
+},
+{"name":"求索生活,求索二生活,求索生活8m,求索生活高清,求索生活,求索二生活,求索生活8m,求索生活高清",
+  "logo":"求索生活"
+},
+{"name":"渠县新闻综合,渠縣新聞綜合",
+  "logo":"渠县新闻综合"
+},
+{"name":"泉州电视台,泉州闽南语,泉州新闻,泉州電視台,泉州閩南語,泉州新聞",
+  "logo":"泉州电视台"
+},
+{"name":"泉州都市生活,泉州都市生活",
+  "logo":"泉州都市生活"
+},
+{"name":"泉州新闻,泉州新聞",
+  "logo":"泉州新闻"
+},
+{"name":"泉州影视,泉州影視",
+  "logo":"泉州影视"
+},
+{"name":"饶平综合,饶平综合台,饶平综合频道,饒平綜合,饒平綜合台,饒平綜合頻道",
+  "logo":"饶平综合"
+},
+{"name":"热播电影,熱播電影",
+  "logo":"热播电影"
+},
+{"name":"三立iNEWS,iNEWS,三立iNEW+,三立iNEWS,iNEWS,三立iNEW+",
+  "logo":"三立iNEWS"
+},
+{"name":"三立都会,三立都会台,三立都會,三立都會台,三立都會,三立都會台,三立都會,三立都會台",
+  "logo":"三立都会"
+},
+{"name":"三立台湾,三立台湾台,三立台灣,三立台灣台,三立台灣台(備),三立台灣,三立台灣台,三立台灣,三立台灣台,三立台灣台(備)",
+  "logo":"三立台湾"
+},
+{"name":"三立戏剧,三立戏剧台,三立戲劇,三立戲劇台,三立戲劇,三立戲劇台,三立戲劇,三立戲劇台",
+  "logo":"三立戏剧"
+},
+{"name":"三立新闻,三立新闻台,三立新聞,三立新聞台,三立新聞,三立新聞台,三立新聞,三立新聞台",
+  "logo":"三立新闻"
+},
+{"name":"三立综合,三立综合台,三立綜合,三立綜合台,三立綜合,三立綜合台,三立綜合,三立綜合台",
+  "logo":"三立综合"
+},
+{"name":"三明电视台,三明公共,三明新闻,三明1,三明综合,三明2,三明電視台,三明公共,三明新聞,三明1,三明綜合,三明2",
+  "logo":"三明电视台"
+},
+{"name":"三沙卫视,三沙卫视hd,三沙卫视高清,三沙卫视超清,三沙卫视[高清],三沙卫视[超清],三沙衛視,三沙衛視hd,三沙衛視高清,三沙衛視超清,三沙衛視[高清],三沙衛視[超清]",
+  "logo":"三沙卫视"
+},
+{"name":"沙县电视台,沙縣電視台",
+  "logo":"沙县电视台"
+},
+{"name":"厦门1,厦门-1,厦门电视台综合频道,厦门综合频道,厦门综合,廈門1,廈門-1,廈門電視台綜合頻道,廈門綜合頻道,廈門綜合",
+  "logo":"厦门1"
+},
+{"name":"厦门2,厦门-2,厦门电视台海峡频道,厦门海峡频道,厦门海峡,廈門2,廈門-2,廈門電視台海峽頻道,廈門海峽頻道,廈門海峽",
+  "logo":"厦门2"
+},
+{"name":"厦门3,厦门-3,厦门电视台影视频道,厦门影视频道,厦门影视,廈門3,廈門-3,廈門電視台影視頻道,廈門影視頻道,廈門影視",
+  "logo":"厦门3"
+},
+{"name":"厦门卫视,厦门卫视hd,厦门卫视高清,厦门卫视超清,厦门卫视[高清],厦门卫视[超清],廈門衛視,廈門衛視hd,廈門衛視高清,廈門衛視超清,廈門衛視[高清],廈門衛視[超清]",
+  "logo":"厦门卫视"
+},
+{"name":"厦门移动,廈門移動",
+  "logo":"厦门移动"
+},
+{"name":"山东公共,山东公共hd,山东公共高清,山東公共,山東公共hd,山東公共高清",
+  "logo":"山东公共"
+},
+{"name":"山东教育,山东教育hd,山东教育高清,山东教育卫视,教育卫视,山东教育电视台,山東教育,山東教育hd,山東教育高清,山東教育衛視,教育衛視,山東教育電視台",
+  "logo":"山东教育"
+},
+{"name":"山东农科,山东农科hd,山东农科高清,山東農科,山東農科hd,山東農科高清",
+  "logo":"山东农科"
+},
+{"name":"山东齐鲁,山东齐鲁hd,山东齐鲁高清,山東齊魯,山東齊魯hd,山東齊魯高清",
+  "logo":"山东齐鲁"
+},
+{"name":"山东少儿,山东少儿hd,山东少儿高清,山東少兒,山東少兒hd,山東少兒高清",
+  "logo":"山东少儿"
+},
+{"name":"山东生活,山东生活hd,山东生活高清,山東生活,山東生活hd,山東生活高清",
+  "logo":"山东生活"
+},
+{"name":"山东体育,山东体育hd,山东体育高清,山東體育,山東體育hd,山東體育高清",
+  "logo":"山东体育"
+},
+{"name":"山东卫视,山东卫视hd,山东卫视高清,山东卫视超清,山东卫视[高清],山东卫视[超清],山東衛視,山東衛視hd,山東衛視高清,山東衛視超清,山東衛視[高清],山東衛視[超清]",
+  "logo":"山东卫视"
+},
+{"name":"山东文旅,山东文旅hd,山东文旅高清,山東文旅,山東文旅hd,山東文旅高清",
+  "logo":"山东文旅"
+},
+{"name":"山东新闻,山东新闻hd,山东新闻高清,山東新聞,山東新聞hd,山東新聞高清",
+  "logo":"山东新闻"
+},
+{"name":"山东影视,山东影视hd,山东影视高清,山東影視,山東影視hd,山東影視高清",
+  "logo":"山东影视"
+},
+{"name":"山东综艺,山东综艺hd,山东综艺高清,山東綜藝,山東綜藝hd,山東綜藝高清",
+  "logo":"山东综艺"
+},
+{"name":"山西经济,山西经济hd,山西经济高清,山西經濟,山西經濟hd,山西經濟高清",
+  "logo":"山西经济"
+},
+{"name":"山西社会与法治,山西社会与法治hd,山西社会与法治高清,山西社會與法治,山西社會與法治hd,山西社會與法治高清",
+  "logo":"山西社会与法治"
+},
+{"name":"山西卫视,山西卫视hd,山西卫视高清,山西卫视超清,山西卫视[高清],山西卫视[超清],山西衛視,山西衛視hd,山西衛視高清,山西衛視超清,山西衛視[高清],山西衛視[超清]",
+  "logo":"山西卫视"
+},
+{"name":"山西影视,山西影视,山西影视hd,山西影视高清,山西影視,山西影視,山西影視hd,山西影視高清",
+  "logo":"山西影视"
+},
+{"name":"陕西都市青春,陜西都市青春",
+  "logo":"陕西都市青春"
+},
+{"name":"陕西公共,陜西公共",
+  "logo":"陕西公共"
+},
+{"name":"陕西生活,陜西生活",
+  "logo":"陕西生活"
+},
+{"name":"陕西体育休闲,陜西體育休閑",
+  "logo":"陕西体育休闲"
+},
+{"name":"陕西卫视,陕西卫视hd,陕西卫视高清,陕西卫视超清,陕西卫视[高清],陕西卫视[超清],陜西衛視,陜西衛視hd,陜西衛視高清,陜西衛視超清,陜西衛視[高清],陜西衛視[超清]",
+  "logo":"陕西卫视"
+},
+{"name":"陕西西部电影,陜西西部電影",
+  "logo":"陕西西部电影"
+},
+{"name":"陕西新闻资讯,陜西新聞資訊",
+  "logo":"陕西新闻资讯"
+},
+{"name":"陕西影视,陜西影視",
+  "logo":"陕西影视"
+},
+{"name":"汕头-1,汕头1,汕头新闻综合,汕头综合,汕头综合频道,汕头新闻,汕头新闻综合高清,汕头综合高清,汕頭-1,汕頭1,汕頭新聞綜合,汕頭綜合,汕頭綜合頻道,汕頭新聞,汕頭新聞綜合高清,汕頭綜合高清",
+  "logo":"汕头-1"
+},
+{"name":"汕头-2,汕头2,汕头经济生活,汕头经济,汕头经济频道,汕头生活,汕头经济生活高清,汕頭-2,汕頭2,汕頭經濟生活,汕頭經濟,汕頭經濟頻道,汕頭生活,汕頭經濟生活高清",
+  "logo":"汕头-2"
+},
+{"name":"汕头-3,汕头3,汕头影视文艺,汕头文化体育,汕头体育,汕头体育频道,汕头文旅体育,汕头文旅体育高清,汕頭-3,汕頭3,汕頭影視文藝,汕頭文化體育,汕頭體育,汕頭體育頻道,汕頭文旅體育,汕頭文旅體育高清",
+  "logo":"汕头-3"
+},
+{"name":"上海东方财经,东方财经,上海東方財經,東方財經",
+  "logo":"上海东方财经"
+},
+{"name":"上海东方影视,东方影视,上海東方影視,東方影視",
+  "logo":"上海东方影视"
+},
+{"name":"上海都市,上海都市",
+  "logo":"上海都市"
+},
+{"name":"上海纪实人文,上海纪实,纪实人文,纪实人文高清,纪实人文[高清],上海纪实hd,上海纪实高清,纪实hd,上海紀實人文,上海紀實,紀實人文,紀實人文高清,紀實人文[高清],上海紀實hd,上海紀實高清,紀實hd",
+  "logo":"上海纪实人文"
+},
+{"name":"上海教育,上海教育频道,上海教育,上海教育頻道",
+  "logo":"上海教育"
+},
+{"name":"上海外语,ICS外语,上海ICS外语,ICS外语台,ICS-外语,ICS-外语台,上海ICS,上海外語,ICS外語,上海ICS外語,ICS外語台,ICS-外語,ICS-外語台,上海ICS",
+  "logo":"上海外语"
+},
+{"name":"上海浦东,浦东,浦东频道,浦东电视台,上海浦東,浦東,浦東頻道,浦東電視台",
+  "logo":"上海浦东"
+},
+{"name":"上海新闻,上海新聞",
+  "logo":"上海新闻"
+},
+{"name":"上杭电视台,上杭電視台",
+  "logo":"上杭电视台"
+},
+{"name":"邵武电视台,邵武電視台",
+  "logo":"邵武电视台"
+},
+{"name":"绍兴柯桥区时尚台,紹興柯橋區時尚台",
+  "logo":"绍兴柯桥区时尚台"
+},
+{"name":"绍兴柯区新闻综合,紹興柯區新聞綜合",
+  "logo":"绍兴柯区新闻综合"
+},
+{"name":"摄影频道,攝影頻道",
+  "logo":"摄影频道"
+},
+{"name":"深圳宝安,深圳宝安频道,深圳宝安频道高清,深圳宝安高清,深圳宝安HD,深圳宝安超高清,深圳寶安,深圳寶安頻道,深圳寶安頻道高清,深圳寶安高清,深圳寶安HD,深圳寶安超高清",
+  "logo":"深圳宝安"
+},
+{"name":"深圳财经生活,深圳财经生活频道,深圳财经生活频道高清,深圳财经生活高清,深圳财经生活HD,深圳财经生活超高清,深圳财经生活超清,深圳財經生活,深圳財經生活頻道,深圳財經生活頻道高清,深圳財經生活高清,深圳財經生活HD,深圳財經生活超高清,深圳財經生活超清",
+  "logo":"深圳财经生活"
+},
+{"name":"深圳电视剧,深圳电视剧频道,深圳电视剧频道高清,深圳电视剧高清,深圳电视剧HD,深圳电视剧超高清,深圳电视剧超清,深圳電視劇,深圳電視劇頻道,深圳電視劇頻道高清,深圳電視劇高清,深圳電視劇HD,深圳電視劇超高清,深圳電視劇超清",
+  "logo":"深圳电视剧"
+},
+{"name":"深圳都市,深圳都市频道,深圳都市频道高清,深圳都市高清,深圳都市HD,深圳都市超高清,深圳都市超清,深圳都市,深圳都市頻道,深圳都市頻道高清,深圳都市高清,深圳都市HD,深圳都市超高清,深圳都市超清",
+  "logo":"深圳都市"
+},
+{"name":"深圳公共,深圳公共频道,深圳公共频道高清,深圳公共高清,深圳公共HD,深圳公共超高清,深圳公共超清,深圳公共,深圳公共頻道,深圳公共頻道高清,深圳公共高清,深圳公共HD,深圳公共超高清,深圳公共超清",
+  "logo":"深圳公共"
+},
+{"name":"深圳龙岗,深圳龙岗频道,深圳龙岗频道高清,深圳龙岗高清,深圳龙岗HD,深圳龙岗超高清,深圳龙岗超清,深圳龍崗,深圳龍崗頻道,深圳龍崗頻道高清,深圳龍崗高清,深圳龍崗HD,深圳龍崗超高清,深圳龍崗超清",
+  "logo":"深圳龙岗"
+},
+{"name":"深圳少儿,深圳少儿频道,深圳少儿频道高清,深圳少儿高清,深圳少儿HD,深圳少儿超高清,深圳少儿超清,深圳少兒,深圳少兒頻道,深圳少兒頻道高清,深圳少兒高清,深圳少兒HD,深圳少兒超高清,深圳少兒超清",
+  "logo":"深圳少儿"
+},
+{"name":"深圳体育健康,深圳体育健康频道,深圳体育,深圳体育健康频道高清,深圳体育健康高清,深圳体育健康HD,深圳体育健康超高清,深圳体育健康超清,深圳體育健康,深圳體育健康頻道,深圳體育,深圳體育健康頻道高清,深圳體育健康高清,深圳體育健康HD,深圳體育健康超高清,深圳體育健康超清",
+  "logo":"深圳体育健康"
+},
+{"name":"深圳卫视,深圳卫视频道,深圳卫视高清,深圳卫视HD,深圳卫视超高清,深圳卫视[高清],深圳卫视[超高清],深圳卫视超清,深圳衛視,深圳衛視頻道,深圳衛視高清,深圳衛視HD,深圳衛視超高清,深圳衛視[高清],深圳衛視[超高清],深圳衛視超清",
+  "logo":"深圳卫视"
+},
+{"name":"深圳娱乐,深圳娱乐频道,深圳娱乐频道高清,深圳娱乐高清,深圳娱乐HD,深圳娱乐超高清,深圳娱乐超清,深圳娛樂,深圳娛樂頻道,深圳娛樂頻道高清,深圳娛樂高清,深圳娛樂HD,深圳娛樂超高清,深圳娛樂超清",
+  "logo":"深圳娱乐"
+},
+{"name":"深圳众创,深圳众创频道,深圳众创频道高清,深圳众创高清,深圳众创TV高清,深圳众创HD,深圳众创超高清,深圳众创超清,深圳眾創,深圳眾創頻道,深圳眾創頻道高清,深圳眾創高清,深圳眾創TV高清,深圳眾創HD,深圳眾創超高清,深圳眾創超清",
+  "logo":"深圳众创"
+},
+{"name":"神州新闻,神州新聞",
+  "logo":"神州新闻"
+},
+{"name":"沈阳新闻综合,沈陽新聞綜合",
+  "logo":"沈阳新闻综合"
+},
+{"name":"生活剧场,生活劇場",
+  "logo":"生活剧场"
+},
+{"name":"生活时尚,SITV生活时尚,生活時尚,SITV生活時尚",
+  "logo":"生活时尚"
+},
+{"name":"生命电视,生命電視",
+  "logo":"生命电视"
+},
+{"name":"十堰新闻,十堰新聞",
+  "logo":"十堰新闻"
+},
+{"name":"石家庄都市,石家庄都市频道,石家莊都市,石家莊都市頻道",
+  "logo":"石家庄都市"
+},
+{"name":"石家庄生活,石家庄生活,石家莊生活,石家莊生活",
+  "logo":"石家庄生活"
+},
+{"name":"石家庄新闻,石家庄新闻,石家庄新闻综合,石家莊新聞,石家莊新聞,石家莊新聞綜合",
+  "logo":"石家庄新闻"
+},
+{"name":"石家庄娱乐,石家庄娱乐,石家莊娛樂,石家莊娛樂",
+  "logo":"石家庄娱乐"
+},
+{"name":"石狮电视台,石獅電視台",
+  "logo":"石狮电视台"
+},
+{"name":"时光剧场,時光劇場",
+  "logo":"时光剧场"
+},
+{"name":"世界地理,CCTV世界地理,世界地理,CCTV世界地理",
+  "logo":"CCTV世界地理"
+},
+{"name":"收藏天下,天下收藏,收藏天下,天下收藏",
+  "logo":"收藏天下"
+},
+{"name":"寿宁电视台,壽寧電視台",
+  "logo":"寿宁电视台"
+},
+{"name":"书画频道,书画,书画世界,書畫頻道,書畫,書畫世界",
+  "logo":"书画频道"
+},
+{"name":"顺昌电视台,順昌電視台",
+  "logo":"顺昌电视台"
+},
+{"name":"四川公共,四川公共",
+  "logo":"四川公共"
+},
+{"name":"四川经济,四川經濟",
+  "logo":"四川经济"
+},
+{"name":"四川科教,四川科教",
+  "logo":"四川科教"
+},
+{"name":"四川少儿,四川少兒",
+  "logo":"四川少儿"
+},
+{"name":"四川卫视,四川卫视hd,四川卫视高清,四川卫视超清,四川卫视[高清],四川卫视[超清],四川衛視,四川衛視hd,四川衛視高清,四川衛視超清,四川衛視[高清],四川衛視[超清]",
+  "logo":"四川卫视"
+},
+{"name":"四川文旅,四川文旅",
+  "logo":"四川文旅"
+},
+{"name":"四川新闻,,四川新聞,",
+  "logo":"四川新闻"
+},
+{"name":"四川影视,四川影視",
+  "logo":"四川影视"
+},
+{"name":"四川影视,四川影視",
+  "logo":"四川影视"
+},
+{"name":"松溪电视台,松溪電視台",
+  "logo":"松溪电视台"
+},
+{"name":"松溪电视台,松溪電視台",
+  "logo":"松溪电视台"
+},
+{"name":"台视,台视台,台視,台視(備),台視,台視台,台視,台視(備)",
+  "logo":"台视"
+},
+{"name":"台视,台視",
+  "logo":"台视"
+},
+{"name":"台视财经,台视财经台,台視財經,台視財經台,台視財經,台視財經台,台視財經,台視財經台",
+  "logo":"台视财经"
+},
+{"name":"台视新闻,台视新闻台,台視新聞,台視新聞台,台視新聞,台視新聞台,台視新聞,台視新聞台",
+  "logo":"台视新闻"
+},
+{"name":"台视综合,台视综合台,台視綜合,台視綜合台,台視綜合,台視綜合台,台視綜合,台視綜合台",
+  "logo":"台视综合"
+},
+{"name":"台湾戏剧台,台灣戲劇台",
+  "logo":"台湾戏剧台"
+},
+{"name":"台湾艺术台,台湾艺术,台灣藝術台,台灣藝術",
+  "logo":"台湾艺术台"
+},
+{"name":"台湾综合台,台灣綜合台",
+  "logo":"台湾综合台"
+},
+{"name":"泰安1台,泰安1台",
+  "logo":"泰安1台"
+},
+{"name":"泰宁电视台,泰寧電視台",
+  "logo":"泰宁电视台"
+},
+{"name":"唐山公共,唐山公共频道,唐山公共,唐山公共頻道",
+  "logo":"唐山公共"
+},
+{"name":"唐山生活,唐山生活频道,唐山生活服务,唐山生活,唐山生活頻道,唐山生活服務",
+  "logo":"唐山生活"
+},
+{"name":"唐山新闻,唐山新闻频道,唐山新闻综合,唐山新聞,唐山新聞頻道,唐山新聞綜合",
+  "logo":"唐山新闻"
+},
+{"name":"唐山影视,唐山影视频道,唐山影視,唐山影視頻道",
+  "logo":"唐山影视"
+},
+{"name":"陶瓷频道,陶瓷,陶瓷頻道,陶瓷",
+  "logo":"陶瓷频道"
+},
+{"name":"天津宝坻,宝坻区,宝坻区hd,天津寶坻,寶坻區,寶坻區hd",
+  "logo":"天津宝坻"
+},
+{"name":"天津滨海1,滨海1,滨海新区1,天津濱海1,濱海1,濱海新區1",
+  "logo":"天津滨海1"
+},
+{"name":"天津滨海2,滨海2,滨海新区2,天津濱海2,濱海2,濱海新區2",
+  "logo":"天津滨海2"
+},
+{"name":"天津都市,天津都市频道,天津都市高清,天津都市HD,天津都市超高清,天津都市超清,天津都市,天津都市頻道,天津都市高清,天津都市HD,天津都市超高清,天津都市超清",
+  "logo":"天津都市"
+},
+{"name":"天津公共,天津公共频道,天津公共高清,天津公共HD,天津公共超高清,天津公共超清,天津公共,天津公共頻道,天津公共高清,天津公共HD,天津公共超高清,天津公共超清",
+  "logo":"天津公共"
+},
+{"name":"天津购物,天津购物频道,天津购物高清,天津购物HD,天津购物超高清,天津购物超清,天津购物自营,天津購物,天津購物頻道,天津購物高清,天津購物HD,天津購物超高清,天津購物超清,天津購物自營",
+  "logo":"天津购物"
+},
+{"name":"天津国际,天津国际频道,天津国际高清,天津国际HD,天津国际超高清,天津国际超清,天津國際,天津國際頻道,天津國際高清,天津國際HD,天津國際超高清,天津國際超清",
+  "logo":"天津国际"
+},
+{"name":"天津河东,河东区,河东区hd,天津河東,河東區,河東區hd",
+  "logo":"天津河东"
+},
+{"name":"天津河西,河西区,河西区hd,天津河西,河西區,河西區hd",
+  "logo":"天津河西"
+},
+{"name":"天津蓟州,蓟州区,蓟州区hd,天津薊州,薊州區,薊州區hd",
+  "logo":"天津蓟州"
+},
+{"name":"天津教育,天津教育频道,天津教育高清,天津教育HD,天津教育超高清,天津教育超清,天津科教,天津科教HD,天津教育,天津教育頻道,天津教育高清,天津教育HD,天津教育超高清,天津教育超清,天津科教,天津科教HD",
+  "logo":"天津教育"
+},
+{"name":"天津静海,静海区,静海区hd,天津靜海,靜海區,靜海區hd",
+  "logo":"天津静海"
+},
+{"name":"天津少儿,天津少儿频道,天津少儿高清,天津少儿HD,天津少儿超高清,天津少儿超清,天津少兒,天津少兒頻道,天津少兒高清,天津少兒HD,天津少兒超高清,天津少兒超清",
+  "logo":"天津少儿"
+},
+{"name":"天津体育,天津体育频道,天津体育高清,天津体育HD,天津体育超高清,天津体育超清,天津體育,天津體育頻道,天津體育高清,天津體育HD,天津體育超高清,天津體育超清",
+  "logo":"天津体育"
+},
+{"name":"天津卫视,天津卫视频道,天津卫视高清,天津卫视HD,天津卫视超高清,天津卫视超清,天津卫视[高清],天津卫视[超高清],天津卫视[超清],天津衛視,天津衛視頻道,天津衛視高清,天津衛視HD,天津衛視超高清,天津衛視超清,天津衛視[高清],天津衛視[超高清],天津衛視[超清]",
+  "logo":"天津卫视"
+},
+{"name":"天津文艺,天津文艺频道,天津文艺高清,天津文艺HD,天津文艺超高清,天津文艺超清,天津文藝,天津文藝頻道,天津文藝高清,天津文藝HD,天津文藝超高清,天津文藝超清",
+  "logo":"天津文艺"
+},
+{"name":"天津新闻,天津新闻频道,天津新闻高清,天津新闻HD,天津新闻超高清,天津新闻超清,天津新聞,天津新聞頻道,天津新聞高清,天津新聞HD,天津新聞超高清,天津新聞超清",
+  "logo":"天津新闻"
+},
+{"name":"天津影视,天津影视频道,天津影视高清,天津影视HD,天津影视超高清,天津影视超清,天津影視,天津影視頻道,天津影視高清,天津影視HD,天津影視超高清,天津影視超清",
+  "logo":"天津影视"
+},
+{"name":"天美丽电视台,天美麗電視台",
+  "logo":"天美丽电视台"
+},
+{"name":"天映经典,天映经典台,天映经典(粤语),天映经典(普通话),天映经典(粤),天映经典(国),天映經典,天映經典台,天映經典(粵語),天映經典(普通話),天映經典(粵),天映經典(國)",
+  "logo":"天映经典"
+},
+{"name":"天映频道,天映频道台,天映频道(粤语),天映频道(普通话),天映频道(粤),天映频道(国),天映頻道,天映頻道,天映頻道台,天映頻道(粵語),天映頻道(普通話),天映頻道(粵),天映頻道(國),天映頻道",
+  "logo":"天映频道"
+},
+{"name":"天元围棋,天元圍棋",
+  "logo":"天元围棋"
+},
+{"name":"通江新闻,通江新聞",
+  "logo":"通江新闻"
+},
+{"name":"通辽城市服务,通遼城市服務",
+  "logo":"通辽城市服务"
+},
+{"name":"通辽蒙语频道,通遼蒙語頻道",
+  "logo":"通辽蒙语频道"
+},
+{"name":"通辽新闻综合,通遼新聞綜合",
+  "logo":"通辽新闻综合"
+},
+{"name":"同安电视台,同安電視台",
+  "logo":"同安电视台"
+},
+{"name":"网络棋牌,GTV网络棋牌,網絡棋牌,GTV網絡棋牌",
+  "logo":"网络棋牌"
+},
+{"name":"纬来电影,纬来电影台,緯來電影,緯來電影台,緯來電影,緯來電影台,緯來電影,緯來電影台",
+  "logo":"纬来电影"
+},
+{"name":"纬来精彩,纬来精彩台,緯來精采,緯來精采台,纬来精采,纬来精采台,緯來精彩,緯來精彩台,緯來精采,緯來精采台,緯來精采,緯來精采台",
+  "logo":"纬来精采"
+},
+{"name":"纬来日本,纬来日本台,緯來日本,緯來日本台,緯來日本,緯來日本台,緯來日本,緯來日本台",
+  "logo":"纬来日本"
+},
+{"name":"纬来体育,纬来体育台,緯來體育,緯來體育台,緯來體育,緯來體育台,緯來體育,緯來體育台",
+  "logo":"纬来体育"
+},
+{"name":"纬来戏剧,纬来戏剧台,緯來戲劇,緯來戲劇台,緯來戲劇,緯來戲劇台,緯來戲劇,緯來戲劇台",
+  "logo":"纬来戏剧"
+},
+{"name":"纬来育乐,纬来育乐台,緯來育樂,緯來育樂台,緯來育樂,緯來育樂台,緯來育樂,緯來育樂台",
+  "logo":"纬来育乐"
+},
+{"name":"纬来综合,纬来综合台,緯來綜合,緯來綜合台,緯來綜合,緯來綜合台,緯來綜合,緯來綜合台",
+  "logo":"纬来综合"
+},
+{"name":"卫生健康,CCTV卫生健康,衛生健康,CCTV衛生健康",
+  "logo":"CCTV卫生健康"
+},
+{"name":"卫视电影,卫视电影台,卫视西片,卫视电影,卫视電影,衛視電影台,衛視電影,衛視電影台,衛視西片,衛視電影,衛視電影,衛視電影台",
+  "logo":"卫视电影"
+},
+{"name":"卫视合家欢,卫视合家欢台,衛視合家歡,衛視合家歡台",
+  "logo":"卫视合家欢"
+},
+{"name":"卫视卡式,卫视卡台式,衛視卡式,衛視卡台式",
+  "logo":"卫视卡式"
+},
+{"name":"卫视卡式F,卫视卡式台F,衛視卡式F,衛視卡式台F",
+  "logo":"卫视卡式F"
+},
+{"name":"卫视中文,卫视中文台,衛視中文台,衛視中文,衛視中文台,衛視中文台",
+  "logo":"卫视中文"
+},
+{"name":"温江电视台,溫江電視台",
+  "logo":"温江电视台"
+},
+{"name":"文登-1,文登-1",
+  "logo":"文登-1"
+},
+{"name":"文登-2,文登-2",
+  "logo":"文登-2"
+},
+{"name":"文化精品,CCTV文化精品,央视文化精品,CCTV央视文化精品,文化精品,CCTV文化精品,央視文化精品,CCTV央視文化精品",
+  "logo":"CCTV央视文化精品"
+},
+{"name":"文山新闻综合,文山新聞綜合",
+  "logo":"文山新闻综合"
+},
+{"name":"瓮安综合,甕安綜合",
+  "logo":"瓮安综合"
+},
+{"name":"我的欧洲电影,我的歐洲電影",
+  "logo":"我的欧洲电影"
+},
+{"name":"乌海都市生活,烏海都市生活",
+  "logo":"乌海都市生活"
+},
+{"name":"乌海新闻综合,烏海新聞綜合",
+  "logo":"乌海新闻综合"
+},
+{"name":"乌兰察布,烏蘭察布",
+  "logo":"乌兰察布"
+},
+{"name":"无线韩剧台,無線韓劇台",
+  "logo":"无线韩剧台"
+},
+{"name":"无线华语剧台,無線華語劇台",
+  "logo":"无线华语剧台"
+},
+{"name":"无线经典台,無線經典台",
+  "logo":"无线经典台"
+},
+{"name":"无线日剧台,無線日劇台",
+  "logo":"无线日剧台"
+},
+{"name":"无线为食台,無線為食台",
+  "logo":"无线为食台"
+},
+{"name":"无线新闻台,無線新聞台",
+  "logo":"无线新闻台"
+},
+{"name":"无线星河台,無線星河台",
+  "logo":"无线星河台"
+},
+{"name":"无线粤语片台,無線粵語片台",
+  "logo":"无线粤语片台"
+},
+{"name":"无线综艺台,無線綜藝台",
+  "logo":"无线综艺台"
+},
+{"name":"吴江新闻,吳江新聞",
+  "logo":"吴江新闻"
+},
+{"name":"五星体育,五星体育台,五星体育一,五星体育二,五星体育三,五星体育四,五星體育,五星體育台,五星體育一,五星體育二,五星體育三,五星體育四",
+  "logo":"五星体育"
+},
+{"name":"五星影院,五星影院",
+  "logo":"五星影院"
+},
+{"name":"午夜剧场,午夜劇場",
+  "logo":"午夜剧场"
+},
+{"name":"武汉电视剧频道,武漢電視劇頻道",
+  "logo":"武汉电视剧频道"
+},
+{"name":"武汉教育电视台,武漢教育電視台",
+  "logo":"武汉教育电视台"
+},
+{"name":"武汉经济频道,武漢經濟頻道",
+  "logo":"武汉经济频道"
+},
+{"name":"武汉科技生活频道,武漢科技生活頻道",
+  "logo":"武汉科技生活频道"
+},
+{"name":"武汉少儿频道,武汉少儿,武漢少兒頻道,武漢少兒",
+  "logo":"武汉少儿频道"
+},
+{"name":"武汉外语频道,武漢外語頻道",
+  "logo":"武汉外语频道"
+},
+{"name":"武汉文体频道,武漢文體頻道",
+  "logo":"武汉文体频道"
+},
+{"name":"武汉新闻,武漢新聞",
+  "logo":"武汉新闻"
+},
+{"name":"武平电视台,武平電視台",
+  "logo":"武平电视台"
+},
+{"name":"武夷山电视台,武夷山1,武夷山2,武夷山3,武夷山電視台,武夷山1,武夷山2,武夷山3",
+  "logo":"武夷山电视台"
+},
+{"name":"西安1,西安1",
+  "logo":"西安1"
+},
+{"name":"西安都市频道,西安都市頻道",
+  "logo":"西安都市频道"
+},
+{"name":"西安教育,西安教育台,西安教育,西安教育台",
+  "logo":"西安教育"
+},
+{"name":"西安商务资讯,西安商務資訊",
+  "logo":"西安商务资讯"
+},
+{"name":"西安丝路频道,西安絲路頻道",
+  "logo":"西安丝路频道"
+},
+{"name":"西安新闻综合,西安新聞綜合",
+  "logo":"西安新闻综合"
+},
+{"name":"西安影视频道,西安影視頻道",
+  "logo":"西安影视频道"
+},
+{"name":"西藏藏语卫视,藏语卫视,藏语,西藏藏語衛視,藏語衛視,藏語",
+  "logo":"西藏藏语卫视"
+},
+{"name":"西藏经济生活,西藏經濟生活",
+  "logo":"西藏经济生活"
+},
+{"name":"西藏卫视,西藏卫视hd,西藏卫视高清,西藏卫视超清,西藏卫视[高清],西藏卫视[超清],西藏衛視,西藏衛視hd,西藏衛視高清,西藏衛視超清,西藏衛視[高清],西藏衛視[超清]",
+  "logo":"西藏卫视"
+},
+{"name":"西藏影视文化,西藏影视,西藏影視文化,西藏影視",
+  "logo":"西藏影视文化"
+},
+{"name":"西昌综合,西昌綜合",
+  "logo":"西昌综合"
+},
+{"name":"希望电视,希望電視",
+  "logo":"希望电视"
+},
+{"name":"喜剧联盟,喜劇聯盟",
+  "logo":"喜剧联盟"
+},
+{"name":"喜剧影院,喜劇影院",
+  "logo":"喜剧影院"
+},
+{"name":"霞浦电视台,霞浦電視台",
+  "logo":"霞浦电视台"
+},
+{"name":"仙游电视台,仙游電視台",
+  "logo":"仙游电视台"
+},
+{"name":"香港国际财经台,香港国际财经,HKIBS,香港國際財經台,香港國際財經台,香港國際財經,HKIBS,香港國際財經台",
+  "logo":"香港国际财经台"
+},
+{"name":"香港卫视,香港卫视高清,香港卫视HKS,HKS,香港衛視,香港衛視文旅台,香港衛視文旅,香港衛視,香港衛視高清,香港衛視HKS,HKS,香港衛視,香港衛視文旅台,香港衛視文旅",
+  "logo":"香港卫视"
+},
+{"name":"新傳媒5,新傳媒-5,新傳媒-5台,新傳媒5,新傳媒-5,新傳媒-5台",
+  "logo":"新傳媒5"
+},
+{"name":"新傳媒8,新傳媒-8,新傳媒-8台,新傳媒8,新傳媒-8,新傳媒-8台",
+  "logo":"新傳媒8"
+},
+{"name":"新傳媒Miaomi,新傳媒-Miaomi,新傳媒-Miaomi台,新傳媒Miaomi,新傳媒-Miaomi,新傳媒-Miaomi台",
+  "logo":"新傳媒Miaomi"
+},
+{"name":"新傳媒U,新傳媒-U,新傳媒-U台,新傳媒U,新傳媒-U,新傳媒-U台",
+  "logo":"新傳媒U"
+},
+{"name":"新动漫,新动漫台,新動漫,新動漫台",
+  "logo":"新动漫"
+},
+{"name":"CNC中文,新华中文,CNC中文,新華中文",
+  "logo":"新华中文"
+},
+{"name":"新加坡亚洲新闻,亚洲新闻,ChannelNewsAsia,CNA,CNA新闻,新加坡亞洲新聞,亞洲新聞,ChannelNewsAsia,CNA,CNA新聞",
+  "logo":"新加坡亚洲新闻"
+},
+{"name":"新疆哈语新闻综合,哈语新闻综合,新疆哈萨克语新闻综合,哈萨克语新闻综合,新疆2,新疆二套,新疆哈語新聞綜合,哈語新聞綜合,新疆哈薩克語新聞綜合,哈薩克語新聞綜合,新疆2,新疆二套",
+  "logo":"新疆哈语新闻综合"
+},
+{"name":"新疆哈语综艺,哈语综艺,新疆哈萨克语综艺,哈萨克语综艺,新疆8,新疆八套,新疆哈語綜藝,哈語綜藝,新疆哈薩克語綜藝,哈薩克語綜藝,新疆8,新疆八套",
+  "logo":"新疆哈语综艺"
+},
+{"name":"新疆汉语经济,汉语经济,汉语经济生活,新疆汉语经济hd,新疆汉语经济高清,新疆7,新疆七套,新疆漢語經濟,漢語經濟,漢語經濟生活,新疆漢語經濟hd,新疆漢語經濟高清,新疆7,新疆七套",
+  "logo":"新疆汉语经济生活"
+},
+{"name":"新疆汉语体育健康,汉语体育健康,新疆漢語體育健康,漢語體育健康",
+  "logo":"新疆汉语体育健康"
+},
+{"name":"新疆汉语信息服务,汉语信息服务,新疆漢語信息服務,漢語信息服務",
+  "logo":"新疆汉语信息服务"
+},
+{"name":"新疆汉语综艺,汉语综艺,新疆汉语综艺hd,新疆汉语综艺高清,新疆漢語綜藝,漢語綜藝,新疆漢語綜藝hd,新疆漢語綜藝高清",
+  "logo":"新疆汉语综艺"
+},
+{"name":"新疆少儿,新疆少儿hd,新疆少儿高清,新疆少儿频道,新疆少兒,新疆少兒hd,新疆少兒高清,新疆少兒頻道",
+  "logo":"新疆少儿"
+},
+{"name":"新疆体育健康,新疆体育健康hd,新疆体育健康高清,新疆體育健康,新疆體育健康hd,新疆體育健康高清",
+  "logo":"新疆体育健康"
+},
+{"name":"新疆维语经济生活,维语经济生活,维吾尔语经济生活,新疆維語經濟生活,維語經濟生活,維吾爾語經濟生活",
+  "logo":"新疆维语经济生活"
+},
+{"name":"新疆维语新闻综合,维语新闻综合,维吾尔语新闻综合,新疆維語新聞綜合,維語新聞綜合,維吾爾語新聞綜合",
+  "logo":"新疆维语新闻综合"
+},
+{"name":"新疆维语影视,维语影视,维吾尔语影视,新疆維語影視,維語影視,維吾爾語影視",
+  "logo":"新疆维语影视"
+},
+{"name":"新疆卫视,新疆卫视hd,新疆卫视高清,新疆卫视超清,新疆卫视[高清],新疆卫视[超清],新疆衛視,新疆衛視hd,新疆衛視高清,新疆衛視超清,新疆衛視[高清],新疆衛視[超清]",
+  "logo":"新疆卫视"
+},
+{"name":"新罗电视台,新羅電視台",
+  "logo":"新罗电视台"
+},
+{"name":"新片院,新片院",
+  "logo":"新片院"
+},
+{"name":"新时代1,新时代电视1,新時代1,新時代電視1",
+  "logo":"新时代1"
+},
+{"name":"新时代2,新时代电视2,新時代2,新時代電視2",
+  "logo":"新时代2"
+},
+{"name":"新视觉,SITV新视觉,新視覺,SITV新視覺",
+  "logo":"新视觉"
+},
+{"name":"新唐人,新唐人台,新唐人,新唐人台",
+  "logo":"新唐人"
+},
+{"name":"新娱乐,新娱乐台,新娛樂,新娛樂台",
+  "logo":"新娱乐"
+},
+{"name":"星空卫视,星空卫视高清,星空衛視,星空衛視高清",
+  "logo":"星空卫视"
+},
+{"name":"星卫电影台,星卫电影,星卫電影,星衛HD電影台,星衛電影台,星衛電影台,星衛電影,星衛電影,星衛HD電影台,星衛電影台",
+  "logo":"星卫电影"
+},
+{"name":"星卫电影台,星衛電影台",
+  "logo":"星卫电影台"
+},
+{"name":"星卫娱乐,星卫娱乐台,星衛娛樂,星衛娛樂台,星衛娛樂,星衛娛樂台,星衛娛樂,星衛娛樂台",
+  "logo":"星卫娱乐"
+},
+{"name":"星影,星影台,星影,星影台",
+  "logo":"星影"
+},
+{"name":"幸福彩,幸福彩台,幸福彩,幸福彩台",
+  "logo":"幸福彩"
+},
+{"name":"幸福空间居家,幸福空间居家台,幸福空間居家,幸福空間居家台",
+  "logo":"幸福空间居家"
+},
+{"name":"熊猫频道,熊猫频道台,熊貓頻道,熊貓頻道台",
+  "logo":"熊猫频道"
+},
+{"name":"炫动3D,炫动3D台,炫動3D,炫動3D台",
+  "logo":"炫动3D"
+},
+{"name":"炫动卡通,炫动卡通台,上海炫动,哈哈炫动,哈哈炫动卡通,哈哈卡通,上海哈哈炫动,炫動卡通,炫動卡通台,上海炫動,哈哈炫動,哈哈炫動卡通,哈哈卡通,上海哈哈炫動",
+  "logo":"炫动卡通"
+},
+{"name":"亚洲电影,亚洲电影台,亞洲電影,亞洲電影台",
+  "logo":"亚洲电影"
+},
+{"name":"亚洲旅游,亚洲旅游台,亞洲旅遊,亞洲旅遊台,亞洲旅游,亞洲旅游台,亞洲旅遊,亞洲旅遊台",
+  "logo":"亚洲旅游"
+},
+{"name":"亚洲美食,亚洲美食台,亞洲美食,亞洲美食台,亞洲美食,亞洲美食台,亞洲美食,亞洲美食台",
+  "logo":"亚洲美食"
+},
+{"name":"亚洲美食频道,亚洲美食频道台,亞洲美食頻道,亞洲美食頻道,亞洲美食頻道台,亞洲美食頻道",
+  "logo":"亚洲美食频道"
+},
+{"name":"亚洲综合,亚洲综合台,亞洲綜合,亞洲綜合台",
+  "logo":"亚洲综合"
+},
+{"name":"延边卫视,延边卫视hd,延边卫视高清,延边卫视超清,延边卫视[高清],延边卫视[超清],吉林延边卫视,延邊衛視,延邊衛視hd,延邊衛視高清,延邊衛視超清,延邊衛視[高清],延邊衛視[超清],吉林延邊衛視",
+  "logo":"延边卫视"
+},
+{"name":"央视台球,CCTV央视台球,央視台球,CCTV央視台球",
+  "logo":"CCTV央视台球"
+},
+{"name":"央视新闻,央视新闻台,央視新聞,央視新聞台",
+  "logo":"央视新闻"
+},
+{"name":"阳光卫视,阳光卫视台,陽光衛視,陽光衛視台",
+  "logo":"阳光卫视"
+},
+{"name":"壹电影,壹电影台,壹電影,壹電影台,壹电视电影台,壹電視電影台,壹電影,壹電影台,壹電影,壹電影台,壹電視電影台,壹電視電影台",
+  "logo":"壹电影"
+},
+{"name":"壹新闻,壹新闻台,壹新聞,壹新聞台,壹電視新聞台,壹电视新闻台,壹新聞,壹新聞台,壹新聞,壹新聞台,壹電視新聞台,壹電視新聞台",
+  "logo":"壹新闻"
+},
+{"name":"壹综合,壹综合台,壹綜合,壹綜合台,壹電視綜合,壹电视综合,壹綜合,壹綜合台,壹綜合,壹綜合台,壹電視綜合,壹電視綜合",
+  "logo":"壹综合"
+},
+{"name":"宜昌综合,宜昌綜合",
+  "logo":"宜昌综合"
+},
+{"name":"译制片,譯制片",
+  "logo":"译制片"
+},
+{"name":"英语辅导,英語輔導",
+  "logo":"英语辅导"
+},
+{"name":"营口公共,營口公共",
+  "logo":"营口公共"
+},
+{"name":"营口新闻综合,營口新聞綜合",
+  "logo":"营口新闻综合"
+},
+{"name":"影迷电影,影迷電影,影迷電影,影迷電影",
+  "logo":"影迷电影"
+},
+{"name":"影迷纪实台,影迷紀實台",
+  "logo":"影迷纪实台"
+},
+{"name":"影迷数位电影台,影迷數位電影台,影迷数位电影,影迷数位,影迷數位電影台,影迷數位電影台,影迷數位電影,影迷數位",
+  "logo":"影迷数位电影台"
+},
+{"name":"影迷数位纪实台,影迷数位纪实,影迷數位紀實,影迷數位紀實台,影迷數位紀實,影迷數位紀實",
+  "logo":"影迷数位纪实"
+},
+{"name":"永安电视台,永安電視台",
+  "logo":"永安电视台"
+},
+{"name":"永春电视台,永春電視台",
+  "logo":"永春电视台"
+},
+{"name":"永定电视台,永定電視台",
+  "logo":"永定电视台"
+},
+{"name":"永泰电视台,永泰電視台",
+  "logo":"永泰电视台"
+},
+{"name":"尤溪电视台,尤溪電視台",
+  "logo":"尤溪电视台"
+},
+{"name":"游戏风云,游戏风云台,SITV游戏风云,游戲風云,游戲風云台,SITV游戲風云",
+  "logo":"游戏风云"
+},
+{"name":"游戏竞技,游戏竞技台,游戲競技,游戲競技台",
+  "logo":"游戏竞技"
+},
+{"name":"有线18台,有線18台",
+  "logo":"有线18台"
+},
+{"name":"有线HD603,有線HD603",
+  "logo":"有线HD603"
+},
+{"name":"有线SPORTSPLUS1,有線SPORTSPLUS1",
+  "logo":"有线SPORTSPLUS1"
+},
+{"name":"有线SPORTSPLUS2,有線SPORTSPLUS2",
+  "logo":"有线SPORTSPLUS2"
+},
+{"name":"有线SPORTSPLUS3,有線SPORTSPLUS3",
+  "logo":"有线SPORTSPLUS3"
+},
+{"name":"有线财经资讯台,有线财经,有线财经资讯,有線財經資訊台,有線財經,有線財經資訊",
+  "logo":"有线财经资讯台"
+},
+{"name":"有线电影台,有線電影台",
+  "logo":"有线电影台"
+},
+{"name":"有线体育台,有線體育台",
+  "logo":"有线体育台"
+},
+{"name":"有线新闻台,有线新闻,有線新聞台,有線新聞",
+  "logo":"有线新闻台"
+},
+{"name":"有线新闻直播台,有線新聞直播台",
+  "logo":"有线新闻直播台"
+},
+{"name":"有线娱乐台,有線娛樂台",
+  "logo":"有线娱乐台"
+},
+{"name":"原声电影,原聲電影",
+  "logo":"原声电影"
+},
+{"name":"原住民电视,原住民电视台,原住民频道,原住民,原住民電視,原住民電視台,原住民頻道,原住民",
+  "logo":"原住民电视"
+},
+{"name":"云浮公共,云浮公共",
+  "logo":"云浮公共"
+},
+{"name":"云浮综合,云浮综合频道,云浮綜合,云浮綜合頻道",
+  "logo":"云浮综合"
+},
+{"name":"云南都市,云南都市hd,云南都市高清,云南都市,云南都市hd,云南都市高清",
+  "logo":"云南都市"
+},
+{"name":"云南澜湄国际卫视,澜湄国际卫视,澜湄国际,云南澜湄国际,云南瀾湄國際衛視,瀾湄國際衛視,瀾湄國際,云南瀾湄國際",
+  "logo":"云南澜湄国际卫视"
+},
+{"name":"云南卫视,云南卫视hd,云南卫视高清,云南卫视超清,云南卫视[高清],云南卫视[超清],云南衛視,云南衛視hd,云南衛視高清,云南衛視超清,云南衛視[高清],云南衛視[超清]",
+  "logo":"云南卫视"
+},
+{"name":"云南少儿,云南少儿频道,云南少兒,云南少兒頻道",
+  "logo":"云南少儿"
+},
+{"name":"云南康旅,云南康旅频道,康旅频道,云南康旅,云南康旅頻道,康旅頻道",
+  "logo":"云南康旅"
+},
+{"name":"云南影视,云南影视频道,云南影视hd,云南影视高清,云南影視,云南影視頻道,云南影視hd,云南影視高清",
+  "logo":"云南影视"
+},
+{"name":"云南娱乐,云南娱乐频道,云南娱乐hd,云南娱乐高清,云南娛樂,云南娛樂頻道,云南娛樂hd,云南娛樂高清",
+  "logo":"云南娱乐"
+},
+{"name":"云霄电视台,云霄電視台",
+  "logo":"云霄电视台"
+},
+{"name":"郓城新闻,鄆城新聞",
+  "logo":"郓城新闻"
+},
+{"name":"战旗直播,戰旗直播",
+  "logo":"战旗直播"
+},
+{"name":"漳平电视台,漳平電視台",
+  "logo":"漳平电视台"
+},
+{"name":"漳浦电视台,漳浦广播,漳浦電視台,漳浦廣播",
+  "logo":"漳浦电视台"
+},
+{"name":"漳州电视台,漳州公共,漳州新闻,漳州電視台,漳州公共,漳州新聞",
+  "logo":"漳州电视台"
+},
+{"name":"长乐电视台,長樂電視台",
+  "logo":"长乐电视台"
+},
+{"name":"长沙女性,长沙女性频道,长沙女性高清,长沙女性HD,长沙女性超高清,長沙女性,長沙女性頻道,長沙女性高清,長沙女性HD,長沙女性超高清",
+  "logo":"长沙女性"
+},
+{"name":"长沙新闻综合,长沙新闻综合频道,长沙新闻综合高清,长沙新闻综合HD,长沙新闻综合超高清,长沙新闻,长沙新闻HD,长沙新闻高清,長沙新聞綜合,長沙新聞綜合頻道,長沙新聞綜合高清,長沙新聞綜合HD,長沙新聞綜合超高清,長沙新聞,長沙新聞HD,長沙新聞高清",
+  "logo":"长沙新闻综合"
+},
+{"name":"长沙影视,长沙影视频道,长沙影视高清,长沙影视HD,长沙影视超高清,長沙影視,長沙影視頻道,長沙影視高清,長沙影視HD,長沙影視超高清",
+  "logo":"长沙影视"
+},
+{"name":"长沙政法,长沙政法频道,长沙政法高清,长沙政法HD,长沙政法超高清,長沙政法,長沙政法頻道,長沙政法高清,長沙政法HD,長沙政法超高清",
+  "logo":"长沙政法"
+},
+{"name":"长泰电视台,長泰電視台",
+  "logo":"长泰电视台"
+},
+{"name":"长汀电视台,長汀電視台",
+  "logo":"长汀电视台"
+},
+{"name":"昭化综合,昭化綜合",
+  "logo":"昭化综合"
+},
+{"name":"诏安电视台,詔安電視台",
+  "logo":"诏安电视台"
+},
+{"name":"柘荣电视台,柘榮電視台",
+  "logo":"柘荣电视台"
+},
+{"name":"浙江国际,浙江国际频道,浙江国际高清,浙江国际HD,中国蓝新闻,浙江國際,浙江國際頻道,浙江國際高清,浙江國際HD,中國藍新聞",
+  "logo":"浙江国际"
+},
+{"name":"浙江教科影视,浙江教科影视频道,浙江教科,浙江教科影视,浙江教科影院,浙江教科影视高清,浙江教科影视HD,浙江教科影視,浙江教科影視頻道,浙江教科,浙江教科影視,浙江教科影院,浙江教科影視高清,浙江教科影視HD",
+  "logo":"浙江教科影视"
+},
+{"name":"浙江经济生活,浙江经济生活频道,浙江经济,浙江经济生活,浙江经济生活高清,浙江经济生活HD,浙江经视,浙江經濟生活,浙江經濟生活頻道,浙江經濟,浙江經濟生活,浙江經濟生活高清,浙江經濟生活HD,浙江經視",
+  "logo":"浙江经济生活"
+},
+{"name":"浙江民生休闲,浙江民生休闲频道,浙江民生,浙江民生高清,浙江民生HD,浙江民生休閑,浙江民生休閑頻道,浙江民生,浙江民生高清,浙江民生HD",
+  "logo":"浙江民生休闲"
+},
+{"name":"浙江钱江频道,钱江频道,浙江钱江,钱江,浙江钱江高清,钱江高清,浙江钱江HD,钱江HD,浙江钱江都市,浙江錢江頻道,錢江頻道,浙江錢江,錢江,浙江錢江高清,錢江高清,浙江錢江HD,錢江HD,浙江錢江都市",
+  "logo":"浙江钱江频道"
+},
+{"name":"浙江少儿,浙江少儿频道,浙江少儿高清,浙江少儿hd,浙江少兒,浙江少兒頻道,浙江少兒高清,浙江少兒hd",
+  "logo":"浙江少儿"
+},
+{"name":"浙江卫视,浙江卫视hd,浙江卫视高清,浙江卫视超清,浙江卫视[高清],浙江卫视[超清],浙江衛視,浙江衛視hd,浙江衛視高清,浙江衛視超清,浙江衛視[高清],浙江衛視[超清]",
+  "logo":"浙江卫视"
+},
+{"name":"浙江新闻,浙江新闻频道,浙江新闻高清,浙江新闻hd,浙江公共新闻,浙江新聞,浙江新聞頻道,浙江新聞高清,浙江新聞hd,浙江公共新聞",
+  "logo":"浙江新闻"
+},
+{"name":"浙江之江纪录,浙江之江纪录频道,之江纪录,之江纪录高清,之江纪录hd,浙江之江紀錄,浙江之江紀錄頻道,之江紀錄,之江紀錄高清,之江紀錄hd",
+  "logo":"浙江之江纪录"
+},
+{"name":"政和电视台,政和電視台",
+  "logo":"政和电视台"
+},
+{"name":"智林体育,智林体育台,智林體育,智林體育台",
+  "logo":"智林体育"
+},
+{"name":"中国电影频道,中国电影台,中国电影,私人影院,经典电影,中國電影頻道,中國電影台,中國電影,私人影院,經典電影",
+  "logo":"中国电影频道"
+},
+{"name":"中国交通,中国交通台,中国交通[高清],中国交通高清,中國交通,中國交通台,中國交通[高清],中國交通高清",
+  "logo":"中国交通"
+},
+{"name":"中国气象,中国气象台,中国天气,中国气象高清,中國氣象,中國氣象台,中國天氣,中國氣象高清",
+  "logo":"中国气象"
+},
+{"name":"中华美食,中华美食台,中华美食高清,中華美食,中華美食台,中華美食高清",
+  "logo":"中华美食"
+},
+{"name":"中视,中视(备),中视台,中视HD,中视 HD,中視,中視HD,中視(備),中視,中視(備),中視台,中視HD,中視 HD,中視,中視HD,中視(備)",
+  "logo":"中视"
+},
+{"name":"中视经典,中视经典台,中視经典,中視經典台,中視經典,中視經典台,中視經典,中視經典台",
+  "logo":"中视经典"
+},
+{"name":"中视菁采,中视菁采台,中視菁采,中視菁采台",
+  "logo":"中视菁采"
+},
+{"name":"中视新闻,中视新闻台,中視新聞,中視新聞台,中視新聞,中視新聞台,中視新聞,中視新聞台",
+  "logo":"中视新闻"
+},
+{"name":"中天新闻,中天新闻台,中天新聞,中天新聞台,中天亚洲台,中天亚洲,中天新聞,中天新聞台,中天新聞,中天新聞台,中天亞洲台,中天亞洲",
+  "logo":"中天新闻"
+},
+{"name":"中天娱乐,中天娱乐台,中天娛樂,中天娛樂台,中天娛樂,中天娛樂台,中天娛樂,中天娛樂台",
+  "logo":"中天娱乐"
+},
+{"name":"中天综合,中天综合台,中天綜合,中天綜合台,中天綜合,中天綜合台,中天綜合,中天綜合台",
+  "logo":"中天综合"
+},
+{"name":"中学生,中央新影中学生,中央新影-中学生,CCTV中学生,中學生,中央新影中學生,中央新影-中學生,CCTV中學生",
+  "logo":"CCTV中学生"
+},
+{"name":"发现之旅,中央新影发现之旅,中央新影-发现之旅,CCTV发现之旅,發現之旅,中央新影發現之旅,中央新影-發現之旅,CCTV發現之旅",
+  "logo":"CCTV发现之旅"
+},
+{"name":"重广传媒,睛彩重庆,重庆融媒体,重廣傳媒,睛彩重慶,重慶融媒體",
+  "logo":"重广传媒"
+},
+{"name":"重庆国际,CQTV国际,重庆国际[高清],重庆国际HD,重庆国际高清,重庆国际超高清,重慶國際,CQTV國際,重慶國際[高清],重慶國際HD,重慶國際高清,重慶國際超高清",
+  "logo":"重庆国际"
+},
+{"name":"重庆开州综合,开州综合,开州综合[高清],开州综合HD,开州综合高清,开州综合超高清,重慶開州綜合,開州綜合,開州綜合[高清],開州綜合HD,開州綜合高清,開州綜合超高清",
+  "logo":"重庆开州综合"
+},
+{"name":"重庆科教,CQTV科教,重庆科教[高清],重庆科教HD,重庆科教高清,重庆科教超高清,重慶科教,CQTV科教,重慶科教[高清],重慶科教HD,重慶科教高清,重慶科教超高清",
+  "logo":"重庆科教"
+},
+{"name":"重庆汽摩,CQTV汽摩,重庆汽摩[高清],重庆汽摩HD,重庆汽摩高清,重庆汽摩超高清,汽摩,重慶汽摩,CQTV汽摩,重慶汽摩[高清],重慶汽摩HD,重慶汽摩高清,重慶汽摩超高清,汽摩",
+  "logo":"重庆汽摩"
+},
+{"name":"重庆少儿,CQTV少儿,重庆少儿[高清],重庆少儿HD,重庆少儿高清,重庆少儿超高清,重慶少兒,CQTV少兒,重慶少兒[高清],重慶少兒HD,重慶少兒高清,重慶少兒超高清",
+  "logo":"重庆少儿"
+},
+{"name":"重庆社会与法,CQTV都市,重庆社会与法[高清],重庆社会与法HD,重庆社会与法高清,重庆社会与法超高清,重慶社會與法,CQTV都市,重慶社會與法[高清],重慶社會與法HD,重慶社會與法高清,重慶社會與法超高清",
+  "logo":"重庆社会与法"
+},
+{"name":"重庆时尚生活,CQTV时尚,CQTV生活,重庆时尚生活[高清],重庆时尚生活HD,重庆时尚生活高清,重庆时尚生活超高清,重慶時尚生活,CQTV時尚,CQTV生活,重慶時尚生活[高清],重慶時尚生活HD,重慶時尚生活高清,重慶時尚生活超高清",
+  "logo":"重庆时尚生活"
+},
+{"name":"重庆卫视,重庆卫视hd,重庆卫视高清,重庆卫视超高清,重庆卫视超清,重庆卫视[高清],重庆卫视[超高清],重庆卫视[超清],重慶衛視,重慶衛視hd,重慶衛視高清,重慶衛視超高清,重慶衛視超清,重慶衛視[高清],重慶衛視[超高清],重慶衛視[超清]",
+  "logo":"重庆卫视"
+},
+{"name":"重庆文体娱乐,CQTV娱乐,重庆文体娱乐[高清],重庆文体娱乐HD,重庆文体娱乐高清,重庆文体娱乐超高清,重庆娱乐,重庆娱乐高清,重庆娱乐超高清,重慶文體娛樂,CQTV娛樂,重慶文體娛樂[高清],重慶文體娛樂HD,重慶文體娛樂高清,重慶文體娛樂超高清,重慶娛樂,重慶娛樂高清,重慶娛樂超高清",
+  "logo":"重庆文体娱乐"
+},
+{"name":"重庆新农村,重庆新农村,重庆新农村[高清],重庆新农村HD,重庆新农村高清,新农村,重庆公共农村,重庆新农村超高清,cqtv公共农村,重慶新農村,重慶新農村,重慶新農村[高清],重慶新農村HD,重慶新農村高清,新農村,重慶公共農村,重慶新農村超高清,cqtv公共農村",
+  "logo":"重庆新农村"
+},
+{"name":"重庆新闻,重庆新闻,重庆新闻[高清],重庆新闻HD,重庆新闻高清,重庆新闻超高清,重慶新聞,重慶新聞,重慶新聞[高清],重慶新聞HD,重慶新聞高清,重慶新聞超高清",
+  "logo":"重庆新闻"
+},
+{"name":"重庆移动,重庆移动,重庆移动[高清],重庆移动HD,重庆移动高清,重庆移动超高清,重庆移动公交,重慶移動,重慶移動,重慶移動[高清],重慶移動HD,重慶移動高清,重慶移動超高清,重慶移動公交",
+  "logo":"重庆移动"
+},
+{"name":"重庆影视,重庆影视,重庆影视[高清],重庆影视HD,重庆影视高清,重庆影视超清,重庆影视超高清,重慶影視,重慶影視,重慶影視[高清],重慶影視HD,重慶影視高清,重慶影視超清,重慶影視超高清",
+  "logo":"重庆影视"
+},
+{"name":"重温经典,重溫經典",
+  "logo":"重温经典"
+},
+{"name":"周宁电视台,周寧電視台",
+  "logo":"周宁电视台"
+},
+{"name":"足球频道,足球频道台,足球,足球頻道,足球頻道台,足球",
+  "logo":"足球频道"
+},
+{"name":"浙江宁波1,宁波1,NBTV-1,宁波新闻,宁波新闻频道,浙江寧波1,寧波1,NBTV-1,寧波新聞,寧波新聞頻道",
+  "logo":"浙江宁波1"
+},
+{"name":"浙江宁波1,宁波1,NBTV-2,宁波生活,宁波新闻频道,浙江寧波1,寧波1,NBTV-2,寧波生活,寧波新聞頻道",
+  "logo":"浙江宁波2"
+},
+{"name":"浙江宁波1,宁波1,NBTV-3,宁波文化,宁波新闻频道,浙江寧波1,寧波1,NBTV-3,寧波文化,寧波新聞頻道",
+  "logo":"浙江宁波3"
+},
+{"name":"浙江宁波1,宁波1,NBTV-4,宁波影视,宁波新闻频道,浙江寧波1,寧波1,NBTV-4,寧波影視,寧波新聞頻道",
+  "logo":"浙江宁波4"
+},
+{"name":"汕尾文化生活,汕尾文化,汕尾生活,汕尾文化生活,汕尾文化,汕尾生活",
+  "logo":"汕尾文化生活"
+},
+{"name":"汕尾新闻综合,汕尾新闻,汕尾综合,汕尾新聞綜合,汕尾新聞,汕尾綜合",
+  "logo":"汕尾新闻综合"
+},
+{"name":"popc,中国网络电影频道,popc电影,popc电影频道,popc,中國網絡電影頻道,popc電影,popc電影頻道",
+  "logo":"popc"
+},
+{"name":"楚雄新闻,楚雄新闻频道,楚雄综合,楚雄新聞,楚雄新聞頻道,楚雄綜合",
+  "logo":"楚雄新闻"
+},
+{"name":"楚雄文旅,楚雄文旅频道,楚雄文旅,楚雄文旅頻道",
+  "logo":"楚雄文旅"
+},
+{"name":"贵州移动电视,移动电视,贵州移动TV,移动电视台,貴州移動電視,移動電視,貴州移動TV,移動電視台",
+  "logo":"贵州移动电视"
+},
+{"name":"贵阳1,贵阳-1,贵阳1台,贵阳1套,貴陽1,貴陽-1,貴陽1台,貴陽1套",
+  "logo":"贵阳1"
+},
+{"name":"贵阳2,贵阳-2,贵阳2台,贵阳2套,貴陽2,貴陽-2,貴陽2台,貴陽2套",
+  "logo":"贵阳2"
+},
+{"name":"贵阳3,贵阳-3,贵阳3台,贵阳3套,貴陽3,貴陽-3,貴陽3台,貴陽3套",
+  "logo":"贵阳3"
+},
+{"name":"贵阳4,贵阳-4,贵阳4台,贵阳4套,貴陽4,貴陽-4,貴陽4台,貴陽4套",
+  "logo":"贵阳4"
+},
+{"name":"贵阳5,贵阳-5,贵阳5台,贵阳5套,貴陽5,貴陽-5,貴陽5台,貴陽5套",
+  "logo":"贵阳5"
+},
+{"name":"来宾综合,来宾综合频道,來賓綜合,來賓綜合頻道",
+  "logo":"来宾综合"
+},
+{"name":"吉林市1,吉林市-1,吉林市1台,吉林市1套,吉林市新闻综合频道,吉林市新闻综合,吉林市新闻,吉林市1,吉林市-1,吉林市1台,吉林市1套,吉林市新聞綜合頻道,吉林市新聞綜合,吉林市新聞",
+  "logo":"吉林市1"
+},
+{"name":"吉林市2,吉林市-2,吉林市2台,吉林市2套,吉林市科教频道,吉林市科教,吉林市2,吉林市-2,吉林市2台,吉林市2套,吉林市科教頻道,吉林市科教",
+  "logo":"吉林市2"
+},
+{"name":"吉林市3,吉林市-3,吉林市3台,吉林市3套,吉林市公共频道,吉林市公共,吉林市生活,吉林市生活频道,吉林市3,吉林市-3,吉林市3台,吉林市3套,吉林市公共頻道,吉林市公共,吉林市生活,吉林市生活頻道",
+  "logo":"吉林市3"
+},
+{"name":"桂林1,桂林-1,桂林1台,桂林1套,桂林新闻综合频道,桂林新闻综合,桂林新闻,桂林1,桂林-1,桂林1台,桂林1套,桂林新聞綜合頻道,桂林新聞綜合,桂林新聞",
+  "logo":"桂林1"
+},
+{"name":"桂林2,桂林-2,桂林2台,桂林2套,桂林公共频道,桂林公共,桂林2,桂林-2,桂林2台,桂林2套,桂林公共頻道,桂林公共",
+  "logo":"桂林2"
+},
+{"name":"桂林3,桂林-3,桂林3台,桂林3套,桂林科教旅游频道,桂林科教旅游,桂林科教,桂林旅游,桂林3,桂林-3,桂林3台,桂林3套,桂林科教旅游頻道,桂林科教旅游,桂林科教,桂林旅游",
+  "logo":"桂林3"
+},
+{"name":"南宁新闻综合,南宁新闻,南宁综合,南宁新闻综合频道,南宁新闻频道,南宁综合频道,南寧新聞綜合,南寧新聞,南寧綜合,南寧新聞綜合頻道,南寧新聞頻道,南寧綜合頻道",
+  "logo":"南宁新闻综合"
+},
+{"name":"南宁文旅生活,南宁文旅,南宁生活,南宁都市生活,南宁都市,南宁文旅生活频道,南宁文旅频道,南宁生活频道,南宁都市生活频道,南宁都市频道,南寧文旅生活,南寧文旅,南寧生活,南寧都市生活,南寧都市,南寧文旅生活頻道,南寧文旅頻道,南寧生活頻道,南寧都市生活頻道,南寧都市頻道",
+  "logo":"南宁文旅生活"
+},
+{"name":"南宁影视娱乐,南宁影视,南宁娱乐,南宁影视娱乐频道,南宁影视频道,南宁娱乐频道,南寧影視娛樂,南寧影視,南寧娛樂,南寧影視娛樂頻道,南寧影視頻道,南寧娛樂頻道",
+  "logo":"南宁影视娱乐"
+},
+{"name":"南宁公共,南宁公共频道,南寧公共,南寧公共頻道",
+  "logo":"南宁公共"
+},
+{"name":"七星关电视台,七星关,七星關電視台,七星關",
+  "logo":"七星关电视台"
+},
+{"name":"黔南1,黔南-1,黔南1台,黔南1套,黔南1,黔南-1,黔南1台,黔南1套",
+  "logo":"黔南1"
+},
+{"name":"黔南2,黔南-2,黔南2台,黔南2套,黔南2,黔南-2,黔南2台,黔南2套",
+  "logo":"黔南2"
+},
+{"name":"六盘水1,六盘水-1,六盘水1台,六盘水1套,六盤水1,六盤水-1,六盤水1台,六盤水1套",
+  "logo":"六盘水1"
+},
+{"name":"六盘水2,六盘水-2,六盘水2台,六盘水2套,六盤水2,六盤水-2,六盤水2台,六盤水2套",
+  "logo":"六盘水2"
+},
+{"name":"公视三台,公視三台",
+  "logo":"PublicTV3HD"
+},
+{"name":"湖南中方,中方电视台,中方融媒体,中方融媒,中方新闻,中方新闻频道,中方综合,中方综合频道,中方新闻综合,中方新闻综合频道,湖南中方,中方電視台,中方融媒體,中方融媒,中方新聞,中方新聞頻道,中方綜合,中方綜合頻道,中方新聞綜合,中方新聞綜合頻道",
+  "logo":"湖南中方"
+},
+{"name":"湖南临澧,临澧电视台,临澧融媒体,临澧融媒,临澧新闻,临澧新闻频道,临澧综合,临澧综合频道,临澧新闻综合,临澧新闻综合频道,湖南臨澧,臨澧電視台,臨澧融媒體,臨澧融媒,臨澧新聞,臨澧新聞頻道,臨澧綜合,臨澧綜合頻道,臨澧新聞綜合,臨澧新聞綜合頻道",
+  "logo":"湖南临澧"
+},
+{"name":"湖南冷水江,冷水江电视台,冷水江融媒体,冷水江融媒,冷水江新闻,冷水江新闻频道,冷水江综合,冷水江综合频道,冷水江新闻综合,冷水江新闻综合频道,湖南冷水江,冷水江電視台,冷水江融媒體,冷水江融媒,冷水江新聞,冷水江新聞頻道,冷水江綜合,冷水江綜合頻道,冷水江新聞綜合,冷水江新聞綜合頻道",
+  "logo":"湖南冷水江"
+},
+{"name":"湖南双峰,双峰电视台,双峰融媒体,双峰融媒,双峰新闻,双峰新闻频道,双峰综合,双峰综合频道,双峰新闻综合,双峰新闻综合频道,湖南雙峰,雙峰電視台,雙峰融媒體,雙峰融媒,雙峰新聞,雙峰新聞頻道,雙峰綜合,雙峰綜合頻道,雙峰新聞綜合,雙峰新聞綜合頻道",
+  "logo":"湖南双峰"
+},
+{"name":"湖南娄底,娄底电视台,娄底融媒体,娄底融媒,娄底新闻,娄底新闻频道,娄底综合,娄底综合频道,娄底新闻综合,娄底新闻综合频道,湖南婁底,婁底電視台,婁底融媒體,婁底融媒,婁底新聞,婁底新聞頻道,婁底綜合,婁底綜合頻道,婁底新聞綜合,婁底新聞綜合頻道",
+  "logo":"湖南娄底"
+},
+{"name":"湖南娄底教育,娄底教育电视台,娄底教育频道,湖南婁底教育,婁底教育電視台,婁底教育頻道",
+  "logo":"湖南娄底教育"
+},
+{"name":"湖南宁乡,宁乡电视台,宁乡融媒体,宁乡融媒,宁乡新闻,宁乡新闻频道,宁乡综合,宁乡综合频道,宁乡新闻综合,宁乡新闻综合频道,湖南寧鄉,寧鄉電視台,寧鄉融媒體,寧鄉融媒,寧鄉新聞,寧鄉新聞頻道,寧鄉綜合,寧鄉綜合頻道,寧鄉新聞綜合,寧鄉新聞綜合頻道",
+  "logo":"湖南宁乡"
+},
+{"name":"湖南安乡,安乡电视台,安乡融媒体,安乡融媒,安乡新闻,安乡新闻频道,安乡综合,安乡综合频道,安乡新闻综合,安乡新闻综合频道,湖南安鄉,安鄉電視台,安鄉融媒體,安鄉融媒,安鄉新聞,安鄉新聞頻道,安鄉綜合,安鄉綜合頻道,安鄉新聞綜合,安鄉新聞綜合頻道",
+  "logo":"湖南安乡"
+},
+{"name":"湖南岳阳,岳阳电视台,岳阳融媒体,岳阳融媒,岳阳新闻,岳阳新闻频道,岳阳综合,岳阳综合频道,岳阳新闻综合,岳阳新闻综合频道,湖南岳陽,岳陽電視台,岳陽融媒體,岳陽融媒,岳陽新聞,岳陽新聞頻道,岳陽綜合,岳陽綜合頻道,岳陽新聞綜合,岳陽新聞綜合頻道",
+  "logo":"湖南岳阳"
+},
+{"name":"湖南常德,常德电视台,常德融媒体,常德融媒,常德新闻,常德新闻频道,常德综合,常德综合频道,常德新闻综合,常德新闻综合频道,湖南常德,常德電視台,常德融媒體,常德融媒,常德新聞,常德新聞頻道,常德綜合,常德綜合頻道,常德新聞綜合,常德新聞綜合頻道",
+  "logo":"湖南常德"
+},
+{"name":"湖南张家界,张家界电视台,张家界融媒体,张家界融媒,张家界新闻,张家界新闻频道,张家界综合,张家界综合频道,张家界新闻综合,张家界新闻综合频道,湖南張家界,張家界電視台,張家界融媒體,張家界融媒,張家界新聞,張家界新聞頻道,張家界綜合,張家界綜合頻道,張家界新聞綜合,張家界新聞綜合頻道",
+  "logo":"湖南张家界"
+},
+{"name":"湖南怀化,怀化电视台,怀化融媒体,怀化融媒,怀化新闻,怀化新闻频道,怀化综合,怀化综合频道,怀化新闻综合,怀化新闻综合频道,湖南懷化,懷化電視台,懷化融媒體,懷化融媒,懷化新聞,懷化新聞頻道,懷化綜合,懷化綜合頻道,懷化新聞綜合,懷化新聞綜合頻道",
+  "logo":"湖南怀化综合"
+},
+{"name":"湖南慈利,慈利电视台,慈利融媒体,慈利融媒,慈利新闻,慈利新闻频道,慈利综合,慈利综合频道,慈利新闻综合,慈利新闻综合频道,湖南慈利,慈利電視台,慈利融媒體,慈利融媒,慈利新聞,慈利新聞頻道,慈利綜合,慈利綜合頻道,慈利新聞綜合,慈利新聞綜合頻道",
+  "logo":"湖南慈利"
+},
+{"name":"湖南新化,新化电视台,新化融媒体,新化融媒,新化新闻,新化新闻频道,新化综合,新化综合频道,新化新闻综合,新化新闻综合频道,湖南新化,新化電視台,新化融媒體,新化融媒,新化新聞,新化新聞頻道,新化綜合,新化綜合頻道,新化新聞綜合,新化新聞綜合頻道",
+  "logo":"湖南新化"
+},
+{"name":"湖南新田,新田电视台,新田融媒体,新田融媒,新田新闻,新田新闻频道,新田综合,新田综合频道,新田新闻综合,新田新闻综合频道,湖南新田,新田電視台,新田融媒體,新田融媒,新田新聞,新田新聞頻道,新田綜合,新田綜合頻道,新田新聞綜合,新田新聞綜合頻道",
+  "logo":"湖南新田"
+},
+{"name":"湖南星沙,星沙电视台,星沙融媒体,星沙融媒,星沙新闻,星沙新闻频道,星沙综合,星沙综合频道,星沙新闻综合,星沙新闻综合频道,湖南星沙,星沙電視台,星沙融媒體,星沙融媒,星沙新聞,星沙新聞頻道,星沙綜合,星沙綜合頻道,星沙新聞綜合,星沙新聞綜合頻道",
+  "logo":"湖南星沙"
+},
+{"name":"湖南株洲,株洲电视台,株洲融媒体,株洲融媒,株洲新闻,株洲新闻频道,株洲综合,株洲综合频道,株洲新闻综合,株洲新闻综合频道,湖南株洲,株洲電視台,株洲融媒體,株洲融媒,株洲新聞,株洲新聞頻道,株洲綜合,株洲綜合頻道,株洲新聞綜合,株洲新聞綜合頻道",
+  "logo":"湖南株洲"
+},
+{"name":"湖南桂东,桂东电视台,桂东融媒体,桂东融媒,桂东新闻,桂东新闻频道,桂东综合,桂东综合频道,桂东新闻综合,桂东新闻综合频道,湖南桂東,桂東電視台,桂東融媒體,桂東融媒,桂東新聞,桂東新聞頻道,桂東綜合,桂東綜合頻道,桂東新聞綜合,桂東新聞綜合頻道",
+  "logo":"湖南桂东融媒"
+},
+{"name":"湖南桃源,桃源电视台,桃源融媒体,桃源融媒,桃源新闻,桃源新闻频道,桃源综合,桃源综合频道,桃源新闻综合,桃源新闻综合频道,湖南桃源,桃源電視台,桃源融媒體,桃源融媒,桃源新聞,桃源新聞頻道,桃源綜合,桃源綜合頻道,桃源新聞綜合,桃源新聞綜合頻道",
+  "logo":"湖南桃源"
+},
+{"name":"湖南武冈,武冈电视台,武冈融媒体,武冈融媒,武冈新闻,武冈新闻频道,武冈综合,武冈综合频道,武冈新闻综合,武冈新闻综合频道,湖南武岡,武岡電視台,武岡融媒體,武岡融媒,武岡新聞,武岡新聞頻道,武岡綜合,武岡綜合頻道,武岡新聞綜合,武岡新聞綜合頻道",
+  "logo":"湖南武冈"
+},
+{"name":"湖南永州,永州电视台,永州融媒体,永州融媒,永州新闻,永州新闻频道,永州综合,永州综合频道,永州新闻综合,永州新闻综合频道,湖南永州,永州電視台,永州融媒體,永州融媒,永州新聞,永州新聞頻道,永州綜合,永州綜合頻道,永州新聞綜合,永州新聞綜合頻道",
+  "logo":"湖南永州"
+},
+{"name":"湖南洞口,洞口电视台,洞口融媒体,洞口融媒,洞口新闻,洞口新闻频道,洞口综合,洞口综合频道,洞口新闻综合,洞口新闻综合频道,湖南洞口,洞口電視台,洞口融媒體,洞口融媒,洞口新聞,洞口新聞頻道,洞口綜合,洞口綜合頻道,洞口新聞綜合,洞口新聞綜合頻道",
+  "logo":"湖南洞口"
+},
+{"name":"湖南津市,津市电视台,津市融媒体,津市融媒,津市新闻,津市新闻频道,津市综合,津市综合频道,津市新闻综合,津市新闻综合频道,湖南津市,津市電視台,津市融媒體,津市融媒,津市新聞,津市新聞頻道,津市綜合,津市綜合頻道,津市新聞綜合,津市新聞綜合頻道",
+  "logo":"湖南津市"
+},
+{"name":"湖南浏阳,浏阳电视台,浏阳融媒体,浏阳融媒,浏阳新闻,浏阳新闻频道,浏阳综合,浏阳综合频道,浏阳新闻综合,浏阳新闻综合频道,湖南瀏陽,瀏陽電視台,瀏陽融媒體,瀏陽融媒,瀏陽新聞,瀏陽新聞頻道,瀏陽綜合,瀏陽綜合頻道,瀏陽新聞綜合,瀏陽新聞綜合頻道",
+  "logo":"湖南浏阳"
+},
+{"name":"湖南湘乡,湘乡电视台,湘乡融媒体,湘乡融媒,湘乡新闻,湘乡新闻频道,湘乡综合,湘乡综合频道,湘乡新闻综合,湘乡新闻综合频道,湖南湘鄉,湘鄉電視台,湘鄉融媒體,湘鄉融媒,湘鄉新聞,湘鄉新聞頻道,湘鄉綜合,湘鄉綜合頻道,湘鄉新聞綜合,湘鄉新聞綜合頻道",
+  "logo":"湖南湘乡"
+},
+{"name":"湖南湘潭,湘潭电视台,湘潭融媒体,湘潭融媒,湘潭新闻,湘潭新闻频道,湘潭综合,湘潭综合频道,湘潭新闻综合,湘潭新闻综合频道,湖南湘潭,湘潭電視台,湘潭融媒體,湘潭融媒,湘潭新聞,湘潭新聞頻道,湘潭綜合,湘潭綜合頻道,湘潭新聞綜合,湘潭新聞綜合頻道",
+  "logo":"湖南湘潭"
+},
+{"name":"湖南湘潭县台,湖南湘潭县,湘潭县电视台,湘潭县融媒体,湘潭县融媒,湘潭县新闻,湘潭县新闻频道,湘潭县综合,湘潭县综合频道,湘潭县新闻综合,湘潭县新闻综合频道,湖南湘潭縣台,湖南湘潭縣,湘潭縣電視台,湘潭縣融媒體,湘潭縣融媒,湘潭縣新聞,湘潭縣新聞頻道,湘潭縣綜合,湘潭縣綜合頻道,湘潭縣新聞綜合,湘潭縣新聞綜合頻道",
+  "logo":"湖南湘潭县台"
+},
+{"name":"湖南湘西,湘西电视台,湘西融媒体,湘西融媒,湘西新闻,湘西新闻频道,湘西综合,湘西综合频道,湘西新闻综合,湘西新闻综合频道,湖南湘西,湘西電視台,湘西融媒體,湘西融媒,湘西新聞,湘西新聞頻道,湘西綜合,湘西綜合頻道,湘西新聞綜合,湘西新聞綜合頻道",
+  "logo":"湖南湘西"
+},
+{"name":"湖南溆浦,溆浦电视台,溆浦融媒体,溆浦融媒,溆浦新闻,溆浦新闻频道,溆浦综合,溆浦综合频道,溆浦新闻综合,溆浦新闻综合频道,湖南溆浦,溆浦電視台,溆浦融媒體,溆浦融媒,溆浦新聞,溆浦新聞頻道,溆浦綜合,溆浦綜合頻道,溆浦新聞綜合,溆浦新聞綜合頻道",
+  "logo":"湖南溆浦"
+},
+{"name":"湖南益阳,益阳电视台,益阳融媒体,益阳融媒,益阳新闻,益阳新闻频道,益阳综合,益阳综合频道,益阳新闻综合,益阳新闻综合频道,湖南益陽,益陽電視台,益陽融媒體,益陽融媒,益陽新聞,益陽新聞頻道,益陽綜合,益陽綜合頻道,益陽新聞綜合,益陽新聞綜合頻道",
+  "logo":"湖南益阳"
+},
+{"name":"湖南茶陵,茶陵电视台,茶陵融媒体,茶陵融媒,茶陵新闻,茶陵新闻频道,茶陵综合,茶陵综合频道,茶陵新闻综合,茶陵新闻综合频道,湖南茶陵,茶陵電視台,茶陵融媒體,茶陵融媒,茶陵新聞,茶陵新聞頻道,茶陵綜合,茶陵綜合頻道,茶陵新聞綜合,茶陵新聞綜合頻道",
+  "logo":"湖南茶陵"
+},
+{"name":"湖南蓝山,蓝山电视台,蓝山融媒体,蓝山融媒,蓝山新闻,蓝山新闻频道,蓝山综合,蓝山综合频道,蓝山新闻综合,蓝山新闻综合频道,湖南藍山,藍山電視台,藍山融媒體,藍山融媒,藍山新聞,藍山新聞頻道,藍山綜合,藍山綜合頻道,藍山新聞綜合,藍山新聞綜合頻道",
+  "logo":"湖南蓝山"
+},
+{"name":"湖南衡阳,衡阳电视台,衡阳融媒体,衡阳融媒,衡阳新闻,衡阳新闻频道,衡阳综合,衡阳综合频道,衡阳新闻综合,衡阳新闻综合频道,湖南衡陽,衡陽電視台,衡陽融媒體,衡陽融媒,衡陽新聞,衡陽新聞頻道,衡陽綜合,衡陽綜合頻道,衡陽新聞綜合,衡陽新聞綜合頻道",
+  "logo":"湖南衡阳"
+},
+{"name":"湖南衡阳县台,湖南衡阳县,衡阳县电视台,衡阳县融媒体,衡阳县融媒,衡阳县新闻,衡阳县新闻频道,衡阳县综合,衡阳县综合频道,衡阳县新闻综合,衡阳县新闻综合频道,湖南衡陽縣台,湖南衡陽縣,衡陽縣電視台,衡陽縣融媒體,衡陽縣融媒,衡陽縣新聞,衡陽縣新聞頻道,衡陽縣綜合,衡陽縣綜合頻道,衡陽縣新聞綜合,衡陽縣新聞綜合頻道",
+  "logo":"湖南衡阳县台"
+},
+{"name":"湖南道县,道县电视台,道县融媒体,道县融媒,道县新闻,道县新闻频道,道县综合,道县综合频道,道县新闻综合,道县新闻综合频道,湖南道縣,道縣電視台,道縣融媒體,道縣融媒,道縣新聞,道縣新聞頻道,道縣綜合,道縣綜合頻道,道縣新聞綜合,道縣新聞綜合頻道",
+  "logo":"湖南道县"
+},
+{"name":"湖南邵阳,邵阳电视台,邵阳融媒体,邵阳融媒,邵阳新闻,邵阳新闻频道,邵阳综合,邵阳综合频道,邵阳新闻综合,邵阳新闻综合频道,湖南邵陽,邵陽電視台,邵陽融媒體,邵陽融媒,邵陽新聞,邵陽新聞頻道,邵陽綜合,邵陽綜合頻道,邵陽新聞綜合,邵陽新聞綜合頻道",
+  "logo":"湖南邵阳"
+},
+{"name":"湖南郴州,郴州电视台,郴州融媒体,郴州融媒,郴州新闻,郴州新闻频道,郴州综合,郴州综合频道,郴州新闻综合,郴州新闻综合频道,湖南郴州,郴州電視台,郴州融媒體,郴州融媒,郴州新聞,郴州新聞頻道,郴州綜合,郴州綜合頻道,郴州新聞綜合,郴州新聞綜合頻道",
+  "logo":"湖南郴州"
+},
+{"name":"湖南麻阳,麻阳电视台,麻阳融媒体,麻阳融媒,麻阳新闻,麻阳新闻频道,麻阳综合,麻阳综合频道,麻阳新闻综合,麻阳新闻综合频道,湖南麻陽,麻陽電視台,麻陽融媒體,麻陽融媒,麻陽新聞,麻陽新聞頻道,麻陽綜合,麻陽綜合頻道,麻陽新聞綜合,麻陽新聞綜合頻道",
+  "logo":"湖南麻阳"
+}
+  ]
+}

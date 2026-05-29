@@ -1,0 +1,3 @@
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+
+http://31.57.108.245:8080/SmotrimIPTV736.m3u
