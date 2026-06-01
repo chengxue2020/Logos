@@ -104,6 +104,12 @@ https://live.gstv.com.cn/live/456r6be.m3u8
 https://live.gstv.com.cn/live/8lr1gvm.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃公共应急频道.png",甘肃公共应急频道
 https://live.gstv.com.cn/live/c6gljof.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃新闻综合广播FM96.png",甘肃新闻综合广播FM96.0
+https://live.gstv.com.cn/live/yi22rbb.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃交通广播FM103.5.jpeg",甘肃交通广播FM103.5
+https://live.gstv.com.cn/live/jvd00wc.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃农村广播FM92.2乡村之音.jpeg",甘肃农村广播FM92.2乡村之音
+https://live.gstv.com.cn/live/lpe9j17.m3u8
 
 
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北秦皇岛金梦海湾
