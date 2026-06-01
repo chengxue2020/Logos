@@ -88,8 +88,22 @@ https://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
 https://lzlive.vojs.cn/rWjyus9/92/live.m3u8
 #EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏健康广播FM100.5 AM846.jpg",江苏健康广播FM100.5/AM846
 https://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏财经广播FM95.2 AM585",江苏财经广播FM95.2/AM585
+#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏财经广播FM95.2 AM585.png",江苏财经广播FM95.2/AM585
 https://lzlive.vojs.cn/caijing/92/live.m3u8
+
+
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃卫视.png",甘肃卫视
+https://live.gstv.com.cn/live/oxfhvoy.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃文化影视频道.png",甘肃文化影视频道
+https://live.gstv.com.cn/live/lg2va3a.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃移动频道.png",甘肃移动频道
+https://live.gstv.com.cn/live/j6od116.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃少儿频道.png",甘肃少儿频道
+https://live.gstv.com.cn/live/456r6be.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃科教频道.png",甘肃科教频道
+https://live.gstv.com.cn/live/8lr1gvm.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃公共应急频道.png",甘肃公共应急频道
+https://live.gstv.com.cn/live/c6gljof.m3u8
 
 
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北秦皇岛金梦海湾
