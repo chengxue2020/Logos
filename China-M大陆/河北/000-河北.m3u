@@ -14,8 +14,12 @@ https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8
 #EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/河北三佳购物频道.png",河北三佳购物
 https://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8
-#EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/石家庄新闻综合频道.png",石家庄新闻综合频道
+#EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/石家庄-1新闻综合频道.png",石家庄新闻综合频道
 https://live.sjzntv.cn/rftlive/809631088acd4294b547de1b96bb0001/809631088acd4294b547de1b96bb0001.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/石家庄-2城市服务频道.png",石家庄城市服务频道
+https://live.sjzntv.cn/rftlive/0060c91216b1474aaefacdf48dac0d17/0060c91216b1474aaefacdf48dac0d17.m3u8
+#EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/石家庄-3文化娱乐频道.png",石家庄文化娱乐频道
+https://live.sjzntv.cn/rftlive/849ad206f7744df093416f1f546d370a/849ad206f7744df093416f1f546d370a.m3u8
 #EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/沧州任丘-1新闻综合频道.png",任丘新闻综合频道
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北综合广播FM104.3.png",河北综合广播FM104.3
@@ -90,6 +94,29 @@ https://lzlive.vojs.cn/rWjyus9/92/live.m3u8
 https://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
 #EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏财经广播FM95.2 AM585.png",江苏财经广播FM95.2/AM585
 https://lzlive.vojs.cn/caijing/92/live.m3u8
+
+
+#EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广东/深圳交通广播FM106.2 快乐1062.jpg",深圳交通广播FM106.2 快乐1062
+https://livepull-tcyzb.sztv.com.cn/live/1062video.m3u8
+#EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广东/深圳音乐广播FM97.1 飞扬971.png",深圳音乐广播FM97.1 飞扬971
+https://livepull-tcyzb.sztv.com.cn/live/971video.m3u8
+#EXTINF:-1 group-title="广东"  tvg-logo="",深圳第一现场-深圳风景
+https://livepull-tcyzb.sztv.com.cn/live/YSZ_regularlive.m3u8
+
+
+广西综合广播 FM91.0/AM792
+https://stream.bbrtv.com:10443/hls/sIoyCf1Gg/sIoyCf1Gg_live.m3u8
+广西经济广播 FM97.0/AM1224
+https://stream.bbrtv.com:10443/hls/wrr24LJGR/wrr24LJGR_live.m3u8
+广西教育广播 FM93.0
+https://stream.bbrtv.com:10443/hls/I7LJVL1Gg/I7LJVL1Gg_live.m3u8
+广西文艺广播 FM95.0
+https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8
+广西交通广播 FM100.3
+https://stream.bbrtv.com:10443/hls/scGbVLJGR/scGbVLJGR_live.m3u8
+广西北部湾之声 FM96.4/SW5050
+https://stream.bbrtv.com:10443/
+
 
 
 #EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃卫视.png",甘肃卫视
