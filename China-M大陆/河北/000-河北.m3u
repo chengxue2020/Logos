@@ -105,6 +105,16 @@ https://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
 https://lzlive.vojs.cn/caijing/92/live.m3u8
 
 
+#EXTINF:-1 group-title="福建" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/福建/厦门综合广播FM99.6 AM1170-.png",厦门综合广播 FM99.6/AM1107
+https://live1b.kxm.xmtv.cn/aac_zhgbbf_1b/sd/live.m3u8
+#EXTINF:-1 group-title="福建" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/福建/厦门交通旅游广播FM107 AM1278.png",厦门交通旅游广播 FM107.0/AM1278
+https://live1b.kxm.xmtv.cn/aac_xmjjjtbf_1b/sd/live.m3u8
+#EXTINF:-1 group-title="福建" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/福建/厦门音乐广播FM90.9.png",厦门音乐广播 FM90.9
+https://live1b.kxm.xmtv.cn/aac_xmyybf_1b/sd/live.m3u8
+#EXTINF:-1 group-title="福建" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/福建/厦门闽南之声广播 FM101.2 AM801.png",厦门闽南之声 FM101.2/AM801
+https://live1b.kxm.xmtv.cn/aac_mnzsbf_1b/sd/live.m3u8
+
+
 #EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广东/深圳交通广播FM106.2 快乐1062.jpg",深圳交通广播FM106.2 快乐1062
 https://livepull-tcyzb.sztv.com.cn/live/1062video.m3u8
 #EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广东/深圳音乐广播FM97.1 飞扬971.png",深圳音乐广播FM97.1 飞扬971
