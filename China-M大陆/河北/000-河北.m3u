@@ -167,6 +167,19 @@ https://live.gstv.com.cn/live/lpe9j17.m3u8
 https://hls.gstv.com.cn/9hvng2/q7q84k.m3u8
 
 
+
+
+#EXTINF:-1 group-title="西藏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/西藏/拉萨-1汉语综合频道.png",拉萨汉语综合频道
+https://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
+#EXTINF:-1 group-title="西藏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/西藏/拉萨-2藏语综合频道.jpg",拉萨藏语综合频道
+https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
+#EXTINF:-1 group-title="西藏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/西藏/拉萨-3文化旅游频道.jpg",拉萨-3文化旅游频道
+https://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
+#EXTINF:-1 group-title="西藏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/西藏/拉萨综合广播FM91.4.png",拉萨综合广播FM91.4
+https://tvfile.lasatv.cn/nmip-media/audiolive/audio102594/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北秦皇岛金梦海湾
 https://gctxyhwc.liveplay.myqcloud.com/gc/zjwzblt_1/index.m3u8
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北张家口延崇高速公路
