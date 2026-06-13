@@ -558,9 +558,9 @@ https://play1-qk.nmtv.cn/2312general.m3u8
 
 
 
-#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/金/CGTN.png",CGTN
+#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN.png",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
-#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/金/CGTN-英文纪录.png",CGTN 英文记录
+#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN-英文纪录.png",CGTN 英文记录
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN-GlobalBiz.png",CGTN Global Business（环球财经）
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
@@ -568,6 +568,14 @@ https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN-Discovery China.png",CGTN Discovering China（发现中国）
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="CGTN" tvg-logo="",CGTN Radio
+https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 group-title="CGTN" tvg-logo="",CGTN English Radio
+https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
+#EXTINF:-1 group-title="CGTN" tvg-logo="",CGTN Documentary Radio
+https://english-livetx.cgtn.com/hls/yypdjlctzb_sd.m3u8
+#EXTINF:-1 group-title="CGTN" tvg-logo="",CGTN Radio Francis
+https://sk.cri.cn/frenchafrica.m3u8
 
 
 
