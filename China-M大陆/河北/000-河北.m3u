@@ -22,26 +22,26 @@ https://live.sjzntv.cn/rftlive/0060c91216b1474aaefacdf48dac0d17/0060c91216b1474a
 https://live.sjzntv.cn/rftlive/849ad206f7744df093416f1f546d370a/849ad206f7744df093416f1f546d370a.m3u8
 #EXTINF:-1 group-title="河北电视" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/沧州任丘-1新闻综合频道.png",任丘新闻综合频道
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北综合广播FM104.3.png",河北综合广播FM104.3
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北综合广播FM90.7.png",河北综合广播FM104.3
 https://radio.pull.hebtv.com/live/hebzh.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北新闻广播FM104.3.jpg",河北新闻广播FM104.3
 https://radio.pull.hebtv.com/live/hebxw.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北音乐广播FM102.4.png",河北音乐广播FM102.4
-https://radio.pull.hebtv.com/live/hebyy.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北交通广播FM99.2.png",河北交通广播FM99.2
 https://radio.pull.hebtv.com/live/hebjt.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北汽车音乐广播FM102.9.png",河北汽车音乐广播FM102.9
-https://radio.pull.hebtv.com/live/hebqcyy.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北文艺广播FM90.7.png",河北文艺广播FM90.7
-https://radio.pull.hebtv.com/live/hebwy.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北经济广播FM107.9.png",河北经济广播FM107.9
-https://radio.pull.hebtv.com/live/hebjj.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北生活广播FM89.png",河北生活广播FM89
 https://radio.pull.hebtv.com/live/hebshzx.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北农民广播FM98.1.png",河北农民广播FM98.1
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北音乐广播FM102.4.png",河北音乐广播FM102.4
+https://radio.pull.hebtv.com/live/hebyy.m3u8
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北三农广播FM98.1.png",河北三农广播FM98.1
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北旅游文化广播FM100.3.png",河北旅游文化广播FM100.3
 https://radio.pull.hebtv.com/live/hebly.m3u8
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北汽车音乐广播FM102.9.png",河北汽车音乐广播FM102.9
+https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北文艺广播FM90.7(已停播).png",河北文艺广播FM90.7(已停播).png
+https://radio.pull.hebtv.com/live/hebwy.m3u8
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北经济广播FM107.9.png",河北经济广播FM107.9
+https://radio.pull.hebtv.com/live/hebjj.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北旅游文化广播FM100.3.png",河北旅游文化广播FM100.3
 http://ls.qingting.fm/live/1651/24k.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北故事广播FM107.9.png",河北故事广播FM107.9
