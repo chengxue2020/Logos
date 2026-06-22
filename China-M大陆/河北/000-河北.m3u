@@ -83,26 +83,47 @@ https://tytv-hls.sxtygdy.com/g4XtSCF/500/s30pgX0.m3u8
 https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 
 
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻广播FM93.7.jpg",江苏新闻广播FM93.7
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京新闻综合频道.png",南京新闻综合
+https://yunlive.nbs.cn/live/2024njnews/playlist.m3u8
+https://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京新闻综合频道.png",南京十八·生活
+https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京新闻综合频道.png",南京教育科技
+https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京新闻综合频道.png",南京文旅纪录
+https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻广播FM93.7.png",江苏新闻广播FM93.7
 https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻综合广播AM702.png",江苏新闻综合广播AM702
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻综合广播AM702.png",江苏新闻综合广播AM702
 https://lzlive.vojs.cn/rTyLc36/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏交通广播网FM101.1.png",江苏交通广播网FM101.1
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏交通广播网FM101.1.png",江苏交通广播网FM101.1
 https://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏金陵之声FM99.7",江苏金陵之声FM99.7
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏金陵之声FM99.7",江苏金陵之声FM99.7
 https://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏经典流行音乐台FM97.5.jpg",江苏经典流行音乐广播FM97.5
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏经典流行音乐台FM97.5.jpg",江苏经典流行音乐广播FM97.5
 https://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?audio
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏音乐广播FM89.7.png",江苏音乐广播FM89.7
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏音乐广播FM89.7.png",江苏音乐广播FM89.7
 https://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏文艺广播FM91.4 AM1053.jpg",江苏文艺广播FM91.4/AM1053
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏文艺广播FM91.4 AM1053.jpg",江苏文艺广播FM91.4 AM1053
 https://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏故事广播FM104.9 AM1206.png",江苏故事广播AM1206
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏故事广播FM104.9 AM1206.png",江苏故事广播AM1206
 https://lzlive.vojs.cn/rWjyus9/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏健康广播FM100.5 AM846.jpg",江苏健康广播FM100.5/AM846
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏健康广播FM100.5 AM846.jpg",江苏健康广播FM100.5 AM846
 https://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
-#EXTINF:-1 group-title="江苏广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏财经广播FM95.2 AM585.png",江苏财经广播FM95.2/AM585
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏财经广播FM95.2 AM585.png",江苏财经广播FM95.2 AM585
 https://lzlive.vojs.cn/caijing/92/live.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京新闻广播FM106.9 AM1008.png",南京新闻综合广播 FM106.9 AM1008
+http://hls.njgb.com/live_hls/fm1069/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京经济广播FM98.1.png",南京经济广播 FM98.1
+http://hls.njgb.com/live_hls/fm981/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京交通广播FM102.4.png",南京交通广播 FM102.4
+http://hls.njgb.com/live_hls/fm1024/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京体育广播FM104.3.png",南京体育广播 FM104.3
+http://hls.njgb.com/live_hls/fm1043/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京音乐广播FM105.8.png",南京音乐广播 FM105.8
+http://hls.njgb.com/live_hls/fm1058/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京音乐广播FM105.8.png",南京音乐广播 FM105.8(B)
+http://hls.njgb.com/live_hls/4/playlist.m3u8
 
 
 #EXTINF:-1 group-title="福建" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/福建/厦门综合广播FM99.6 AM1170-.png",厦门综合广播 FM99.6/AM1107
@@ -695,8 +716,6 @@ http://ls.qingting.fm/live/1260.m3u8
 http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
 #EXTINF:-1 group-title="音乐广播"  tvg-logo="https://radio.0472.org/?id=498&logo",深圳音乐频率
 https://radio.0472.org/?id=498
-#EXTINF:-1 group-title="音乐广播"  tvg-logo="http://live.cooltv.top/logo/njyygb.png",南京音乐广播
-http://hls.njgb.com/live_hls/4/playlist.m3u8
 #EXTINF:-1 group-title="音乐广播"  tvg-name="江苏音乐广播" tvg-logo="https://radio.0472.org/?id=415&logo",江苏音乐广播
 https://radio.0472.org/?id=415
 #EXTINF:-1 group-title="音乐广播"  tvg-name="重庆音乐广播" tvg-logo="https://radio.0472.org/?id=372&logo" ,重庆音乐广播
