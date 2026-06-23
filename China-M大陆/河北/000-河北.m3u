@@ -124,6 +124,12 @@ http://hls.njgb.com/live_hls/fm1043/playlist.m3u8
 http://hls.njgb.com/live_hls/fm1058/playlist.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京音乐广播FM105.8.png",南京音乐广播 FM105.8(B)
 http://hls.njgb.com/live_hls/4/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京六合区潮酷音乐广播FM103.5.png",南京潮酷音乐广播FM103.5
+http://hls.njgb.com/live_hls/fm1035/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京活力广播FM101.7.png",南京活力广播（江浦）UP! FM101.7
+http://hls.njgb.com/live_hls/fm1017/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京江宁区人民广播电台FM88.5.png",南京江宁广播 FM88.5
+https://lhttp.qingting.fm/live/20500075/64k.mp3
 
 
 #EXTINF:-1 group-title="福建" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/福建/厦门综合广播FM99.6 AM1170-.png",厦门综合广播 FM99.6/AM1107
