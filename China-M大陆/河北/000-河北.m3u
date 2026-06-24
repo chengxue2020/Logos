@@ -130,6 +130,20 @@ http://hls.njgb.com/live_hls/fm1035/playlist.m3u8
 http://hls.njgb.com/live_hls/fm1017/playlist.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京江宁区人民广播电台FM88.5.png",南京江宁广播 FM88.5
 https://lhttp.qingting.fm/live/20500075/64k.mp3
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江-1新闻综合频道.png",镇江新闻综合
+https://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江-2教育民生频道.png",镇江教育民生
+https://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江综合广播FM104.png",镇江综合广播 FM104
+https://zjtv-wshls.homecdn.com/live/64522.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江交通广播FM88.8.png",镇江交通广播 FM88.8
+https://zjtv-wshls.homecdn.com/live/6451e.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江文艺广播FM96.3.png",镇江文艺广播 FM96.3
+https://zjtv-wshls.homecdn.com/live/64524.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="福建" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/福建/厦门综合广播FM99.6 AM1170-.png",厦门综合广播 FM99.6/AM1107
