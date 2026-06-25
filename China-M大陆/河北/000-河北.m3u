@@ -140,9 +140,18 @@ https://zjtv-wshls.homecdn.com/live/64522.m3u8
 https://zjtv-wshls.homecdn.com/live/6451e.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江文艺广播FM96.3.png",镇江文艺广播 FM96.3
 https://zjtv-wshls.homecdn.com/live/64524.m3u8
-
-
-
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江丹阳新闻频道.png",镇江丹阳新闻频道
+http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江句容新闻综合频道.png",镇江句容综合频道
+http://jrlive.jrntv.com:80/live/jrxwzh/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江扬中综合频道.png",镇江扬中综合频道
+http://yangzhong-tv-replay.cm.jstv.com/yangzhong-tv/xwzh.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江丹阳新闻频道.png",镇江丹阳综合广播 FM97.9
+http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangfm.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江句容广播FM91.7.png",镇江句容广播 FM91.7
+http://jrlive.jrntv.com:80/live/jrgb/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江扬中广播FM94.5.png",镇江扬中广播FM94.5
+http://yangzhong-tv-replay.cm.jstv.com/yangzhong-tv/yzfm.m3u8
 
 
 
