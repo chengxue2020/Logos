@@ -112,6 +112,18 @@ https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京新闻综合频道.png",南京文旅纪录
 https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/苏州-1新闻综合频道.png",苏州-1新闻综合频道
+https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/苏州-2社会经济频道.png",苏州-2社会经济频道
+https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/苏州-3文化生活频道.png",苏州-3文化生活频道
+https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/苏州-4电影娱乐频道.png",苏州-4电影娱乐频道
+https://tylive.kan0512.com/norecord/norecord_csztv4.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/苏州-5生活资讯频道.png",苏州-5生活资讯频道
+https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/苏州4K频道.png",看苏州4K频道
+https://tylive.kan0512.com/norecord/csztv4k_fhd.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻广播FM93.7.png",江苏新闻广播FM93.7
 https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻综合广播AM702.png",江苏新闻综合广播AM702
