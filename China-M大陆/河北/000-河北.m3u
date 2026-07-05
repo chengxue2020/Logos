@@ -40,7 +40,7 @@ https://live.sjzntv.cn/rftlive/849ad206f7744df093416f1f546d370a/849ad206f7744df0
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北综合广播FM90.7.png",河北综合广播FM104.3
 https://radio.pull.hebtv.com/live/hebzh.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北新闻广播FM104.3.jpg",河北新闻广播FM104.3
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北新闻广播FM104.3.png",河北新闻广播FM104.3
 https://radio.pull.hebtv.com/live/hebxw.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北交通广播FM99.2.png",河北交通广播FM99.2
 https://radio.pull.hebtv.com/live/hebjt.m3u8
@@ -58,7 +58,7 @@ https://radio.pull.hebtv.com/live/hebqcyy.m3u8
 https://radio.pull.hebtv.com/live/hebwy.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北文艺广播FM90.7(已停播).png",河北文艺广播FM90.7(已停播)
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北经济广播FM107.9.png",河北经济广播FM107.9
+#EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北经济广播FM107.9(已停播).png",河北经济广播FM107.9
 https://radio.pull.hebtv.com/live/hebjj.m3u8
 #EXTINF:-1 group-title="河北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/河北/广播/河北旅游文化广播FM100.3.png",河北旅游文化广播FM100.3
 http://ls.qingting.fm/live/1651/24k.m3u8
@@ -130,7 +130,7 @@ https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
 https://lzlive.vojs.cn/rTyLc36/92/live.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏交通广播网FM101.1.png",江苏交通广播网FM101.1
 https://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏金陵之声FM99.7",江苏金陵之声FM99.7
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏金陵之声FM99.7.png",江苏金陵之声FM99.7
 https://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏经典流行音乐台FM97.5.jpg",江苏经典流行音乐广播FM97.5
 https://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?audio
@@ -228,17 +228,17 @@ https://livepull-tcyzb.sztv.com.cn/live/971video.m3u8
 https://livepull-tcyzb.sztv.com.cn/live/YSZ_regularlive.m3u8
 
 
-#EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西综合广播 FM91.0 AM792.png",广西综合广播 FM91.0 AM792
+#EXTINF:-1 group-title="广西"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西综合广播 FM91.0 AM792.png",广西综合广播 FM91.0 AM792
 https://stream.bbrtv.com:10443/hls/sIoyCf1Gg/sIoyCf1Gg_live.m3u8
-#EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西经济广播FM97.0 AM1224 女主播电台.png",广西经济广播 FM97.0 AM1224
+#EXTINF:-1 group-title="广西"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西经济广播FM97.0 AM1224 女主播电台.png",广西经济广播 FM97.0 AM1224
 https://stream.bbrtv.com:10443/hls/wrr24LJGR/wrr24LJGR_live.m3u8
-#EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西教育广播FM93.0(私家车930).png",广西教育广播 FM93.0
+#EXTINF:-1 group-title="广西"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西教育广播FM93.0(私家车930).png",广西教育广播 FM93.0
 https://stream.bbrtv.com:10443/hls/I7LJVL1Gg/I7LJVL1Gg_live.m3u8
-#EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西文艺广播FM95.0 音乐广播.png",广西文艺广播 FM95.0
+#EXTINF:-1 group-title="广西"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西文艺广播FM95.0 音乐广播.png",广西文艺广播 FM95.0
 https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8
-#EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西交通广播FM100.3.png",广西交通广播 FM100.3
+#EXTINF:-1 group-title="广西"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西交通广播FM100.3.png",广西交通广播 FM100.3
 https://stream.bbrtv.com:10443/hls/scGbVLJGR/scGbVLJGR_live.m3u8
-#EXTINF:-1 group-title="广东"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西北部湾之声FM96.4 SW5050.png",广西北部湾之声 FM96.4 SW5050
+#EXTINF:-1 group-title="广西"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/广西/广西北部湾之声FM96.4 SW5050.png",广西北部湾之声 FM96.4 SW5050
 https://stream.bbrtv.com:10443/
 
 
@@ -267,7 +267,7 @@ https://hls.gstv.com.cn/9hvng2/3l8548.m3u8
 #EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃交通广播FM103.5.jpeg",甘肃交通广播FM103.5
 https://live.gstv.com.cn/live/jvd00wc.m3u8
 https://hls.gstv.com.cn/9hvng2/189xap.m3u8
-#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃农村广播FM92.2乡村之音.jpeg",甘肃农村广播FM92.2乡村之音
+#EXTINF:-1 group-title="甘肃" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/甘肃/甘肃农村广播FM92.2乡村之音.png",甘肃农村广播FM92.2乡村之音
 https://live.gstv.com.cn/live/lpe9j17.m3u8
 https://hls.gstv.com.cn/9hvng2/q7q84k.m3u8
 
@@ -675,7 +675,7 @@ https://gcwbndcnchw.v.cdn20.com/gcwbnd/xiongmao24_2/index.m3u8
 #EXTINF:-1 group-title="湖北广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/湖北/楚天音乐广播FM105.8(仅网络播出).png",湖北楚天音乐广播FM105.8
 https://lhttp.qingting.fm/live/1289/64k.mp3
 
-#EXTINF:-1 group-title="吉林广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/吉林/吉林音乐广播FM92.7.jpeg",吉林音乐广播FM92.7
+#EXTINF:-1 group-title="吉林广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/吉林/吉林音乐广播FM92.7.png",吉林音乐广播FM92.7
 https://live-jlr.jlntv.cn/live/fm927/fm927.aac
 
 
@@ -768,13 +768,13 @@ https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN-Discovery China.png",CGTN Discovering China（发现中国）
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN.png",CGTN Radio AM846
+#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN English Radio.png",CGTN Radio AM846
 https://sk.cri.cn/am846.m3u8
-#EXTINF:-1 group-title="CGTN" tvg-logo="",CGTN English Radio
+#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN English Radio.png",CGTN English Radio
 https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
-#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN-英文纪录.png",CGTN Documentary Radio
+#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN English Radio.png",CGTN Documentary Radio
 https://english-livetx.cgtn.com/hls/yypdjlctzb_sd.m3u8
-#EXTINF:-1 group-title="CGTN" tvg-logo="",CGTN Radio Francis
+#EXTINF:-1 group-title="CGTN" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CGTN/CGTN Francis Radio.png",CGTN Radio Francis
 https://sk.cri.cn/frenchafrica.m3u8
 
 
@@ -827,13 +827,13 @@ https://radio.0472.org/?id=649
 https://radio.0472.org/?id=654
 #EXTINF:-1 group-title="CNR广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CRJ/CRJ-环球资讯广播.png",CNR环球资讯
 https://radio.0472.org/?id=692
-#EXTINF:-1 group-title="CRI广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CNR央广/CRI国际广播/CRI-南海之声.png" CRI南海之声
+#EXTINF:-1 group-title="CRI广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CRI国际广播/CRI-南海之声.png" CRI南海之声
 https://radio.0472.org/?id=664
-#EXTINF:-1 group-title="CRI广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CNR央广/CRI国际广播/CRI-华语环球广播.jpg",CRI-华语环球
+#EXTINF:-1 group-title="CRI广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CRI国际广播/CRI-华语环球广播.jpg",CRI-华语环球
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 group-title="CRI广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CNR央广/CRI国际广播/CRI-环球资讯广播.jpg",CRI-环球资讯
+#EXTINF:-1 group-title="CRI广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CRI国际广播/CRI-环球资讯广播.jpg",CRI-环球资讯
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1 group-title="CRI广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CNR央广/CRI国际广播/CRI-南海之声.png",CRI-南海之声
+#EXTINF:-1 group-title="CRI广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/CRI国际广播/CRI-南海之声.png",CRI-南海之声
 https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 group-title="CRI广播" tvg-logo="",CRI-英语资讯
 http://sk.cri.cn/am846.m3u8
