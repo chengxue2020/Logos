@@ -124,6 +124,33 @@ https://tylive.kan0512.com/norecord/norecord_csztv4.m3u8
 https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/苏州4K频道.png",看苏州4K频道
 https://tylive.kan0512.com/norecord/csztv4k_fhd.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江-1新闻综合频道.png",镇江新闻综合
+https://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江-2教育民生频道.png",镇江教育民生
+https://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江丹阳新闻频道.png",镇江丹阳新闻频道
+http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江句容新闻综合频道.png",镇江句容综合频道
+http://jrlive.jrntv.com:80/live/jrxwzh/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江扬中综合频道.png",镇江扬中综合频道
+http://yangzhong-tv-replay.cm.jstv.com/yangzhong-tv/xwzh.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡新闻综合频道.png",无锡新闻综合频道
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡娱乐频道.png",无锡娱乐频道
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡都市资讯频道.png",无锡都市资讯频道
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡生活频道.png",无锡生活频道
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡经济频道.png",无锡经济频道
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/泰州-1新闻综合频道.png",泰州新闻综合频道
+http://stream1.mytaizhou.net/xwzhnew/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/泰州-2教育频道.png",泰州教育频道
+http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/泰州-3公共频道.png",泰州公共频道
+http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
+
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻广播FM93.7.png",江苏新闻广播FM93.7
 https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻综合广播AM702.png",江苏新闻综合广播AM702
@@ -162,38 +189,24 @@ http://hls.njgb.com/live_hls/fm1035/playlist.m3u8
 http://hls.njgb.com/live_hls/fm1017/playlist.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京江宁区人民广播电台FM88.5.png",南京江宁广播 FM88.5
 https://lhttp.qingting.fm/live/20500075/64k.mp3
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江-1新闻综合频道.png",镇江新闻综合
-https://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江-2教育民生频道.png",镇江教育民生
-https://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江综合广播FM104.png",镇江综合广播 FM104
 https://zjtv-wshls.homecdn.com/live/64522.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江交通广播FM88.8.png",镇江交通广播 FM88.8
 https://zjtv-wshls.homecdn.com/live/6451e.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江文艺广播FM96.3.png",镇江文艺广播 FM96.3
 https://zjtv-wshls.homecdn.com/live/64524.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江丹阳新闻频道.png",镇江丹阳新闻频道
-http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江句容新闻综合频道.png",镇江句容综合频道
-http://jrlive.jrntv.com:80/live/jrxwzh/playlist.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江扬中综合频道.png",镇江扬中综合频道
-http://yangzhong-tv-replay.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江丹阳新闻频道.png",镇江丹阳综合广播 FM97.9
 http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangfm.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江句容广播FM91.7.png",镇江句容广播 FM91.7
 http://jrlive.jrntv.com:80/live/jrgb/playlist.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/镇江扬中广播FM94.5.png",镇江扬中广播FM94.5
 http://yangzhong-tv-replay.cm.jstv.com/yangzhong-tv/yzfm.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡新闻综合频道.png",无锡新闻综合频道
-http://stream.thmz.com/wxtv1/playlist.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡娱乐频道.png",无锡娱乐频道
-http://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡都市资讯频道.png",无锡都市资讯频道
-http://stream.thmz.com/wxtv3/playlist.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡生活频道.png",无锡生活频道
-http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡经济频道.png",无锡经济频道
-http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/泰州新闻综合广播FM103.7.png",泰州新闻综合广播 FM103.7
+http://stream2.mytaizhou.net/fm1/sd/live.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/泰州文艺广播FM97.3.png",泰州文艺广播 FM97.3
+http://stream2.mytaizhou.net/fm2/sd/live.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/泰州交通广播FM91.1.png",泰州交通广播 FM91.1
+http://stream2.mytaizhou.net/fm3/sd/live.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡新闻综合广播AM1161.png",无锡新闻综合广播 AM161
 http://stream.thmz.com/am1161/sd/live.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡新闻广播FM93.7.png",无锡新闻广播 FM93.7
@@ -303,10 +316,8 @@ https://dh5.cntv.cdn20.com/asp/h5e/hls/2000/0303000a/3/default/5541bc58e5594819b
 https://gctxyhwc.liveplay.myqcloud.com/gc/hkts03_1/index.m3u8
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北承德塞罕坝自然保护区-视角1
 https://gctxyhwc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北承德塞罕坝自然保护区-视角2(A)
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北承德塞罕坝自然保护区-视角2
 https://gctxyhwc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北承德塞罕坝自然保护区-视角2(B)
-https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北邯郸京娘湖-视角1
 https://gctxyhwc.liveplay.myqcloud.com/gc/zjjsrsm_1/index.m3u8
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河北邯郸京娘湖-视角2
