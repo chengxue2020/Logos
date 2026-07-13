@@ -480,8 +480,6 @@ https://dh5.cntv.cdn20.com/asp/h5e/hls/2000/0303000a/3/default/10c9fcb950904b61a
 https://dh5.cntv.cdn20.com/asp/h5e/hls/2000/0303000a/3/default/d0bc964cc9204df8bb58c21d4e43d732/2000.m3u8
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",山东济宁尼山圣境
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",山东青岛胶州洋河镇艾山天文台
-https://gctxyhwc.liveplay.myqcloud.com/gc/jhs01_1/index.m3u8
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河南信阳浉河港镇文新茶村
 https://gctxyhwc.liveplay.myqcloud.com/gc/xjtcdgs_1/index.m3u8
 #EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",河南鲁山县画眉谷景区
@@ -645,9 +643,8 @@ https://gctxyhwc.liveplay.myqcloud.com/gc/hkylxs04_1/index.m3u8
 https://gctxyhwc.liveplay.myqcloud.com/gc/hnttlhzjd_1/index.m3u8
 #EXTINF:-1 group-title="逐星计划" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",车八岭国家级自然保护区
 https://gctxyhwc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
-#EXTINF:-1 group-title="逐星计划" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",山东青岛艾山天文台
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/数字-网络/直播中国.png",山东青岛胶州洋河镇艾山天文台
 https://gctxyhwc.liveplay.myqcloud.com/gc/jhs01_1/index.m3u8
-
 
 
 #EXTINF:-1 group-title="iPanda" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/四川/ipanda-熊猫频道.png",24小时高清
