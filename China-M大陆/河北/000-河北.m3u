@@ -150,6 +150,13 @@ http://stream1.mytaizhou.net/xwzhnew/playlist.m3u8
 http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/泰州-3公共频道.png",泰州公共频道
 http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/徐州-1新闻综合频道.png",徐州-1新闻综合频道
+https://pull.nicewifi.cn/live/xztv01.flv
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/徐州-2经济生活频道.png",徐州-2经济生活频道
+https://pull.nicewifi.cn/live/xztv02.flv
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/徐州-3影视文旅频道.png",徐州-3影视文旅频道
+https://pull.nicewifi.cn/live/xztv03.flv
+
 
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏新闻广播FM93.7.png",江苏新闻广播FM93.7
 https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
@@ -221,6 +228,21 @@ http://stream.thmz.com/fm1069/sd/live.m3u8
 http://stream.thmz.com/fm926/sd/live.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/无锡都市生活广播FM88.1 城市之声(已停播).png",无锡都市生活广播 FM88.1
 http://stream.thmz.com/fm987/sd/live.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏文艺广播FM91.4 AM1053.jpg",江苏文艺广播 FM91.4 AM1053
+http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏故事广播FM104.9 AM1206.png",江苏故事广播 FM104.9 AM1206
+http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏音乐广播FM89.7.png",江苏音乐广播 FM89.7
+https://radio.0472.org/?id=415
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/徐州新闻综合广播FM93.0 AM1269.png",徐州新闻综合广播 FM93.0 AM1269
+https://pull.nicewifi.cn/live/1630867595459514368.flv
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/徐州交通广播FM103.3.png.png",徐州交通广播 FM103.3.png
+https://pull.nicewifi.cn/live/1630867762166321152.flv
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/徐州音乐广播FM91.9.png",徐州音乐广播 FM91.9
+https://pull.nicewifi.cn/live/1630867907255685120.flv
+#EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/徐州农村广播FM105.0.png",徐州农村广播 FM105.0
+https://pull.nicewifi.cn/live/1630868067931082752.flv
+
 
 
 #EXTINF:-1 group-title="福建" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/福建/厦门综合广播FM99.6 AM1170-.png",厦门综合广播 FM99.6/AM1107
@@ -873,12 +895,6 @@ http://live.cooltv.top/tv/news1296.php?id=10
 https://radio.0472.org/?id=1314
 #EXTINF:-1 group-title="综合广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山西/山西文艺广播FM101.5.png",山西文艺广播 FM101.5
 http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
-#EXTINF:-1 group-title="综合广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏文艺广播FM91.4 AM1053.jpg",江苏文艺广播 FM91.4 AM1053
-http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-#EXTINF:-1 group-title="综合广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏故事广播FM104.9 AM1206.png",江苏故事广播 FM104.9 AM1206
-http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/江苏音乐广播FM89.7.png",江苏音乐广播 FM89.7
-https://radio.0472.org/?id=415
 #EXTINF:-1 group-title="音乐广播"  tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/陕西/陕西音乐广播FM988.jpg" ,陕西音乐广播 FM988
 https://radio.0472.org/?id=561
 #EXTINF:-1 group-title="综合广播" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/陕西/陕西故事广播FM87.8年代878.jpg",陕西故事广播 FM87.8
