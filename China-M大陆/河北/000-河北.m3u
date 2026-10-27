@@ -97,11 +97,20 @@ http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 https://livehhhttps.sxrtv.com/lsdream/lce1mC4/z2tlge0.m3u8
 #EXTINF:-1 group-title="山西" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山西/太原教育电视台.jpg",太原教育电视台
 https://tytv-hls.sxtygdy.com/g4XtSCF/500/s30pgX0.m3u8
-
-
 #EXTINF:-1 group-title="山西" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/每经AI电视.jpg",每经AI电视
 https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 
+
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/聊城综合频道.png",聊城综合频道
+https://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/聊城民生频道.png",聊城民生频道
+https://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/聊城综合广播FM96.8.png",聊城综合广播 FM96.8
+https://live.lcxw.cn/live/zhpl.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/聊城交通广播FM99.4 MW1557.png",聊城交通广播 FM99.4
+https://live.lcxw.cn/live/jtpl.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/聊城经济广播FM92.4.png",聊城经济广播 FM92.4
+https://live.lcxw.cn/live/jjpl.m3u8
 
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京新闻综合频道.png",南京新闻综合
 https://yunlive.nbs.cn/live/2024njnews/playlist.m3u8
