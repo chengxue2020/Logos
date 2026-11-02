@@ -111,6 +111,19 @@ https://live.lcxw.cn/live/zhpl.m3u8
 https://live.lcxw.cn/live/jtpl.m3u8
 #EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/聊城经济广播FM92.4.png",聊城经济广播 FM92.4
 https://live.lcxw.cn/live/jjpl.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/菏泽-1菏泽综合频道.png"菏泽综合频道
+http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/菏泽-2菏泽生活频道.png"菏泽生活频道
+http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/菏泽新闻广播FM87.5.png"菏泽新闻广播 FM87.5
+http://live.hznet.tv:1935/live/live875/32k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/菏泽交通广播FM94.8.png"菏泽交通广播 FM94.8
+http://live.hznet.tv:1935/live/live948/32k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/山东/菏泽音乐广播FM91.8(已撤销备案).png"菏泽音乐广播 FM91.8
+http://live.hznet.tv:1935/live/live918/32k/tzwj_video.m3u8
+
+
+
 
 #EXTINF:-1 group-title="江苏" tvg-logo="https://chengxue2020.github.io/Logos/China-M大陆/江苏/南京新闻综合频道.png",南京新闻综合
 https://yunlive.nbs.cn/live/2024njnews/playlist.m3u8
